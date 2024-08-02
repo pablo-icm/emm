@@ -3,6 +3,11 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
 main:
   - name: Home
     url: tour
@@ -28,6 +33,7 @@ main:
   - name: Staff scientists
     parent: people
     identifier: staff
+    url: people/staff
     weight: 1
   - name: Postdoctoral scientists
     parent: people
@@ -49,63 +55,6 @@ main:
     parent: people
     url: people/alumni
     weight: 6
-## Menu items for staff scientists
-  - name: Silvia G. Acinas
-    parent: staff
-    url: people/staff/acinas
-    weight: 1
-  - name: Andrea G. Bravo
-    parent: staff
-    url: people/staff/bravo
-    weight: 2
-  - name: Francesco Colizzi
-    parent: staff
-    url: people/staff/colizzi
-    weight: 3
-  - name: Fran Cornejo-Castillo
-    parent: staff
-    url: people/staff/cornejo
-    weight: 4
-  - name: Josep M. Gasol
-    parent: staff
-    url: people/staff/gasol
-    weight: 5
-  - name: Felipe Hernandes Coutinho
-    parent: staff
-    url: people/staff/hernandes
-    weight: 6
-  - name: Ramiro Logares
-    parent: staff
-    url: people/staff/logares
-    weight: 7
-  - name: Ramon Massana
-    parent: staff
-    url: people/staff/massana
-    weight: 8
-  - name: Viena Puigcorbé
-    parent: staff
-    url: people/staff/puigcorbe
-    weight: 9
-  - name: Clara Ruiz-González
-    parent: staff
-    url: people/staff/ruiz
-    weight: 10
-  - name: Maria Montserrat Sala
-    parent: staff
-    url: people/staff/sala
-    weight: 11
-  - name: Marta Sebastián
-    parent: staff
-    url: people/staff/sebastian
-    weight: 12
-  - name: Pablo Sánchez
-    parent: staff
-    url: people/staff/sanchez
-    weight: 13
-  - name: Dolors Vaqué
-    parent: staff
-    url: people/staff/vaque
-    weight: 14
 # Research
   - name: Research lines
     parent: research
@@ -120,3 +69,4 @@ main:
     url: research/thesis
     
     weight: 3
+
