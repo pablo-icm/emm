@@ -39,7 +39,7 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: true
+    highlight_active_link: false
 
 # Site footer
 
