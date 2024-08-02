@@ -4,21 +4,48 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
+  - name: Home
     url: tour
     weight: 10
-  - name: News
-    url: post
+  - name: Group members
+    identifier: people
     weight: 20
-  - name: People
-    url: people
+  - name: Research
+    identifier: research
     weight: 30
-  - name: Events
-    url: event
-    weight: 40
   - name: Publications
     url: publication
-    weight: 50
-  - name: Contact
-    url: contact
-    weight: 60
+    weight: 40
+#  - name: Events
+#    url: event
+#    weight: 40
+#  - name: Contact
+#    url: contact
+#    weight: 60
+
+# Nested menus
+# Group members
+  - name: Staff scientists
+    parent: people
+    identifier: staff
+    weight: 1
+  - name: Postdoctoral scientists
+    parent: people
+    identifier: postdocs
+    weight: 2
+  - name: Predoctoral scientists
+    parent: people
+    identifier: predocs
+    weight: 3
+  - name: Technicians
+    parent: people
+    identifier: tech
+    weight: 4
+  - name: Close collaborators
+    parent: people
+    identifier: colabos
+    weight: 5
+  - name: Former staff
+    parent: people
+    identifier: alumni
+    weight: 6
