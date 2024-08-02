@@ -31,21 +31,92 @@ main:
     weight: 1
   - name: Postdoctoral scientists
     parent: people
-    identifier: postdocs
+    url: people/postdocs
     weight: 2
   - name: Predoctoral scientists
     parent: people
-    identifier: predocs
+    url: people/predocs
     weight: 3
   - name: Technicians
     parent: people
-    identifier: tech
+    url: people/tech
     weight: 4
   - name: Close collaborators
     parent: people
-    identifier: colabos
+    url: people/colabos
     weight: 5
   - name: Former staff
     parent: people
-    identifier: alumni
+    url: people/alumni
     weight: 6
+## Menu items for staff scientists
+  - name: Silvia G. Acinas
+    parent: staff
+    url: people/staff/acinas
+    weight: 1
+  - name: Andrea G. Bravo
+    parent: staff
+    url: people/staff/bravo
+    weight: 2
+  - name: Francesco Colizzi
+    parent: staff
+    url: people/staff/colizzi
+    weight: 3
+  - name: Fran Cornejo-Castillo
+    parent: staff
+    url: people/staff/cornejo
+    weight: 4
+  - name: Josep M. Gasol
+    parent: staff
+    url: people/staff/gasol
+    weight: 5
+  - name: Felipe Hernandes Coutinho
+    parent: staff
+    url: people/staff/hernandes
+    weight: 6
+  - name: Ramiro Logares
+    parent: staff
+    url: people/staff/logares
+    weight: 7
+  - name: Ramon Massana
+    parent: staff
+    url: people/staff/massana
+    weight: 8
+  - name: Viena Puigcorbé
+    parent: staff
+    url: people/staff/puigcorbe
+    weight: 9
+  - name: Clara Ruiz-González
+    parent: staff
+    url: people/staff/ruiz
+    weight: 10
+  - name: Maria Montserrat Sala
+    parent: staff
+    url: people/staff/sala
+    weight: 11
+  - name: Marta Sebastián
+    parent: staff
+    url: people/staff/sebastian
+    weight: 12
+  - name: Pablo Sánchez
+    parent: staff
+    url: people/staff/sanchez
+    weight: 13
+  - name: Dolors Vaqué
+    parent: staff
+    url: people/staff/vaque
+    weight: 14
+# Research
+  - name: Research lines
+    parent: research
+    url: research/lines
+    weight: 1
+  - name: Funded projectes
+    parent: research
+    url: research/projects
+    weight: 2
+  - name: PhD thesis
+    parent: research
+    url: research/thesis
+    
+    weight: 3
