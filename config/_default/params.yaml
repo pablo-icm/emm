@@ -52,6 +52,42 @@ footer:
       share_alike: true
       allow_commercial: false
 
+# Contact (edit or remove options as required)
+#email: mail@icm.csic.es
+phone: +34 93 230 95 00
+address:
+  street: Passeig Marítim de la Barceloneta 37-49
+  city: Barcelona
+  region: Catalonia, Spain
+  postcode: '08003'
+  country: Spain
+  country_code: ES
+coordinates:
+  latitude: '41.38529870028162'
+  longitude: '2.1963520523517723'
+directions: The (sometimes) beautiful Somorrostro beach
+#office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
+#appointment_url: 'https://calendly.com'
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: Twitter
+    link: 'https://twitter.com/EMM_Barcelona'
+  #- icon: skype
+  #  icon_pack: fab
+  #  name: Skype Me
+  #  link: 'skype:skype_id;'
+  #- icon: keybase
+  #  icon_pack: fab
+  #  name: Chat on Keybase
+  #  link: 'https://keybase.io/'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
+
 # Localization
 
 locale:
