@@ -45,28 +45,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:example@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:pablosanchez@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/your_twitter_handle
+  link: https://twitter.com/el_pableras
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/your_scholar_profile
+  link: https://scholar.google.es/citations?hl=es&pli=1&user=T86iT48AAAAJ
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/your_orcid_id
+  link: https://orcid.org/0000-0003-2787-822X
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Your_researchgate_profile
+  link: hhttps://orcid.org/0000-0003-2787-822X
 - icon: github
   icon_pack: fab
-  link: https://github.com/your_github
+  link: https://gitlab.com/users/pablo.sanchez/projects
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/your_insta
+  link: https://www.instagram.com/el_pableras
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/your_linkedin/
+  link: https://www.linkedin.com/in/pablosanchezfernandez/
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -83,5 +83,5 @@ email: ""
 user_groups:
 - 'Staff scientists'
 ---
-Description of your research. Add here everything... blabalblbablablablablablab
+I am a bioinformatician and the system administrator of [MARBITS](https://marbits.icm.csic.es/), the marine bioinformatics HPC cluster at the ICM. I studied biology at the University of Barcelona and I finished my PhD at the Technical University of Catalonia (UPC) in 2012, working on fish aquaculture and population genetics. At the same time, I was assistant lecturer at UPC and at the University of Girona (UdG), teaching bioinformatics and genetics among other subjects. In 2013, I joined the Department of Marine Biology and Oceanography as a post-doc, working mainly with metagenomics data from the Malaspina Expedition. My research interests are exploring the taxonomic and functional diversity of marine microbial communities through environmental genomics and transcriptomics, as well as the analysis and reconstruction of Metagenome Assembled Genomes (MAGs) and Single Amplified Genomes (SAGs) from marine ecosystems.
 
