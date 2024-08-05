@@ -10,13 +10,14 @@
 
 main:
   - name: Home
-    url: tour
+    url: '#splash1'
     weight: 10
-  - name: Group members
-    identifier: people
+  - name: 'Group members'
+    url: '#people'
     weight: 20
   - name: Research
     identifier: research
+    url: research
     weight: 30
   - name: Publications
     url: publication
@@ -27,46 +28,3 @@ main:
 #  - name: Contact
 #    url: contact
 #    weight: 60
-
-# Nested menus
-# Group members
-  - name: Staff scientists
-    parent: people
-    identifier: staff
-    url: people/staff
-    weight: 1
-  - name: Postdoctoral scientists
-    parent: people
-    url: people/postdocs
-    weight: 2
-  - name: Predoctoral scientists
-    parent: people
-    url: people/predocs
-    weight: 3
-  - name: Technicians
-    parent: people
-    url: people/tech
-    weight: 4
-  - name: Close collaborators
-    parent: people
-    url: people/colabos
-    weight: 5
-  - name: Former staff
-    parent: people
-    url: people/alumni
-    weight: 6
-# Research
-  - name: Research lines
-    parent: research
-    url: research/lines
-    weight: 1
-  - name: Funded projectes
-    parent: research
-    url: research/projects
-    weight: 2
-  - name: PhD thesis
-    parent: research
-    url: research/thesis
-    
-    weight: 3
-
