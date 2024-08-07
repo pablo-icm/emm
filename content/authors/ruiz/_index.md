@@ -3,7 +3,7 @@
 title: Clara Ruíz-González
 
 # Username (this should match the folder name)
-authors:
+authors:  
 - ruiz
 
 # Is this the primary user of the site?

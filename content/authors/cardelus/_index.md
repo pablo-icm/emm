@@ -1,41 +1,41 @@
 ---
 # Display name
-title: Clara Cardelús
+title: Clara Cardelús  
 
 # Username (this should match the folder name)
-authors:
-- cardelus
+authors:  
+- cardelus  
 
 # Is this the primary user of the site?
-superuser: false
+superuser: false  
 
 # Role/position
-role: Technician
+role: Technician  
 
 # Organizations/Affiliations
 organizations:
-- name: Institut de Ciències del Mar (ICM-CSIC)
-  url: "https://www.icm.csic.es/"
+- name: Institut de Ciències del Mar (ICM-CSIC)  
+  url: "https://www.icm.csic.es/"  
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
+bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.  
 
-interests:
-- Add your interest
-- Add your interest
-- Add as many interests as you need
+interests:  
+- Add your interest  
+- Add your interest  
+- Add as many interests as you need   
 
-education:
-  courses:
-  - course: Add your PhD program if any
-    institution: Add your Uni here
-    year: Year of PhD
-  - course: Add bachelor title
-    institution: Add Uni Here
-    year: Add year of uni
-  - course: add as many courses as you want
-    institution: Add uni
-    year: Add year
+education:  
+  courses:    
+  - course: Add your PhD program if any   
+    institution: Add your Uni here   
+    year: Year of PhD   
+  - course: Add bachelor title   
+    institution: Add Uni Here  
+    year: Add year of uni  
+  - course: add as many courses as you want  
+    institution: Add uni  
+    year: Add year  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -80,8 +80,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- 'Technicians'
+user_groups:  
+- 'Technicians'  
+
 ---
 Description of your research. Add here everything... blabalblbablablablablablab
 

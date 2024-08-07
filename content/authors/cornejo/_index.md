@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Francisco Miguel Cornejo-Castillo
+title: Fran Cornejo-Castillo
 
 # Username (this should match the folder name)
 authors:

@@ -41,7 +41,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["50px", "0px", "460px", "0px"]
+  padding = ["80px", "0px", "360px", "0px"]
 
 [advanced]
  # Custom CSS.
@@ -51,4 +51,4 @@ subtitle = ""
  css_class = ""
 +++
 
-The **Ecology of Marine Microorganisms** group investigates how marine microbial plankton works, how it is affected by environmental gradients and its role in the biogeochemical cycles in the Ocean.  
+# <p style="text-align: center;">Studying **microbial plankton**: effects of environmental gradients and its role in the biogeochemical cycles in the Ocean.</p>

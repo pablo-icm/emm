@@ -13,11 +13,11 @@ main:
     url: '#splash1'
     weight: 10
   - name: 'Group members'
-    url: '#people'
+    url: 'people/'
     weight: 20
   - name: Research
     identifier: research
-    url: research
+    url: page/research
     weight: 30
   - name: Publications
     url: publication

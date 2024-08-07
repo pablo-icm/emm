@@ -21,21 +21,23 @@ organizations:
 bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
 
 interests:
-- Add your interest
-- Add your interest
-- Add as many interests as you need
+- Polar environments  
+- Genomics  
+- Bioinformatics  
+- Patín sailing  
+- Analog photography  
 
 education:
   courses:
-  - course: Add your PhD program
-    institution: Add your Uni here
-    year: Year of PhD
-  - course: Add bachelor title
-    institution: Add Uni Here
-    year: Add year of uni
-  - course: add as many courses as you want
-    institution: Add uni
-    year: Add year
+  - course: PhD  
+    institution: Universitat Politècnica de Catalunya  
+    year: 2012  
+  - course: BsC in Biology  
+    institution: Universitat de Barcelona  
+    year: 2001  
+  - course: MsC Bioinformatics  
+    institution: Universitat Oberta de Catalunya  
+    year: 2013  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -67,6 +69,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/pablosanchezfernandez/
+- icon: globe
+  icon_pack: fas
+  link: "https://www.somorrostrobeach.com/"
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -80,8 +85,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- 'Staff scientists'
+user_groups:  
+- 'Staff scientists'  
+
 ---
-I am a bioinformatician and the system administrator of [MARBITS](https://marbits.icm.csic.es/), the marine bioinformatics HPC cluster at the ICM. I studied biology at the University of Barcelona and I finished my PhD at the Technical University of Catalonia (UPC) in 2012, working on fish aquaculture and population genetics. At the same time, I was assistant lecturer at UPC and at the University of Girona (UdG), teaching bioinformatics and genetics among other subjects. In 2013, I joined the Department of Marine Biology and Oceanography as a post-doc, working mainly with metagenomics data from the Malaspina Expedition. My research interests are exploring the taxonomic and functional diversity of marine microbial communities through environmental genomics and transcriptomics, as well as the analysis and reconstruction of Metagenome Assembled Genomes (MAGs) and Single Amplified Genomes (SAGs) from marine ecosystems.
+My research focuses in understanding the relationship between the diversity and the metabolic potential of marine microbial communities, as well as the potential of their gene content for blue technology applications. To address these issues, I analyze high-throughput environmental DNA sequencing (DNA and RNA) using and developing bioinformatics methods in high performance computing (HPC) environments, which has allowed me to expand our knowledge on the ocean microbiome by reconstructing uncultured microbes' genomes (MAGs) of underexplored environments such as the global bathypelagic or the Arctic Oceans. Some of these findings have been published in high-impact journals, also in collaboration with international groups and consortia. I have developed bioinformatics pipelines to analyze environmental genomes as well as tools to interactively explore the biogeography and genomic content of MAGs that are used by several researchers at the ICM and I manage the HPC cluster at the Department of Marine Biology and Oceanography ([MARBITS](https://marbits.icm.csic.es/)) that has more than 80 active users and I am the coordinator of the scientific computing users committee at ICM. I also teach Bioinformatics in the master’s program "Molecular Biology and Biomedicine" at the University of Girona since 2018. Lately I have also been involved with art and science projects.  
 
