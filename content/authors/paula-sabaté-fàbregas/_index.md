@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pablo Sabaté Fàbregas
+title: Paula Sabaté Fàbregas
 
 # Username (this should match the folder name)
 authors:
