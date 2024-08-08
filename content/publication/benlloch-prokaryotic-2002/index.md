@@ -9,7 +9,7 @@ authors:
 - Victoria Goddard
 - Frida Lise Daae
 - Gary Smerdon
-- Ramón Massana
+- Ramon Massana
 - Ian Joint
 - Frede Thingstad
 - Carlos Pedrós‐Alió

@@ -8,7 +8,7 @@ authors:
 - Guillem Salazar
 - Silvia G. Acinas
 - Marta Estrada
-- Ramón Massana
+- Ramon Massana
 - Ramiro Logares
 - Caterina R. Giner
 - Massimo C. Pernice

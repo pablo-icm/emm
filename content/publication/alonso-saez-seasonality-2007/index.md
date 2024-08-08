@@ -3,15 +3,15 @@ title: 'Seasonality in bacterial diversity in north-west Mediterranean coastal w
   assessment through clone libraries, fingerprinting and FISH: Seasonality in marine
   bacterial diversity'
 authors:
-- Laura Alonso-SÃ¡ez
-- Vanessa BalaguÃ©
-- Elisabet L. Sã
-- Olga SÃ¡nchez
-- JosÃ© M. GonzÃ¡lez
+- Laura Alonso-Sáez
+- Vanessa Balagué
+- Elisabet L. Sà
+- Olga Sánchez
+- José M. González
 - Jarone Pinhassi
 - Ramon Massana
 - Jakob Pernthaler
-- Carlos PedrÃ³s-AliÃ³
+- Carlos Pedrós-Alió
 - Josep M. Gasol
 date: '2007-04-01'
 publishDate: '2024-08-05T15:04:48.285087Z'
