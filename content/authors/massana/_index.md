@@ -14,7 +14,7 @@ role: Staff scientist
 
 # Organizations/Affiliations
 organizations:  
-- name: Institut de Ciències del Mar (ICM-CSIC)
+- name: Institut de Ciències del Mar (ICM-CSIC)  
   url: "https://www.icm.csic.es/"  
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,8 +25,8 @@ interests:
 - Add your interest  
 - Add as many interests as you need  
 
-education:
-  courses:
+education:  
+  courses:  
   - course: Add your PhD program  
     institution: Add your Uni here  
     year: Year of PhD  
@@ -76,12 +76,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: ""  
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:  
 - 'Staff scientists'  
+
 ---
-Description of your research. Add here everything... blabalblbablablablablablab
+Description of your research. Add here everything... blabalblbablablablablablab  
 
