@@ -1,0 +1,158 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
+appearance:
+  theme: my_theme
+  theme_day: my_theme # original was 'minimal'
+  theme_night: my_theme # original was 'minimal'
+  #theme_night: true
+  font: native
+  font_size: L
+
+# SEO
+
+marketing:
+  seo:
+    site_type: EducationalOrganization
+    local_business_type: ''
+    org_name: Ecology of Marine Microbes
+    description: Ecology of Marine Microbes Group at Inctitut de Ciències del Mar (ICM-CSIC)
+    twitter: EMM_Barcelona
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+
+header:
+  navbar:
+    enable: true
+    blox: "navbar"
+    align: r
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
+
+
+# Site footer
+
+footer:
+  copyright:
+    notice: '© {year} EMM (ICM-CSIC). This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Contact (edit or remove options as required)
+#email: mail@icm.csic.es
+phone: +34 93 230 95 00
+address:
+  street: Passeig Marítim de la Barceloneta 37-49
+  city: Barcelona
+  region: Catalonia, Spain
+  postcode: '08003'
+  country: Spain
+  country_code: ES
+coordinates:
+  latitude: '41.38529870028162'
+  longitude: '2.1963520523517723'
+directions: The (sometimes) beautiful Somorrostro beach
+#office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
+#appointment_url: 'https://calendly.com'
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: Twitter
+    link: 'https://twitter.com/EMM_Barcelona'
+  #- icon: skype
+  #  icon_pack: fab
+  #  name: Skype Me
+  #  link: 'skype:skype_id;'
+  #- icon: keybase
+  #  icon_pack: fab
+  #  name: Chat on Keybase
+  #  link: 'https://keybase.io/'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
+
+# Localization
+
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
+
+# Site features
+
+features:
+  syntax_highlighter:
+    enable: false
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/<username>/<repository>'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  decap_cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
+
+# Citation style
+
+publications:
+  date_format: January 2006
+  citation_style: apa

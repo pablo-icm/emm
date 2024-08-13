@@ -1,0 +1,46 @@
+---
+title: Aerosol inputs enhance new production in the subtropical northeast Atlantic
+authors:
+- Carlos M. Duarte
+- Jordi Dachs
+- Moira Llabrés
+- Patricia Alonso‐Laita
+- Josep M. Gasol
+- Antonio Tovar‐Sánchez
+- Sergio Sañudo‐Wilhemy
+- Susana Agustí
+date: '2006-12-01'
+publishDate: '2024-08-05T15:04:48.320371Z'
+publication_types:
+- article-journal
+publication: '*Journal of Geophysical Research: Biogeosciences*'
+doi: 10.1029/2005JG000140
+abstract: Atmospheric deposition is an important source of limiting nutrients to the
+  ocean, potentially stimulating oceanic biota. Atmospheric inputs can also deliver
+  important amounts of organic matter, which may fuel heterotrophic activity in the
+  ocean. The effect of atmospheric dry aerosol deposition on the metabolic balance
+  and net production of planktonic communities remains unresolved. Here we report
+  high inputs of aerosol‐bound N, Si, P, Fe and organic C to the subtropical NE Atlantic
+  and experimentally demonstrate these inputs to stimulate autotrophic abundance and
+  metabolism far beyond the modest stimulation of heterotrophic processes, thereby
+  enhancing new production. Aerosol dry deposition was threefold to tenfold higher
+  in the coastal ocean than in the open ocean, and supplied high average (±SE) inputs
+  of organic C (980 ± 220 μ mol C m −2 d −1 ), total N (280 ± 70 μ mol N m −2 d −1
+  ), Si (211 ± 39 μ mol Si m −2 d −1 ), and labile Fe (1.01 ± 0.19 μ mol Fe m −2 d
+  −1 ), but low amounts of total P (8 ± 1.6 μ mol P m −2 d −1 ) to the region during
+  the study. Experimental aerosol inputs to oceanic planktonic communities from the
+  studied area resulted, at the highest doses applied, in a sharp increase in phytoplankton
+  biomass (sevenfold) and production (tenfold) within 4 days, with the community shifting
+  from a dominance of picocyanobacteria to one of diatoms. In contrast, bacterial
+  abundance and production showed little response. Primary production showed a much
+  greater increase in response to aerosol inputs than community respiration did, so
+  that the P/R ratio increased from around 0.95 in the ambient waters, where communities
+  were close to metabolic balance, to 3.3 at the highest nutrient inputs, indicative
+  of a high excess production and a potential for substantial net CO 2 removal by
+  the community in response to aerosol inputs. These results showed that aerosol inputs
+  are major vectors of nutrient and carbon inputs, which can, during high depositional
+  events, enhance new production in the NE subtropical Atlantic Ocean.
+links:
+- name: URL
+  url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2005JG000140
+---

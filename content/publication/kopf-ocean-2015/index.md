@@ -1,0 +1,171 @@
+---
+title: The ocean sampling day consortium
+authors:
+- Anna Kopf
+- Mesude Bicak
+- Renzo Kottmann
+- Julia Schnetzer
+- Ivaylo Kostadinov
+- Katja Lehmann
+- Antonio Fernandez-Guerra
+- Christian Jeanthon
+- Eyal Rahav
+- Matthias Ullrich
+- Antje Wichels
+- Gunnar Gerdts
+- Paraskevi Polymenakou
+- Giorgos Kotoulas
+- Rania Siam
+- Rehab Z Abdallah
+- Eva C Sonnenschein
+- Thierry Cariou
+- Fergal O’Gara
+- Stephen Jackson
+- Sandi Orlic
+- Michael Steinke
+- Julia Busch
+- Bernardo Duarte
+- Isabel Caçador
+- João Canning-Clode
+- Oleksandra Bobrova
+- Viggo Marteinsson
+- Eyjolfur Reynisson
+- Clara Magalhães Loureiro
+- Gian Marco Luna
+- Grazia Marina Quero
+- Carolin R Löscher
+- Anke Kremp
+- Marie E DeLorenzo
+- Lise Øvreås
+- Jennifer Tolman
+- Julie LaRoche
+- Antonella Penna
+- Marc Frischer
+- Timothy Davis
+- Barker Katherine
+- Christopher P Meyer
+- Sandra Ramos
+- Catarina Magalhães
+- Florence Jude-Lemeilleur
+- Ma Leopoldina Aguirre-Macedo
+- Shiao Wang
+- Nicole Poulton
+- Scott Jones
+- Rachel Collin
+- Jed A Fuhrman
+- Pascal Conan
+- Cecilia Alonso
+- Noga Stambler
+- Kelly Goodwin
+- Michael M Yakimov
+- Federico Baltar
+- Levente Bodrossy
+- Jodie Van De Kamp
+- Dion Mf Frampton
+- Martin Ostrowski
+- Paul Van Ruth
+- Paul Malthouse
+- Simon Claus
+- Klaas Deneudt
+- Jonas Mortelmans
+- Sophie Pitois
+- David Wallom
+- Ian Salter
+- Rodrigo Costa
+- Declan C Schroeder
+- Mahrous M Kandil
+- Valentina Amaral
+- Florencia Biancalana
+- Rafael Santana
+- Maria Luiza Pedrotti
+- Takashi Yoshida
+- Hiroyuki Ogata
+- Tim Ingleton
+- Kate Munnik
+- Naiara Rodriguez-Ezpeleta
+- Veronique Berteaux-Lecellier
+- Patricia Wecker
+- Ibon Cancio
+- Daniel Vaulot
+- Christina Bienhold
+- Hassan Ghazal
+- Bouchra Chaouni
+- Soumya Essayeh
+- Sara Ettamimi
+- El Houcine Zaid
+- Noureddine Boukhatem
+- Abderrahim Bouali
+- Rajaa Chahboune
+- Said Barrijal
+- Mohammed Timinouni
+- Fatima El Otmani
+- Mohamed Bennani
+- Marianna Mea
+- Nadezhda Todorova
+- Ventzislav Karamfilov
+- Petra Ten Hoopen
+- Guy Cochrane
+- Stephane L’Haridon
+- Kemal Can Bizsel
+- Alessandro Vezzi
+- Federico M Lauro
+- Patrick Martin
+- Rachelle M Jensen
+- Jamie Hinks
+- Susan Gebbels
+- Riccardo Rosselli
+- Fabio De Pascale
+- Riccardo Schiavon
+- Antonina Dos Santos
+- Emilie Villar
+- Stéphane Pesant
+- Bruno Cataletto
+- Francesca Malfatti
+- Ranjith Edirisinghe
+- Jorge A Herrera Silveira
+- Michele Barbier
+- Valentina Turk
+- Tinkara Tinta
+- Wayne J Fuller
+- Ilkay Salihoglu
+- Nedime Serakinci
+- Mahmut Cerkez Ergoren
+- Eileen Bresnan
+- Juan Iriberri
+- Paul Anders Fronth Nyhus
+- Edvardsen Bente
+- Hans Erik Karlsen
+- Peter N Golyshin
+- Josep M Gasol
+- Snejana Moncheva
+- Nina Dzhembekova
+- Zackary Johnson
+- Christopher David Sinigalliano
+- Maribeth Louise Gidley
+- Adriana Zingone
+- Roberto Danovaro
+- George Tsiamis
+- Melody S Clark
+- Ana Cristina Costa
+- Monia El Bour
+- Ana M Martins
+- R Eric Collins
+- Anne-Lise Ducluzeau
+- Jonathan Martinez
+- Mark J Costello
+- Linda A Amaral-Zettler
+- Jack A Gilbert
+- Neil Davies
+- Dawn Field
+- Frank Oliver Glöckner
+date: '2015-12-01'
+publishDate: '2024-08-05T15:04:47.022631Z'
+publication_types:
+- article-journal
+publication: '*GigaScience*'
+doi: 10.1186/s13742-015-0066-5
+links:
+- name: URL
+  url: 
+    https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0066-5
+---

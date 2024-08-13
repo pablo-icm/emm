@@ -1,0 +1,87 @@
+// Make page header alignment consistent with widget page header alignment
+.universal-wrapper h1 {
+  text-align: center;
+}
+
+// Center the CTA shortcode button
+.cta-group {
+  justify-content: center;
+}
+
+// Centered text, white color
+.center {
+  text-align: center;
+  color: white;
+}
+
+// white color
+.whiteText {
+  color: white;
+}
+
+// Text size and color for "former members"
+.formerTitle {
+  text-align: center;
+  color: black;
+}
+
+// Style for hero blocks
+.heroCustom {
+    position: relative;
+    height: 100vh; /* Full height of the viewport */
+    background-image: url('roseta-garcia.JPG'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /* Parallax effect */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white; /* Text color */
+}
+
+.heroCustom-text {
+    position: relative;
+    z-index: 2; /* Ensure text is above the background image */
+    padding: 20px;
+    background: rgba(0, 0, 0, 0); /* Optional: Adds a semi-transparent background to text */
+    border-radius: 5px; /* Optional: Adds rounded corners */
+}
+
+.heroCustom::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Dark overlay for better text readability */
+    z-index: 1;
+}
+
+// Configure the navbar
+/* Adjust navbar width and background image */
+.navbar {
+    background-image: url('../images/navbar.jpg'); /* Replace with the path to your image */
+    background-size: cover; /* Ensure the image covers the entire navbar */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent repeating the image */
+    width: 100%; /* Full width of the viewport */
+    /* max-width: 2000px; /* Adjust as needed for your design */
+    margin: 0 auto; /* Center the navbar */
+    padding: ["100px", "0px", "0px", "0px"] ; /* Adjust padding as needed */
+}
+
+/* Adjust link colors and other navbar text styles */
+.navbar a {
+    color: #ffffff; /* Text color */
+    text-decoration: none; /* Remove underline */
+    padding: 10px 15px; /* Adjust padding as needed */
+}
+
+/* Adjust link hover styles */
+.navbar a:hover {
+    color: #000; /* Hover text color */
+}
+
+
