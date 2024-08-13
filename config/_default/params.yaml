@@ -6,8 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: true
+  theme: my_theme
+  theme_day: my_theme # original was 'minimal'
+  theme_night: my_theme # original was 'minimal'
+  #theme_night: true
   font: native
   font_size: L
 
@@ -41,6 +43,7 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
+
 
 # Site footer
 

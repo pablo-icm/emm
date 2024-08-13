@@ -4,7 +4,10 @@ title: Olga Sánchez
 
 # Username (this should match the folder name)
 authors:  
-- olga-sánchez  
+- name: Olga Sánchez
+#- first_name: Olga
+#- last_name: Sánchez
+#- olga-sánchez  
 
 # Is this the primary user of the site?
 superuser: false  

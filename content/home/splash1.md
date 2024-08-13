@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "rgb(247, 250, 252)"
 
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -41,7 +41,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["80px", "0px", "360px", "0px"]
+  padding = ["1rem", "0px", "14rem", "0px"]
 
 [advanced]
  # Custom CSS.

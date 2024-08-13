@@ -4,7 +4,9 @@ title: Javier del Campo
 
 # Username (this should match the folder name)
 authors:  
-- javier-del-campo
+- first_name: Javier
+- last_name: del-campo
+#- javier-del-campo
 
 # Is this the primary user of the site?
 superuser: false  

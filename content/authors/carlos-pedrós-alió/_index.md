@@ -4,7 +4,12 @@ title: Carlos Pedrós-Alió
 
 # Username (this should match the folder name)
 authors:
-- carlos-pedrós-alió
+- name: Carlos Pedrós-Alió
+
+weight: 1
+#- first_name: Carlos
+#- last_name: Pedrós-Alió
+#- carlos-pedrós-alió
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,7 +26,7 @@ organizations:
 bio: 
 
 interests:
-- Add your interest
+- Bird watching
 - Add your interest
 - Add as many interests as you need
 

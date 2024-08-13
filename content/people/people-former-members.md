@@ -53,6 +53,7 @@ subtitle = ""
 - [Carolina Marín](https://orcid.org/0000-0002-9013-2378), Predoctoral Researcher, 20XX-20XX
 - [Carlota Ruíz Gazulla](https://www.researchgate.net/profile/Carlota-R-Gazulla), Predoctoral Researcher, 20XX-20XX
 - [Adrià Auladell](https://aauladell.netlify.app/), Predoctoral Researcher, 20XX-20XX  
+- [Marta Royo-Llonch](https://www.instagram.com/shookstudio/), Predoctoral and postdoctoral researcher, 20XX-20XX
 - [David López-Escardó](https://twitter.com/dlopez_escardo?lang=ca), Postdoctoral Researcher, 2019-2022  
 - [Ina Deutschmann](http://www.singek.eu/ina-deutschmann/), PhD Student, 2016-2021  
 - [Mireia Burnat](https://orcid.org/0000-0001-5756-7794), Postdoctoral Researcher, 2018-2020  

@@ -3,7 +3,7 @@ title: Spectral irradiance dependence of sunlight effects on plankton dimethylsu
   production
 authors:
 - Martí Gali
-- Clara Ruiz-Gonzàlez
+- Clara Ruiz-González
 - Thomas Lefort
 - Josep M. Gasol
 - Clara Cardelús

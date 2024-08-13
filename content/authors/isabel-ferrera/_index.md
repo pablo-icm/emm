@@ -3,8 +3,10 @@
 title: Isabel Ferrera
 
 # Username (this should match the folder name)
-authors:  
-- isabel-ferrera
+authors:
+- first_name: Isabel
+- last_name: Ferrera
+#- isabel-ferrera
 
 # Is this the primary user of the site?
 superuser: false  

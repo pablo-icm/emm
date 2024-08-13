@@ -27,12 +27,6 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Biodiversity and Biogeography  
-    tag: b&b  
-  - name: Genes and Genomes  
-    tag: g&g  
-  - name: Microbial activities  
-    tag: mic-act  
   - name: Metagenomics  
     tag: Metagenomics  
   - name: Metatranscriptomics   
