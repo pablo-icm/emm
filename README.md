@@ -1,4 +1,5 @@
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+Theme README.md  
 
 [![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
 
