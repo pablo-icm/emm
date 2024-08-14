@@ -6,7 +6,8 @@ authors:
 date: '2020-01-01'
 publishDate: '2024-08-14T09:35:58.130088Z'
 publication_types:
-- manuscript
+- project
 publication: '*MCIYU*'
-abstract: 'Amount awarded: XXXX€, Start: 2020 End: 2023'
+summary: 'Amount awarded: XXXX€, Start: 2020 End: 2023'
+abstract: ' - '
 ---

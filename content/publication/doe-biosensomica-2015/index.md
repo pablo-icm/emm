@@ -6,7 +6,8 @@ authors:
 date: '2015-01-01'
 publishDate: '2024-08-14T09:35:58.259443Z'
 publication_types:
-- manuscript
+- project
 publication: '*Fundación BBVA*'
-abstract: 'Amount awarded: XXXX€, Start: 2015 End: 2016'
+summary: 'Amount awarded: XXXX€, Start: 2015 End: 2016'
+abstract: ' - '
 ---

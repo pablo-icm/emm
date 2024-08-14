@@ -5,7 +5,8 @@ authors:
 date: '2021-01-01'
 publishDate: '2024-08-14T09:35:58.159632Z'
 publication_types:
-- manuscript
+- project
 publication: '*-*'
-abstract: 'Amount awarded: XXXX€, Start: 2021 End: 2022'
+summary: 'Amount awarded: XXXX€, Start: 2021 End: 2022'
+abstract: ' - '
 ---

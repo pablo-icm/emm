@@ -6,7 +6,8 @@ authors:
 date: '2019-01-01'
 publishDate: '2024-08-14T09:35:58.147870Z'
 publication_types:
-- manuscript
+- project
 publication: '*COMISION EUROPEA*'
-abstract: 'Amount awarded: XXXX€, Start: 2019 End: 2022'
+summary: 'Amount awarded: XXXX€, Start: 2019 End: 2022'
+abstract: ' - '
 ---

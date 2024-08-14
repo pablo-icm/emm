@@ -6,7 +6,8 @@ authors:
 date: '2021-01-01'
 publishDate: '2024-08-14T09:35:58.094501Z'
 publication_types:
-- manuscript
+- project
 publication: '*CSIC+ICM*'
-abstract: 'Amount awarded: XXXX€, Start: 2021 End: 2024'
+summary: 'Amount awarded: XXXX€, Start: 2021 End: 2024'
+abstract: ' - '
 ---

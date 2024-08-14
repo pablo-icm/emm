@@ -6,7 +6,8 @@ authors:
 date: '2002-01-01'
 publishDate: '2024-08-14T09:35:58.457546Z'
 publication_types:
-- manuscript
+- project
 publication: '*EU, MAST V*'
-abstract: 'Amount awarded: XXXX€, Start: 2002 End: 2005'
+summary: 'Amount awarded: XXXX€, Start: 2002 End: 2005'
+abstract: ' - '
 ---

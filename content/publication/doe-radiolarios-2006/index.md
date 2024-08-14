@@ -5,7 +5,8 @@ authors:
 date: '2006-01-01'
 publishDate: '2024-08-14T09:35:58.407032Z'
 publication_types:
-- manuscript
+- project
 publication: '*CSIC-I3*'
-abstract: 'Amount awarded: XXXX€, Start: 2006 End: 2007'
+summary: 'Amount awarded: XXXX€, Start: 2006 End: 2007'
+abstract: ' - '
 ---

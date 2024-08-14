@@ -7,7 +7,8 @@ authors:
 date: '1997-01-01'
 publishDate: '2024-08-14T09:35:58.534180Z'
 publication_types:
-- manuscript
+- project
 publication: '*CIRIT*'
-abstract: 'Amount awarded: XXXX€, Start: 1997 End: 1997'
+summary: 'Amount awarded: XXXX€, Start: 1997 End: 1997'
+abstract: ' - '
 ---

@@ -5,7 +5,8 @@ authors:
 date: '1998-01-01'
 publishDate: '2024-08-14T09:35:58.504739Z'
 publication_types:
-- manuscript
+- project
 publication: '*Programa Nacional de la Investigación en la Antártida*'
-abstract: 'Amount awarded: XXXX€, Start: 1998 End: 2000'
+summary: 'Amount awarded: XXXX€, Start: 1998 End: 2000'
+abstract: ' - '
 ---

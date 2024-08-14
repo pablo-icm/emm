@@ -5,7 +5,8 @@ authors:
 date: '2022-01-01'
 publishDate: '2024-08-14T09:35:58.112446Z'
 publication_types:
-- manuscript
+- project
 publication: '*UNION EUROPEA*'
-abstract: 'Amount awarded: XXXX€, Start: 2022 End: 2024'
+summary: 'Amount awarded: XXXX€, Start: 2022 End: 2024'
+abstract: ' - '
 ---

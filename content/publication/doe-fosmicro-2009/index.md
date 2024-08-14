@@ -6,7 +6,8 @@ authors:
 date: '2009-01-01'
 publishDate: '2024-08-14T09:35:58.352929Z'
 publication_types:
-- manuscript
+- project
 publication: '*MICINN*'
-abstract: 'Amount awarded: XXXX€, Start: 2009 End: 2010'
+summary: 'Amount awarded: XXXX€, Start: 2009 End: 2010'
+abstract: ' - '
 ---

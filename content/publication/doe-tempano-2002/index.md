@@ -6,7 +6,8 @@ authors:
 date: '2002-01-01'
 publishDate: '2024-08-14T09:35:58.475432Z'
 publication_types:
-- manuscript
+- project
 publication: '*Ministerio de Ciencia y Tecnología*'
-abstract: 'Amount awarded: XXXX€, Start: 2002 End: 2004'
+summary: 'Amount awarded: XXXX€, Start: 2002 End: 2004'
+abstract: ' - '
 ---

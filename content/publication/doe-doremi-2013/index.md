@@ -6,7 +6,8 @@ authors:
 date: '2013-01-01'
 publishDate: '2024-08-14T09:35:58.277034Z'
 publication_types:
-- manuscript
+- project
 publication: '*MINECO*'
-abstract: 'Amount awarded: XXXX€, Start: 2013 End: 2015'
+summary: 'Amount awarded: XXXX€, Start: 2013 End: 2015'
+abstract: ' - '
 ---

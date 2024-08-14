@@ -6,7 +6,8 @@ authors:
 date: '2005-01-01'
 publishDate: '2024-08-14T09:35:58.445003Z'
 publication_types:
-- manuscript
+- project
 publication: '*MEC*'
-abstract: 'Amount awarded: XXXX€, Start: 2005 End: 2006'
+summary: 'Amount awarded: XXXX€, Start: 2005 End: 2006'
+abstract: ' - '
 ---

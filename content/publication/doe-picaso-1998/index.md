@@ -5,7 +5,8 @@ authors:
 date: '1998-01-01'
 publishDate: '2024-08-14T09:35:58.510544Z'
 publication_types:
-- manuscript
+- project
 publication: '*Plan nacional de I D*'
-abstract: 'Amount awarded: XXXX€, Start: 1998 End: 1999'
+summary: 'Amount awarded: XXXX€, Start: 1998 End: 1999'
+abstract: ' - '
 ---

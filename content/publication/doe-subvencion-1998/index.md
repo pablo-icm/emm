@@ -7,7 +7,8 @@ authors:
 date: '1998-01-01'
 publishDate: '2024-08-14T09:35:58.528357Z'
 publication_types:
-- manuscript
+- project
 publication: '*FEMS*'
-abstract: 'Amount awarded: XXXX€, Start: 1998 End: 1998'
+summary: 'Amount awarded: XXXX€, Start: 1998 End: 1998'
+abstract: ' - '
 ---

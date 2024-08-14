@@ -6,7 +6,8 @@ authors:
 date: '2016-01-01'
 publishDate: '2024-08-14T09:35:58.218420Z'
 publication_types:
-- manuscript
+- project
 publication: '*MINECO*'
-abstract: 'Amount awarded: XXXX€, Start: 2016 End: 2018'
+summary: 'Amount awarded: XXXX€, Start: 2016 End: 2018'
+abstract: ' - '
 ---

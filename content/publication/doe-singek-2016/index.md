@@ -6,7 +6,8 @@ authors:
 date: '2016-01-01'
 publishDate: '2024-08-14T09:35:58.194889Z'
 publication_types:
-- manuscript
+- project
 publication: '*H2020 MSCA-ITN-2015-ETN*'
-abstract: 'Amount awarded: XXXX€, Start: 2016 End: 2020'
+summary: 'Amount awarded: XXXX€, Start: 2016 End: 2020'
+abstract: ' - '
 ---
