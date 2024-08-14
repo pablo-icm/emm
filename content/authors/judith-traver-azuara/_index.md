@@ -1,6 +1,10 @@
 ---
 # Display name
-title: Juduth Traver Azuara
+title: Judith Traver Azuara
+
+# Full Name (for SEO)
+first_name: Judith
+last_name: Traver Azuara
 
 # Username (this should match the folder name)
 authors:

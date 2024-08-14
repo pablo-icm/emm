@@ -2,6 +2,11 @@
 # Display name
 title: Marta Sebastián
 
+# Full Name (for SEO)
+first_name: Marta
+last_name: Sebastián
+weight: 130
+
 # Username (this should match the folder name)
 authors:
 - marta-sebastián

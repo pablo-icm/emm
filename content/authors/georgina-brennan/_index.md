@@ -2,6 +2,10 @@
 # Display name
 title: Georgina Brennan
 
+# Full Name (for SEO)
+first_name: Georgina
+last_name: Brennan
+
 # Username (this should match the folder name)
 authors:
 - georgina-brennan

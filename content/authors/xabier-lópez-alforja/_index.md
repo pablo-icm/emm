@@ -2,6 +2,10 @@
 # Display name
 title: Xabier López-Alforja
 
+# Full Name (for SEO)
+first_name: Xabier
+last_name: López-Alforja
+
 # Username (this should match the folder name)
 authors:
 - xabier-lópez-alforja

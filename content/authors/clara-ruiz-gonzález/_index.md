@@ -2,6 +2,11 @@
 # Display name
 title: Clara Ruíz-González
 
+# Full Name (for SEO)
+first_name: Clara
+last_name: Ruiz-González
+weight: 100
+
 # Username (this should match the folder name)
 authors:
 - clara-ruiz-gonzález

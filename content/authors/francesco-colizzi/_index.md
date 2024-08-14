@@ -2,6 +2,11 @@
 # Display name
 title: Francesco Colizzi
 
+# Full Name (for SEO)
+first_name: Francesco
+last_name: Colizzi
+weight: 30
+
 # Username (this should match the folder name)
 authors:
 - francesco-colizzi

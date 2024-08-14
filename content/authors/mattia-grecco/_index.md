@@ -2,6 +2,10 @@
 # Display name
 title: Mattia Grecco
 
+# Full Name (for SEO)
+first_name: Mattia
+last_name: Grecco
+
 # Username (this should match the folder name)
 authors:
 - mattia-grecco

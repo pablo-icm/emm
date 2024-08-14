@@ -2,6 +2,11 @@
 # Display name
 title: Maria M. Sala
 
+# Full Name (for SEO)
+first_name: Maria Montserrat
+last_name: Sala
+weight: 110
+
 # Username (this should match the folder name)
 authors:
 - maria-m.-sala

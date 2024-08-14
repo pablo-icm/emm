@@ -2,6 +2,10 @@
 # Display name
 title: Olga Sánchez  
 
+# Full Name (for SEO)
+first_name: Olga
+last_name: Sánchez
+
 # Username (this should match the folder name)
 authors:  
 - name: Olga Sánchez

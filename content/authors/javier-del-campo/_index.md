@@ -2,10 +2,15 @@
 # Display name
 title: Javier del Campo
 
+# Full Name (for SEO)
+first_name: Javier
+last_name: del Campo
+
 # Username (this should match the folder name)
 authors:  
 - first_name: Javier
 - last_name: del-campo
+
 #- javier-del-campo
 
 # Is this the primary user of the site?

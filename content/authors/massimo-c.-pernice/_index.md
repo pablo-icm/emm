@@ -2,6 +2,10 @@
 # Display name
 title: Massimo C. Pernice
 
+# Full Name (for SEO)
+first_name: Massimo C.
+last_name: Pernice
+
 # Username (this should match the folder name)
 authors:
 - massimo-c.-pernice

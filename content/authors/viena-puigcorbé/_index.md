@@ -2,6 +2,11 @@
 # Display name
 title: Viena Puigcorbé  
 
+# Full Name (for SEO)
+first_name: Viena
+last_name: Puigcorbé
+weight: 90
+
 # Username (this should match the folder name)
 authors:  
 - viena-puigcorbé

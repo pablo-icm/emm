@@ -2,6 +2,10 @@
 # Display name
 title: Paula Sabaté Fàbregas
 
+# Full Name (for SEO)
+first_name: Paula
+last_name: Sabaté Fàbregas
+
 # Username (this should match the folder name)
 authors:
 - paula-sabaté-fàbregas

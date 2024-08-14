@@ -2,6 +2,10 @@
 # Display name
 title: Dani Romano
 
+# Full Name (for SEO)
+first_name: Daniel
+last_name: Romano
+
 # Username (this should match the folder name)
 authors:
 - daniel-romano-gude

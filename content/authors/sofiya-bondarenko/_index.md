@@ -2,6 +2,10 @@
 # Display name
 title: Sofiya Bondarenko
 
+# Full Name (for SEO)
+first_name: Sofiya
+last_name: Bondarenko
+
 # Username (this should match the folder name)
 authors:
 - sofiya-bondarenko

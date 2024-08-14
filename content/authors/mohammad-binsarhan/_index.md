@@ -2,6 +2,10 @@
 # Display name
 title: Mohammad Binsarhan
 
+# Full Name (for SEO)
+first_name: Mohammad
+last_name: Binsharan
+
 # Username (this should match the folder name)
 authors:
 - mohammad-binsarhan

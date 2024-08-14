@@ -2,6 +2,10 @@
 # Display name
 title: Caterina R. Giner
 
+# Full Name (for SEO)
+first_name: Caterina R.
+last_name: Giner
+
 # Username (this should match the folder name)
 authors:
 - caterina-r.-giner

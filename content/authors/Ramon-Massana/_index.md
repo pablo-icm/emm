@@ -5,6 +5,7 @@ title: Ramon Massana
 # Full Name (for SEO)
 first_name: Ramon
 last_name: Massana
+weight: 80
 
 # Username (this should match the folder name)
 authors:

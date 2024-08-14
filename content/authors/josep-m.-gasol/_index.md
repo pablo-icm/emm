@@ -5,6 +5,7 @@ title: Josep M. Gasol
 # Full Name (for SEO)
 first_name: Josep M.
 last_name: Gasol
+weight: 60
 
 # Username (this should match the folder name)
 authors:

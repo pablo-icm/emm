@@ -2,6 +2,10 @@
 # Display name
 title: Ona Deulofeu
 
+# Full Name (for SEO)
+first_name: Ona
+last_name: Deulofeu
+
 # Username (this should match the folder name)
 authors:
 - ona-deulofeu

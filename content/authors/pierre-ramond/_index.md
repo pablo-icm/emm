@@ -2,6 +2,10 @@
 # Display name
 title: Pierre Ramond
 
+# Full Name (for SEO)
+first_name: Pierre
+last_name: Ramond
+
 # Username (this should match the folder name)
 authors:
 - pierre-ramond

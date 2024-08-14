@@ -2,6 +2,11 @@
 # Display name
 title: Fran Cornejo-Castillo
 
+# Full Name (for SEO)
+first_name: Fran
+last_name: Cornejo-Castillo
+weight: 40
+
 # Username (this should match the folder name)
 authors:
 - francisco-m.-cornejo-castillo

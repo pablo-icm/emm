@@ -2,6 +2,11 @@
 # Display name
 title: Pablo Sánchez
 
+# Full Name (for SEO)
+first_name: Pablo
+last_name: Sánchez
+weight: 120
+
 # Username (this should match the folder name)
 authors:
 - pablo-sánchez

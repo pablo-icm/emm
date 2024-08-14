@@ -2,6 +2,10 @@
 # Display name
 title: Carlos Pedrós-Alió
 
+# Full Name (for SEO)
+first_name: Carlos
+last_name: Pedrós-Alió
+
 # Username (this should match the folder name)
 authors:
 - name: Carlos Pedrós-Alió

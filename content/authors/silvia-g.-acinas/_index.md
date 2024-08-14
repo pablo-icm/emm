@@ -2,6 +2,10 @@
 # Display name
 title: Silvia G. Acinas
 
+# Full Name (for SEO)
+first_name: Silvia G.
+last_name: Acinas
+weight: 10
 # Username (this should match the folder name)
 authors:  
 - silvia-g.-acinas  

@@ -2,6 +2,10 @@
 # Display name
 title: Elisabet L. Sà
 
+# Full Name (for SEO)
+first_name: Elisabet L.
+last_name: Sà
+
 # Username (this should match the folder name)
 authors:
 - elisabet-l.-sà

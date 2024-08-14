@@ -2,6 +2,10 @@
 # Display name
 title: Carla Pereira García
 
+# Full Name (for SEO)
+first_name: Carla
+last_name: Pereira García
+
 # Username (this should match the folder name)
 authors:
 - carla-pereira-garcía

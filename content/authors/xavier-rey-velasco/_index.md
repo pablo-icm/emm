@@ -2,6 +2,10 @@
 # Display name
 title: Xavier Rey Velasco
 
+# Full Name (for SEO)
+first_name: Xavier
+last_name: Rey Velasco
+
 # Username (this should match the folder name)
 authors:
 - xavier-rey-velasco

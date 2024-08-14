@@ -5,6 +5,11 @@ title: Ramiro Logares
 # Full Name (for SEO)
 first_name: Ramiro
 last_name: Logares
+weight: 70
+
+# Full Name (for SEO)
+first_name: Ramiro
+last_name: Logares
 
 # Username (this should match the folder name)
 authors:

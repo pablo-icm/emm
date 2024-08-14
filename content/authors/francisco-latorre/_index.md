@@ -2,6 +2,10 @@
 # Display name
 title: Francisco Latorre
 
+# Full Name (for SEO)
+first_name: Francisco
+last_name: Latorre
+
 # Username (this should match the folder name)
 authors:
 - francisco-latorre

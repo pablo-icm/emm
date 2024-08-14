@@ -2,6 +2,10 @@
 # Display name
 title: Vanessa Balagué  
 
+# Full Name (for SEO)
+first_name: Vanessa
+last_name: Balagué
+
 # Username (this should match the folder name)
 authors:  
 - vanessa-balagué  

@@ -2,9 +2,10 @@
 # Display name
 title: Dolors Vaqué
 
-# Full Name (for SEO)
+# # Full Name (for SEO)
 first_name: Dolors
 last_name: Vaqué
+weight: 140
 
 # Username (this should match the folder name)
 authors:

@@ -2,6 +2,10 @@
 # Display name
 title: Maria Sierks
 
+# Full Name (for SEO)
+first_name: Maria
+last_name: Sierks
+
 # Username (this should match the folder name)
 authors:
 - maria-sierks

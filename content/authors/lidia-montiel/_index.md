@@ -2,6 +2,10 @@
 # Display name
 title: Lidia Montiel
 
+# Full Name (for SEO)
+first_name: Lidia
+last_name: Montiel
+
 # Username (this should match the folder name)
 authors:
 - lidia-montiel

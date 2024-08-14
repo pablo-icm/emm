@@ -2,6 +2,10 @@
 # Display name
 title: Clara Cardelús
 
+# Full Name (for SEO)
+first_name: Clara
+last_name: Cardelús
+
 # Username (this should match the folder name)
 authors:  
 - clara-cardelús  
