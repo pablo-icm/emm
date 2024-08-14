@@ -13,7 +13,7 @@ main:
     weight: 20
   - name: Research
     identifier: research
-    url: page/research
+    #url: page/research
     weight: 30
 
   # The following items are for a menu item for research, projects and thesis
