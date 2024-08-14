@@ -10,7 +10,7 @@ name = "Starter Blog"
 
   # Menu
   #menu_primary = "rgb(247, 250, 252)"
-  menu_primary = "#99cccc"
+  menu_primary = "#162137" # color for pop-up menu shade
   menu_text = "#ffffff"
   menu_text_active = "#ffffff"
   menu_title = "#ffffff"

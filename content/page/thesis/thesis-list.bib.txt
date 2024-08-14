@@ -1,0 +1,175 @@
+Title: Return of the marine heterotrophic flagellates: diversity, distribution and gene expression patterns
+Author: Aleix Obiol Plana
+Supervisor: R. Massana
+Institution: Universitat Politècnica de Catalunya (UPC)
+Year: 2023
+Title: Population dynamics, interactions and evolution of marine microbes using genomic approaches
+Author: Francisco Latorre
+Supervisor: R. Logares, O. Jaillon
+Institution: Universitat Politècnica de Catalunya (UPC)
+Year: 2023
+Title: Seasonality of marine prokaryotes using taxonomic and functional diversity approaches
+Author: Adrià Auladell
+Supervisor: J.M. Gasol, I. Ferrera
+Institution: Universitat Autònoma de Barcelona (UAB)
+Year: 2022
+Title: Contribution of marine heterotrophic cultured bacteria to microbial diversity and mercury detoxification
+Author: Isabel Sanz Sáez
+Supervisor: S.G. Acinas, O. Sánchez Martínez
+Institution: Universitat Autònoma de Barcelona (UAB)
+Year: 2021
+Title: Genome basis for functional differentiation in uncultured lineages of marine bacterivores
+Author: Aurelie Labarre
+Supervisor: R. Massana
+Institution: Universitat Politècnica de Catalunya (UPC)
+Year: 2020
+Title: Ecogenomics of uncultured marine prokaryotes
+Author: Marta Royo Llonch
+Supervisor: S.G. Acinas, C. Pedrós- Alió
+Institution: Universitat Autònoma de Barcelona (UAB)
+Year: 2020
+Title: Large-scale biogeography of marine pelagic Bacteria and Archaea
+Author: Guillem Salazar Guiral
+Supervisor: S.G. Acinas, J.M. Gasol
+Institution: Universitat Politècnica de Catalunya (UPC)
+Year: 2019
+Title: Interactions between marine picoeukaryotes and their viruses one cell at a time
+Author: Yaiza M. Castillo de la Peña
+Supervisor: D. Vaqué, M. Sebastián
+Institution: Universitat de Barcelona (UB)
+Year: 2019
+Title: Spatial and temporal patterns of marine prokaryotic diversity along the particulate matter continuum
+Author: Mireia Mestre Martín
+Supervisor: J.M. Gasol, M.M. Sala
+Institution: Universidad de las Palmas de Gran Canaria
+Year: 2017
+Title: Spatial, temporal and behavioral patterns of marine protists
+Author: Caterina Rodríguez Giner
+Supervisor: R. Massana, R. Logares
+Institution: Universitat Politècnica de Catalunya (UPC)
+Year: 2017
+Title: Diversity, ecology and evolution of marine diazotrophic microorganisms
+Author: Francisco M. Cornejo Castillo
+Supervisor: S.G. Acinas
+Institution: Universitat Politècnica de Catalunya (UPC)
+Year: 2017
+Title: Marine photosynthetic picoeukaryotes: community structure at different spatial scales
+Author: Ana Maria Cabello Pérez
+Supervisor: M. Latasa, R. Massana
+Institution: Universidad de Las Palmas de Gran Canaria
+Year: 2016
+Title: Rôle des mécanismes biotiques et abiotiques dans la dynamique de la matière organique dissoute dans les écosystèmes marins pélagiques (Méditerranée Nord Occidentale)
+Author: E.D. Sánchez Pérez
+Supervisor: P. Conan, C. Marrasé Peña
+Institution: Université Pierre et Marie Curie
+Year: 2015
+Title: Exopolymer particles in the ocean: Production by microorganisms, carbon export and mesopelagic respiration
+Author: Ignacio Pérez Mazuecos
+Supervisor: I. Reche, J. Arístegui, J.M. Gasol
+Institution: Universidad de Granada
+Year: 2015
+Title: Abundance and diversity of marine microbial eukaryotes
+Author: Massimo C. Pernice
+Supervisor: R. Massana
+Institution: Universidad de Las Palmas de Gran Canaria
+Year: 2014
+Title: Viruses in the marine environment: community dynamics, phage-host interactions and genomic structure
+Author: Elena Lara de la Casa
+Supervisor: D. Vaqué, S.G. Acinas
+Institution: Universidad de Las Palmas de Gran Canaria
+Year: 2014
+Title: Uncovering Diversity and Structure of Bacteroidetes Populations in Marine Environments
+Author: Cristina Díez Vives
+Supervisor: S.G. Acinas, J.M. Gasol
+Institution: Universidad de las Palmas de Gran Canarias, Institut de Ciències del Mar
+Year: 2013
+Title: Novel approach to improve the assessment of biodiversity of phytoplankton communities based on hyperspectral data analysis
+Author: E. Torrecilla Ribalta
+Supervisor: J. Piera (ICM - CSIC), M. Vilaseca (CD6, UPC)
+Institution: Universitat Politècnica de Catalunya
+Year: 2012
+Title: Patterns in marine microbial community structure
+Author: Thomas Lefort
+Supervisor: J.M. Gasol
+Institution: Universidad de Las Palmas de Gran Canaria
+Year: 2012
+Title: Ecology of an uncultured heterotrophic flagellate lineage: MAST-4
+Author: Raquel Rodríguez Martínez
+Supervisor: R. Massana
+Institution: Universidad de Las Palmas de Gran Canaria
+Year: 2012
+Title: Optical properties of the dissolved organic matter as tracers of microbiological and geochemical processes in marine ecosystems
+Author: C. Romera Castillo
+Supervisor: C. Marrasé Peña, X.A. Álvarez-Salgado
+Institution: Universitat de Barcelona
+Year: 2011
+Title: Effects of solar radiation on marine bacterial and phytoplankton heterotrophic activities
+Author: Clara Ruiz González
+Supervisor: J.M. Gasol, R. Simó
+Institution: Universidad de Las Palmas de Gran Canaria
+Year: 2011
+Title: Culturing bias in the study of marine heterotrophic flagellates diversity
+Author: Javier del Campo García-Ramos
+Supervisor: R. Massana
+Institution: Universitat de Barcelona
+Year: 2011
+Title: Impact of viruses on bacterial communities in marine ecosystems
+Author: Julia Anna Boras
+Supervisor: D. Vaqué, M.M. Sala
+Institution: Universitat de Barcelona
+Year: 2010
+Title: Effects of different allochthonous carbon sources on marine bacterioplankton diversity and function
+Author: Itziar Lekunberri García
+Supervisor: J.M. Gasol
+Institution: Universitat Politècnica de Catalunya
+Year: 2008
+Title: Influence of turbulence variability on osmotrophic plankton dynamics in a coastal area
+Author: O. Guadayol Roig
+Supervisor: F. Peters, C. Marrasé Peña
+Institution: Universitat Politècnica de Catalunya
+Year: 2007
+Title: Microbial Evolution: patterns of diversity in aquatic protists
+Author: R. Logares
+Supervisor:
+Institution: Lunds Universitet
+Year: 2007
+Title: Links between bacterial divesity and carbon cycling in the sea
+Author: Laura Alonso Saez
+Supervisor: J.M. Gasol
+Institution: Universitat Politècnica de Catalunya
+Year: 2006
+Title: Diversidad del picoplancton eucariótico marino mediante métodos moleculares
+Author: Beatriz Díez Moreno
+Supervisor: C. Pedrós-Alió, R. Massana
+Institution: Universitat de Barcelona
+Year: 2001
+Title: Control, por parte de los protozoos, de las comunidades bacterianas en diferentes ecosistemas marinos
+Author: E. Vázquez Domínguez
+Supervisor: D. Vaqué, J. Flos
+Institution: Universitat de Barcelona
+Year: 1999
+Title: Caracterización de las actividades enzimátias de la comunidades microbianas en el litoral del lago de Constanza
+Author: M.M. Sala
+Supervisor: H. Güde, D. Vaqué
+Institution: Universitat Autònoma de Barcelona (UAB)
+Year: 1995
+Title: La xarxa tròfica microbiana en un sistema planctònic estratificat
+Author: R. Massana
+Supervisor: C. Pedrós-Alió
+Institution: Universitat Autònoma de Barcelona
+Year: 1993
+Title: Relacions entre el fitoplàncton i el baterioplàncton en el mar català: interpretació de les dades de camp mitjantçant l’aproximació experimental
+Author: D. Vaqué i Vidal
+Supervisor: F. Vallespinós
+Institution: Universitat de Barcelona
+Year: 1989
+Title: Ecologia microbiana a l’estanyol d’en Cisó
+Author: J.M. Gasol
+Supervisor: C. Pedrós-Alió
+Institution: Universitat Autònoma de Barcelona
+Year: 1988
+Title: Experimentos multifactoriales con plancton marino en microcosmos
+Author: C. Marrasé Peña
+Supervisor: R. Margalef
+Institution: Universitat de Barcelona
+Year: 1986

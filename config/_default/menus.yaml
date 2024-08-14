@@ -11,32 +11,40 @@ main:
   - name: 'Group members'
     url: 'people/'
     weight: 20
- # - name: Research
- #   identifier: research
- #   url: page/research
- #   weight: 30
-  - name: Research lines
+  - name: Research
     identifier: research
     url: page/research
     weight: 30
-  - name: Projects
-    identifier: projects
-    url: page/projects
-    weight: 40
+
+  # The following items are for a menu item for research, projects and thesis
+  # to appear always visible in the top menu. Comment or uncomment along the 
+  # nested menus below to toggle between that or nested menus
+  # - name: Research lines
+  #   identifier: research
+  #   url: page/research
+  #   weight: 30
+  # - name: Projects
+  #   identifier: projects
+  #   url: page/projects
+  #   weight: 40
   - name: Publications
     url: publication
     weight: 50
 # Nested menus
-# Group members
-  # - name: Research lines
-  #   parent: research
-  #   identifier: researchLines
-  #   url: page/research
-  #   weight: 1
-  # - name: Projects
-  #   parent: research
-  #   url: page/projects
-  #   weight: 2
+# Nested menu for RESEARCH
+  - name: Research lines
+    parent: research
+    identifier: researchLines
+    url: page/research
+    weight: 1
+  - name: Projects
+    parent: research
+    url: page/projects
+    weight: 2
+  - name: PhD Thesis
+    parent: research
+    url: page/thesis
+    weight: 3
 #  - name: Events
 #    url: event
 #    weight: 40
