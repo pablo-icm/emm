@@ -28,7 +28,8 @@ main:
   #   url: page/projects
   #   weight: 40
   - name: Publications
-    url: publication
+    #url: publication
+    url: publication/#article-journal
     weight: 50
 # Nested menus
 # Nested menu for RESEARCH
