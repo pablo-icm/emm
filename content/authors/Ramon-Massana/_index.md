@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'ramonm@icm.csic.es'
+    link: 'mailto:ramonm@icm.csic.es'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/RMassanaM
