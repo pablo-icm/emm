@@ -23,7 +23,7 @@ organizations:
     url: 'https://www.icm.csic.es/'
 
 # Short bio (displayed in user profile at end of posts)
-I am microbial ecologists with a deep interest in protist ecology and evolution
+bio: I am microbial ecologists with a deep interest in protist ecology and evolution
 
 interests:
   - Protist ecology
