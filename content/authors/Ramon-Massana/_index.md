@@ -23,24 +23,25 @@ organizations:
     url: 'https://www.icm.csic.es/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: One line with your general interest.
+I am microbial ecologists with a deep interest in protist ecology and evolution
 
 interests:
-  - Add your interest 1
-  - Add your interest 2
-  - ...and so on
+  - Protist ecology
+  - Biodiversity and biogeography
+  - Genomics
+  - Heterotrophic flagellates
+  - Phagotrophy
+  - Functional genomics
 
 education:
   courses:
     - course: PhD 
-      institution: institution name
-      year: PhD year
+      institution: Universitat Autònoma de Barcelona
+      year: 1993
     - course: BsC
-      institution: BsC institution
-      year: year BsC
-    - course: add more courses if necessary
-      institution: institution
-      year: year
+      institution: Universitat Autònoma de Barcelona
+      year: 1987
+   
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -49,28 +50,20 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yourname@icm.csic.es'
+    link: 'ramonm@icm.csic.es'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/your-twitter-hanle
+    link: https://twitter.com/RMassanaM
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/your-google-scholar
+    link: https://scholar.google.com/citations?user=89bio_EAAAAJ&hl=ca&oi=ao
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/your_orcid_id
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Your_researchgate_profile
+    link: https://orcid.org/0000-0001-9172-5418
   - icon: github
     icon_pack: fab
-    link: https://github.com/your-github
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/your_insta
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/your_linkedin/
+    link: https://github.com/ramonmassana
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -89,4 +82,4 @@ user_groups:
   - Staff scientists
 ---
 
-Description of your research. Add here everything... blabalblbablablablablablab.
+I am a Research Scientist at the ICM-CSIC with a wide experience in marine microbial ecology, with special focus on protist ecology and evolution. I completed my PhD in 1993 at the Autonomous University of Barcelona. Then, I did a postdoctoral stay at the University of California, Santa Barbara and returned at the ICM, where I consolidated in 2005. My broad research line is the study of the phylogenetic and functional diversity of marine microbes. This exploration is conducted by applying simultaneously several tools, such as sequencing of environmental rDNA genes, metagenomics, single cell genomics, FISH specific countings and experiments. I am particularly interested in opening the black box of heterotrophic flagellates and exploring the role of these unpigmented protists in marine food webs as bacterial grazers and nutrient remineralizers. It is remarkable how little is known on the dominant members of this assemblage in marine waters, and I focus on a set of uncultured lineages named MAST that are widespread and abundant in surface oceans. I am the Coordinator of the group “Ecology and Genomics of Marine Microorganisms” that integrates about 30 people at the ICM, including senior scientists, postdocs, PhD students and technicians, with the common umbrella of understanding the biodiversity and functioning of marine microbial plankton. This group is the responsible for monitoring at the Blanes Bay Microbial Observatory, NW Mediterranean Coast, which operates continuously since 2001. My more than 30 years of expertise have resulted in the publication of about 150 scientific papers (H index of 61), the invitations to international meetings and the lead of several international and Spanish research projects. During 2016-2020 I have been the Coordinator of the EU Innovative Training Network [SINGEK](http://www.singek.eu) conceived to promote the use of Single Cell Genomics to address critical ecological and evolutionary questions in microbial eukaryotes. 
