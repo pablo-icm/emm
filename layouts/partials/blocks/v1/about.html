@@ -124,7 +124,19 @@
         </ul>
       </div>
       {{ end }}
-
     </div>
   </div>
 </div>
+
+{{/* The following block adds a 100% width of the window below the interests and education sections */}}
+{{/* It calls the front matter of selected_papers in the author index.md file, but it is just a markdown section. */}}
+{{ with $person.selected_papers }}
+<div class="universal-wrapper pt-5 pb-5" style="width: 100%;">
+  <div class="container">
+    <div class="article-style">
+      {{ . | markdownify }}
+    </div>
+  </div>
+</div>
+{{ end }}
+

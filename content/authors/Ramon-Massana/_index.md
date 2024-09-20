@@ -41,7 +41,10 @@ education:
     - course: BsC
       institution: Universitat Autònoma de Barcelona
       year: 1987
-   
+
+selected_papers: |
+   ### Selected papers
+   - Ramon Massana, David López-Escardó (2022). [Metagenome assembled genomes are for eukaryotes too](https://linkinghub.elsevier.com/retrieve/pii/S2666979X22000593). *Cell Genomics* 2, 100130.    
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
