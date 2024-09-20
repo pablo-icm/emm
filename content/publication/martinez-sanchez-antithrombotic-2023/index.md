@@ -10,7 +10,7 @@ authors:
 - Guiomar Mendieta
 - M. Urooj Zafar
 - Ana Belén Moreno-Castaño
-- Pablo Sanchez
+- Pablo Sánchez
 - Juan Jose Badimon
 - Maribel Diaz-Ricart
 - Gines Escolar

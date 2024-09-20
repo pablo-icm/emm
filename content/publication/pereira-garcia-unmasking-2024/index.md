@@ -21,6 +21,7 @@ year: '2024'
 date: '2024-04-01'
 publishDate: '2024-08-08T12:00:47.047399Z'
 pages: '133685'
+volume: '2'
 publication_types:
 - article-journal
 publication: '*Journal of Hazardous Materials*'

@@ -13,7 +13,7 @@ authors:
 - Pilar Gomez-Ramirez
 - Lidia Martin
 - Estefania Garcia Mateos
-- Pablo Sanchez
+- Pablo Sánchez
 - Sara Fernandez
 - Francesca Crovetto
 - Ginés Escolar
