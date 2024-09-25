@@ -1,5 +1,5 @@
 ---
-title: 'Physiological ecology of a metalimnetic textitCryptomonas population: relationships
+title: 'Physiological ecology of a metalimnetic *Cryptomonas* population: relationships
   to light, sulfide and nutrients'
 authors:
 - Josep M. Gasol
