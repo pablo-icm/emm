@@ -7,7 +7,9 @@ date: '2002-01-01'
 publishDate: '2024-08-14T09:35:58.457546Z'
 publication_types:
 - project
-publication: '*EU, MAST V*'
-summary: 'Amount awarded: XXXX€, Start: 2002 End: 2005'
+funding: 'EU, MAST V'
+summary: 'Start: 2002 End: 2005'
+start: '2002'
+end: '2005'
 abstract: ' - '
 ---

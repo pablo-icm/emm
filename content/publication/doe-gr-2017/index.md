@@ -6,7 +6,9 @@ date: '2017-01-01'
 publishDate: '2024-08-14T09:35:58.177140Z'
 publication_types:
 - project
-publication: '*GENCAT*'
-summary: 'Amount awarded: XXXX€, Start: 2017 End: 2020'
+funding: 'GENCAT'
+summary: 'Start: 2017 End: 2020'
+start: '2017'
+end: '2020'
 abstract: ' - '
 ---

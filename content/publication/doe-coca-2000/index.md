@@ -7,7 +7,9 @@ date: '2000-01-01'
 publishDate: '2024-08-14T09:35:58.487360Z'
 publication_types:
 - project
-publication: '*.*'
-summary: 'Amount awarded: XXXX€, Start: 2000 End: 2003'
+funding: '.'
+summary: 'Start: 2000 End: 2003'
+start: '2000'
+end: '2003'
 abstract: ' - '
 ---

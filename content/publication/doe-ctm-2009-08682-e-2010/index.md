@@ -8,7 +8,9 @@ date: '2010-01-01'
 publishDate: '2024-08-14T09:35:58.347055Z'
 publication_types:
 - project
-publication: '*MICINN*'
-summary: 'Amount awarded: XXXX€, Start: 2010 End: 2011'
+funding: 'MICINN'
+summary: 'Start: 2010 End: 2011'
+start: '2010'
+end: '2011'
 abstract: ' - '
 ---

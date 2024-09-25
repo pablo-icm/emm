@@ -6,7 +6,9 @@ date: '2020-01-01'
 publishDate: '2024-08-14T09:35:58.079035Z'
 publication_types:
 - project
-publication: '*European Commission*'
-summary: 'Amount awarded: XXXX€, Start: 2020 End: 2024'
+funding: 'European Commission'
+summary: 'Start: 2020 End: 2024'
+start: '2020'
+end: '2024'
 abstract: ' - '
 ---

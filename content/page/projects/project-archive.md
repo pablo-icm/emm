@@ -34,7 +34,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  # or custom view in layouts/partials/views
+  view: project-archive
 ---
 
 <!-- {{% callout note %}}

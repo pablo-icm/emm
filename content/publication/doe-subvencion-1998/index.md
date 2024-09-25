@@ -8,7 +8,9 @@ date: '1998-01-01'
 publishDate: '2024-08-14T09:35:58.528357Z'
 publication_types:
 - project
-publication: '*FEMS*'
-summary: 'Amount awarded: XXXX€, Start: 1998 End: 1998'
+funding: 'FEMS'
+summary: 'Start: 1998 End: 1998'
+start: '1998'
+end: '1998'
 abstract: ' - '
 ---

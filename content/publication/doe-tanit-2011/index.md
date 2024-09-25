@@ -7,7 +7,9 @@ date: '2011-01-01'
 publishDate: '2024-08-14T09:35:58.317840Z'
 publication_types:
 - project
-publication: '*Generalitat de Catalunya*'
-summary: 'Amount awarded: XXXX€, Start: 2011 End: 2013'
+funding: 'Generalitat de Catalunya'
+summary: 'Start: 2011 End: 2013'
+start: '2011'
+end: '2013'
 abstract: ' - '
 ---

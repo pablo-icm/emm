@@ -8,7 +8,9 @@ date: '1997-01-01'
 publishDate: '2024-08-14T09:35:58.534180Z'
 publication_types:
 - project
-publication: '*CIRIT*'
-summary: 'Amount awarded: XXXX€, Start: 1997 End: 1997'
+funding: 'CIRIT'
+summary: 'Start: 1997 End: 1997'
+start: '1997'
+end: '1997'
 abstract: ' - '
 ---

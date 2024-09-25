@@ -7,7 +7,9 @@ date: '2020-01-01'
 publishDate: '2024-08-14T09:35:58.153743Z'
 publication_types:
 - project
-publication: '*UNION EUROPEA*'
-summary: 'Amount awarded: XXXX€, Start: 2020 End: 2022'
+funding: 'UNION EUROPEA'
+summary: 'Start: 2020 End: 2022'
+start: '2020'
+end: '2022'
 abstract: ' - '
 ---

@@ -7,7 +7,9 @@ date: '2015-01-01'
 publishDate: '2024-08-14T09:35:58.230059Z'
 publication_types:
 - project
-publication: '*FEDER + MINECO*'
-summary: 'Amount awarded: XXXX€, Start: 2015 End: 2018'
+funding: 'FEDER + MINECO'
+summary: 'Start: 2015 End: 2018'
+start: '2015'
+end: '2018'
 abstract: ' - '
 ---

@@ -7,7 +7,9 @@ date: '1994-01-01'
 publishDate: '2024-08-14T09:35:58.540003Z'
 publication_types:
 - project
-publication: '*Comisión Interministerial de Ciencia y Tecnología*'
-summary: 'Amount awarded: XXXX€, Start: 1994 End: 1996'
+funding: 'Comisión Interministerial de Ciencia y Tecnología'
+summary: 'Start: 1994 End: 1996'
+start: '1994'
+end: '1996'
 abstract: ' - '
 ---

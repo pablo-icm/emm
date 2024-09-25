@@ -7,7 +7,9 @@ date: '2014-01-01'
 publishDate: '2024-08-14T09:35:58.271205Z'
 publication_types:
 - project
-publication: '*FP7-PEOPLE-2012-IEF*'
-summary: 'Amount awarded: XXXX€, Start: 2014 End: 2016'
+funding: 'FP7-PEOPLE-2012-IEF'
+summary: 'Start: 2014 End: 2016'
+start: '2014'
+end: '2016'
 abstract: ' - '
 ---

@@ -7,7 +7,9 @@ date: '1996-01-01'
 publishDate: '2024-08-14T09:35:58.516337Z'
 publication_types:
 - project
-publication: '*European Commission*'
-summary: 'Amount awarded: XXXX€, Start: 1996 End: 1998'
+funding: 'European Commission'
+summary: 'Start: 1996 End: 1998'
+start: '1996'
+end: '1998'
 abstract: ' - '
 ---

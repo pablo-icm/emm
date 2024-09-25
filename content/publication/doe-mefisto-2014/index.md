@@ -7,7 +7,9 @@ date: '2014-01-01'
 publishDate: '2024-08-14T09:35:58.241867Z'
 publication_types:
 - project
-publication: '*MINECO*'
-summary: 'Amount awarded: XXXX€, Start: 2014 End: 2017'
+funding: 'MINECO'
+summary: 'Start: 2014 End: 2017'
+start: '2014'
+end: '2017'
 abstract: ' - '
 ---

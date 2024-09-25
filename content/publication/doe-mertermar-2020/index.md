@@ -7,7 +7,9 @@ date: '2020-01-01'
 publishDate: '2024-08-14T09:35:58.130088Z'
 publication_types:
 - project
-publication: '*MCIYU*'
-summary: 'Amount awarded: XXXX€, Start: 2020 End: 2023'
+funding: 'MCIYU'
+summary: 'Start: 2020 End: 2023'
+start: '2020'
+end: '2023'
 abstract: ' - '
 ---

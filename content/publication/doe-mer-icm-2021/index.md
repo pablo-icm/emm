@@ -7,7 +7,9 @@ date: '2021-01-01'
 publishDate: '2024-08-14T09:35:58.094501Z'
 publication_types:
 - project
-publication: '*CSIC+ICM*'
-summary: 'Amount awarded: XXXX€, Start: 2021 End: 2024'
+funding: 'CSIC+ICM'
+summary: 'Start: 2021 End: 2024'
+start: '2021'
+end: '2024'
 abstract: ' - '
 ---

@@ -7,7 +7,9 @@ date: '2005-01-01'
 publishDate: '2024-08-14T09:35:58.388501Z'
 publication_types:
 - project
-publication: '*MEC*'
-summary: 'Amount awarded: XXXX€, Start: 2005 End: 2008'
+funding: 'MEC'
+summary: 'Start: 2005 End: 2008'
+start: '2005'
+end: '2008'
 abstract: ' - '
 ---
