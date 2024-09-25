@@ -29,12 +29,8 @@ content:
     author: ''
     exclude_featured: true
 design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 3
+  #   the thesis view is a custom view for EMM
+  view: thesis
 ---
 
 <!-- {{% callout note %}}

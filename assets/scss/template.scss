@@ -84,4 +84,17 @@
     color: #000; /* Hover text color */
 }
 
+/* Custom styles for thesis author metadata */
+.thesis-author {
+  font-size: 0.8rem;      /* Adjust font size */
+  line-height: 1;       /* Adjust line spacing */
+  margin-bottom: 0.5rem;  /* Optional: Add space below */
+}
+
+/* Style for "Author" label before the author's name */
+.thesis-author-label {
+  font-weight: bold;      /* Make the label bold */
+  margin-right: 5px;      /* Add some space after the label */
+}
+
 
