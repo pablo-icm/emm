@@ -17,4 +17,7 @@ doi: 10.1007/BF00008536
 links:
 - name: URL
   url: http://link.springer.com/10.1007/BF00008536
+pages: '227-240'
+volume: '211'
+number: '3'
 ---

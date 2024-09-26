@@ -15,4 +15,6 @@ doi: 10.1016/j.mib.2015.03.007
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S1369527415000429
+pages: '33-39'
+volume: '25'
 ---

@@ -33,4 +33,7 @@ abstract: Summary  Ocean acidification is increasing and affects many marine org
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.12430
+pages: '536-544'
+volume: '8'
+number: '4'
 ---

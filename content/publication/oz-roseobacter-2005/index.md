@@ -29,4 +29,7 @@ abstract: ABSTRACT  Bacteriochlorophyll a -containing aerobic anoxygenic phototr
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/AEM.71.1.344-353.2005
+pages: '344-353'
+volume: '71'
+number: '1'
 ---

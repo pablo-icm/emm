@@ -14,19 +14,20 @@
   ({{- $item.Date.Format "2006" -}}).
   <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>.
   {{ if $item.Params.publication_short }}
-    {{- $item.Params.publication_short | markdownify -}}.
+    {{- $item.Params.publication_short | markdownify -}},
   {{ else if $item.Params.publication }}
-    {{- $item.Params.publication | markdownify -}}.
+    {{- $item.Params.publication | markdownify -}},
   {{ end }}
 
   {{/* Display volume and pages */}}
-  {{ if $item.Params.volume }}
-    <span>{{ $item.Params.volume }}</span>
-  {{ end }}
+{{ if $item.Params.number }}
+    <span>{{ $item.Params.volume }}({{ $item.Params.number }}), {{ $item.Params.pages }}</span>
+    {{ else }}
+    <span>{{ $item.Params.volume }}, {{ $item.Params.pages }}</span>
+{{ end }}
 
-  {{ if $item.Params.pages }}
-    <span>, {{ $item.Params.pages }}</span>
-  {{ end }}
+
+  
 
   <p>{{ partial "page_links" (dict "page" $item "is_list" 1) }}</p>
 

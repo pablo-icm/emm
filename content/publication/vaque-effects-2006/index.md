@@ -18,4 +18,7 @@ links:
 - name: URL
   url: 
     http://scientiamarina.revistas.csic.es/index.php/scientiamarina/article/view/183/180
+pages: '59-65'
+volume: '70'
+number: '1'
 ---

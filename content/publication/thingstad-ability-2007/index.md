@@ -27,4 +27,7 @@ doi: 10.1016/j.jmarsys.2006.02.009
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0924796306001059
+pages: '15-34'
+volume: '64'
+number: '1-4'
 ---

@@ -15,4 +15,7 @@ doi: 10.1007/s10533-012-9699-y
 links:
 - name: URL
   url: http://link.springer.com/10.1007/s10533-012-9699-y
+pages: '57-74'
+volume: '110'
+number: '1-3'
 ---

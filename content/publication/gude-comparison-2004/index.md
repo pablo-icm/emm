@@ -15,4 +15,7 @@ doi: 10.1016/S0075-9511(04)80030-6
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0075951104800306
+pages: '117-123'
+volume: '34'
+number: '1-2'
 ---

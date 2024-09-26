@@ -15,4 +15,7 @@ doi: 10.1371/journal.pone.0159195
 links:
 - name: URL
   url: https://dx.plos.org/10.1371/journal.pone.0159195
+pages: 'e0159195'
+volume: '11'
+number: '7'
 ---

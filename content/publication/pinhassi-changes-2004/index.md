@@ -41,4 +41,7 @@ abstract: 'ABSTRACT  The results of empirical studies have revealed links betwee
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/AEM.70.11.6753-6766.2004
+pages: '6753-6766'
+volume: '70'
+number: '11'
 ---

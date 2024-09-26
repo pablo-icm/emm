@@ -36,4 +36,7 @@ abstract: Summary Different factors affect the way dissolved organic matter (DOM
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15292
+pages: '190-206'
+volume: '23'
+number: '1'
 ---

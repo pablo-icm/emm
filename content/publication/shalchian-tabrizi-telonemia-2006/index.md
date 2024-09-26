@@ -39,4 +39,7 @@ abstract: Recent molecular investigations of marine samples taken from different
 links:
 - name: URL
   url: https://royalsocietypublishing.org/doi/10.1098/rspb.2006.3515
+pages: '1833-1842'
+volume: '273'
+number: '1595'
 ---

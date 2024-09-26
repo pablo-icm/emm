@@ -15,4 +15,7 @@ doi: 10.1007/BF02539147
 links:
 - name: URL
   url: http://link.springer.com/10.1007/BF02539147
+pages: '99-118'
+volume: '21'
+number: '1'
 ---

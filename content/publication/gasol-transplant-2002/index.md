@@ -42,4 +42,7 @@ abstract: We performed a transplant experiment in eutrophic Sau reservoir to ass
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lo.2002.47.1.0062
+pages: '62-77'
+volume: '47'
+number: '1'
 ---

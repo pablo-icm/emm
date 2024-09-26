@@ -16,4 +16,7 @@ doi: 10.1007/s00248-013-0251-y
 links:
 - name: URL
   url: http://link.springer.com/10.1007/s00248-013-0251-y
+pages: '489-499'
+volume: '66'
+number: '3'
 ---

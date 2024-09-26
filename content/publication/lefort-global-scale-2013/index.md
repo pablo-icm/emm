@@ -14,4 +14,7 @@ doi: 10.3354/ame01643
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/ame/v70/n2/p111-130/
+pages: '111-130'
+volume: '70'
+number: '2'
 ---

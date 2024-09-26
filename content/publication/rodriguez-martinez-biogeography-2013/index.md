@@ -30,4 +30,7 @@ abstract: Abstract The MAST-4 (marine stramenopile group 4) is a widespread uncu
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/7/8/1531/7590215
+pages: '1531-1543'
+volume: '7'
+number: '8'
 ---

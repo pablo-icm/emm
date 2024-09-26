@@ -39,4 +39,7 @@ abstract: 'Summary 1. We used flow cytometry to characterize freshwater photosyn
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2427.2007.01939.x
+pages: '756-771'
+volume: '53'
+number: '4'
 ---

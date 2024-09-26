@@ -26,4 +26,7 @@ abstract: Abstract Microbes play key roles in the functioning of the biosphere. 
 links:
 - name: URL
   url: https://www.degruyter.com/document/doi/10.2478/s11535-011-0086-9/html
+pages: '887-892'
+volume: '6'
+number: '6'
 ---

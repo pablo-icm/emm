@@ -37,4 +37,7 @@ abstract: 'We investigated the short‐term effects of variable solar irradiance
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lo.2013.58.2.0489
+pages: '489-504'
+volume: '58'
+number: '2'
 ---

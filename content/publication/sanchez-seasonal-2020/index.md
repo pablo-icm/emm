@@ -50,4 +50,7 @@ abstract: Abstract  Estimation of prokaryotic growth rates is critical to unders
 links:
 - name: URL
   url: https://www.nature.com/articles/s41598-020-76590-5
+pages: '19773'
+volume: '10'
+number: '1'
 ---

@@ -12,4 +12,7 @@ doi: 10.1007/s10123-002-0059-y
 links:
 - name: URL
   url: http://link.springer.com/10.1007/s10123-002-0059-y
+pages: '45-46'
+volume: '5'
+number: '1'
 ---

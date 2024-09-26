@@ -71,4 +71,7 @@ doi: 10.1016/j.cell.2019.03.040
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0092867419303411
+pages: '1109-1123.e14'
+volume: '177'
+number: '5'
 ---

@@ -38,4 +38,7 @@ abstract: Summary  The aerobic anoxygenic phototrophic (AAP) bacteria are common
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15835
+pages: '2222-2238'
+volume: '24'
+number: '5'
 ---

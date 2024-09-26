@@ -37,4 +37,7 @@ abstract: Abstract In this work, we study the diversity of bathypelagic microbia
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/10/4/945-958/7538199
+pages: '945-958'
+volume: '10'
+number: '4'
 ---

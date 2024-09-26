@@ -16,4 +16,7 @@ doi: 10.1038/ismej.2011.118
 links:
 - name: URL
   url: https://www.nature.com/articles/ismej2011118
+pages: '650-659'
+volume: '6'
+number: '3'
 ---

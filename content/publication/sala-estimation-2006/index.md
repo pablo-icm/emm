@@ -14,4 +14,6 @@ doi: 10.3354/ame042001
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/ame/v42/n1/p1-5/
+pages: '1-5'
+volume: '42'
 ---

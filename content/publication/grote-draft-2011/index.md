@@ -34,4 +34,7 @@ doi: 10.4056/sigs.1854551
 links:
 - name: URL
   url: https://environmentalmicrobiome.biomedcentral.com/articles/10.4056/sigs.1854551
+pages: '269-278'
+volume: '5'
+number: '3'
 ---

@@ -14,4 +14,7 @@ doi: 10.1016/j.hal.2004.12.007
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S1568988305000168
+pages: '771-781'
+volume: '4'
+number: '4'
 ---

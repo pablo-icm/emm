@@ -49,4 +49,7 @@ abstract: 'ABSTRACT  High-throughput sequencing (HTS) is revolutionizing environ
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/AEM.00560-16
+pages: '4757-4766'
+volume: '82'
+number: '15'
 ---

@@ -76,4 +76,7 @@ abstract: Abstract  Single-celled eukaryotes (protists) are critical players in 
 links:
 - name: URL
   url: https://www.nature.com/articles/s41467-017-02235-3
+pages: '310'
+volume: '9'
+number: '1'
 ---

@@ -41,4 +41,7 @@ abstract: Abstract  Bacteroidetes is one of the dominant phyla of ocean bacterio
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1111/mec.15068
+pages: '2846-2859'
+volume: '28'
+number: '11'
 ---

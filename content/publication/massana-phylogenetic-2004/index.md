@@ -37,4 +37,7 @@ abstract: ABSTRACT Culture-independent molecular analyses of open-sea microorgan
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/AEM.70.6.3528-3534.2004
+pages: '3528-3534'
+volume: '70'
+number: '6'
 ---

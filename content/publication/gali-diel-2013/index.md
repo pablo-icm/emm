@@ -40,4 +40,7 @@ abstract: Abstract  Dimethylsulfide (DMS) is a biogenic gas with potential clima
 links:
 - name: URL
   url: https://agupubs.onlinelibrary.wiley.com/doi/10.1002/gbc.20047
+pages: '620-636'
+volume: '27'
+number: '3'
 ---

@@ -22,4 +22,7 @@ doi: 10.1093/plankt/fbq045
 links:
 - name: URL
   url: https://academic.oup.com/plankt/article-lookup/doi/10.1093/plankt/fbq045
+pages: '1231-1240'
+volume: '32'
+number: '9'
 ---

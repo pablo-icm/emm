@@ -36,4 +36,7 @@ abstract: We used a molecular fingerprinting technique to analyze the distributi
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lo.2004.49.4.1022
+pages: '1022-1034'
+volume: '49'
+number: '4'
 ---

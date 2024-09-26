@@ -16,4 +16,7 @@ doi: 10.1093/plankt/17.11.2131
 links:
 - name: URL
   url: https://academic.oup.com/plankt/article-lookup/doi/10.1093/plankt/17.11.2131
+pages: '2131-2154'
+volume: '17'
+number: '11'
 ---

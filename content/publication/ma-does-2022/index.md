@@ -34,4 +34,6 @@ abstract: The cell size of microbial eukaryotic plankton normally ranges from 0.
 links:
 - name: URL
   url: https://www.frontiersin.org/articles/10.3389/fmicb.2022.969799/full
+pages: '969799'
+volume: '13'
 ---

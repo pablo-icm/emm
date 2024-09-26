@@ -16,4 +16,6 @@ doi: 10.1016/j.ejop.2016.02.002
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0932473916300025
+pages: '4-11'
+volume: '55'
 ---

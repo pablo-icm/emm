@@ -17,4 +17,6 @@ doi: 10.1016/j.scitotenv.2018.02.341
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0048969718307538
+pages: '180-190'
+volume: '631-632'
 ---

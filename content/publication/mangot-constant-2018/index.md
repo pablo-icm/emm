@@ -31,4 +31,7 @@ abstract: Summary  Protists have fundamental ecological roles in marine environm
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.14408
+pages: '3876-3889'
+volume: '20'
+number: '10'
 ---

@@ -34,4 +34,7 @@ abstract: Summary The bathypelagic ocean is one of the largest ecosystems on Ear
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.14002
+pages: '713-723'
+volume: '20'
+number: '2'
 ---

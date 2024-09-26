@@ -45,4 +45,7 @@ abstract: Remote deep-ocean sediment (DOS) ecosystems are among the least explor
 links:
 - name: URL
   url: https://www.science.org/doi/10.1126/sciadv.abj9309
+pages: 'eabj9309'
+volume: '8'
+number: '5'
 ---

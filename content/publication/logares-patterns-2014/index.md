@@ -39,4 +39,7 @@ doi: 10.1016/j.cub.2014.02.050
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0960982214002188
+pages: '813-821'
+volume: '24'
+number: '8'
 ---

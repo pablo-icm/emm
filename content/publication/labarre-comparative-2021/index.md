@@ -42,4 +42,7 @@ abstract: Abstract Heterotrophic lineages of stramenopiles exhibit enormous dive
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/15/6/1767/7474566
+pages: '1767-1781'
+volume: '15'
+number: '6'
 ---

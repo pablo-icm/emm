@@ -40,4 +40,7 @@ abstract: The seasonal variation in the grazing effect of mixotrophic flagellate
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lo.2007.52.1.0456
+pages: '456-469'
+volume: '52'
+number: '1'
 ---

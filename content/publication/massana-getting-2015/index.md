@@ -42,4 +42,7 @@ abstract: Eukaryotic microbes comprise a diverse collection of phototrophic and 
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1111/mec.13210
+pages: '2904-2906'
+volume: '24'
+number: '12'
 ---

@@ -20,4 +20,7 @@ doi: 10.1078/143446104774199592
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S1434461004701777
+pages: '193-214'
+volume: '155'
+number: '2'
 ---

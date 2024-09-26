@@ -49,4 +49,7 @@ abstract: 'Abstract. The effect of inorganic nutrients on planktonic assemblages
 links:
 - name: URL
   url: https://bg.copernicus.org/articles/15/6199/2018/
+pages: '6199-6220'
+volume: '15'
+number: '20'
 ---

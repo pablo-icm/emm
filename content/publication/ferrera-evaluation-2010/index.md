@@ -16,4 +16,7 @@ doi: 10.1080/08927011003605870
 links:
 - name: URL
   url: https://www.tandfonline.com/doi/full/10.1080/08927011003605870
+pages: '349-357'
+volume: '26'
+number: '3'
 ---

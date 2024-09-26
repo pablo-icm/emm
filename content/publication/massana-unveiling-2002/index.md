@@ -33,4 +33,7 @@ abstract: ABSTRACT Despite the fact that the smallest eukaryotes (cells less tha
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/AEM.68.9.4554-4558.2002
+pages: '4554-4558'
+volume: '68'
+number: '9'
 ---

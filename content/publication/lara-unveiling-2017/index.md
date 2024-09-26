@@ -54,4 +54,7 @@ abstract: Viral activity exerts a particularly important role in the dark ocean 
 links:
 - name: URL
   url: https://www.science.org/doi/10.1126/sciadv.1602565
+pages: 'e1602565'
+volume: '3'
+number: '9'
 ---

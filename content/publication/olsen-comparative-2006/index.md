@@ -47,4 +47,7 @@ abstract: We quantify, compare, and generalize responses of experimental nutrien
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lo.2006.51.1_part_2.0488
+pages: '488-503'
+volume: '51'
+number: '1part2'
 ---

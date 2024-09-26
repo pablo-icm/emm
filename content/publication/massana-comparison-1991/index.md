@@ -13,4 +13,7 @@ doi: 10.1080/00785326.1991.10429710
 links:
 - name: URL
   url: http://www.tandfonline.com/doi/abs/10.1080/00785326.1991.10429710
+pages: '197-203'
+volume: '33'
+number: '3'
 ---

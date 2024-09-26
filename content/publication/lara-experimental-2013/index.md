@@ -19,4 +19,7 @@ doi: 10.3354/ame01636
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/ame/v70/n1/p17-32/
+pages: '17-32'
+volume: '70'
+number: '1'
 ---

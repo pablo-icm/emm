@@ -22,4 +22,7 @@ doi: 10.1007/s13280-011-0224-7
 links:
 - name: URL
   url: http://link.springer.com/10.1007/s13280-011-0224-7
+pages: '44-55'
+volume: '41'
+number: '1'
 ---

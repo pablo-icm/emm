@@ -36,4 +36,7 @@ doi: 10.1016/j.pocean.2011.05.002
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0079661111000498
+pages: '410-436'
+volume: '91'
+number: '4'
 ---

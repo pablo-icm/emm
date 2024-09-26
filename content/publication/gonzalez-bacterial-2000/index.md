@@ -40,4 +40,7 @@ abstract: ABSTRACT  The bacteria associated with oceanic algal blooms are acknow
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/AEM.66.10.4237-4246.2000
+pages: '4237-4246'
+volume: '66'
+number: '10'
 ---

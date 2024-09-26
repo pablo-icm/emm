@@ -42,4 +42,7 @@ abstract: Abstract  Background Viruses play important roles in the ocean’s bio
 links:
 - name: URL
   url: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01547-5
+pages: '118'
+volume: '11'
+number: '1'
 ---

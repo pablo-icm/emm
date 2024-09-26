@@ -38,4 +38,7 @@ abstract: Abstract The deep-sea is the largest biome of the biosphere, and conta
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/10/3/596-608/7538240
+pages: '596-608'
+volume: '10'
+number: '3'
 ---

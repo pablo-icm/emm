@@ -35,4 +35,7 @@ abstract: Abstract Biotic and abiotic particles shape the microspatial architect
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1111/mec.14421
+pages: '6827-6840'
+volume: '26'
+number: '24'
 ---

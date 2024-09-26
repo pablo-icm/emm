@@ -37,4 +37,7 @@ abstract: Despite representing only a small fraction of the ocean's dissolved or
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lo.2013.58.3.1123
+pages: '1123-1135'
+volume: '58'
+number: '3'
 ---

@@ -31,4 +31,7 @@ abstract: The taxonomic position of Blastodinium navicula Chatton and B. contor
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1111/j.1529-8817.2007.00338.x
+pages: '553-560'
+volume: '43'
+number: '3'
 ---

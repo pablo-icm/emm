@@ -15,4 +15,7 @@ doi: 10.1371/journal.pone.0022950
 links:
 - name: URL
   url: https://dx.plos.org/10.1371/journal.pone.0022950
+pages: 'e22950'
+volume: '6'
+number: '8'
 ---

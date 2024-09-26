@@ -38,4 +38,7 @@ abstract: Abstract Aquatic assemblages of heterotrophic protists are very divers
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/3/5/588/7588218
+pages: '588-596'
+volume: '3'
+number: '5'
 ---

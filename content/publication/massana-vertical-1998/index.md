@@ -34,4 +34,7 @@ abstract: A station located in the Gerlache Strait (Antarctic Peninsula) was sam
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lo.1998.43.4.0607
+pages: '607-617'
+volume: '43'
+number: '4'
 ---

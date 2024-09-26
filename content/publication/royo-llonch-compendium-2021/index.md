@@ -52,4 +52,7 @@ doi: 10.1038/s41564-021-00979-9
 links:
 - name: URL
   url: https://www.nature.com/articles/s41564-021-00979-9
+pages: '1561-1574'
+volume: '6'
+number: '12'
 ---

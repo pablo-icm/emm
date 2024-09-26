@@ -44,4 +44,7 @@ abstract: Environmental DNA and culture-based analyses have suggested that fungi
 links:
 - name: URL
   url: https://royalsocietypublishing.org/doi/10.1098/rspb.2015.2243
+pages: '20152243'
+volume: '282'
+number: '1819'
 ---

@@ -52,4 +52,6 @@ tags:
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0304389423024044
+pages: '133120'
+volume: '465'
 ---

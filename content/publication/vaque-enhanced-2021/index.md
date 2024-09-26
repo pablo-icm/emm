@@ -37,4 +37,7 @@ abstract: The ocean surface microlayer (SML), with physicochemical characteristi
 links:
 - name: URL
   url: https://www.mdpi.com/2076-2607/9/2/317
+pages: '317'
+volume: '9'
+number: '2'
 ---

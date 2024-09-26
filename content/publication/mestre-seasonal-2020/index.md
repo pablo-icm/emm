@@ -15,4 +15,6 @@ doi: 10.3389/fmicb.2020.01590
 links:
 - name: URL
   url: https://www.frontiersin.org/article/10.3389/fmicb.2020.01590/full
+pages: '1590'
+volume: '11'
 ---

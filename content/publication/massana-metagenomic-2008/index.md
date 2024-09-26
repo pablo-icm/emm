@@ -38,4 +38,7 @@ links:
 - name: URL
   url: 
     https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.2007.01549.x
+pages: '1335-1343'
+volume: '10'
+number: '5'
 ---

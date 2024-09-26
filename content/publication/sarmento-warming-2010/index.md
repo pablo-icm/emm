@@ -35,4 +35,7 @@ abstract: Previsions of a warmer ocean as a consequence of climatic change point
 links:
 - name: URL
   url: https://royalsocietypublishing.org/doi/10.1098/rstb.2010.0045
+pages: '2137-2149'
+volume: '365'
+number: '1549'
 ---

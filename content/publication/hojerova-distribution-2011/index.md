@@ -32,4 +32,7 @@ links:
 - name: URL
   url: 
     https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.2011.02540.x
+pages: '2717-2725'
+volume: '13'
+number: '10'
 ---

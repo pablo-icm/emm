@@ -17,4 +17,7 @@ doi: 10.1016/j.jembe.2007.10.017
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0022098107005394
+pages: '1-11'
+volume: '355'
+number: '1'
 ---

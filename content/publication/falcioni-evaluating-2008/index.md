@@ -36,4 +36,7 @@ abstract: 'ABSTRACT  Since heterotrophic prokaryotes play an important biogeoche
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/AEM.01668-07
+pages: '1767-1779'
+volume: '74'
+number: '6'
 ---

@@ -28,4 +28,7 @@ abstract: Abstract Aerobic anoxygenic phototrophic (AAP) bacteria are microorgan
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/11/10/2391-2393/7537813
+pages: '2391-2393'
+volume: '11'
+number: '10'
 ---

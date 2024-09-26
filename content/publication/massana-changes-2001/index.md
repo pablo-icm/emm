@@ -37,4 +37,7 @@ abstract: Bottle incubations, during which the activity and growth of prokaryote
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lo.2001.46.5.1181
+pages: '1181-1188'
+volume: '46'
+number: '5'
 ---

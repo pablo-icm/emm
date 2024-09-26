@@ -18,4 +18,6 @@ doi: 10.1016/j.dsr.2016.05.011
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0967063715301102
+pages: '111-127'
+volume: '114'
 ---

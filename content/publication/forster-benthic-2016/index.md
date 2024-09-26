@@ -45,4 +45,7 @@ doi: 10.1093/femsec/fiw120
 links:
 - name: URL
   url: https://academic.oup.com/femsec/article-lookup/doi/10.1093/femsec/fiw120
+pages: 'fiw120'
+volume: '92'
+number: '8'
 ---

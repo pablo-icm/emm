@@ -45,4 +45,7 @@ tags:
 links:
 - name: URL
   url: https://www.nature.com/articles/s41598-023-50347-2
+pages: '1-12'
+volume: '13'
+number: '1'
 ---

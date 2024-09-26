@@ -37,4 +37,7 @@ abstract: A series of dialysis experiments was performed to study the relative i
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lo.1996.41.6.1169
+pages: '1169-1179'
+volume: '41'
+number: '6'
 ---

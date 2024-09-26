@@ -20,4 +20,7 @@ doi: 10.1038/s41561-019-0421-8
 links:
 - name: URL
   url: https://www.nature.com/articles/s41561-019-0421-8
+pages: '748-754'
+volume: '12'
+number: '9'
 ---

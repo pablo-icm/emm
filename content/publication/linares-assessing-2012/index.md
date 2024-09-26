@@ -65,4 +65,7 @@ abstract: Abstract:  Although the rapid recovery of fishes after establishment
 links:
 - name: URL
   url: https://conbio.onlinelibrary.wiley.com/doi/10.1111/j.1523-1739.2011.01795.x
+pages: '88-96'
+volume: '26'
+number: '1'
 ---

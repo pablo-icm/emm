@@ -50,4 +50,7 @@ doi: 10.1038/nature16942
 links:
 - name: URL
   url: https://www.nature.com/articles/nature16942
+pages: '465-470'
+volume: '532'
+number: '7600'
 ---

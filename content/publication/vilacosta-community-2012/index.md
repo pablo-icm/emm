@@ -41,4 +41,7 @@ links:
 - name: URL
   url: 
     https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.2012.02720.x
+pages: '1390-1402'
+volume: '14'
+number: '6'
 ---

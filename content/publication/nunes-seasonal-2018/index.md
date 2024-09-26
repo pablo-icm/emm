@@ -15,4 +15,6 @@ doi: 10.3354/meps12493
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/meps/v592/p57-75/
+pages: '57-75'
+volume: '592'
 ---

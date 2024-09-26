@@ -56,4 +56,7 @@ abstract: Abstract  Aim Dispersal and environmental gradients shape marine micro
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1111/geb.13572
+pages: '2323-2336'
+volume: '31'
+number: '11'
 ---

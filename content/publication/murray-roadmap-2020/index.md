@@ -88,4 +88,7 @@ abstract: Abstract The assembly of single-amplified genomes (SAGs) and metagenom
 links:
 - name: URL
   url: https://www.nature.com/articles/s41564-020-0733-x
+pages: '987-994'
+volume: '5'
+number: '8'
 ---

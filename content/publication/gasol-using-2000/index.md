@@ -14,4 +14,7 @@ links:
 - name: URL
   url: 
     http://scientiamarina.revistas.csic.es/index.php/scientiamarina/article/view/755/772
+pages: '197-224'
+volume: '64'
+number: '2'
 ---

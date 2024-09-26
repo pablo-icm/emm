@@ -49,4 +49,7 @@ abstract: 'Abstract  Here we assess the temperature dependence of the metabolic 
 links:
 - name: URL
   url: https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017GB005629
+pages: '1141-1154'
+volume: '31'
+number: '7'
 ---

@@ -13,4 +13,7 @@ links:
 - name: URL
   url: 
     http://www.schweizerbart.de/papers/fal/detail/160/56190/Ectoenzymatic_activities_and_heterotrophic_bacteri?af=crossref
+pages: '289-303'
+volume: '160'
+number: '3'
 ---

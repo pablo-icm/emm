@@ -33,4 +33,7 @@ abstract: Abstract Protists (unicellular eukaryotes) arguably account for most e
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/7/2/351/7590137
+pages: '351-358'
+volume: '7'
+number: '2'
 ---

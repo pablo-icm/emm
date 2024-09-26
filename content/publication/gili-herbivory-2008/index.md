@@ -33,4 +33,7 @@ links:
 - name: URL
   url: 
     https://www.cambridge.org/core/product/identifier/S0025315408003214/type/journal_article
+pages: '1541-1546'
+volume: '88'
+number: '8'
 ---

@@ -42,4 +42,7 @@ abstract: Abstract Throughout coastal Antarctica, ice shelves separate oceanic w
 links:
 - name: URL
   url: https://www.nature.com/articles/s41467-021-27769-5
+pages: '117'
+volume: '13'
+number: '1'
 ---

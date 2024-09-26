@@ -36,4 +36,7 @@ abstract: ABSTRACT  Very small eukaryotic organisms (picoeukaryotes) are fundame
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/AEM.67.7.2932-2941.2001
+pages: '2932-2941'
+volume: '67'
+number: '7'
 ---

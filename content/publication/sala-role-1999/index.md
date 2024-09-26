@@ -13,4 +13,6 @@ doi: 10.3354/ame020075
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/ame/v20/n1/p75-82/
+pages: '75-82'
+volume: '20'
 ---

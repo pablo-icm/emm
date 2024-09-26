@@ -14,4 +14,7 @@ links:
 - name: URL
   url: 
     http://www.schweizerbart.de/papers/fal/detail/167/56419/Seasonal_dynamics_of_pelagic_and_benthic_littoral_?af=crossref
+pages: '351-369'
+volume: '167'
+number: '1-4'
 ---

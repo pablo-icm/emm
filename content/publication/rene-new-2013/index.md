@@ -15,4 +15,7 @@ doi: 10.1016/j.protis.2013.07.002
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S1434461013000643
+pages: '673-685'
+volume: '164'
+number: '5'
 ---

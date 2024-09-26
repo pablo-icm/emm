@@ -46,4 +46,7 @@ abstract: Abstract Deep ocean microbial communities rely on the organic carbon p
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1111/mec.15454
+pages: '1820-1838'
+volume: '29'
+number: '10'
 ---

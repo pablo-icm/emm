@@ -36,4 +36,7 @@ abstract: 'Abstract  The fine vertical distribution of phytoplankton groups with
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.10452
+pages: '665-685'
+volume: '62'
+number: '2'
 ---

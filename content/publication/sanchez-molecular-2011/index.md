@@ -44,4 +44,7 @@ links:
 - name: URL
   url: 
     https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/j.1751-7915.2011.00256.x
+pages: '628-642'
+volume: '4'
+number: '5'
 ---

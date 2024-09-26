@@ -15,4 +15,7 @@ doi: 10.1371/journal.pone.0007143
 links:
 - name: URL
   url: https://dx.plos.org/10.1371/journal.pone.0007143
+pages: 'e7143'
+volume: '4'
+number: '9'
 ---

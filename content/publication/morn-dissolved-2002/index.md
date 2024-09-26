@@ -15,4 +15,7 @@ doi: 10.1007/s00248-002-1026-z
 links:
 - name: URL
   url: http://link.springer.com/10.1007/s00248-002-1026-z
+pages: '217-223'
+volume: '44'
+number: '3'
 ---

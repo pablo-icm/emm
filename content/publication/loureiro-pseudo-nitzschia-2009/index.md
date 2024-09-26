@@ -16,4 +16,7 @@ doi: 10.1016/j.ecss.2009.04.029
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0272771409002170
+pages: '539-549'
+volume: '83'
+number: '4'
 ---

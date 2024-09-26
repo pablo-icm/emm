@@ -18,4 +18,7 @@ doi: 10.1111/j.1365-2427.2011.02628.x
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2427.2011.02628.x
+pages: '1973-1991'
+volume: '56'
+number: '10'
 ---

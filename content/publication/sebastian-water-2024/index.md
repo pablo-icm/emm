@@ -43,4 +43,7 @@ abstract: Due to the scarcity of organic matter (OM) sources in the bathypelagic
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/abs/10.1002/lno.12505
+pages: '562-575'
+volume: '69'
+number: '3'
 ---

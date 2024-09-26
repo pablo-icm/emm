@@ -40,4 +40,7 @@ abstract: Abstract Phagocytosis is a fundamental process in marine ecosystems by
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/15/1/154/7474441
+pages: '154-167'
+volume: '15'
+number: '1'
 ---

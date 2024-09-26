@@ -44,4 +44,7 @@ abstract: Abstract Subterranean estuaries are biogeochemically active coastal si
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1111/mec.16695
+pages: '5745-5764'
+volume: '31'
+number: '22'
 ---

@@ -21,4 +21,6 @@ doi: 10.1016/j.scitotenv.2021.151443
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0048969721065219
+pages: '151443'
+volume: '812'
 ---

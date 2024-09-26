@@ -34,4 +34,7 @@ abstract: Abstract Although animals are among the best studied organisms, we sti
 links:
 - name: URL
   url: https://www.nature.com/articles/s41598-018-27509-8
+pages: '9106'
+volume: '8'
+number: '1'
 ---

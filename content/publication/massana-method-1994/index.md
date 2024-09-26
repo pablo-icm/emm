@@ -26,4 +26,7 @@ abstract: 'Integrated predation (number of prey cells eaten per surface area and
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lo.1994.39.2.0248
+pages: '248-262'
+volume: '39'
+number: '2'
 ---

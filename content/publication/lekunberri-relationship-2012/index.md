@@ -19,4 +19,6 @@ doi: 10.3354/meps09480
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/meps/v448/p23-37/
+pages: '23-37'
+volume: '448'
 ---

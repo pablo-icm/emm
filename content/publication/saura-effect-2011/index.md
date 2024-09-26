@@ -17,4 +17,7 @@ doi: 10.1093/plankt/fbr068
 links:
 - name: URL
   url: https://academic.oup.com/plankt/article-lookup/doi/10.1093/plankt/fbr068
+pages: '1709-1718'
+volume: '33'
+number: '11'
 ---

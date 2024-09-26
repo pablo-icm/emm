@@ -13,4 +13,6 @@ doi: 10.1016/j.algal.2019.101577
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S2211926419302188
+pages: '101577'
+volume: '42'
 ---

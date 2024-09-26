@@ -50,4 +50,6 @@ abstract: 'Sea spray aerosol (SSA) formation plays a major role in the climate s
 links:
 - name: URL
   url: https://www.frontiersin.org/articles/10.3389/fmars.2022.827061/full
+pages: '827061'
+volume: '9'
 ---

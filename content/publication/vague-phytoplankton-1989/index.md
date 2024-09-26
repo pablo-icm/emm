@@ -12,4 +12,6 @@ publication_types:
 publication: '*Marine Ecology Progress Series*'
 doi: 10.3354/meps054137
 url_pdf: http://www.int-res.com/articles/meps/54/m054p137.pdf
+pages: '137-140'
+volume: '54'
 ---

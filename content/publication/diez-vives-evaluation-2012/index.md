@@ -14,4 +14,7 @@ doi: 10.1007/s00248-012-0087-x
 links:
 - name: URL
   url: http://link.springer.com/10.1007/s00248-012-0087-x
+pages: '1047-1055'
+volume: '64'
+number: '4'
 ---

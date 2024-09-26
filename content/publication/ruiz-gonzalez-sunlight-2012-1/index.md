@@ -17,4 +17,7 @@ doi: 10.1371/journal.pone.0045545
 links:
 - name: URL
   url: https://dx.plos.org/10.1371/journal.pone.0045545
+pages: 'e45545'
+volume: '7'
+number: '9'
 ---

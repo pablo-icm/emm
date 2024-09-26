@@ -30,4 +30,7 @@ abstract: 'To be useful in understanding natural communities, the analysis of si
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lo.1991.36.5.0860
+pages: '860-872'
+volume: '36'
+number: '5'
 ---

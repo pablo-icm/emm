@@ -12,4 +12,7 @@ doi: 10.1016/j.mib.2008.04.004
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S1369527408000568
+pages: '213-218'
+volume: '11'
+number: '3'
 ---

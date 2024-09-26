@@ -37,4 +37,7 @@ abstract: ABSTRACT We compared the phylogenetic compositions of marine planktoni
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/AEM.66.5.1777-1787.2000
+pages: '1777-1787'
+volume: '66'
+number: '5'
 ---

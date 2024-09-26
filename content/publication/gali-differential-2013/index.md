@@ -39,4 +39,7 @@ abstract: Abstract. Microbial plankton experience short-term fluctuations in tot
 links:
 - name: URL
   url: https://bg.copernicus.org/articles/10/7983/2013/
+pages: '7983-7998'
+volume: '10'
+number: '12'
 ---

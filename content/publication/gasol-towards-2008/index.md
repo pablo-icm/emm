@@ -21,4 +21,6 @@ doi: 10.3354/ame01230
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/ame/v53/n1/p21-38/
+pages: '21-38'
+volume: '53'
 ---

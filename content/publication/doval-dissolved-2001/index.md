@@ -18,4 +18,6 @@ doi: 10.3354/meps223027
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/meps/v223/p27-38/
+pages: '27-38'
+volume: '223'
 ---

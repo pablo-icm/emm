@@ -15,4 +15,7 @@ doi: 10.1016/j.jmarsys.2007.11.001
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0924796307002266
+pages: '964-977'
+volume: '74'
+number: '3-4'
 ---

@@ -17,4 +17,7 @@ doi: 10.1038/ismej.2012.169
 links:
 - name: URL
   url: https://www.nature.com/articles/ismej2012169
+pages: '1026-1037'
+volume: '7'
+number: '5'
 ---

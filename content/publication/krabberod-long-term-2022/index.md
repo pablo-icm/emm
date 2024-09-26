@@ -51,4 +51,7 @@ links:
 - name: URL
   url: 
     https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-022-00417-1
+pages: '22'
+volume: '17'
+number: '1'
 ---

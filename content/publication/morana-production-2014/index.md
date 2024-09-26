@@ -40,4 +40,7 @@ abstract: 'In pelagic ecosystems, phytoplankton extracellular release can extens
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lo.2014.59.4.1364
+pages: '1364-1375'
+volume: '59'
+number: '4'
 ---

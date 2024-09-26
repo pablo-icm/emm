@@ -11,4 +11,5 @@ doi: 10.1007/978-4-431-55130-0_1
 links:
 - name: URL
   url: https://link.springer.com/10.1007/978-4-431-55130-0_1
+pages: '3-21'
 ---

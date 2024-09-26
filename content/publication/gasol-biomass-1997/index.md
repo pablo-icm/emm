@@ -32,4 +32,7 @@ abstract: 'Patterns in primary production and carbon export from the euphotic zo
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lo.1997.42.6.1353
+pages: '1353-1363'
+volume: '42'
+number: '6'
 ---

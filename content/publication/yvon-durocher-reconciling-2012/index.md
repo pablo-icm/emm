@@ -23,4 +23,7 @@ doi: 10.1038/nature11205
 links:
 - name: URL
   url: https://www.nature.com/articles/nature11205
+pages: '472-476'
+volume: '487'
+number: '7408'
 ---

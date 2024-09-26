@@ -41,4 +41,7 @@ abstract: Abstract  The free‐living ( FL ) and particle‐attached ( PA ) mari
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1111/mec.13419
+pages: '5692-5706'
+volume: '24'
+number: '22'
 ---

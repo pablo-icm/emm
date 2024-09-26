@@ -16,4 +16,7 @@ doi: 10.1016/j.femsec.2004.10.006
 links:
 - name: URL
   url: https://academic.oup.com/femsec/article-lookup/doi/10.1016/j.femsec.2004.10.006
+pages: '79-92'
+volume: '52'
+number: '1'
 ---

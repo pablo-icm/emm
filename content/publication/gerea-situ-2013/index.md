@@ -19,4 +19,7 @@ links:
 - name: URL
   url: 
     http://academic.oup.com/plankt/article/35/1/201/1521898/In-situ-prey-selection-of-mixotrophic-and
+pages: '201-212'
+volume: '35'
+number: '1'
 ---

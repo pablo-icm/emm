@@ -32,4 +32,7 @@ abstract: Abstract Marine heterotrophic flagellates (HFs) form a diverse and eco
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.11956
+pages: '4240-4253'
+volume: '66'
+number: '12'
 ---

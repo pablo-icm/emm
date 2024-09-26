@@ -24,4 +24,7 @@ abstract: The eukaryotic picoplankton is a heterogeneous collection of small pro
 links:
 - name: URL
   url: https://www.annualreviews.org/doi/10.1146/annurev-micro-090110-102903
+pages: '91-110'
+volume: '65'
+number: '1'
 ---

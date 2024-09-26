@@ -52,4 +52,7 @@ abstract: Planktonic bacteria dominate surface ocean biomass and influence globa
 links:
 - name: URL
   url: https://pnas.org/doi/full/10.1073/pnas.1304246110
+pages: '11463-11468'
+volume: '110'
+number: '28'
 ---

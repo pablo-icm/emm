@@ -53,4 +53,7 @@ abstract: Abstract. We present an overview of the plankton studies conducted dur
 links:
 - name: URL
   url: https://bg.copernicus.org/articles/7/1543/2010/
+pages: '1543-1586'
+volume: '7'
+number: '5'
 ---

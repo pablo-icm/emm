@@ -17,4 +17,7 @@ doi: 10.1038/nature09984
 links:
 - name: URL
   url: https://www.nature.com/articles/nature09984
+pages: '200-203'
+volume: '474'
+number: '7350'
 ---

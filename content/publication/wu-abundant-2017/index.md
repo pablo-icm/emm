@@ -34,4 +34,7 @@ abstract: Summary  In this work, they compared patterns of abundant and rare pic
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.13606
+pages: '287-300'
+volume: '19'
+number: '1'
 ---

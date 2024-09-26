@@ -32,4 +32,7 @@ abstract: Summary  Estimation of growth rates is crucial to understand the ecolo
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.12535
+pages: '300-309'
+volume: '9'
+number: '3'
 ---

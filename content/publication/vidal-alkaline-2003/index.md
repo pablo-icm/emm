@@ -16,4 +16,6 @@ doi: 10.3354/meps262043
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/meps/v262/p43-53/
+pages: '43-53'
+volume: '262'
 ---

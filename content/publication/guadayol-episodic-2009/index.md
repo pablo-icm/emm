@@ -19,4 +19,6 @@ doi: 10.3354/meps07939
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/meps/v381/p139-155/
+pages: '139-155'
+volume: '381'
 ---

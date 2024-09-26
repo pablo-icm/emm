@@ -15,4 +15,6 @@ doi: 10.3354/ame020119
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/ame/v20/n2/p119-128/
+pages: '119-128'
+volume: '20'
 ---

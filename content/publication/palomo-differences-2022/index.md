@@ -95,4 +95,5 @@ tags:
 - soluble fms-like tyrosine kinase-1
 - soluble tumor necrosis factor-α receptor I
 - von Willebrand factor
+pages: 'S0002-9378(22)00227-7'
 ---

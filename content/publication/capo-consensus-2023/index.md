@@ -64,4 +64,7 @@ tags:
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13687
+pages: '190-204'
+volume: '23'
+number: '1'
 ---

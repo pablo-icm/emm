@@ -24,4 +24,7 @@ abstract: ABSTRACT An annual seasonal cycle of composition of a bacterioplankton
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/AEM.00817-07
+pages: '5962-5967'
+volume: '73'
+number: '18'
 ---

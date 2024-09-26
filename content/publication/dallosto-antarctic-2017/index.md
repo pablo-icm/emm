@@ -46,4 +46,7 @@ abstract: Abstract Climate warming affects the development and distribution of s
 links:
 - name: URL
   url: https://www.nature.com/articles/s41598-017-06188-x
+pages: '6047'
+volume: '7'
+number: '1'
 ---

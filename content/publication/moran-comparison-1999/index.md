@@ -15,4 +15,6 @@ doi: 10.3354/meps187031
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/meps/v187/p31-41/
+pages: '31-41'
+volume: '187'
 ---

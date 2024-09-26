@@ -54,4 +54,7 @@ abstract: Abstract Nucleo-cytoplasmic large DNA viruses (NCLDVs) constitute a gr
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/7/9/1678/7590279
+pages: '1678-1695'
+volume: '7'
+number: '9'
 ---

@@ -15,4 +15,7 @@ doi: 10.1016/j.protis.2012.11.006
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S1434461012001277
+pages: '369-379'
+volume: '164'
+number: '3'
 ---

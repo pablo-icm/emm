@@ -47,4 +47,7 @@ abstract: Abstract Determining the factors that influence marine microbial growt
 links:
 - name: URL
   url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018JG004554
+pages: '2890-2907'
+volume: '123'
+number: '9'
 ---

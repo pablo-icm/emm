@@ -14,4 +14,7 @@ doi: 10.1093/plankt/17.10.1879
 links:
 - name: URL
   url: https://academic.oup.com/plankt/article-lookup/doi/10.1093/plankt/17.10.1879
+pages: '1879-1903'
+volume: '17'
+number: '10'
 ---

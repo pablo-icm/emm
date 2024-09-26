@@ -41,4 +41,7 @@ links:
 - name: URL
   url: 
     https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.004296
+pages: '4329-4338'
+volume: '70'
+number: '7'
 ---

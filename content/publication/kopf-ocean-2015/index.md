@@ -168,4 +168,7 @@ links:
 - name: URL
   url: 
     https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0066-5
+pages: '27'
+volume: '4'
+number: '1'
 ---

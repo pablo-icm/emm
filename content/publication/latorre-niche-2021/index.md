@@ -54,4 +54,7 @@ abstract: 'Significance The oceans are populated by an astronomical number of pr
 links:
 - name: URL
   url: https://pnas.org/doi/full/10.1073/pnas.2020955118
+pages: 'e2020955118'
+volume: '118'
+number: '25'
 ---

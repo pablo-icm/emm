@@ -32,4 +32,7 @@ abstract: Summary  Grazing controls bacterial abundances and composition in many
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15911
+pages: '2421-2434'
+volume: '24'
+number: '5'
 ---

@@ -19,4 +19,7 @@ doi: 10.1007/s00300-021-02850-3
 links:
 - name: URL
   url: https://link.springer.com/10.1007/s00300-021-02850-3
+pages: '941-957'
+volume: '44'
+number: '5'
 ---

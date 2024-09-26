@@ -14,4 +14,7 @@ doi: 10.1016/j.syapm.2013.08.006
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0723202013001550
+pages: '68-78'
+volume: '37'
+number: '1'
 ---

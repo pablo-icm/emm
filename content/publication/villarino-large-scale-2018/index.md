@@ -50,4 +50,7 @@ abstract: Abstract Global patterns of planktonic diversity are mainly determined
 links:
 - name: URL
   url: https://www.nature.com/articles/s41467-017-02535-8
+pages: '142'
+volume: '9'
+number: '1'
 ---

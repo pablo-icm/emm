@@ -32,4 +32,7 @@ abstract: 'Abstract Depending on their relationship with the pelagic particulate
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/11/4/999-1010/7537953
+pages: '999-1010'
+volume: '11'
+number: '4'
 ---

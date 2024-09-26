@@ -31,4 +31,7 @@ abstract: Prochlorococcus is a key member of open-ocean primary producer communi
 links:
 - name: URL
   url: https://pnas.org/doi/10.1073/pnas.2302388120
+pages: 'e2302388120'
+volume: '120'
+number: '27'
 ---

@@ -40,4 +40,7 @@ abstract: 'Testing hypothesis about the biogeography of genes using large data r
 links:
 - name: URL
   url: https://doi.org/10.1093/nar/gkac420
+pages: 'W516-W526'
+volume: '50'
+number: 'W1'
 ---

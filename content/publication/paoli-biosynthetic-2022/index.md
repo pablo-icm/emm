@@ -63,4 +63,7 @@ abstract: Abstract  Natural microbial communities are phylogenetically and metab
 links:
 - name: URL
   url: https://www.nature.com/articles/s41586-022-04862-3
+pages: '111-118'
+volume: '607'
+number: '7917'
 ---

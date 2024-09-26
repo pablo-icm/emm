@@ -17,4 +17,7 @@ doi: 10.1093/plankt/fbn122
 links:
 - name: URL
   url: https://academic.oup.com/plankt/article-lookup/doi/10.1093/plankt/fbn122
+pages: '399-410'
+volume: '31'
+number: '4'
 ---

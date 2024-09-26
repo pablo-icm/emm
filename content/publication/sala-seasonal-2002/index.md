@@ -17,4 +17,6 @@ doi: 10.3354/ame027047
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/ame/v27/n1/p47-56/
+pages: '47-56'
+volume: '27'
 ---

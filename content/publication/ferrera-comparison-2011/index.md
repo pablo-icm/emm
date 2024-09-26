@@ -40,4 +40,7 @@ abstract: ABSTRACT  Growth is one of the basic attributes of any living organism
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/AEM.00208-11
+pages: '7451-7458'
+volume: '77'
+number: '21'
 ---

@@ -15,4 +15,7 @@ doi: 10.1016/j.syapm.2019.126045
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0723202019303406
+pages: '126045'
+volume: '43'
+number: '1'
 ---

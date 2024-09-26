@@ -15,4 +15,7 @@ doi: 10.3354/ame01612
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/ame/v68/n3/p231-250/
+pages: '231-250'
+volume: '68'
+number: '3'
 ---

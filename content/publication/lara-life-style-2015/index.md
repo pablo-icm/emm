@@ -21,4 +21,7 @@ doi: 10.1371/journal.pone.0114829
 links:
 - name: URL
   url: https://dx.plos.org/10.1371/journal.pone.0114829
+pages: 'e0114829'
+volume: '10'
+number: '1'
 ---

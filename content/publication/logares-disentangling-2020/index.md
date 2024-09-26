@@ -58,4 +58,7 @@ abstract: 'Abstract  Background  The ocean microbiota modulates global biogeoche
 links:
 - name: URL
   url: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00827-8
+pages: '55'
+volume: '8'
+number: '1'
 ---

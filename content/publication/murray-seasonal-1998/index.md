@@ -40,4 +40,7 @@ abstract: ABSTRACT  A previous report of high levels of members of the domain Ar
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/AEM.64.7.2585-2595.1998
+pages: '2585-2595'
+volume: '64'
+number: '7'
 ---

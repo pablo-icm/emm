@@ -33,4 +33,7 @@ abstract: Abstract  Pico‐ and nanoplankton are key players in the marine ecosy
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16153
+pages: '6052-6070'
+volume: '24'
+number: '12'
 ---

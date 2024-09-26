@@ -66,4 +66,7 @@ abstract: 'Summary  Although protists are critical components of marine ecosyste
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.12955
+pages: '4035-4049'
+volume: '17'
+number: '10'
 ---

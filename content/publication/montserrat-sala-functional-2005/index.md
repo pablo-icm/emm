@@ -17,4 +17,6 @@ doi: 10.3354/meps292013
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/meps/v292/p13-21/
+pages: '13-21'
+volume: '292'
 ---

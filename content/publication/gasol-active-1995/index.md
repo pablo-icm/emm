@@ -15,4 +15,6 @@ doi: 10.3354/meps128091
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/meps/v128/p91-97/
+pages: '91-97'
+volume: '128'
 ---

@@ -39,4 +39,7 @@ abstract: Summary Microbial eukaryotes play important roles in aquatic ecosystem
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.13566
+pages: '5249-5264'
+volume: '18'
+number: '12'
 ---

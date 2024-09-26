@@ -38,4 +38,7 @@ doi: 10.1371/journal.pbio.1001177
 links:
 - name: URL
   url: https://dx.plos.org/10.1371/journal.pbio.1001177
+pages: 'e1001177'
+volume: '9'
+number: '10'
 ---

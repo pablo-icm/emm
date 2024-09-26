@@ -20,4 +20,7 @@ doi: 10.4319/lo.2005.50.5.1677
 links:
 - name: URL
   url: http://doi.wiley.com/10.4319/lo.2005.50.5.1677
+pages: '1677-1686'
+volume: '50'
+number: '5'
 ---

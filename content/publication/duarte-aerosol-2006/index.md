@@ -43,4 +43,7 @@ abstract: Atmospheric deposition is an important source of limiting nutrients to
 links:
 - name: URL
   url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2005JG000140
+pages: '2005JG000140'
+volume: '111'
+number: 'G4'
 ---

@@ -16,4 +16,7 @@ doi: 10.1016/j.protis.2006.10.003
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S1434461006001088
+pages: '173-180'
+volume: '158'
+number: '2'
 ---

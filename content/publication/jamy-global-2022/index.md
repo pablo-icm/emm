@@ -40,4 +40,7 @@ abstract: Abstract The successful colonization of new habitats has played a fund
 links:
 - name: URL
   url: https://www.nature.com/articles/s41559-022-01838-4
+pages: '1458-1470'
+volume: '6'
+number: '10'
 ---

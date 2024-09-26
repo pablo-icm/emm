@@ -12,4 +12,7 @@ doi: 10.1086/285790
 links:
 - name: URL
   url: https://www.journals.uchicago.edu/doi/10.1086/285790
+pages: '135-152'
+volume: '146'
+number: '1'
 ---

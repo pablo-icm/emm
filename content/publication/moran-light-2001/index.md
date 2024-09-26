@@ -34,4 +34,7 @@ abstract: ABSTRACT  The effect of irradiance in the range of 400 to 700 nm or ph
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/AEM.67.9.3795-3801.2001
+pages: '3795-3801'
+volume: '67'
+number: '9'
 ---

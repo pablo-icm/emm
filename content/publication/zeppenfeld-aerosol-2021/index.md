@@ -19,4 +19,7 @@ doi: 10.1021/acsearthspacechem.0c00351
 links:
 - name: URL
   url: https://pubs.acs.org/doi/10.1021/acsearthspacechem.0c00351
+pages: '1032-1047'
+volume: '5'
+number: '5'
 ---

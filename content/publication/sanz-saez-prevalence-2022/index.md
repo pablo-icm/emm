@@ -38,4 +38,7 @@ abstract: Microbial reduction of inorganic divalent mercury (Hg2+) and methylmer
 links:
 - name: URL
   url: https://doi.org/10.1021/acs.est.1c05635
+pages: '3452-3461'
+volume: '56'
+number: '6'
 ---

@@ -35,4 +35,7 @@ abstract: Abstract Prasinophytes occur in all oceans but rarely dominate phytopl
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/11/6/1372/7537988
+pages: '1372-1385'
+volume: '11'
+number: '6'
 ---

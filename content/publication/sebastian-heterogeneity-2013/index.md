@@ -25,4 +25,7 @@ abstract: Abstract The heterotrophic bacterial community of the Eastern Mediterr
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/7/8/1665/7590191
+pages: '1665-1668'
+volume: '7'
+number: '8'
 ---

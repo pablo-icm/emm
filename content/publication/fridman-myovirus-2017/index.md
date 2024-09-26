@@ -30,4 +30,7 @@ doi: 10.1038/s41564-017-0002-9
 links:
 - name: URL
   url: https://www.nature.com/articles/s41564-017-0002-9
+pages: '1350-1357'
+volume: '2'
+number: '10'
 ---

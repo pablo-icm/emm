@@ -18,4 +18,7 @@ doi: 10.1016/j.pocean.2009.07.014
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0079661109000822
+pages: '189-196'
+volume: '83'
+number: '1-4'
 ---

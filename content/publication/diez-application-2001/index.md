@@ -40,4 +40,7 @@ abstract: ABSTRACT We used denaturing gradient gel electrophoresis (DGGE) to stu
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/AEM.67.7.2942-2951.2001
+pages: '2942-2951'
+volume: '67'
+number: '7'
 ---

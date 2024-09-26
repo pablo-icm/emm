@@ -18,4 +18,6 @@ doi: 10.3389/fmicb.2019.00760
 links:
 - name: URL
   url: https://www.frontiersin.org/article/10.3389/fmicb.2019.00760/full
+pages: '760'
+volume: '10'
 ---

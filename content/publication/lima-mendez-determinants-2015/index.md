@@ -71,4 +71,7 @@ abstract: Species interaction networks are shaped by abiotic and biotic factors.
 links:
 - name: URL
   url: https://www.science.org/doi/10.1126/science.1262073
+pages: '1262073'
+volume: '348'
+number: '6237'
 ---

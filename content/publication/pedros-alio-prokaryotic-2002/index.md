@@ -15,4 +15,7 @@ doi: 10.1016/S0967-0645(01)00125-4
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0967064501001254
+pages: '805-825'
+volume: '49'
+number: '4-5'
 ---

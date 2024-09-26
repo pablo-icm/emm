@@ -16,4 +16,7 @@ doi: 10.1016/j.tree.2014.03.006
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0169534714000640
+pages: '252-259'
+volume: '29'
+number: '5'
 ---

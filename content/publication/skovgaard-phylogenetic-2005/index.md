@@ -15,4 +15,7 @@ doi: 10.1016/j.protis.2005.08.002
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S1434461005000581
+pages: '413-423'
+volume: '156'
+number: '4'
 ---

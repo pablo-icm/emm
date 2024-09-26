@@ -43,4 +43,7 @@ abstract: Abstract  Background Microbial interactions are fundamental for Earthâ
 links:
 - name: URL
   url: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01523-z
+pages: '83'
+volume: '11'
+number: '1'
 ---

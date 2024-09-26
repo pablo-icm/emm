@@ -17,4 +17,7 @@ doi: 10.1007/s10750-012-1092-2
 links:
 - name: URL
   url: http://link.springer.com/10.1007/s10750-012-1092-2
+pages: '273-283'
+volume: '698'
+number: '1'
 ---

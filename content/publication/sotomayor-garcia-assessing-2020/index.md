@@ -49,4 +49,7 @@ abstract: We explored how changes of viral abundance and community composition a
 links:
 - name: URL
   url: https://www.mdpi.com/2075-1729/10/7/107
+pages: '107'
+volume: '10'
+number: '7'
 ---

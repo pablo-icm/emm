@@ -22,5 +22,7 @@ of variations in environmental factors, such as temperature, shaping physiologic
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.12955
+volume: '17'
+pages: '4035-4049'
 ---
 

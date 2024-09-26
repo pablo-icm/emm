@@ -18,4 +18,6 @@ doi: 10.1016/j.marpolbul.2020.111691
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0025326X20308092
+pages: '111691'
+volume: '160'
 ---

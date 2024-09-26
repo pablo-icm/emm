@@ -20,4 +20,7 @@ links:
 - name: URL
   url: 
     http://academic.oup.com/plankt/article/36/1/198/1523047/Bacterial-production-and-losses-to-predators-along
+pages: '198-213'
+volume: '36'
+number: '1'
 ---

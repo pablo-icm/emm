@@ -17,4 +17,7 @@ doi: 10.1016/j.seares.2011.03.004
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S1385110111000244
+pages: '401-413'
+volume: '65'
+number: '4'
 ---

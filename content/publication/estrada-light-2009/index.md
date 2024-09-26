@@ -17,4 +17,6 @@ doi: 10.3354/ame01268
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/ame/v54/n3/p217-231/
+pages: '217-231'
+volume: '54'
 ---

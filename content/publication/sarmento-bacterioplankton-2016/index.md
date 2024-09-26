@@ -37,4 +37,7 @@ abstract: Abstract Some prokaryotes are known to be specialized in the use of ph
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/10/11/2582-2592/7538134
+pages: '2582-2592'
+volume: '10'
+number: '11'
 ---

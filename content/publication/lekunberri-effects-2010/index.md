@@ -20,4 +20,7 @@ doi: 10.1093/plankt/fbp137
 links:
 - name: URL
   url: https://academic.oup.com/plankt/article-lookup/doi/10.1093/plankt/fbp137
+pages: '381-396'
+volume: '32'
+number: '4'
 ---

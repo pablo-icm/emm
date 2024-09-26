@@ -11,4 +11,7 @@ doi: 10.1093/emboj/cdg183
 links:
 - name: URL
   url: http://emboj.embopress.org/cgi/doi/10.1093/emboj/cdg183
+pages: '1725-1731'
+volume: '22'
+number: '8'
 ---

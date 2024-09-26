@@ -36,4 +36,7 @@ abstract: Abstract Microbes drive ecosystems under constraints imposed by viruse
 links:
 - name: URL
   url: https://www.nature.com/articles/ncomms15892
+pages: '15892'
+volume: '8'
+number: '1'
 ---

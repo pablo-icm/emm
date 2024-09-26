@@ -25,4 +25,7 @@ abstract: Cells are the building blocks of life, from single-celled microbes thr
 links:
 - name: URL
   url: https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0076
+pages: '20190076'
+volume: '374'
+number: '1786'
 ---

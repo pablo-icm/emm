@@ -39,4 +39,7 @@ abstract: ABSTRACT  We studied the effects of nutrient availability and protista
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/AEM.71.5.2381-2390.2005
+pages: '2381-2390'
+volume: '71'
+number: '5'
 ---

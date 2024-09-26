@@ -36,4 +36,7 @@ abstract: Summary  The abundance and diversity of aerobic anoxygenic phototrophs
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.12278
+pages: '2953-2965'
+volume: '16'
+number: '9'
 ---

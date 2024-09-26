@@ -15,4 +15,6 @@ doi: 10.3354/ame045171
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/ame/v45/n2/p171-180/
+pages: '171-180'
+volume: '45'
 ---

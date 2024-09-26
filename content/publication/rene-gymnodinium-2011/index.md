@@ -18,4 +18,6 @@ doi: 10.1016/j.hal.2011.08.008
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S156898831100093X
+pages: '11-25'
+volume: '12'
 ---

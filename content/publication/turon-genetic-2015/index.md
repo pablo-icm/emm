@@ -19,4 +19,7 @@ doi: 10.3354/ame01771
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/ame/v76/n2/p117-132/
+pages: '117-132'
+volume: '76'
+number: '2'
 ---

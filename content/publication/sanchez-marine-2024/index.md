@@ -49,4 +49,7 @@ tags:
 links:
 - name: URL
   url: https://www.nature.com/articles/s41597-024-02974-1
+pages: '1-12'
+volume: '11'
+number: '1'
 ---

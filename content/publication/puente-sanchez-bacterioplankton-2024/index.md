@@ -41,4 +41,7 @@ tags:
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.11546
+pages: 'e11546'
+volume: '14'
+number: '6'
 ---

@@ -75,4 +75,7 @@ abstract: Agulhas rings provide the principal route for ocean waters to circulat
 links:
 - name: URL
   url: https://www.science.org/doi/10.1126/science.1261447
+pages: '1261447'
+volume: '348'
+number: '6237'
 ---

@@ -40,4 +40,7 @@ abstract: Summary  Picocyanobacteria can occur as single‐cell (Pcy) or as colo
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.13638
+pages: '1120-1133'
+volume: '19'
+number: '3'
 ---

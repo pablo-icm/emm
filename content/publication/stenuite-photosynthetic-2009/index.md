@@ -22,4 +22,7 @@ doi: 10.1093/plankt/fbp090
 links:
 - name: URL
   url: https://academic.oup.com/plankt/article-lookup/doi/10.1093/plankt/fbp090
+pages: '1531-1544'
+volume: '31'
+number: '12'
 ---

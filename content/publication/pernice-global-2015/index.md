@@ -46,4 +46,7 @@ abstract: Abstract The dark ocean is one of the largest biomes on Earth, with cr
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/9/3/782-792/7558085
+pages: '782-792'
+volume: '9'
+number: '3'
 ---

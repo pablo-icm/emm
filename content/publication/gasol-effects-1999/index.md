@@ -13,4 +13,6 @@ doi: 10.3354/ame016251
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/ame/v16/n3/p251-264/
+pages: '251-264'
+volume: '16'
 ---

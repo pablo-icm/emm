@@ -12,4 +12,7 @@ doi: 10.1016/j.xgen.2022.100130
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S2666979X22000593
+pages: '100130'
+volume: '2'
+number: '5'
 ---

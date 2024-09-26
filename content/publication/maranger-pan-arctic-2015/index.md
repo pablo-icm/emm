@@ -16,4 +16,6 @@ doi: 10.1016/j.pocean.2015.07.006
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0079661115001585
+pages: '221-232'
+volume: '139'
 ---

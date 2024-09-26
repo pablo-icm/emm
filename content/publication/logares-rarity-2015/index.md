@@ -13,4 +13,7 @@ doi: 10.1016/j.resmic.2015.09.009
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0923250815001655
+pages: '831-841'
+volume: '166'
+number: '10'
 ---

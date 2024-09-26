@@ -82,4 +82,7 @@ abstract: Microbes are dominant drivers of biogeochemical processes, yet drawing
 links:
 - name: URL
   url: https://www.science.org/doi/10.1126/science.1261359
+pages: '1261359'
+volume: '348'
+number: '6237'
 ---

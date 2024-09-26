@@ -62,4 +62,6 @@ doi: 10.1016/j.seares.2013.05.013
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S1385110113001147
+pages: '9-29'
+volume: '83'
 ---

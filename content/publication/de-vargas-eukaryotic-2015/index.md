@@ -87,4 +87,7 @@ abstract: Marine plankton support global biological and geochemical processes. S
 links:
 - name: URL
   url: https://www.science.org/doi/10.1126/science.1261605
+pages: '1261605'
+volume: '348'
+number: '6237'
 ---

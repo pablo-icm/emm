@@ -40,4 +40,7 @@ abstract: Abstract The Mediterranean Sea is a miniature ocean divided by the Sic
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.11944
+pages: '4077-4095'
+volume: '66'
+number: '12'
 ---

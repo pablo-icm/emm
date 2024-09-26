@@ -32,4 +32,7 @@ abstract: ABSTRACT  We analyzed microbial eukaryote diversity in perennially col
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/AEM.72.5.3085-3095.2006
+pages: '3085-3095'
+volume: '72'
+number: '5'
 ---

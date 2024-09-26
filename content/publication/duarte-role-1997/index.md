@@ -13,4 +13,6 @@ doi: 10.3354/ame013101
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/ame/v13/n1/p101-111/
+pages: '101-111'
+volume: '13'
 ---

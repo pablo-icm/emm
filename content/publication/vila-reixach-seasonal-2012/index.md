@@ -15,4 +15,6 @@ doi: 10.3354/meps09677
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/meps/v456/p7-19/
+pages: '7-19'
+volume: '456'
 ---

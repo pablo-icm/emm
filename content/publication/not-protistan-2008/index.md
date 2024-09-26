@@ -22,4 +22,7 @@ doi: 10.1016/j.dsr.2008.06.007
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0967063708001325
+pages: '1456-1473'
+volume: '55'
+number: '11'
 ---

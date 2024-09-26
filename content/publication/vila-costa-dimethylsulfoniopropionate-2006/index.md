@@ -23,4 +23,7 @@ abstract: Dimethylsulfoniopropionate (DMSP) accounts for most of the organic sul
 links:
 - name: URL
   url: https://www.science.org/doi/10.1126/science.1131043
+pages: '652-654'
+volume: '314'
+number: '5799'
 ---

@@ -21,4 +21,7 @@ abstract: ABSTRACT  We tested the sensitivity of coastal picophytoplankton expos
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/AEM.71.4.2154-2157.2005
+pages: '2154-2157'
+volume: '71'
+number: '4'
 ---

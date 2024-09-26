@@ -30,4 +30,7 @@ abstract: Summary Marine microorganisms contribute markedly to global biomass an
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.12043
+pages: '1254-1261'
+volume: '15'
+number: '5'
 ---

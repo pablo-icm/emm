@@ -18,4 +18,6 @@ doi: 10.3354/ame01325
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/ame/v57/n1/p43-55/
+pages: '43-55'
+volume: '57'
 ---

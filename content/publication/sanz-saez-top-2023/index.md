@@ -50,4 +50,7 @@ tags:
 links:
 - name: URL
   url: https://www.nature.com/articles/s43705-023-00290-0
+pages: '1-13'
+volume: '3'
+number: '1'
 ---

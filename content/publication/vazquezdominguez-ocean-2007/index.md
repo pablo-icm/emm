@@ -26,4 +26,7 @@ abstract: Abstract  The increase of anthropogenic CO 2 during this century is ex
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2486.2007.01377.x
+pages: '1327-1334'
+volume: '13'
+number: '7'
 ---

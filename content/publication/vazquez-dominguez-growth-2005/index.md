@@ -16,4 +16,7 @@ links:
 - name: URL
   url: 
     http://academic.oup.com/plankt/article/27/10/1055/1490545/Growth-and-grazing-losses-of-prokaryotes-in-the
+pages: '1055-1066'
+volume: '27'
+number: '10'
 ---

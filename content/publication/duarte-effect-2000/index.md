@@ -16,4 +16,6 @@ doi: 10.3354/meps206087
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/meps/v206/p87-95/
+pages: '87-95'
+volume: '206'
 ---

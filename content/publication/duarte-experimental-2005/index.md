@@ -17,4 +17,7 @@ doi: 10.4319/lo.2005.50.6.1844
 links:
 - name: URL
   url: http://doi.wiley.com/10.4319/lo.2005.50.6.1844
+pages: '1844-1854'
+volume: '50'
+number: '6'
 ---

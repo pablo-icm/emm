@@ -16,4 +16,7 @@ doi: 10.1007/s00300-022-03073-w
 links:
 - name: URL
   url: https://link.springer.com/10.1007/s00300-022-03073-w
+pages: '1363-1378'
+volume: '45'
+number: '8'
 ---

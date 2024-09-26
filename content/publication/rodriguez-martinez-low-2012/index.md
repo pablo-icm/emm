@@ -16,4 +16,7 @@ doi: 10.1093/molbev/msr303
 links:
 - name: URL
   url: https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/msr303
+pages: '1393-1406'
+volume: '29'
+number: '5'
 ---

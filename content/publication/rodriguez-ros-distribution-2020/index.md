@@ -38,4 +38,7 @@ abstract: Isoprene is a biogenic trace gas produced by terrestrial vegetation an
 links:
 - name: URL
   url: https://www.mdpi.com/2073-4433/11/6/556
+pages: '556'
+volume: '11'
+number: '6'
 ---

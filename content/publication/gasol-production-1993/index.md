@@ -14,4 +14,7 @@ doi: 10.1080/03680770.1992.11900127
 links:
 - name: URL
   url: https://www.tandfonline.com/doi/full/10.1080/03680770.1992.11900127
+pages: '325-330'
+volume: '25'
+number: '1'
 ---

@@ -13,4 +13,6 @@ doi: 10.3354/ame032011
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/ame/v32/n1/p11-22/
+pages: '11-22'
+volume: '32'
 ---

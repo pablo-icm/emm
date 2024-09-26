@@ -42,4 +42,7 @@ abstract: Summary  Marine photosynthesis is largely driven by cyanobacteria, nam
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.13036
+pages: '5100-5108'
+volume: '17'
+number: '12'
 ---

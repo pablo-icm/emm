@@ -36,4 +36,7 @@ doi: 10.1038/nature19366
 links:
 - name: URL
   url: https://www.nature.com/articles/nature19366
+pages: '689-693'
+volume: '537'
+number: '7622'
 ---

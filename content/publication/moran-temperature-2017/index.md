@@ -39,4 +39,7 @@ abstract: Abstract  Planktonic heterotrophic prokaryotes make up the largest liv
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1111/gcb.13730
+pages: '3956-3964'
+volume: '23'
+number: '9'
 ---

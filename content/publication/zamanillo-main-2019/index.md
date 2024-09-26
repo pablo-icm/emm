@@ -48,4 +48,7 @@ abstract: 'Abstract. Transparent exopolymer particles (TEPs) are a class of gel 
 links:
 - name: URL
   url: https://bg.copernicus.org/articles/16/733/2019/
+pages: '733-749'
+volume: '16'
+number: '3'
 ---

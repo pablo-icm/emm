@@ -50,4 +50,7 @@ abstract: Abstract Mixotrophs combine photosynthesis with phagotrophy to cover t
 links:
 - name: URL
   url: https://www.nature.com/articles/srep29286
+pages: '29286'
+volume: '6'
+number: '1'
 ---

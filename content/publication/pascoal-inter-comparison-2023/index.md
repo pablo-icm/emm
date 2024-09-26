@@ -63,4 +63,7 @@ tags:
 links:
 - name: URL
   url: https://www.nature.com/articles/s43705-023-00278-w
+pages: '1-16'
+volume: '3'
+number: '1'
 ---

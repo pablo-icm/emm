@@ -38,4 +38,7 @@ abstract: 'We investigated the patterns in bacterial growth, production, respira
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lo.2011.56.1.0001
+pages: '1-16'
+volume: '56'
+number: '1'
 ---

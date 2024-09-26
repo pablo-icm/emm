@@ -18,4 +18,7 @@ doi: 10.1093/plankt/fbp115
 links:
 - name: URL
   url: https://academic.oup.com/plankt/article-lookup/doi/10.1093/plankt/fbp115
+pages: '221-238'
+volume: '32'
+number: '2'
 ---

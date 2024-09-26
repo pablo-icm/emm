@@ -16,4 +16,7 @@ abstract: This article is in Free Access Publication and may be downloaded using
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lo.1987.32.2.0285
+pages: '285-298'
+volume: '32'
+number: '2'
 ---

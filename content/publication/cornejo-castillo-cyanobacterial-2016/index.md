@@ -41,4 +41,7 @@ abstract: Abstract The unicellular cyanobacterium UCYN-A, one of the major contr
 links:
 - name: URL
   url: https://www.nature.com/articles/ncomms11071
+pages: '11071'
+volume: '7'
+number: '1'
 ---

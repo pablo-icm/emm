@@ -13,4 +13,7 @@ doi: 10.1023/A:1020578418898
 links:
 - name: URL
   url: http://link.springer.com/10.1023/A:1020578418898
+pages: '435-452'
+volume: '81'
+number: '1/4'
 ---

@@ -32,4 +32,7 @@ doi: 10.1016/j.toxicon.2010.11.019
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0041010110004150
+pages: '408-420'
+volume: '57'
+number: '3'
 ---

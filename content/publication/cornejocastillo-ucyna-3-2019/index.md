@@ -35,4 +35,7 @@ abstract: Summary  The symbiotic unicellular cyanobacterium Candidatus Atelocyan
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.14429
+pages: '111-124'
+volume: '21'
+number: '1'
 ---

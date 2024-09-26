@@ -13,4 +13,7 @@ links:
 - name: URL
   url: 
     http://www.schweizerbart.de/papers/fal/detail/161/56226/Bacterial_growth_on_macrophyte_leachate_in_the_pre?af=crossref
+pages: '371-389'
+volume: '161'
+number: '3'
 ---

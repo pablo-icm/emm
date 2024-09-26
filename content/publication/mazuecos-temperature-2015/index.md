@@ -17,4 +17,6 @@ doi: 10.1016/j.dsr.2014.10.014
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0967063714001976
+pages: '131-138'
+volume: '95'
 ---

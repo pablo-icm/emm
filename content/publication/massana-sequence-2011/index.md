@@ -36,4 +36,7 @@ abstract: Abstract Despite the ecological importance of marine pico-size eukaryo
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/5/2/184/7587838
+pages: '184-195'
+volume: '5'
+number: '2'
 ---

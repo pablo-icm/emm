@@ -37,4 +37,7 @@ links:
 - name: URL
   url: 
     https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/pmic.201000296
+pages: '2195-2211'
+volume: '11'
+number: '11'
 ---

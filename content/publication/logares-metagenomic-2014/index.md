@@ -48,4 +48,7 @@ abstract: Summary  Sequencing of 16S rDNA polymerase chain reaction ( PCR ) ampl
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.12250
+pages: '2659-2671'
+volume: '16'
+number: '9'
 ---

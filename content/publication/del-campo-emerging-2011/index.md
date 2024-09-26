@@ -13,4 +13,7 @@ doi: 10.1016/j.protis.2010.10.003
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S1434461010000830
+pages: '435-448'
+volume: '162'
+number: '3'
 ---

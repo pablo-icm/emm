@@ -18,4 +18,7 @@ doi: 10.1007/s00300-015-1852-3
 links:
 - name: URL
   url: http://link.springer.com/10.1007/s00300-015-1852-3
+pages: '1-10'
+volume: '39'
+number: '1'
 ---

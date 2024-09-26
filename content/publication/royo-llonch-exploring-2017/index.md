@@ -23,4 +23,6 @@ doi: 10.3389/fmicb.2017.01317
 links:
 - name: URL
   url: http://journal.frontiersin.org/article/10.3389/fmicb.2017.01317/full
+pages: '1317'
+volume: '8'
 ---

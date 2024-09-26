@@ -13,4 +13,6 @@ doi: 10.3354/ame046071
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/ame/v46/n1/p71-83/
+pages: '71-83'
+volume: '46'
 ---

@@ -39,4 +39,7 @@ abstract: Abstract  Marine planktonic protists are critical components of ocean 
 links:
 - name: URL
   url: https://www.nature.com/articles/s41598-019-42487-1
+pages: '6025'
+volume: '9'
+number: '1'
 ---

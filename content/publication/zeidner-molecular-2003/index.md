@@ -29,4 +29,7 @@ links:
 - name: URL
   url: 
     https://sfamjournals.onlinelibrary.wiley.com/doi/10.1046/j.1462-2920.2003.00403.x
+pages: '212-216'
+volume: '5'
+number: '3'
 ---

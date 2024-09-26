@@ -31,4 +31,7 @@ abstract: Two diel cycle studies were conducted to determine the effect of dayâ€
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lo.2012.57.1.0029
+pages: '29-42'
+volume: '57'
+number: '1'
 ---

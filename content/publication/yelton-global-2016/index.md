@@ -33,4 +33,7 @@ abstract: Abstract The assimilation of organic nutrients by autotrophs, a form o
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/10/12/2946-2957/7538100
+pages: '2946-2957'
+volume: '10'
+number: '12'
 ---

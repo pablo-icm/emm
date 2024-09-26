@@ -46,4 +46,7 @@ abstract: Abstract Nitrogen fixation has a critical role in marine primary produ
 links:
 - name: URL
   url: https://www.nature.com/articles/s41467-021-24299-y
+pages: '4160'
+volume: '12'
+number: '1'
 ---

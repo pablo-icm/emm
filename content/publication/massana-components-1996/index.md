@@ -14,4 +14,6 @@ doi: 10.3354/ame011279
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/ame/v11/n3/p279-288/
+pages: '279-288'
+volume: '11'
 ---

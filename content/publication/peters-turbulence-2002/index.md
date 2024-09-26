@@ -12,4 +12,7 @@ doi: 10.1093/plankt/24.4.321
 links:
 - name: URL
   url: https://academic.oup.com/plankt/article-lookup/doi/10.1093/plankt/24.4.321
+pages: '321-331'
+volume: '24'
+number: '4'
 ---

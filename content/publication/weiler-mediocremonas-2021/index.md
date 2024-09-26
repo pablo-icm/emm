@@ -29,4 +29,7 @@ abstract: 'Abstract  The stramenopiles are a large and diverse group of eukaryot
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1111/jeu.12825
+pages: 'e12825'
+volume: '68'
+number: '1'
 ---

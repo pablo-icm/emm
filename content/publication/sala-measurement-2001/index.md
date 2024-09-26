@@ -15,4 +15,6 @@ doi: 10.3354/ame023301
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/ame/v23/n3/p301-311/
+pages: '301-311'
+volume: '23'
 ---

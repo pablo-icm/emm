@@ -17,4 +17,7 @@ doi: 10.1007/s00792-008-0153-y
 links:
 - name: URL
   url: http://link.springer.com/10.1007/s00792-008-0153-y
+pages: '491-504'
+volume: '12'
+number: '4'
 ---

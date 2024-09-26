@@ -40,4 +40,7 @@ abstract: ABSTRACT  An understanding of the distribution of colored dissolved or
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/AEM.00200-11
+pages: '7490-7498'
+volume: '77'
+number: '21'
 ---

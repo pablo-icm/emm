@@ -37,4 +37,7 @@ abstract: 'Abstract Grazing rate estimates indicate that approximately half of t
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/8/1/164-176/7582435
+pages: '164-176'
+volume: '8'
+number: '1'
 ---

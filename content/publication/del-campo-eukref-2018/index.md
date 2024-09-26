@@ -24,4 +24,7 @@ doi: 10.1371/journal.pbio.2005849
 links:
 - name: URL
   url: https://dx.plos.org/10.1371/journal.pbio.2005849
+pages: 'e2005849'
+volume: '16'
+number: '9'
 ---

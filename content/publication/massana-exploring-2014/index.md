@@ -37,4 +37,7 @@ abstract: Abstract Molecular surveys in planktonic marine systems have unveiled 
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/8/4/854-866/7582464
+pages: '854-866'
+volume: '8'
+number: '4'
 ---

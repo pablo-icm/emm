@@ -15,4 +15,6 @@ doi: 10.3354/meps172293
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/meps/v172/p293-303/
+pages: '293-303'
+volume: '172'
 ---

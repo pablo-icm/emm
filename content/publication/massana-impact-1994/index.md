@@ -14,4 +14,7 @@ doi: 10.1093/plankt/16.10.1379
 links:
 - name: URL
   url: https://academic.oup.com/plankt/article-lookup/doi/10.1093/plankt/16.10.1379
+pages: '1379-1399'
+volume: '16'
+number: '10'
 ---

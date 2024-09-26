@@ -44,4 +44,7 @@ links:
 - name: URL
   url: 
     http://academic.oup.com/nar/article/41/D1/D597/1064851/The-Protist-Ribosomal-Reference-database-PR2-a
+pages: 'D597-D604'
+volume: '41'
+number: 'D1'
 ---

@@ -14,4 +14,7 @@ doi: 10.1007/BF00391321
 links:
 - name: URL
   url: http://link.springer.com/10.1007/BF00391321
+pages: '43-48'
+volume: '102'
+number: '1'
 ---

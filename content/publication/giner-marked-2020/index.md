@@ -36,4 +36,7 @@ abstract: 'Abstract Microbial eukaryotes are key components of the ocean plankto
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/14/2/437-449/7474917
+pages: '437-449'
+volume: '14'
+number: '2'
 ---

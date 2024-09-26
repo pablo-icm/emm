@@ -12,4 +12,7 @@ doi: 10.3354/ame01659
 links:
 - name: URL
   url: http://www.int-res.com/articles/ame_oa/a070p187.pdf/
+pages: '187-187'
+volume: '70'
+number: '3'
 ---

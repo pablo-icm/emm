@@ -37,4 +37,7 @@ abstract: Abstract Flagellated heterotrophic microeukaryotes have key roles for 
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/6/10/1823/7587724
+pages: '1823-1833'
+volume: '6'
+number: '10'
 ---

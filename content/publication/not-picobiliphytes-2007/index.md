@@ -29,4 +29,7 @@ abstract: Environmental sequencing has revealed unimagined diversity among eukar
 links:
 - name: URL
   url: https://www.science.org/doi/10.1126/science.1136264
+pages: '253-255'
+volume: '315'
+number: '5809'
 ---

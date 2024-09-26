@@ -15,4 +15,7 @@ links:
 - name: URL
   url: 
     https://academic.oup.com/femsec/article-lookup/doi/10.1111/j.1574-6941.2000.tb00726.x
+pages: '51-59'
+volume: '33'
+number: '1'
 ---

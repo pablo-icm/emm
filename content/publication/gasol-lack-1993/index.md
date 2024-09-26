@@ -31,4 +31,7 @@ abstract: The literature proposes that bacterial abundance (BA) and heterotrophi
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lo.1993.38.3.0657
+pages: '657-665'
+volume: '38'
+number: '3'
 ---

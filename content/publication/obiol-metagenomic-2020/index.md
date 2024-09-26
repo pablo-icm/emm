@@ -35,4 +35,7 @@ abstract: Abstract Surveying microbial diversity and function is accomplished by
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13147
+pages: '718-731'
+volume: '20'
+number: '3'
 ---

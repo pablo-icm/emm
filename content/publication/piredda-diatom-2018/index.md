@@ -46,4 +46,7 @@ abstract: Abstract Diatoms constitute a diverse lineage of unicellular organisms
 links:
 - name: URL
   url: https://www.nature.com/articles/s41598-018-36345-9
+pages: '18059'
+volume: '8'
+number: '1'
 ---

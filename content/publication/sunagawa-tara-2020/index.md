@@ -56,4 +56,7 @@ doi: 10.1038/s41579-020-0364-5
 links:
 - name: URL
   url: https://www.nature.com/articles/s41579-020-0364-5
+pages: '428-445'
+volume: '18'
+number: '8'
 ---

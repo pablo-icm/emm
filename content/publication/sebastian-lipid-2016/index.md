@@ -45,4 +45,7 @@ abstract: Abstract Upon phosphorus (P) deficiency, marine phytoplankton reduce t
 links:
 - name: URL
   url: https://academic.oup.com/ismej/article/10/4/968-978/7538218
+pages: '968-978'
+volume: '10'
+number: '4'
 ---

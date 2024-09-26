@@ -53,4 +53,7 @@ abstract: Abstract  Background Isolation of marine microorganisms is fundamental
 links:
 - name: URL
   url: https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-020-01884-7
+pages: '207'
+volume: '20'
+number: '1'
 ---

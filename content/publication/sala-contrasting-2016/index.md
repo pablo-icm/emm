@@ -52,4 +52,7 @@ abstract: 'Abstract We investigated the effects of an increase in dissolved CO2 
 links:
 - name: URL
   url: https://academic.oup.com/icesjms/article/73/3/670/2458721
+pages: '670-679'
+volume: '73'
+number: '3'
 ---

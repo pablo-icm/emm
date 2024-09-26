@@ -17,4 +17,6 @@ doi: 10.1016/j.marchem.2012.10.004
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0304420312001302
+pages: '44-51'
+volume: '148'
 ---

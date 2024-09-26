@@ -39,4 +39,7 @@ abstract: Abstract Pico-sized eukaryotes play key roles in the functioning of ma
 links:
 - name: URL
   url: https://www.nature.com/articles/srep41498
+pages: '41498'
+volume: '7'
+number: '1'
 ---

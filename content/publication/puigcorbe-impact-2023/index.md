@@ -35,4 +35,6 @@ abstract: Antarctic polynyas are highly productive open water areas surrounded b
 links:
 - name: URL
   url: https://www.frontiersin.org/articles/10.3389/fmicb.2023.1078469/full
+pages: '1078469'
+volume: '14'
 ---

@@ -43,4 +43,7 @@ abstract: Abstract Microbial taxa range from being ubiquitous and abundant acros
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1111/mec.15026
+pages: '1930-1945'
+volume: '28'
+number: '8'
 ---

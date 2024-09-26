@@ -38,4 +38,7 @@ abstract: 'Our pigment analyses from a year‐long study in the coastal Beaufort
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1111/j.1529-8817.2006.00310.x
+pages: '78-89'
+volume: '43'
+number: '1'
 ---

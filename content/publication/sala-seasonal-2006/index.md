@@ -14,4 +14,6 @@ doi: 10.3354/ame044001
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/ame/v44/n1/p1-9/
+pages: '1-9'
+volume: '44'
 ---

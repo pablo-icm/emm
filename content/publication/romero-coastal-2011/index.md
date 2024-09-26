@@ -17,4 +17,7 @@ doi: 10.1016/j.ecss.2011.03.019
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0272771411001120
+pages: '27-39'
+volume: '93'
+number: '1'
 ---

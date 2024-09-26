@@ -44,4 +44,7 @@ abstract: ABSTRACT  The transformation of leucine incorporation rates to prokary
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/AEM.02454-15
+pages: '8224-8232'
+volume: '81'
+number: '23'
 ---

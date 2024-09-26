@@ -38,4 +38,7 @@ abstract: 'The effect of photosynthetically available radiation (PAR; 400–700 
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lo.2012.57.5.1376
+pages: '1376-1388'
+volume: '57'
+number: '5'
 ---

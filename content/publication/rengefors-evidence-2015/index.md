@@ -32,4 +32,7 @@ abstract: 'Summary  Here we investigated whether there is evidence of local adap
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.12571
+pages: '1510-1519'
+volume: '17'
+number: '5'
 ---

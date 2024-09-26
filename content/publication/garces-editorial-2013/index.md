@@ -13,4 +13,7 @@ links:
 - name: URL
   url: 
     http://scientiamarina.revistas.csic.es/index.php/scientiamarina/article/view/1447/1561
+pages: '7'
+volume: '77'
+number: '1'
 ---

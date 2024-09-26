@@ -14,4 +14,7 @@ links:
 - name: URL
   url: 
     http://academic.oup.com/plankt/article/36/1/243/1519288/Shorttime-scale-coupling-of-picoplankton-community
+pages: '243-258'
+volume: '36'
+number: '1'
 ---

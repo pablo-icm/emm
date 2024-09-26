@@ -20,4 +20,6 @@ doi: 10.3354/ame01380
 links:
 - name: URL
   url: http://www.int-res.com/abstracts/ame/v59/n2/p169-183/
+pages: '169-183'
+volume: '59'
 ---

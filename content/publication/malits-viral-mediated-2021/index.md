@@ -55,4 +55,6 @@ abstract: Anthropogenic carbon emissions are causing changes in seawater carbona
 links:
 - name: URL
   url: https://www.frontiersin.org/articles/10.3389/fmicb.2021.635821/full
+pages: '635821'
+volume: '12'
 ---
