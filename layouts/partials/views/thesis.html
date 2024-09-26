@@ -8,7 +8,6 @@
 {{ end }}
 
 <div class="card-simple view-card">
-
   {{/* First Line: Thesis Title */}}
   <div class="section-subheading article-title mb-1 mt-3">
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
@@ -21,14 +20,18 @@
   </div>
   {{ end }}
 
-  {{/* Fourth Line: Supervisor Name */}}
+ {{/* Third Line: Supervisor Name */}}
   {{ with $item.Params.supervisor }}
   <div class="article-metadata thesis-author li-cite-author">
-    <p><strong>Supervisor:</strong> {{ . }}</p>
+    <strong>Supervisor:</strong> {{ range $index, $supervisor := . }}
+      {{ if $index }}, {{ end }}
+      <a href="{{ (printf "/emmTest/%s" (urlize $supervisor)) | relURL }}">{{ $supervisor }}</a>
+    {{ end }}
   </div>
   {{ end }}
 
-  {{/* Third Line: Date and University Name */}}
+
+  {{/* 4th Line: Date and University Name */}}
   <div class="article-metadata">
     {{ with $item.Date }}
     <p><strong>Date:</strong> {{ .Format "January 2, 2006" }}

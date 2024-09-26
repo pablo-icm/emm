@@ -1,0 +1,46 @@
+<div class="thesis-metadata">
+
+  {{ if .Params.authors }}
+      <strong>Author:</strong>
+      {{ with .Params.authors }}
+        {{ range $index, $author := . }}
+          {{ if $index }}, {{ end }}{{ $author }}
+        {{ end }}
+      {{ end }}
+  {{ end }}
+  
+  {{ if .Params.supervisor }}
+    <div class="thesis-supervisor">
+      <strong>Supervisor:</strong>
+      {{ with .Params.supervisor }}
+        {{ range $index, $supervisor := . }}
+          {{ if $index }}, {{ end }}{{ $supervisor }}
+        {{ end }}
+      {{ end }}
+    </div>
+  {{ end }}
+
+  {{ if .Params.date }}
+    <div class="article-date">
+      <strong>Published:</strong> {{ .Date.Format "January 2, 2006" }}
+    </div>
+  {{ end }}
+
+  {{ if .Params.publication }}
+    <div class="thesis-university">
+      <strong>University:</strong> {{ .Params.publication }}
+    </div>
+  {{ end }}
+
+  <div class="btn-links">
+    {{ partial "page_links_div.html" . }}
+  </div>
+
+  {{ if .Params.abstract }}
+    <div class="thesis-abstract">
+      <h3>Abstract</h3>
+      <p>{{ .Params.abstract | markdownify }}</p>
+    </div>
+  {{ end }}
+
+</div>

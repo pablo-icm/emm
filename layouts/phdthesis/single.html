@@ -1,0 +1,31 @@
+{{- define "main" -}}
+
+{{ $pub_type_csl := "" }}
+{{ $pub_type_display := "" }}
+{{ if .Params.publication_types }}
+  {{ if reflect.IsSlice .Params.publication_types }}
+    {{ $pub_type_csl = index .Params.publication_types 0 }}
+    {{ $pub_type_display = i18n (printf "pub_%s" (strings.Replace $pub_type_csl "-" "_")) | default (strings.Title $pub_type_csl) }}
+  {{ end }}
+{{ end }}
+
+<div class="pub">
+
+  {{ partial "page_header_thesis" . }}
+
+  <div class="article-container">
+
+    {{ if eq (index .Params.publication_types 0) "thesis" }}
+      {{ partial "page_metadata_thesis" . }}
+    {{ else }}
+      {{ partial "page_metadata" (dict "page" . "is_list" 0 "share" true) }}
+    {{ end }}
+
+    {{ .Content }}
+
+    {{ partial "page_footer" . }}
+
+  </div>
+</div>
+
+{{- end -}}
