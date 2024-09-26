@@ -4,7 +4,9 @@
       <strong>Author:</strong>
       {{ with .Params.authors }}
         {{ range $index, $author := . }}
-          {{ if $index }}, {{ end }}{{ $author }}
+          {{ if $index }}, {{ end }}
+          <a href="{{ (printf "/emmTest/%s" (urlize $author)) | relURL }}">
+          {{ $author }}</a>
         {{ end }}
       {{ end }}
   {{ end }}
@@ -14,7 +16,9 @@
       <strong>Supervisor:</strong>
       {{ with .Params.supervisor }}
         {{ range $index, $supervisor := . }}
-          {{ if $index }}, {{ end }}{{ $supervisor }}
+          {{ if $index }}, {{ end }}
+          <a href="{{ (printf "/emmTest/%s" (urlize $supervisor)) | relURL }}">
+          {{ $supervisor }}</a>
         {{ end }}
       {{ end }}
     </div>
