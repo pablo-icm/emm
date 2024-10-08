@@ -26,12 +26,11 @@ organizations:
 bio: I am microbial ecologists with a deep interest in protist ecology and evolution
 
 interests:
-  - Protist ecology
+  - Protist ecology and evolution
   - Biodiversity and biogeography
   - Genomics
-  - Heterotrophic flagellates
   - Phagotrophy
-  - Functional genomics
+
 
 education:
   courses:
