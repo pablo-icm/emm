@@ -1,5 +1,5 @@
 ---
-title: 'Predation by ciliates on a metalimnetic textitCryptomonas population: feeding
+title: 'Predation by ciliates on a metalimnetic *Cryptomonas* population: feeding
   rates, impact and effects of vertical migration'
 authors:
 - Carlos Pedrós-Alió
