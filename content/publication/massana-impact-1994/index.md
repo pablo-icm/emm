@@ -1,5 +1,5 @@
 ---
-title: Impact of Daphnia pulex on a metalimnetic microbial community
+title: Impact of *Daphnia pulex* on a metalimnetic microbial community
 authors:
 - Ramon Massana
 - Josep M. Gasol
