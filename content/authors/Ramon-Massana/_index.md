@@ -43,7 +43,12 @@ education:
 
 selected_papers: |
    ### Selected papers
-   - Ramon Massana, David López-Escardó (2022). [Metagenome assembled genomes are for eukaryotes too](https://linkinghub.elsevier.com/retrieve/pii/S2666979X22000593). *Cell Genomics* 2, 100130.    
+   - Paula Huber, Daniele De Angelis, Hugo Sarmento, Sebastian Metz, Caterina R. Giner, Colomban De Vargas, Luigi Maiorano, Ramon Massana, Ramiro Logares (2024). [Global distribution, diversity, and ecological niche of Picozoa, a widespread and enigmatic marine protist lineage](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01874-1). *Microbiome* 12, 162.
+   - Aleix Obiol, David López‐Escardó, Eric D. Salomaki, Monika M. Wiśniewska, Irene Forn, Elisabet Sà, Dolors Vaqué, Martin Kolísko, Ramon Massana (2023). [Gene expression dynamics of natural assemblages of heterotrophic flagellates during bacterivory](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01571-5). *Microbiome* 11, 134.    
+   - Ramon Massana, David López-Escardó (2022). [Metagenome assembled genomes are for eukaryotes too](https://linkinghub.elsevier.com/retrieve/pii/S2666979X22000593). *Cell Genomics* 2, 100130.
+   - Aurelie Labarre, David López-Escardó, Francisco Latorre, Guy Leonard, François Bucchini, Aleix Obiol, Corinne Cruaud, Michael E. Sieracki, Olivier Jaillon, Patrick Wincker, Klaas Vandepoele, Ramiro Logares, Ramon Massana (2021). [Comparative genomics reveals new functional insights in uncultured MAST species](https://www.nature.com/articles/s41396-020-00885-8). *The ISME Journal* 15, 1767-1781.
+   - Ramon Massana, Aurelie Labarre, David López-Escardó, Aleix Obiol, François Bucchini, Thomas Hackl, Matthias G. Fischer, Klaas Vandepoele, Denis V. Tikhonenkov, Filip Husnik, Patrick J. Keeling (2021). [Gene expression during bacterivorous growth of a widespread marine heterotrophic flagellate](https://www.nature.com/articles/s41396-020-00770-4). *The ISME Journal* 15, 154-167.
+   - Aleix Obiol, Caterina R. Giner, Pablo Sánchez, Carlos M. Duarte, Silvia G. Acinas, Ramon Massana (2020). [A metagenomic assessment of microbial eukaryotic diversity in the global ocea](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13147 ). *Molecular Ecology Resources* 20, 718–731.
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
