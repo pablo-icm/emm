@@ -2,8 +2,8 @@
 title: Genome basis for functional differentiation in uncultured lineages of marine bacterivores
 authors:
 - Aurélie Labarre
-date: '2020-11-01'
-publishDate: '2020-11-01'
+date: '2020-11-26'
+publishDate: '2020-11-26'
 publication_types:
 - thesis
 type: 'phdthesis'
