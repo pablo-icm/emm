@@ -2,8 +2,8 @@
 title: Culturing bias in the study of marine heterotrophic flagellates diversity 
 authors:
 - Javier del Campo
-date: '2011-05-01'
-publishDate: '2011-05-01'
+date: '2011-07-14'
+publishDate: '2011-07-14'
 publication_types:
 - thesis
 type: 'phdthesis'
