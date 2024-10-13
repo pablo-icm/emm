@@ -2,7 +2,7 @@
 title: ALLFLAGS - Global assessment of the abundance, diversity and activity of marine
   heterotrophic flagellates species
 authors:
-- Dr Jane Doe
+- Ramon Massana
 date: '2016-12-30'
 publishDate: '2024-08-14T09:35:58.206637Z'
 publication_types:
