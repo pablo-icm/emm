@@ -2,8 +2,8 @@
 title: Spatial, temporal and behavioral patterns of marine protists
 authors: 
 - Caterina R. Giner
-date: '2017-09-01'
-publishDate: '2017-09-01'
+date: '2017-09-27'
+publishDate: '2017-09-27'
 publication_types:
 - thesis
 type: 'phdthesis'
