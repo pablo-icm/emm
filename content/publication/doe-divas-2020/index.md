@@ -1,7 +1,8 @@
 ---
 title: DIVAS - Temporal trends of planktonic viruses in an oligotrophic coastal system
 authors:
-- Dolors Vaqué, Ramon Massana
+- Dolors Vaqué
+- Ramon Massana
 date: '2020-06-01'
 publishDate: '2024-08-14T09:35:58.106402Z'
 publication_types:
