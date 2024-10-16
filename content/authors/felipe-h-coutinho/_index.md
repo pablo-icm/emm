@@ -3,13 +3,13 @@
 title: Felipe H. Coutinho
 
 # Full Name (for SEO)
-first_name: Felipe H.
+first_name: Felipe H
 last_name: Coutinho
 weight: 50
 
 # Username (this should match the folder name)
 authors:
-- felipe-h.-coutinho
+- felipe-h-coutinho
 
 # Is this the primary user of the site?
 superuser: false

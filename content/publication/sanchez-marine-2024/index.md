@@ -8,14 +8,14 @@ authors:
 - Massimo C. Pernice
 - Raquel Rodríguez-Martínez
 - Guillem Salazar
-- Francisco Miguel Cornejo-Castillo
+- Francisco M Cornejo-Castillo
 - Stéphane Pesant
 - Xabier López-Alforja
-- Ester María López-García
+- Ester M López-García
 - Susana Agustí
 - Takashi Gojobori
 - Ramiro Logares
-- Maria Montserrat Sala
+- Maria M Sala
 - Dolors Vaqué
 - Ramon Massana
 - Carlos M. Duarte

@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Elisabet L. Sà
+title: Silvia G. Acinas
 
 # Full Name (for SEO)
-first_name: Elisabet L.
-last_name: Sà
-
+first_name: Silvia G
+last_name: Acinas
+weight: 10
 # Username (this should match the folder name)
-authors:
-- elisabet-l.-sà
+authors:  
+- silvia-g-acinas  
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Technician
+role: Staff scientist
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-  - course: Add your PhD program if any
+  - course: Add your PhD program
     institution: Add your Uni here
     year: Year of PhD
   - course: Add bachelor title
@@ -85,7 +85,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Technicians'
+- 'Staff scientists'
 ---
 Description of your research. Add here everything... blabalblbablablablablablab
 

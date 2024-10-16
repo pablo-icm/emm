@@ -38,16 +38,15 @@
             {{ end }}
           </select>
         </div>
-        {{/* Hard-coded EMM author list to filter publications by author, adding the functionality of a custom URL per author. See also assets/js/wowchemy-publication.js */}}
+        {{/* Filter publications by author, adding the functionality of a custom URL per author. See also assets/js/wowchemy-publication.js. Author names and slugs are in config/_default/params.yaml */}}
         <div class="col-auto">
           <select class="pub-filters form-control form-control-sm" data-filter-group="author">
             <option value="" disabled selected>EMM Author</option> <!-- Default prompt -->
-            <option value=".author-pablo-sanchez">Pablo Sánchez</option>
-            <option value=".author-ramon-massana">Ramon Massana</option>
-            <option value=".author-marta-sebastian">Marta Sebastián</option>
+            {{ range site.Params.authors }}
+            <option value=".author-{{ .slug }}">{{ .name }}</option>
+            {{ end }}
           </select>
         </div>
-
       </div>
 
       <div id="container-publications">

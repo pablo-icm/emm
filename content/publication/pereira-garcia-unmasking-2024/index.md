@@ -2,7 +2,7 @@
 title: Unmasking the physiology of mercury detoxifying bacteria from polluted sediments
 authors:
 - Carla Pereira-García
-- Elena H. del Amo
+- Elena H del Amo
 - Núria Vigués
 - Xavier Rey-Velasco
 - Blanca Rincón-Tomás
@@ -13,8 +13,8 @@ authors:
 - Angela Pannier
 - Ulrich Soltmann
 - Pablo Sánchez
-- Silvia G. Acinas
-- Andrea G. Bravo
+- Silvia G Acinas
+- Andrea G Bravo
 - Laura Alonso-Sáez
 - Olga Sánchez
 year: '2024'
