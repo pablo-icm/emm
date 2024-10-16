@@ -17,7 +17,7 @@ authors:
 - David Amouroux
 - Stefan Bertilsson
 - Olga Sánchez
-- Silvia G. Acinas
+- Silvia G Acinas
 - Laura Alonso-Sáez
 date: '2024-03-01'
 publishDate: '2024-08-08T12:00:47.013649Z'

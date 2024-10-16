@@ -14,9 +14,9 @@ authors:
 - Susana Agustí
 - Takashi Gojobori
 - Carlos M. Duarte
-- Josep M. Gasol
+- Josep M Gasol
 - Olga Sánchez
-- Silvia G. Acinas
+- Silvia G Acinas
 date: '2023-09-01'
 publishDate: '2024-08-08T12:00:47.005256Z'
 publication_types:

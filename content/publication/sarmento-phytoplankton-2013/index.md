@@ -7,7 +7,7 @@ authors:
 - Markus Lindh
 - Jarone Pinhassi
 - M. Montserrat Sala
-- Josep M. Gasol
+- Josep M Gasol
 - Cèlia Marrase
 - Gordon T. Taylor
 date: '2013-05-01'

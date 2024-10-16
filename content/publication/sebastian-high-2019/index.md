@@ -7,7 +7,7 @@ authors:
 - Clara Ruiz-González
 - Irene Forn
 - Maria Montserrat Sala
-- Josep M. Gasol
+- Josep M Gasol
 - Celia Marrasé
 date: '2019-04-01'
 publishDate: '2024-08-05T15:04:46.195275Z'

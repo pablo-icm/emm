@@ -5,7 +5,7 @@ authors:
 - Ruben Sommaruga
 - Julia S. Hofer
 - Laura Alonso-Sáez
-- Josep M. Gasol
+- Josep M Gasol
 date: '2005-04-01'
 publishDate: '2024-08-05T15:04:48.421874Z'
 publication_types:

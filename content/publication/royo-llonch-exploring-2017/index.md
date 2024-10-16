@@ -4,7 +4,7 @@ title: Exploring Microdiversity in Novel Kordia sp. (Bacteroidetes) with Proteor
 authors:
 - Marta Royo-Llonch
 - Isabel Ferrera
-- Francisco M. Cornejo-Castillo
+- Francisco M Cornejo-Castillo
 - Pablo Sánchez
 - Guillem Salazar
 - Ramunas Stepanauskas
@@ -13,7 +13,7 @@ authors:
 - Sabrina Speich
 - Lars Stemmann
 - Carlos Pedrós-Alió
-- Silvia G. Acinas
+- Silvia G Acinas
 date: '2017-07-01'
 publishDate: '2024-08-05T15:04:46.450431Z'
 publication_types:

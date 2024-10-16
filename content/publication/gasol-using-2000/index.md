@@ -2,7 +2,7 @@
 title: Using flow cytometry for counting natural planktonic bacteria and understanding
   the structure of planktonic bacterial communities
 authors:
-- Josep M. Gasol
+- Josep M Gasol
 - Paul A. Del Giorgio
 date: '2000-06-01'
 publishDate: '2024-08-05T15:04:48.863369Z'

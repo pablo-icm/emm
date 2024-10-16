@@ -11,13 +11,13 @@ authors:
 - Georg Zeller
 - Daniel R. Mende
 - Adriana Alberti
-- Francisco M. Cornejo-Castillo
+- Francisco M Cornejo-Castillo
 - Paul I. Costea
 - Corinne Cruaud
 - Francesco d'Ovidio
 - Stefan Engelen
 - Isabel Ferrera
-- Josep M. Gasol
+- Josep M Gasol
 - Lionel Guidi
 - Falk Hildebrand
 - Florian Kokoszka
@@ -50,7 +50,7 @@ authors:
 - Patrick Wincker
 - Eric Karsenti
 - Jeroen Raes
-- Silvia G. Acinas
+- Silvia G Acinas
 - Peer Bork
 - Emmanuel Boss
 - Chris Bowler

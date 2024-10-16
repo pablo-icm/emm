@@ -3,7 +3,7 @@ title: 'Bacterioplankton community structure: Protists control net production an
   the proportion of active bacteria in a coastal marine community'
 authors:
 - Paul A. Del Giorgio
-- Josep M. Gasol
+- Josep M Gasol
 - Dolors Vaqué
 - Paola Mura
 - Susana Agustí

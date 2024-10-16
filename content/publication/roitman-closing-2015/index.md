@@ -12,7 +12,7 @@ authors:
 - Matthew B. Sullivan
 - Francisco M. Cornejo‐Castillo
 - Pablo Sánchez
-- Silvia G. Acinas
+- Silvia G Acinas
 - Chris L. Dupont
 - Oded Béjà
 date: '2015-12-01'

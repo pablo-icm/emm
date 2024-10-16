@@ -5,7 +5,7 @@ authors:
 - Cedric Morana
 - Hugo Sarmento
 - Jean-Pierre Descy
-- Josep M. Gasol
+- Josep M Gasol
 - Alberto V. Borges
 - Steven Bouillon
 - François Darchambeau

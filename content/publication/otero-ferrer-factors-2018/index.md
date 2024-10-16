@@ -6,7 +6,7 @@ authors:
 - Pedro Cermeño
 - Antonio Bode
 - Bieito Fernández-Castro
-- Josep M. Gasol
+- Josep M Gasol
 - Xosé Anxelu G. Morán
 - Emilio Marañon
 - Victor Moreira-Coello

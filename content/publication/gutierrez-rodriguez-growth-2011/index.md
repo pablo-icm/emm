@@ -7,7 +7,7 @@ authors:
 - Renate Scharek
 - Ramon Massana
 - Gemma Vila
-- Josep M. Gasol
+- Josep M Gasol
 date: '2011-11-01'
 publishDate: '2024-08-05T15:04:47.657297Z'
 publication_types:

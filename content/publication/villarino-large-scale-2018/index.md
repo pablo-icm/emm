@@ -4,14 +4,14 @@ authors:
 - Ernesto Villarino
 - James R. Watson
 - Bror Jönsson
-- Josep M. Gasol
+- Josep M Gasol
 - Guillem Salazar
-- Silvia G. Acinas
+- Silvia G Acinas
 - Marta Estrada
 - Ramon Massana
 - Ramiro Logares
 - Caterina R. Giner
-- Massimo C. Pernice
+- Massimo C Pernice
 - M. Pilar Olivar
 - Leire Citores
 - Jon Corell

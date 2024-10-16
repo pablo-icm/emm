@@ -2,7 +2,7 @@
 title: A transplant experiment to identify the factors controlling bacterial abundance,
   activity, production, and community composition in a eutrophic canyon‐shaped reservoir
 authors:
-- Josep M. Gasol
+- Josep M Gasol
 - Marta Comerma
 - ', Juan Carlos García'
 - Joan Armengol

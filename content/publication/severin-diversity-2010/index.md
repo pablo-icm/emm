@@ -3,7 +3,7 @@ title: 'Diversity of nitrogen-fixing bacteria in cyanobacterial mats: Diversity 
   diazotrophs in microbial mats'
 authors:
 - Ina Severin
-- Silvia G. Acinas
+- Silvia G Acinas
 - Lucas J. Stal
 date: '2010-07-01'
 publishDate: '2024-08-05T15:04:47.756980Z'

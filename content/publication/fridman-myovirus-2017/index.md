@@ -13,11 +13,11 @@ authors:
 - Fabrice Rappaport
 - Tamar Ziv
 - Itai Sharon
-- Francisco M. Cornejo-Castillo
+- Francisco M Cornejo-Castillo
 - Alon Philosof
 - Christopher L. Dupont
 - Pablo Sánchez
-- Silvia G. Acinas
+- Silvia G Acinas
 - Forest L. Rohwer
 - Debbie Lindell
 - Oded Béjà

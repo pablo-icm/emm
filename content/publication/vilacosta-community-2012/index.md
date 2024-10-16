@@ -3,7 +3,7 @@ title: Community analysis of high‐ and low‐nucleic acid‐containing bacteri
   Mediterranean coastal waters using 16S rDNA pyrosequencing
 authors:
 - Maria Vila‐Costa
-- Josep M. Gasol
+- Josep M Gasol
 - Shalabh Sharma
 - Mary Ann Moran
 date: '2012-06-01'

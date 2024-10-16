@@ -9,8 +9,8 @@ authors:
 - Isabel Ferrera
 - Marta Sebastián
 - Carlos Pedrós‐Alió
-- Josep M. Gasol
-- Silvia G. Acinas
+- Josep M Gasol
+- Silvia G Acinas
 date: '2019-06-01'
 publishDate: '2024-08-05T15:04:46.159773Z'
 publication_types:

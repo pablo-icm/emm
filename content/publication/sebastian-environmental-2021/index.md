@@ -9,7 +9,7 @@ authors:
 - Marina Zamanillo
 - Marta Álvarez
 - Javier Arístegui
-- Josep M. Gasol
+- Josep M Gasol
 date: '2021-12-01'
 publishDate: '2024-08-05T15:04:45.888673Z'
 publication_types:

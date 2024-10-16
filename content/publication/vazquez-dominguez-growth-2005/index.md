@@ -2,7 +2,7 @@
 title: Growth and grazing losses of prokaryotes in the central Atlantic Ocean
 authors:
 - Evaristo Vázquez-Domínguez
-- Josep M. Gasol
+- Josep M Gasol
 - Susana Agustí
 - Carlos M. Duarte
 - Dolors Vaqué

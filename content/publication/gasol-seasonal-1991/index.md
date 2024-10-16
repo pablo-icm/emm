@@ -2,7 +2,7 @@
 title: Seasonal variations in size structure and procaryotic dominance in sulfurous
   Lake Cisó
 authors:
-- Josep M. Gasol
+- Josep M Gasol
 - Ricardo Guerrero
 - Carlos Pedró Alió
 date: '1991-07-01'

@@ -9,8 +9,8 @@ authors:
 - Etienne Dvorak
 - Sébastien Colin
 - Marc Picheral
-- Francisco M. Cornejo-Castillo
-- Silvia G. Acinas
+- Francisco M Cornejo-Castillo
+- Silvia G Acinas
 - Rainer Pepperkok
 - Eric Karsenti
 - Colomban De Vargas

@@ -2,11 +2,11 @@
 title: 'Tara Oceans: towards global ocean ecosystems biology'
 authors:
 - Shinichi Sunagawa
-- Silvia G. Acinas
+- Silvia G Acinas
 - Peer Bork
 - Chris Bowler
 - Tara Oceans Coordinators
-- Silvia G. Acinas
+- Silvia G Acinas
 - Marcel Babin
 - Peer Bork
 - Emmanuel Boss

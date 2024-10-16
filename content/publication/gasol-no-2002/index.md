@@ -1,7 +1,7 @@
 ---
 title: '[No title found]'
 authors:
-- Josep M. Gasol
+- Josep M Gasol
 - Carlos Pedrós-Alió
 - Dolors Vaqué
 date: '2002-01-01'

@@ -8,7 +8,7 @@ authors:
 - Enrique Lara
 - David Singer
 - Vanessa Balagué
-- Josep M. Gasol
+- Josep M Gasol
 - Ramon Massana
 date: '2021-05-01'
 publishDate: '2024-08-05T15:04:45.943097Z'

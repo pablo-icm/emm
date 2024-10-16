@@ -5,7 +5,7 @@ authors:
 - Jordi Dachs
 - Moira Llabrés
 - Patricia Alonso‐Laita
-- Josep M. Gasol
+- Josep M Gasol
 - Antonio Tovar‐Sánchez
 - Sergio Sañudo‐Wilhemy
 - Susana Agustí

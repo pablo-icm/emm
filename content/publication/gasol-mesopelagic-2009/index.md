@@ -2,7 +2,7 @@
 title: Mesopelagic prokaryotic bulk and single-cell heterotrophic activity and community
   composition in the NW Africa–Canary Islands coastal-transition zone
 authors:
-- Josep M. Gasol
+- Josep M Gasol
 - Laura Alonso-Sáez
 - Dolors Vaqué
 - Federico Baltar

@@ -6,7 +6,7 @@ authors:
 - Francesc Peters
 - Cèlia Marrasé
 - Òscar Guadayol
-- Josep M. Gasol
+- Josep M Gasol
 - Markus G. Weinbauer
 date: '2011-05-01'
 publishDate: '2024-08-05T15:04:47.581846Z'

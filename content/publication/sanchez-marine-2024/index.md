@@ -3,9 +3,9 @@ title: Marine picoplankton metagenomes and MAGs from eleven vertical profiles ob
   by the Malaspina Expedition
 authors:
 - Pablo Sánchez
-- Felipe H. Coutinho
+- Felipe H Coutinho
 - Marta Sebastián
-- Massimo C. Pernice
+- Massimo C Pernice
 - Raquel Rodríguez-Martínez
 - Guillem Salazar
 - Francisco M Cornejo-Castillo
@@ -19,8 +19,8 @@ authors:
 - Dolors Vaqué
 - Ramon Massana
 - Carlos M. Duarte
-- Silvia G. Acinas
-- Josep M. Gasol
+- Silvia G Acinas
+- Josep M Gasol
 date: '2024-02-01'
 publishDate: '2024-08-08T12:00:47.039036Z'
 publication_types:

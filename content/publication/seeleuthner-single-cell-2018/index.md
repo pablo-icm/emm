@@ -21,7 +21,7 @@ authors:
 - Marc Picheral
 - Sarah Searson
 - Tara Oceans Coordinators
-- Silvia G. Acinas
+- Silvia G Acinas
 - Emmanuel Boss
 - Michael Follows
 - Gabriel Gorsky

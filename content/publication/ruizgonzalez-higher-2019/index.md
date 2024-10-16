@@ -9,9 +9,9 @@ authors:
 - Raquel Rodríguez‐Martínez
 - Martí Galí
 - Maria Montserrat Sala
-- Silvia G. Acinas
+- Silvia G Acinas
 - Carlos M. Duarte
-- Josep M. Gasol
+- Josep M Gasol
 date: '2019-04-01'
 publishDate: '2024-08-05T15:04:46.187281Z'
 publication_types:

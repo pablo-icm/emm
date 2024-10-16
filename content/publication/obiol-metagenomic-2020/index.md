@@ -5,7 +5,7 @@ authors:
 - Caterina R. Giner
 - Pablo Sánchez
 - Carlos M. Duarte
-- Silvia G. Acinas
+- Silvia G Acinas
 - Ramon Massana
 date: '2020-05-01'
 publishDate: '2024-08-05T15:04:45.965531Z'

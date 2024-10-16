@@ -5,9 +5,9 @@ authors:
 - Nathan R. Geraldi
 - Intikhab Alam
 - Allan A. Kamau
-- Silvia G. Acinas
+- Silvia G Acinas
 - Ramiro Logares
-- Josep M. Gasol
+- Josep M Gasol
 - Ramon Massana
 - Dorte Krause-Jensen
 - Carlos M. Duarte

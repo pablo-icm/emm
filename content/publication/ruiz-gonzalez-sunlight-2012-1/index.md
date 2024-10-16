@@ -6,7 +6,7 @@ authors:
 - Martí Galí
 - Eva Sintes
 - Gerhard J. Herndl
-- Josep M. Gasol
+- Josep M Gasol
 - Rafel Simó
 date: '2012-09-01'
 publishDate: '2024-08-05T15:04:47.516043Z'

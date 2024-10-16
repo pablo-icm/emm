@@ -7,7 +7,7 @@ authors:
 - Kendra A. Turk‐Kubo
 - Marta Royo‐Llonch
 - Hanna Farnelid
-- Silvia G. Acinas
+- Silvia G Acinas
 - Jonathan P. Zehr
 date: '2019-01-01'
 publishDate: '2024-08-05T15:04:46.271279Z'

@@ -12,10 +12,10 @@ authors:
 - María J. Pujalte
 - Dolors Vaqué
 - Carlos M. Duarte
-- Josep M. Gasol
+- Josep M Gasol
 - Carlos Pedrós-Alió
 - Olga Sánchez
-- Silvia G. Acinas
+- Silvia G Acinas
 date: '2020-12-01'
 publishDate: '2024-08-05T15:04:46.011647Z'
 publication_types:

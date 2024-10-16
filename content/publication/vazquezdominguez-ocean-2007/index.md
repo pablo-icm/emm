@@ -3,7 +3,7 @@ title: Ocean warming enhances respiration and carbon demand of coastal microbial
 authors:
 - Evaristo Vázquez‐Domínguez
 - Dolors Vaqué
-- Josep M. Gasol
+- Josep M Gasol
 date: '2007-07-01'
 publishDate: '2024-08-05T15:04:48.256631Z'
 publication_types:

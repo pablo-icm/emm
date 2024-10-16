@@ -4,7 +4,7 @@ title: Effects of grazing, phosphorus and light on the growth rates of major bac
 authors:
 - Olga Sánchez
 - Michal Koblížek
-- Josep M. Gasol
+- Josep M Gasol
 - Isabel Ferrera
 date: '2017-06-01'
 publishDate: '2024-08-05T15:04:46.436837Z'

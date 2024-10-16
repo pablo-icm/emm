@@ -4,7 +4,7 @@ authors:
 - Maria Vila-Costa
 - Rafel Simó
 - Hyakubun Harada
-- Josep M. Gasol
+- Josep M Gasol
 - Doris Slezak
 - Ronald P. Kiene
 date: '2006-10-01'

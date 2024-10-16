@@ -5,7 +5,7 @@ authors:
 - Carlota R. Gazulla
 - Ana María Cabello
 - Pablo Sánchez
-- Josep M. Gasol
+- Josep M Gasol
 - Olga Sánchez
 - Isabel Ferrera
 date: '2023-05-01'

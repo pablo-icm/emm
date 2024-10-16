@@ -6,7 +6,7 @@ authors:
 - Cristina Romera-Castillo
 - Xosé Antón Álvarez-Salgado
 - Martí Galí
-- Josep M. Gasol
+- Josep M Gasol
 - Célia Marrasé
 date: '2013-01-01'
 publishDate: '2024-08-05T15:04:47.223673Z'

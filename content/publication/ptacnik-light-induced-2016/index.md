@@ -7,7 +7,7 @@ authors:
 - Stella A. Berger
 - Albert Calbet
 - Jens C. Nejstgaard
-- Josep M. Gasol
+- Josep M Gasol
 - Stamatina Isari
 - Stefanie D. Moorthi
 - Radka Ptacnikova

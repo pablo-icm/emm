@@ -4,7 +4,7 @@ authors:
 - Josep-Maria Gili
 - Alicia Duró
 - Josep García-Valero
-- Josep M. Gasol
+- Josep M Gasol
 - Sergio Rossi
 date: '2008-12-01'
 publishDate: '2024-08-05T15:04:48.081835Z'

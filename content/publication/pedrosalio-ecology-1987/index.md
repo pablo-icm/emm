@@ -3,7 +3,7 @@ title: 'On the ecology of a textitCryptomonas phaseolus population forming a met
   bloom in Lake Cisó, Spain: Annual distribution and loss factors1'
 authors:
 - Carlos Pedrós‐Alió
-- Josep M. Gasol
+- Josep M Gasol
 - Ricardo Guerrero
 date: '1987-03-01'
 publishDate: '2024-08-05T15:04:49.107282Z'

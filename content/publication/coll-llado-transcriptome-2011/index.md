@@ -3,7 +3,7 @@ title: 'Transcriptome Fingerprinting Analysis: An Approach to Explore Gene Expre
   Patterns in Marine Microbial Communities'
 authors:
 - Montserrat Coll-Lladó
-- Silvia G. Acinas
+- Silvia G Acinas
 - Cristina Pujades
 - Carlos Pedrós-Alió
 date: '2011-08-01'

@@ -11,10 +11,10 @@ authors:
 - Carolina Marín-Vindas
 - Clara Cardelús
 - Isabel Sanz-Sáez
-- Massimo C. Pernice
+- Massimo C Pernice
 - Cèlia Marrasé
 - M. Montserrat Sala
-- Josep M. Gasol
+- Josep M Gasol
 date: '2020-11-01'
 publishDate: '2024-08-05T15:04:46.097051Z'
 publication_types:

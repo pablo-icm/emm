@@ -8,7 +8,7 @@ authors:
 - Pedro C. Junger
 - Marta Royo‐Llonch
 - Carlos M. Duarte
-- Josep M. Gasol
+- Josep M Gasol
 - Olga Sánchez
 - Isabel Ferrera
 date: '2022-05-01'

@@ -7,11 +7,11 @@ authors:
 - Natalie Solonenko
 - Elisabet Laia Sà
 - J. Cesar Ignacio-Espinoza
-- Francisco M. Cornejo-Castillo
+- Francisco M Cornejo-Castillo
 - Nathan C. Verberkmoes
 - Dolors Vaqué
 - Matthew B. Sullivan
-- Silvia G. Acinas
+- Silvia G Acinas
 date: '2015-01-01'
 publishDate: '2024-08-05T15:04:46.909450Z'
 publication_types:

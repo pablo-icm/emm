@@ -4,7 +4,7 @@ title: Sunlight effects on the DMSP-sulfur and leucine assimilation activities o
 authors:
 - Clara Ruiz-González
 - Martí Galí
-- Josep M. Gasol
+- Josep M Gasol
 - Rafel Simó
 date: '2012-09-01'
 publishDate: '2024-08-05T15:04:47.509888Z'

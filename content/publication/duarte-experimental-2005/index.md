@@ -7,7 +7,7 @@ authors:
 - Nona S. R. Agawin
 - Jordi Felipe
 - Emilio O. Casamayor
-- Josep M. Gasol
+- Josep M Gasol
 date: '2005-11-01'
 publishDate: '2024-08-05T15:04:48.428765Z'
 publication_types:

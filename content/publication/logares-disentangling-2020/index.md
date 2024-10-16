@@ -13,9 +13,9 @@ authors:
 - Clara Ruiz-González
 - Marta Sebastián
 - Colomban De Vargas
-- Silvia G. Acinas
+- Silvia G Acinas
 - Carlos M. Duarte
-- Josep M. Gasol
+- Josep M Gasol
 - Ramon Massana
 date: '2020-12-01'
 publishDate: '2024-08-05T15:04:45.995065Z'

@@ -5,7 +5,7 @@ authors:
 - Viena Puigcorbé
 - Clara Ruiz-González
 - Pere Masqué
-- Josep M. Gasol
+- Josep M Gasol
 date: '2020-07-01'
 publishDate: '2024-08-05T15:04:46.090568Z'
 publication_types:

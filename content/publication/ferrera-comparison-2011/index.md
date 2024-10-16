@@ -3,7 +3,7 @@ title: Comparison of Growth Rates of Aerobic Anoxygenic Phototrophic Bacteria an
   Other Bacterioplankton Groups in Coastal Mediterranean Waters
 authors:
 - Isabel Ferrera
-- Josep M. Gasol
+- Josep M Gasol
 - Marta Sebastián
 - Eva Hojerová
 - Michal Koblížek

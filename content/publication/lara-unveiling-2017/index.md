@@ -10,7 +10,7 @@ authors:
 - Encarna Borrull
 - Cristina Díez-Vives
 - Eva Teira
-- Massimo C. Pernice
+- Massimo C Pernice
 - Francisca C. Garcia
 - Irene Forn
 - Yaiza M. Castillo
@@ -22,7 +22,7 @@ authors:
 - Gian Marco Luna
 - Susana Agustí
 - Marta Estrada
-- Josep M. Gasol
+- Josep M Gasol
 - Carlos M. Duarte
 date: '2017-09-01'
 publishDate: '2024-08-05T15:04:46.545077Z'

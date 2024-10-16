@@ -7,7 +7,7 @@ authors:
 - Jan Jezbera
 - Michal Mašín
 - Jiří Nedoma
-- Josep M. Gasol
+- Josep M Gasol
 - Michael Schauer
 date: '2005-05-01'
 publishDate: '2024-08-05T15:04:48.447702Z'

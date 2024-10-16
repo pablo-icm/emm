@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {{ partial "head" . }}
+</head>
+<body>
+  <main>
+    {{ partial "header" . }}
+
+    <div class="container">
+      <article>
+
+        {{/* Title */}}
+        <h1>{{ .Title }}</h1>
+
+        {{/* Author */}}
+        {{ with .Params.author }}
+        <p><strong>Author:</strong> {{ . }}</p>
+        {{ end }}
+
+        {{/* Date and University */}}
+        {{ with .Date }}
+        <p><strong>Date:</strong> {{ .Format "January 2, 2006" }},
+        {{ end }}
+        {{ with .Params.university }}
+        <strong>University:</strong> {{ . }}</p>
+        {{ end }}
+
+        {{/* Supervisor */}}
+        {{ with .Params.supervisor }}
+        <p><strong>Supervisor:</strong> {{ . }}</p>
+        {{ end }}
+
+        {{/* Abstract */}}
+        {{ with .Params.abstract }}
+        <div>
+          <h3>Abstract</h3>
+          <p>{{ . | markdownify }}</p>
+        </div>
+        {{ end }}
+
+        {{/* Attachments Section (if any) */}}
+        {{ $has_attachments := partial "functions/has_attachments" . }}
+        {{ if $has_attachments }}
+        <div class="btn-links">
+          {{ partial "page_links" (dict "page" . "is_list" 0) }}
+        </div>
+        {{ end }}
+
+      </article>
+    </div>
+
+    {{ partial "footer" . }}
+  </main>
+</body>
+</html>

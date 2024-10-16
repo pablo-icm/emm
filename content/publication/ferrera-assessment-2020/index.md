@@ -7,7 +7,7 @@ authors:
 - David Funosas
 - Jordi Camp
 - Ramon Massana
-- Josep M. Gasol
+- Josep M Gasol
 - Esther Garcés
 date: '2020-11-01'
 publishDate: '2024-08-05T15:04:45.980776Z'

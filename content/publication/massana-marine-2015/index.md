@@ -25,7 +25,7 @@ authors:
 - Fabrice Not
 - Hiroyuki Ogata
 - Jan Pawlowski
-- Massimo C. Pernice
+- Massimo C Pernice
 - Ian Probert
 - Sarah Romac
 - Thomas Richards
