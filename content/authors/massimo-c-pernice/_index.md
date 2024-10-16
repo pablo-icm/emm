@@ -1,21 +1,20 @@
 ---
 # Display name
-title: Maria M. Sala
+title: Massimo C. Pernice
 
 # Full Name (for SEO)
-first_name: Maria Montserrat
-last_name: Sala
-weight: 110
+first_name: Massimo C.
+last_name: Pernice
 
 # Username (this should match the folder name)
 authors:
-- maria-m.-sala
+- massimo-c-pernice
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Staff scientist
+role: Postdoctoral scientist
 
 # Organizations/Affiliations
 organizations:
@@ -86,7 +85,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Staff scientists'
+- 'Postdoctoral scientists'
 ---
 Description of your research. Add here everything... blabalblbablablablablablab
 

@@ -1,0 +1,71 @@
+{{- define "main" -}}
+{{ $.Page.Store.Set "has_isotope" true }}
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  <div class="row">
+    <div class="col-lg-12">
+
+      {{ with .Content }}
+      <div class="article-style">{{ . }}</div>
+      {{ end }}
+
+      <div class="form-row mb-4">
+        <div class="col-auto">
+          <input type="search" class="filter-search form-control form-control-sm" placeholder="{{ i18n "search_placeholder" }}" autocapitalize="off"
+          autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
+        </div>
+        <div class="col-auto">
+          <select class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype">
+            <option value="*">{{ i18n "publication_type" }}</option>
+            {{ range $index, $taxonomy := site.Taxonomies.publication_types }}
+            <option value=".pubtype-{{ $index }}">
+              {{ i18n (printf "pub_%s" (strings.Replace $index "-" "_")) | default (strings.Title $index) }}
+            </option>
+            {{ end }}
+          </select>
+        </div>
+        <div class="col-auto">
+          <select class="pub-filters form-control form-control-sm" data-filter-group="year">
+            <option value="*">{{ i18n "date" }}</option>
+            {{ $years_sorted := $.Scratch.GetSortedMapValues "years" }}
+            {{ if $years_sorted }}
+            {{ range $year := sort $years_sorted "" "desc" }}
+            <option value=".year-{{ $year }}">
+              {{ $year }}
+            </option>
+            {{ end }}
+            {{ end }}
+          </select>
+        </div>
+        {{/* Filter publications by author, adding the functionality of a custom URL per author. See also assets/js/wowchemy-publication.js. Author names and slugs are in config/_default/params.yaml */}}
+        <div class="col-auto">
+          <select class="pub-filters form-control form-control-sm" data-filter-group="author">
+            <option value="" disabled selected>EMM Author</option> <!-- Default prompt -->
+            {{ range site.Params.authors }}
+            <option value=".author-{{ .slug }}">{{ .name }}</option>
+            {{ end }}
+          </select>
+        </div>
+      </div>
+
+      <div id="container-publications">
+        {{ range $index, $item := .Pages.ByDate.Reverse }}
+        {{ if .Params.publication_types }}
+          {{ $.Scratch.Set "pubtype" (index .Params.publication_types 0) }}
+        {{ else }}
+          {{ $.Scratch.Set "pubtype" 0 }}
+        {{ end }}
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-{{ $.Scratch.Get "pubtype" }} year-{{ .Date.Format "2006" }} {{ range .Params.authors }}author-{{ . | urlize }} {{ end }}">
+          {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+        </div>
+
+        {{ end }}
+      </div>
+
+    </div>
+  </div>
+</div>
+
+{{- end -}}

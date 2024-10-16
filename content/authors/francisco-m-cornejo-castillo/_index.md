@@ -1,20 +1,21 @@
 ---
 # Display name
-title: Caterina R. Giner
+title: Fran Cornejo-Castillo
 
 # Full Name (for SEO)
-first_name: Caterina R.
-last_name: Giner
+first_name: Francisco M
+last_name: Cornejo-Castillo
+weight: 40
 
 # Username (this should match the folder name)
 authors:
-- caterina-r.-giner
+- francisco-m-cornejo-castillo
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Technician
+role: Staff scientist
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +32,7 @@ interests:
 
 education:
   courses:
-  - course: Add your PhD program if any
+  - course: Add your PhD program
     institution: Add your Uni here
     year: Year of PhD
   - course: Add bachelor title
@@ -85,7 +86,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Technicians'
+- 'Staff scientists'
 ---
 Description of your research. Add here everything... blabalblbablablablablablab
 

@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Fran Cornejo-Castillo
+title: Maria M. Sala
 
 # Full Name (for SEO)
-first_name: Fran
-last_name: Cornejo-Castillo
-weight: 40
+first_name: Maria Montserrat
+last_name: Sala
+weight: 110
 
 # Username (this should match the folder name)
 authors:
-- francisco-m.-cornejo-castillo
+- maria-m-sala
 
 # Is this the primary user of the site?
 superuser: false

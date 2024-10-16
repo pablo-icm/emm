@@ -3,7 +3,7 @@
 title: Andrea G. Bravo
 
 # Full Name (for SEO)
-first_name: Andrea G.
+first_name: Andrea G
 last_name: Bravo
 weight: 20
 

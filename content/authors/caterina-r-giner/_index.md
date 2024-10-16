@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Massimo C. Pernice
+title: Caterina R. Giner
 
 # Full Name (for SEO)
-first_name: Massimo C.
-last_name: Pernice
+first_name: Caterina R.
+last_name: Giner
 
 # Username (this should match the folder name)
 authors:
-- massimo-c.-pernice
+- caterina-r-giner
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral scientist
+role: Technician
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-  - course: Add your PhD program
+  - course: Add your PhD program if any
     institution: Add your Uni here
     year: Year of PhD
   - course: Add bachelor title
@@ -85,7 +85,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Postdoctoral scientists'
+- 'Technicians'
 ---
 Description of your research. Add here everything... blabalblbablablablablablab
 

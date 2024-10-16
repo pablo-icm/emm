@@ -124,9 +124,22 @@
         </ul>
       </div>
       {{ end }}
+      {{/* CUSTOM block to add buttons to author's filtered production */}}
+      <div class="btn-links mr-3 ml-3 mt-3">
+       <a href="/emmTest/publication/?author={{ $author | urlize }}" class="btn btn-outline-primary btn-lg">
+        View all journal articles
+       </a>
+      </div>
+      <div class="btn-links mt-3">
+       <a href="/emmTest/publication/?author={{ $author | urlize }}" class="btn btn-outline-primary btn-lg">
+         View supervised thesis
+       </a>
+      </div>
+
     </div>
   </div>
 </div>
+
 
 {{/* The following block adds a 100% width of the window below the interests and education sections */}}
 {{/* It calls the front matter of selected_papers in the author index.md file, but it is just a markdown section. */}}
@@ -139,4 +152,7 @@
   </div>
 </div>
 {{ end }}
+
+
+
 

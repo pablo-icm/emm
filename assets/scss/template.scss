@@ -97,4 +97,13 @@
   margin-right: 5px;      /* Add some space after the label */
 }
 
+.btn-outline-primary {
+  color: #73aad1;  // Theme's primary color
+  border-color: #73aad1;
+  
+  &:hover {
+    background-color: #73aad1;
+    color: #fff;
+  }
+}
 
