@@ -1,7 +1,7 @@
 ---
 title: Ecogenomics of uncultured marine prokaryotes
 authors:
-- Francisco M Cornejo-Castillo
+- Marta Royo-Llonch
 date: '2020-03'
 publishDate: '2020-03-01'
 publication_types:

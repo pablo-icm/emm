@@ -20,14 +20,7 @@
   {{ end }}
 
   {{/* Display volume and pages */}}
-{{ if $item.Params.number }}
-    <span>{{ $item.Params.volume }}({{ $item.Params.number }}), {{ $item.Params.pages }}</span>
-    {{ else }}
-    <span>{{ $item.Params.volume }}, {{ $item.Params.pages }}</span>
-{{ end }}
-
-
-  
+  <span>{{ $item.Params.volume }}, {{ $item.Params.pages }}</span>
 
   <p>{{ partial "page_links" (dict "page" $item "is_list" 1) }}</p>
 
