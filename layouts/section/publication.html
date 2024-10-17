@@ -1,5 +1,8 @@
 {{- define "main" -}}
+
+{{/* Require Isotope */}}
 {{ $.Page.Store.Set "has_isotope" true }}
+
 {{ partial "page_header.html" . }}
 
 <div class="universal-wrapper">
@@ -8,6 +11,12 @@
 
       {{ with .Content }}
       <div class="article-style">{{ . }}</div>
+      {{ end }}
+
+      {{/* Array of distinct years. */}}
+      {{ range .Pages.ByDate.Reverse }}
+        {{ $year := print (.Date.Format "2006") }}
+        {{ $.Scratch.SetInMap "years" $year $year }}
       {{ end }}
 
       <div class="form-row mb-4">
@@ -38,6 +47,7 @@
             {{ end }}
           </select>
         </div>
+
         {{/* Filter publications by author, adding the functionality of a custom URL per author. See also assets/js/wowchemy-publication.js. Author names and slugs are in config/_default/params.yaml */}}
         <div class="col-auto">
           <select class="pub-filters form-control form-control-sm" data-filter-group="author">
@@ -47,10 +57,12 @@
             {{ end }}
           </select>
         </div>
+
       </div>
 
       <div id="container-publications">
         {{ range $index, $item := .Pages.ByDate.Reverse }}
+
         {{ if .Params.publication_types }}
           {{ $.Scratch.Set "pubtype" (index .Params.publication_types 0) }}
         {{ else }}
@@ -67,22 +79,5 @@
     </div>
   </div>
 </div>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    const authorSelect = document.getElementById('author-select');
-    
-    authorSelect.addEventListener('change', function() {
-      if (this.value === 'all') {
-        // If 'EMM Author' is selected, clear any applied filters
-        $('.pub-filters').val('*').trigger('change'); // Resets the filters
-      } else {
-        // Keep the selected author
-        $('.pub-filters').val(this.value);
-      }
-    });
-  });
-</script>
-
 
 {{- end -}}

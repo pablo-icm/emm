@@ -54,16 +54,9 @@ if ($grid_pubs.length) {
     // Get group key.
     let filterGroup = $this[0].getAttribute('data-filter-group');
 
-    // If the author select is chosen, check if it's the default "EMM Author".
-    if (filterGroup === 'author' && this.value === 'all') {
-      // Reset the author filter
-    delete pubFilters['author'];
-  } else {
-    // Set filter for group.
+
     pubFilters[filterGroup] = this.value;
-  }
-
-
+  
     // Combine filters.
     filterValues = concatValues(pubFilters);
 
@@ -71,9 +64,9 @@ if ($grid_pubs.length) {
     $grid_pubs.isotope();
 
     // Update the URL hash to enable direct linking to results.
-    if (filterGroup === 'pubtype' || filterGroup === 'author') {
+    if (filterGroup === 'pubtype' || filterGroup === 'author' || filterGroup === 'year') {
       let url = $(this).val();
-      if (url.startsWith('.pubtype-') || url.startsWith('.author-')) {
+      if (url.startsWith('.pubtype-') || url.startsWith('.author-') || url.startsWith('.year-')) {
         window.location.hash = url.substr(url.indexOf('-') + 1);
       } else {
         window.location.hash = '';
