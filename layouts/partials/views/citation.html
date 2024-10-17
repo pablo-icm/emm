@@ -19,8 +19,23 @@
     {{- $item.Params.publication | markdownify -}},
   {{ end }}
 
-  {{/* Display volume and pages */}}
+  {{/* Display volume and pages. If there's field Volume we assume that there are pages */}}
+  {{ if $item.Params.volume }}
   <span>{{ $item.Params.volume }}, {{ $item.Params.pages }}</span>
+  {{ end }}
+  
+  {{/* Display Thesis supervisor */}}
+  {{ if $item.Params.supervisor }}
+  {{ with $item.Params.supervisor }}
+  <span class="article-metadata li-cite-author">
+    Thesis advisor(s): 
+    {{ range $index, $supervisor := . }}
+      {{ if $index }}, {{ end }}
+      <a href="{{ (printf "/emmTest/%s" (urlize $supervisor)) | relURL }}">{{ $supervisor }}</a>
+    {{ end }}
+  </span>
+  {{ end }}
+  {{ end }}
 
   <p>{{ partial "page_links" (dict "page" $item "is_list" 1) }}</p>
 
