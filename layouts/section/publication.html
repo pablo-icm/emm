@@ -41,7 +41,7 @@
         {{/* Filter publications by author, adding the functionality of a custom URL per author. See also assets/js/wowchemy-publication.js. Author names and slugs are in config/_default/params.yaml */}}
         <div class="col-auto">
           <select class="pub-filters form-control form-control-sm" data-filter-group="author">
-            <option value="" disabled selected>EMM Author</option> <!-- Default prompt -->
+            <option value="all" selected>EMM Author</option> <!-- Default prompt -->
             {{ range site.Params.authors }}
             <option value=".author-{{ .slug }}">{{ .name }}</option>
             {{ end }}
@@ -67,5 +67,22 @@
     </div>
   </div>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const authorSelect = document.getElementById('author-select');
+    
+    authorSelect.addEventListener('change', function() {
+      if (this.value === 'all') {
+        // If 'EMM Author' is selected, clear any applied filters
+        $('.pub-filters').val('*').trigger('change'); // Resets the filters
+      } else {
+        // Keep the selected author
+        $('.pub-filters').val(this.value);
+      }
+    });
+  });
+</script>
+
 
 {{- end -}}

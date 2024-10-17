@@ -54,8 +54,15 @@ if ($grid_pubs.length) {
     // Get group key.
     let filterGroup = $this[0].getAttribute('data-filter-group');
 
+    // If the author select is chosen, check if it's the default "EMM Author".
+    if (filterGroup === 'author' && this.value === 'all') {
+      // Reset the author filter
+    delete pubFilters['author'];
+  } else {
     // Set filter for group.
     pubFilters[filterGroup] = this.value;
+  }
+
 
     // Combine filters.
     filterValues = concatValues(pubFilters);
