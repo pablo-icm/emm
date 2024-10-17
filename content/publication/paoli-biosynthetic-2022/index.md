@@ -3,7 +3,7 @@ title: Biosynthetic potential of the global ocean microbiome
 authors:
 - Lucas Paoli
 - Hans-Joachim Ruscheweyh
-- Clarissa C. Forneris
+- Clarissa C Forneris
 - Florian Hubrich
 - Satria Kautsar
 - Agneya Bhushan
@@ -11,27 +11,27 @@ authors:
 - Quentin Clayssen
 - Guillem Salazar
 - Alessio Milanese
-- Charlotte I. Carlström
+- Charlotte I Carlström
 - Chrysa Papadopoulou
 - Daniel Gehrig
 - Mikhail Karasikov
 - Harun Mustafa
 - Martin Larralde
-- Laura M. Carroll
+- Laura M Carroll
 - Pablo Sánchez
-- Ahmed A. Zayed
-- Dylan R. Cronin
+- Ahmed A Zayed
+- Dylan R Cronin
 - Silvia G Acinas
 - Peer Bork
 - Chris Bowler
-- Tom O. Delmont
+- Tom O Delmont
 - Josep M Gasol
-- Alvar D. Gossert
+- Alvar D Gossert
 - André Kahles
-- Matthew B. Sullivan
+- Matthew B Sullivan
 - Patrick Wincker
 - Georg Zeller
-- Serina L. Robinson
+- Serina L Robinson
 - Jörn Piel
 - Shinichi Sunagawa
 date: '2022-07-01'

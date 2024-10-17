@@ -5,7 +5,7 @@ title: Application of Denaturing Gradient Gel Electrophoresis (DGGE) To Study th
 authors:
 - Beatriz Dı́ez
 - Carlos Pedrós-Alió
-- Terence L. Marsh
+- Terence L Marsh
 - Ramon Massana
 date: '2001-07-01'
 publishDate: '2024-08-05T15:04:48.743024Z'

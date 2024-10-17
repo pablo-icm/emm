@@ -6,10 +6,10 @@ authors:
 - Cristina Romera-Castillo
 - Markus Lindh
 - Jarone Pinhassi
-- M. Montserrat Sala
+- M Montserrat Sala
 - Josep M Gasol
 - Cèlia Marrase
-- Gordon T. Taylor
+- Gordon T Taylor
 date: '2013-05-01'
 publishDate: '2024-08-05T15:04:47.329310Z'
 publication_types:

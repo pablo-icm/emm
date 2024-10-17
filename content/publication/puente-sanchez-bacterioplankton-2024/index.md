@@ -4,7 +4,7 @@ title: Bacterioplankton taxa compete for iron along the early spring–summer tr
 authors:
 - Fernando Puente-Sánchez
 - Luis Alberto Macías-Pérez
-- Karley L. Campbell
+- Karley L Campbell
 - Marta Royo-Llonch
 - Vanessa Balagué
 - Pablo Sánchez

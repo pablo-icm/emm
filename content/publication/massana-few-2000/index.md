@@ -3,7 +3,7 @@ title: A Few Cosmopolitan Phylotypes Dominate Planktonic Archaeal Assemblages in
   Different Oceanic Provinces
 authors:
 - Ramon Massana
-- Edward F. DeLong
+- Edward F DeLong
 - Carlos Pedrós-Alió
 date: '2000-05-01'
 publishDate: '2024-08-05T15:04:48.810631Z'

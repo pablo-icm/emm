@@ -1,70 +1,70 @@
 ---
 title: Roadmap for naming uncultivated Archaea and Bacteria
 authors:
-- Alison E. Murray
+- Alison E Murray
 - John Freudenstein
 - Simonetta Gribaldo
 - Roland Hatzenpichler
 - Philip Hugenholtz
 - Peter Kämpfer
-- Konstantinos T. Konstantinidis
-- Christopher E. Lane
-- R. Thane Papke
-- Donovan H. Parks
+- Konstantinos T Konstantinidis
+- Christopher E Lane
+- R Thane Papke
+- Donovan H Parks
 - Ramon Rossello-Mora
-- Matthew B. Stott
-- Iain C. Sutcliffe
-- J. Cameron Thrash
-- Stephanus N. Venter
-- William B. Whitman
+- Matthew B Stott
+- Iain C Sutcliffe
+- J Cameron Thrash
+- Stephanus N Venter
+- William B Whitman
 - Silvia G Acinas
-- Rudolf I. Amann
+- Rudolf I Amann
 - Karthik Anantharaman
 - Jean Armengaud
-- Brett J. Baker
-- Roman A. Barco
-- Helge B. Bode
-- Eric S. Boyd
-- Carrie L. Brady
+- Brett J Baker
+- Roman A Barco
+- Helge B Bode
+- Eric S Boyd
+- Carrie L Brady
 - Paul Carini
-- Patrick S. G. Chain
-- Daniel R. Colman
-- Kristen M. DeAngelis
+- Patrick S G Chain
+- Daniel R Colman
+- Kristen M DeAngelis
 - Maria Asuncion De Los Rios
 - Paulina Estrada-de Los Santos
-- Christopher A. Dunlap
-- Jonathan A. Eisen
+- Christopher A Dunlap
+- Jonathan A Eisen
 - David Emerson
-- Thijs J. G. Ettema
+- Thijs J G Ettema
 - Damien Eveillard
-- Peter R. Girguis
+- Peter R Girguis
 - Ute Hentschel
-- James T. Hollibaugh
-- Laura A. Hug
-- William P. Inskeep
-- Elena P. Ivanova
+- James T Hollibaugh
+- Laura A Hug
+- William P Inskeep
+- Elena P Ivanova
 - Hans-Peter Klenk
 - Wen-Jun Li
-- Karen G. Lloyd
-- Frank E. Löffler
-- Thulani P. Makhalanyane
-- Duane P. Moser
+- Karen G Lloyd
+- Frank E Löffler
+- Thulani P Makhalanyane
+- Duane P Moser
 - Takuro Nunoura
 - Marike Palmer
 - Victor Parro
 - Carlos Pedrós-Alió
-- Alexander J. Probst
-- Theo H. M. Smits
-- Andrew D. Steen
-- Emma T. Steenkamp
+- Alexander J Probst
+- Theo H M Smits
+- Andrew D Steen
+- Emma T Steenkamp
 - Anja Spang
-- Frank J. Stewart
-- James M. Tiedje
+- Frank J Stewart
+- James M Tiedje
 - Peter Vandamme
 - Michael Wagner
 - Feng-Ping Wang
 - Pablo Yarza
-- Brian P. Hedlund
+- Brian P Hedlund
 - Anna-Louise Reysenbach
 date: '2020-06-01'
 publishDate: '2024-08-05T15:04:46.081106Z'

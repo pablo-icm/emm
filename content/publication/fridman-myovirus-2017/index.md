@@ -15,10 +15,10 @@ authors:
 - Itai Sharon
 - Francisco M Cornejo-Castillo
 - Alon Philosof
-- Christopher L. Dupont
+- Christopher L Dupont
 - Pablo Sánchez
 - Silvia G Acinas
-- Forest L. Rohwer
+- Forest L Rohwer
 - Debbie Lindell
 - Oded Béjà
 date: '2017-08-01'

@@ -2,7 +2,7 @@
 title: Light Conditions Affect the Measurement of Oceanic Bacterial Production via
   Leucine Uptake
 authors:
-- Xosé Anxelu G. Morán
+- Xosé Anxelu G Morán
 - Ramon Massana
 - Josep M Gasol
 date: '2001-09-01'

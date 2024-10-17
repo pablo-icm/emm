@@ -12,14 +12,14 @@ authors:
 - Richard Christen
 - Jean‐Michel Claverie
 - Johan Decelle
-- John R. Dolan
+- John R Dolan
 - Micah Dunthorn
 - Bente Edvardsen
 - Irene Forn
 - Dominik Forster
 - Laure Guillou
 - Olivier Jaillon
-- Wiebe H. C. F. Kooistra
+- Wiebe H C F Kooistra
 - Ramiro Logares
 - Frédéric Mahé
 - Fabrice Not

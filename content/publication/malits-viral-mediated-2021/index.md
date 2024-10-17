@@ -3,7 +3,7 @@ title: 'Viral-Mediated Microbe Mortality Modulated by Ocean Acidification and Eu
   Consequences for the Carbon Fluxes Through the Microbial Food Web'
 authors:
 - Andrea Malits
-- Julia A. Boras
+- Julia A Boras
 - Vanessa Balagué
 - Eva Calvo
 - Josep M Gasol

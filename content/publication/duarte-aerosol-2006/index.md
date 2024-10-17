@@ -1,7 +1,7 @@
 ---
 title: Aerosol inputs enhance new production in the subtropical northeast Atlantic
 authors:
-- Carlos M. Duarte
+- Carlos M Duarte
 - Jordi Dachs
 - Moira Llabrés
 - Patricia Alonso‐Laita

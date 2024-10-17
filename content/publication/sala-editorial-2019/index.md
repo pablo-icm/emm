@@ -2,12 +2,12 @@
 title: 'Editorial: Extracellular Enzymes in Aquatic Environments: Exploring the Link
   Between Genomic Potential and Biogeochemical Consequences'
 authors:
-- Maria M. Sala
+- Maria M Sala
 - Judith Piontek
 - Sonja Endres
-- Anna M. Romani
+- Anna M Romani
 - Sonya Dyhrman
-- Andrew D. Steen
+- Andrew D Steen
 date: '2019-06-01'
 publishDate: '2024-08-05T15:04:46.174492Z'
 publication_types:

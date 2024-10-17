@@ -3,9 +3,9 @@ title: Mixotrophy in the bloom-forming genus Phaeocystis and other haptophytes
 authors:
 - Sebastiaan Koppelle
 - David López-Escardó
-- Corina P.D. Brussaard
+- Corina P.D Brussaard
 - Jef Huisman
-- Catharina J.M. Philippart
+- Catharina J.M Philippart
 - Ramon Massana
 - Susanne Wilken
 date: '2022-08-01'

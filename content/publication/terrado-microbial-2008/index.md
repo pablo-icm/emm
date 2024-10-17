@@ -5,7 +5,7 @@ authors:
 - Ramon Terrado
 - Connie Lovejoy
 - Ramon Massana
-- Warwick F. Vincent
+- Warwick F Vincent
 date: '2008-12-01'
 publishDate: '2024-08-05T15:04:48.112660Z'
 publication_types:

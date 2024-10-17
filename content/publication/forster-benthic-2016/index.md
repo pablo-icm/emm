@@ -4,7 +4,7 @@ authors:
 - Dominik Forster
 - Micah Dunthorn
 - Fréderic Mahé
-- John R. Dolan
+- John R Dolan
 - Stéphane Audic
 - David Bass
 - Lucie Bittner
@@ -16,7 +16,7 @@ authors:
 - Elianne Egge
 - Wenche Eikrem
 - Angélique Gobet
-- Wiebe H.C.F. Kooistra
+- Wiebe H.C.F Kooistra
 - Ramiro Logares
 - Ramon Massana
 - Marina Montresor
@@ -27,7 +27,7 @@ authors:
 - Sarah Romac
 - Kamran Shalchian-Tabrizi
 - Nathalie Simon
-- Thomas A. Richards
+- Thomas A Richards
 - Sébastien Santini
 - Diana Sarno
 - Raffaele Siano

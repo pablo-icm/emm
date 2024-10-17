@@ -2,8 +2,8 @@
 title: Biomass distribution in marine planktonic communities
 authors:
 - Josep M Gasol
-- Paul A. Del Giorgio
-- Carlos M. Duarte
+- Paul A Del Giorgio
+- Carlos M Duarte
 date: '1997-09-01'
 publishDate: '2024-08-05T15:04:48.935916Z'
 publication_types:

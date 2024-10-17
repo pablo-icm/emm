@@ -2,11 +2,11 @@
 title: Coherent patterns in bacterial growth, growth efficiency, and leucine metabolism
   along a northeastern Pacific inshore‐offshore transect
 authors:
-- Paul A. Del Giorgio
+- Paul A Del Giorgio
 - Robert Condon
 - Thierry Bouvier
-- Krista. Longnecker
-- Corinne. Bouvier
+- Krista Longnecker
+- Corinne Bouvier
 - Evelyn Sherr
 - Josep M Gasol
 date: '2011-01-01'

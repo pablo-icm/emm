@@ -2,8 +2,8 @@
 title: 'Probing the Rare Biosphere of the North-West Mediterranean Sea: An Experiment
   with High Sequencing Effort'
 authors:
-- Bibiana G. Crespo
-- Philip J. Wallhead
+- Bibiana G Crespo
+- Philip J Wallhead
 - Ramiro Logares
 - Carlos Pedrós-Alió
 date: '2016-07-01'

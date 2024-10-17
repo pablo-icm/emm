@@ -6,8 +6,8 @@ authors:
 - Laura Alonso-Sáez
 - Dolors Vaqué
 - Federico Baltar
-- Maria Ll. Calleja
-- Carlos M. Duarte
+- Maria Ll Calleja
+- Carlos M Duarte
 - Javier Arístegui
 date: '2009-12-01'
 publishDate: '2024-08-05T15:04:47.965230Z'

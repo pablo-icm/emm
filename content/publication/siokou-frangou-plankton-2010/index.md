@@ -1,13 +1,13 @@
 ---
 title: 'Plankton in the open Mediterranean Sea: a review'
 authors:
-- I. Siokou-Frangou
-- U. Christaki
-- M. G. Mazzocchi
-- M. Montresor
-- M. Ribera d'Alcalá
-- D. Vaqué
-- A. Zingone
+- I Siokou-Frangou
+- U Christaki
+- M G Mazzocchi
+- M Montresor
+- M Ribera d'Alcalá
+- D Vaqué
+- A Zingone
 date: '2010-05-01'
 publishDate: '2024-08-05T15:04:47.823981Z'
 publication_types:

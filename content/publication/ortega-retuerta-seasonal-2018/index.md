@@ -5,7 +5,7 @@ authors:
 - Eva Ortega-Retuerta
 - Cèlia Marrasé
 - Ana Muñoz-Fernández
-- M. Montserrat Sala
+- M Montserrat Sala
 - Rafel Simó
 - Josep M Gasol
 date: '2018-08-01'

@@ -1,5 +1,9 @@
-# awk one liner to get a field from tyhe cite.bib file and insert it at the end of the index.md on a publication
 
+# Scripts used to tweak things during the building of this website
+
+awk one liner to get a field from tyhe cite.bib file and insert it at the end of the index.md on a publication
+
+```bash
 for dir in */; do
     if [ -f "${dir}cite.bib" ]; then
         pages=$(awk -F '[{},]' '/^ *pages *=/{for(i=1;i<=NF;i++) if($i ~ /[0-9A-Za-z]/) print $i}' "${dir}cite.bib" | sed 's/--/-/g' | tr -d ' ' | tr '\n' ' ' | sed 's/ $//' | sed 's/pages= //') # Clean up the pages variable
@@ -49,6 +53,16 @@ for dir in */; do
         fi
     fi
 done
+```
+
 
 
 Coutinho, F. H., Silveira, C. B., Sebastián, M., Sánchez, P., Duarte, C. M., Vaqué, D., Gasol, J. M., & Acinas, S. G. (2023). Water mass age structures the auxiliary metabolic gene content of free-living and particle-attached deep ocean viral communities. Microbiome, 11(1), 118. https://doi.org/10.1186/s40168-023-01547-5
+
+
+Perl oneliner to remove dots after initials in author names: 
+
+```perl
+perl -pe 's/^(- .*?)(\.\s)/$1 /g while /^- .*?\.\s/' content/publication/*/index.md
+
+```

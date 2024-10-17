@@ -5,7 +5,7 @@ authors:
 - Clara Ruiz-González
 - Martí Galí
 - Eva Sintes
-- Gerhard J. Herndl
+- Gerhard J Herndl
 - Josep M Gasol
 - Rafel Simó
 date: '2012-09-01'

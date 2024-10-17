@@ -8,9 +8,9 @@ authors:
 - Iñigo Azúa
 - Zuriñe Baña
 - Begoña Ayo
-- X. Antón Álvarez-Salgado
+- X Antón Álvarez-Salgado
 - Josep M Gasol
-- Carlos M. Duarte
+- Carlos M Duarte
 date: '2020-06-01'
 publishDate: '2024-08-05T15:04:46.073846Z'
 publication_types:

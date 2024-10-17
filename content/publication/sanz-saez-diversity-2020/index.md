@@ -7,11 +7,11 @@ authors:
 - Pablo Sánchez
 - Elena Lara
 - Marta Royo-Llonch
-- Elisabet L. Sà
+- Elisabet L Sà
 - Teresa Lucena
-- María J. Pujalte
+- María J Pujalte
 - Dolors Vaqué
-- Carlos M. Duarte
+- Carlos M Duarte
 - Josep M Gasol
 - Carlos Pedrós-Alió
 - Olga Sánchez

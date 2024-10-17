@@ -13,18 +13,18 @@ authors:
 - Mariam Hamisi
 - Ramiro Logares
 - Dan Nguyen
-- Yoshimi M. Rii
+- Yoshimi M Rii
 - Emily Saeck
 - Charles Schutte
 - Brittany Widner
-- Matthew J. Church
-- Grieg F. Steward
-- David M. Karl
-- Edward F. DeLong
-- John M. Eppley
-- Stephan C. Schuster
-- Nikos C. Kyrpides
-- Michael S. Rappé
+- Matthew J Church
+- Grieg F Steward
+- David M Karl
+- Edward F DeLong
+- John M Eppley
+- Stephan C Schuster
+- Nikos C Kyrpides
+- Michael S Rappé
 date: '2011-12-01'
 publishDate: '2024-08-05T15:04:47.618127Z'
 publication_types:

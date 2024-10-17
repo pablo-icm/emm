@@ -4,27 +4,27 @@ authors:
 - Manuel Dall’Osto
 - Jurgita Ovadnevaite
 - Marco Paglione
-- David C. S. Beddows
+- David C S Beddows
 - Darius Ceburnis
 - Charlotte Cree
 - Pau Cortés
 - Marina Zamanillo
-- Sdena O. Nunes
-- Gonzalo L. Pérez
+- Sdena O Nunes
+- Gonzalo L Pérez
 - Eva Ortega-Retuerta
 - Mikhail Emelianov
 - Dolors Vaqué
 - Cèlia Marrasé
 - Marta Estrada
-- M. Montserrat Sala
+- M Montserrat Sala
 - Montserrat Vidal
-- Mark F. Fitzsimons
+- Mark F Fitzsimons
 - Rachael Beale
 - Ruth Airs
 - Matteo Rinaldi
 - Stefano Decesari
 - Maria Cristina Facchini
-- Roy M. Harrison
+- Roy M Harrison
 - Colin O’Dowd
 - Rafel Simó
 date: '2017-07-01'

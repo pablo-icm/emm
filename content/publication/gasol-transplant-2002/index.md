@@ -6,7 +6,7 @@ authors:
 - Marta Comerma
 - ', Juan Carlos García'
 - Joan Armengol
-- Emilio O. Casamayor
+- Emilio O Casamayor
 - Petra Kojecká
 - Karel Šimek
 date: '2002-01-01'

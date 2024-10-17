@@ -6,7 +6,7 @@ title: Marked seasonality of aerobic anoxygenic phototrophic bacteria in the coa
   puf textlessspan style=\"font-variant:small-caps;\"textgreaterMtextless/spantextgreater  gene
 authors:
 - Isabel Ferrera
-- Carles M. Borrego
+- Carles M Borrego
 - Guillem Salazar
 - Josep M Gasol
 date: '2014-09-01'

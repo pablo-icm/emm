@@ -8,7 +8,7 @@ authors:
 - Sergi Torramade-Moix
 - Marta Palomo
 - Guiomar Mendieta
-- M. Urooj Zafar
+- M Urooj Zafar
 - Ana Belén Moreno-Castaño
 - Pablo Sánchez
 - Juan Jose Badimon

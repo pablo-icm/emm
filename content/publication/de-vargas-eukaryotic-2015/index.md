@@ -49,7 +49,7 @@ authors:
 - Hiroyuki Ogata
 - Stephane Pesant
 - Jeroen Raes
-- Michael E. Sieracki
+- Michael E Sieracki
 - Sabrina Speich
 - Lars Stemmann
 - Shinichi Sunagawa
@@ -60,9 +60,9 @@ authors:
 - Michael Follows
 - Lee Karp-Boss
 - Uros Krzic
-- Emmanuel G. Reynaud
+- Emmanuel G Reynaud
 - Christian Sardet
-- Matthew B. Sullivan
+- Matthew B Sullivan
 - Didier Velayoudon
 date: '2015-05-01'
 publishDate: '2024-08-05T15:04:46.864463Z'

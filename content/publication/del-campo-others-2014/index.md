@@ -2,7 +2,7 @@
 title: 'The others: our biased perspective of eukaryotic genomes'
 authors:
 - Javier Del Campo
-- Michael E. Sieracki
+- Michael E Sieracki
 - Robert Molestina
 - Patrick Keeling
 - Ramon Massana

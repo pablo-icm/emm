@@ -5,11 +5,11 @@ authors:
 - Marta Sebastián
 - Pablo Sánchez
 - Guillem Salazar
-- Xosé A. Álvarez-Salgado
+- Xosé A Álvarez-Salgado
 - Isabel Reche
-- Xosé Anxelu G. Morán
+- Xosé Anxelu G Morán
 - Maria Montserrat Sala
-- Carlos M. Duarte
+- Carlos M Duarte
 - Silvia G Acinas
 - Josep M Gasol
 date: '2024-01-01'

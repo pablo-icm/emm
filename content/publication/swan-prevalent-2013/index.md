@@ -2,23 +2,23 @@
 title: Prevalent genome streamlining and latitudinal divergence of planktonic bacteria
   in the surface ocean
 authors:
-- Brandon K. Swan
+- Brandon K Swan
 - Ben Tupper
 - Alexander Sczyrba
-- Federico M. Lauro
+- Federico M Lauro
 - Manuel Martinez-Garcia
-- José M. González
+- José M González
 - Haiwei Luo
-- Jody J. Wright
-- Zachary C. Landry
-- Niels W. Hanson
-- Brian P. Thompson
-- Nicole J. Poulton
+- Jody J Wright
+- Zachary C Landry
+- Niels W Hanson
+- Brian P Thompson
+- Nicole J Poulton
 - Patrick Schwientek
 - Silvia G Acinas
-- Stephen J. Giovannoni
+- Stephen J Giovannoni
 - Mary Ann Moran
-- Steven J. Hallam
+- Steven J Hallam
 - Ricardo Cavicchioli
 - Tanja Woyke
 - Ramunas Stepanauskas

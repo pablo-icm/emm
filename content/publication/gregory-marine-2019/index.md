@@ -1,8 +1,8 @@
 ---
 title: Marine DNA Viral Macro- and Microdiversity from Pole to Pole
 authors:
-- Ann C. Gregory
-- Ahmed A. Zayed
+- Ann C Gregory
+- Ahmed A Zayed
 - Nádia Conceição-Neto
 - Ben Temperton
 - Ben Bolduc
@@ -25,15 +25,15 @@ authors:
 - Dean Vik
 - Marcel Babin
 - Chris Bowler
-- Alexander I. Culley
+- Alexander I Culley
 - Colomban De Vargas
-- Bas E. Dutilh
+- Bas E Dutilh
 - Daniele Iudicone
 - Lee Karp-Boss
 - Simon Roux
 - Shinichi Sunagawa
 - Patrick Wincker
-- Matthew B. Sullivan
+- Matthew B Sullivan
 - Silvia G Acinas
 - Marcel Babin
 - Peer Bork
@@ -59,7 +59,7 @@ authors:
 - Christian Sardet
 - Sabrina Speich
 - Lars Stemmann
-- Matthew B. Sullivan
+- Matthew B Sullivan
 - Shinichi Sunagawa
 - Patrick Wincker
 date: '2019-05-01'

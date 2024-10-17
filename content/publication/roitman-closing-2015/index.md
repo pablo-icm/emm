@@ -8,12 +8,12 @@ authors:
 - Alon Philosof
 - Ben Knowles
 - Forest Rohwer
-- J. Cesar Ignacio‐Espinoza
-- Matthew B. Sullivan
-- Francisco M. Cornejo‐Castillo
+- J Cesar Ignacio‐Espinoza
+- Matthew B Sullivan
+- Francisco M Cornejo‐Castillo
 - Pablo Sánchez
 - Silvia G Acinas
-- Chris L. Dupont
+- Chris L Dupont
 - Oded Béjà
 date: '2015-12-01'
 publishDate: '2024-08-05T15:04:46.831431Z'

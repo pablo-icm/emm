@@ -33,7 +33,7 @@ authors:
 - Mike Sieracki
 - Sabrina Speich
 - Lars Stemmann
-- Matthew B. Sullivan
+- Matthew B Sullivan
 - Shinichi Sunagawa
 - Patrick Wincker
 - Damien Eveillard
@@ -44,7 +44,7 @@ authors:
 - Fabien Lombard
 - Hiroyuki Ogata
 - Stephane Pesant
-- Matthew B. Sullivan
+- Matthew B Sullivan
 - Patrick Wincker
 - Colomban De Vargas
 date: '2020-08-01'

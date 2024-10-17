@@ -2,17 +2,17 @@
 title: 'Photosynthetic picoplankton in Lake Tanganyika: biomass distribution patterns
   with depth, season and basin'
 authors:
-- S. Stenuite
-- A.-L. Tarbe
-- H. Sarmento
-- F. Unrein
-- S. Pirlot
-- D. Sinyinza
-- S. Thill
-- M. Lecomte
-- B. Leporcq
-- J. M. Gasol
-- J.-P. Descy
+- S Stenuite
+- A.-L Tarbe
+- H Sarmento
+- F Unrein
+- S Pirlot
+- D Sinyinza
+- S Thill
+- M Lecomte
+- B Leporcq
+- J M Gasol
+- J.-P Descy
 date: '2009-12-01'
 publishDate: '2024-08-05T15:04:48.006555Z'
 publication_types:

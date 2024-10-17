@@ -2,8 +2,8 @@
 title: Distribution patterns of the abundance of major bacterial and archaeal groups
   in Patagonian lakes
 authors:
-- M. Romina Schiaffino
-- M. Laura Sánchez
+- M Romina Schiaffino
+- M Laura Sánchez
 - Marina Gerea
 - Fernando Unrein
 - Vanessa Balagué

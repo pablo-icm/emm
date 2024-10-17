@@ -2,7 +2,7 @@
 title: A Metagenomic and Amplicon Sequencing Combined Approach Reveals the Best Primers
   to Study Marine Aerobic Anoxygenic Phototrophs
 authors:
-- Carlota R. Gazulla
+- Carlota R Gazulla
 - Ana María Cabello
 - Pablo Sánchez
 - Josep M Gasol

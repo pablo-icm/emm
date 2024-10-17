@@ -3,7 +3,7 @@ title: Microbial plankton abundance and heterotrophic activity across the Centra
   Atlantic Ocean
 authors:
 - Evaristo Vázquez-Domínguez
-- Carlos M. Duarte
+- Carlos M Duarte
 - Susana Agustí
 - Klaus Jürgens
 - Dolors Vaqué

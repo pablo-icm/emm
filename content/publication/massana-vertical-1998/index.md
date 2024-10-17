@@ -3,11 +3,11 @@ title: Vertical distribution and temporal variation of marine planktonic archaea
   the Gerlache Strait, Antarctica, during early spring
 authors:
 - Ramon Massana
-- Lance T. Taylor
-- Alison E. Murray
-- Ke Y. Wu
-- Wade H. Jeffrey
-- Edward F. DeLong
+- Lance T Taylor
+- Alison E Murray
+- Ke Y Wu
+- Wade H Jeffrey
+- Edward F DeLong
 date: '1998-06-01'
 publishDate: '2024-08-05T15:04:48.928437Z'
 publication_types:

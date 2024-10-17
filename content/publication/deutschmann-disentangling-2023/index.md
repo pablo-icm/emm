@@ -2,7 +2,7 @@
 title: Disentangling temporal associations in marine microbial networks
 authors:
 - Ina Maria Deutschmann
-- Anders K. Krabberød
+- Anders K Krabberød
 - Francisco Latorre
 - Erwan Delage
 - Cèlia Marrasé

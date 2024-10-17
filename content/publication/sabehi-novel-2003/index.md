@@ -3,9 +3,9 @@ title: Novel Proteorhodopsin variants from the Mediterranean and Red Seas
 authors:
 - Gazalah Sabehi
 - Ramon Massana
-- Joseph P. Bielawski
+- Joseph P Bielawski
 - Mira Rosenberg
-- Edward F. Delong
+- Edward F Delong
 - Oded Béjà
 date: '2003-10-01'
 publishDate: '2024-08-05T15:04:48.607514Z'

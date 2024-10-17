@@ -5,7 +5,7 @@ authors:
 - Karin Rengefors
 - Ramiro Logares
 - Johanna Laybourn‐Parry
-- Rebecca J. Gast
+- Rebecca J Gast
 date: '2015-05-01'
 publishDate: '2024-08-05T15:04:47.091703Z'
 publication_types:

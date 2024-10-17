@@ -8,7 +8,7 @@ authors:
 - Marta Estrada
 - María Montserrat Sala
 - Sarah-Jeanne Royer
-- Daffne C. López-Sandoval
+- Daffne C López-Sandoval
 - Mikhail Emelianov
 - Dolors Vaqué
 - Cèlia Marrasé

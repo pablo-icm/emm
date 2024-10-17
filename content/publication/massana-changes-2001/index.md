@@ -4,7 +4,7 @@ title: Changes in marine bacterioplankton phylogenetic composition during incuba
 authors:
 - Ramon Massana
 - ', Carlos PedrόsߚAliό'
-- Emilio O. Casamayor
+- Emilio O Casamayor
 - Josep M Gasol
 date: '2001-07-01'
 publishDate: '2024-08-05T15:04:48.757076Z'

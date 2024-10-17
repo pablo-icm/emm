@@ -7,13 +7,13 @@ authors:
 - Shinichi Sunagawa
 - Colomban de Vargas
 - Chris Bowler
-- Matthew B. Sullivan
+- Matthew B Sullivan
 - Patrick Wincker
 - Eric Karsenti
 - Carlos Pedrós-Alió
 - Susana Agustí
 - Takashi Gojobori
-- Carlos M. Duarte
+- Carlos M Duarte
 - Josep M Gasol
 - Olga Sánchez
 - Silvia G Acinas

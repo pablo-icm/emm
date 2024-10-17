@@ -9,7 +9,7 @@ authors:
 - Ramon Massana
 - Kerstin Töbe
 - Daniel Vaulot
-- Linda K. Medlin
+- Linda K Medlin
 date: '2007-01-01'
 publishDate: '2024-08-05T15:04:48.270548Z'
 publication_types:

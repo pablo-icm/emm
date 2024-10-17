@@ -4,7 +4,7 @@ title: Novelty and spatio–temporal heterogeneity in the bacterial diversity of
 authors:
 - Cecilia Demergasso
 - Lorena Escudero
-- Emilio O. Casamayor
+- Emilio O Casamayor
 - Guillermo Chong
 - Vanessa Balagué
 - Carlos Pedrós-Alió

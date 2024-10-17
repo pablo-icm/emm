@@ -16,7 +16,7 @@ authors:
 - Colomban De Vargas
 - Patrick Wincker
 - Chris Bowler
-- Rachel A. Foster
+- Rachel A Foster
 date: '2021-07-01'
 publishDate: '2024-08-05T15:04:45.904255Z'
 publication_types:

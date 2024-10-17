@@ -8,7 +8,7 @@ authors:
 - Leticia Franco-Vidal
 - Laura Díaz-Pérez
 - Isabel Ferrera
-- Xosé Anxelu G. Morán
+- Xosé Anxelu G Morán
 date: '2015-02-01'
 publishDate: '2024-08-05T15:04:46.902605Z'
 publication_types:

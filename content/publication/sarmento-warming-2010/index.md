@@ -3,7 +3,7 @@ title: 'Warming effects on marine microbial food web processes: how far can we g
   when it comes to predictions?'
 authors:
 - Hugo Sarmento
-- José M. Montoya
+- José M Montoya
 - Evaristo Vázquez-Domínguez
 - Dolors Vaqué
 - Josep M Gasol

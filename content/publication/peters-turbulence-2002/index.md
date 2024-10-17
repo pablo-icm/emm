@@ -2,7 +2,7 @@
 title: 'Turbulence and the microbial food web: effects on bacterial losses to predation
   and on community structure'
 authors:
-- F. Peters
+- F Peters
 date: '2002-04-01'
 publishDate: '2024-08-05T15:04:48.715925Z'
 publication_types:

@@ -6,7 +6,7 @@ authors:
 - Hugo Sarmento
 - Jean-Pierre Descy
 - Josep M Gasol
-- Alberto V. Borges
+- Alberto V Borges
 - Steven Bouillon
 - François Darchambeau
 date: '2014-07-01'

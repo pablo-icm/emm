@@ -3,10 +3,10 @@ title: Enhanced Viral Activity in the Surface Microlayer of the Arctic and Antar
   Oceans
 authors:
 - Dolors Vaqué
-- Julia A. Boras
+- Julia A Boras
 - Jesús Maria Arrieta
 - Susana Agustí
-- Carlos M. Duarte
+- Carlos M Duarte
 - Maria Montserrat Sala
 date: '2021-02-01'
 publishDate: '2024-08-05T15:04:45.880791Z'

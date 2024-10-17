@@ -1,7 +1,7 @@
 ---
 title: Diversification and spectral tuning in marine proteorhodopsins
 authors:
-- D. Man
+- D Man
 date: '2003-04-01'
 publishDate: '2024-08-05T15:04:48.594422Z'
 publication_types:

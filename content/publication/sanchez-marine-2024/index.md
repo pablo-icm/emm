@@ -18,7 +18,7 @@ authors:
 - Maria M Sala
 - Dolors Vaqué
 - Ramon Massana
-- Carlos M. Duarte
+- Carlos M Duarte
 - Silvia G Acinas
 - Josep M Gasol
 date: '2024-02-01'

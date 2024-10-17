@@ -3,17 +3,17 @@ title: Reconciling the temperature dependence of respiration across timescales a
   ecosystem types
 authors:
 - Gabriel Yvon-Durocher
-- Jane M. Caffrey
+- Jane M Caffrey
 - Alessandro Cescatti
 - Matteo Dossena
 - Paul Del Giorgio
 - Josep M Gasol
-- José M. Montoya
+- José M Montoya
 - Jukka Pumpanen
-- Peter A. Staehr
+- Peter A Staehr
 - Mark Trimmer
 - Guy Woodward
-- Andrew P. Allen
+- Andrew P Allen
 date: '2012-07-01'
 publishDate: '2024-08-05T15:04:47.482893Z'
 publication_types:

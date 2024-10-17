@@ -9,7 +9,7 @@ authors:
 - Bente Edvardsen
 - Wenche Eikrem
 - Dominik Forster
-- Wiebe H. C. F. Kooistra
+- Wiebe H C F Kooistra
 - Ramiro Logares
 - Ramon Massana
 - Marina Montresor

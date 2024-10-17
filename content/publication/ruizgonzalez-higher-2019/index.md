@@ -10,7 +10,7 @@ authors:
 - Martí Galí
 - Maria Montserrat Sala
 - Silvia G Acinas
-- Carlos M. Duarte
+- Carlos M Duarte
 - Josep M Gasol
 date: '2019-04-01'
 publishDate: '2024-08-05T15:04:46.187281Z'

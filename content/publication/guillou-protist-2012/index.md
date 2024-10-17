@@ -13,11 +13,11 @@ authors:
 - Colomban De Vargas
 - Johan Decelle
 - Javier Del Campo
-- John R. Dolan
+- John R Dolan
 - Micah Dunthorn
 - Bente Edvardsen
 - Maria Holzmann
-- Wiebe H.C.F. Kooistra
+- Wiebe H.C.F Kooistra
 - Enrique Lara
 - Noan Le Bescot
 - Ramiro Logares

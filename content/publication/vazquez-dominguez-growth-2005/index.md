@@ -4,7 +4,7 @@ authors:
 - Evaristo Vázquez-Domínguez
 - Josep M Gasol
 - Susana Agustí
-- Carlos M. Duarte
+- Carlos M Duarte
 - Dolors Vaqué
 date: '2005-10-01'
 publishDate: '2024-08-05T15:04:48.441374Z'

@@ -5,7 +5,7 @@ authors:
 - Marta Estrada
 - Peter Henriksen
 - Josep M Gasol
-- Emilio O. Casamayor
+- Emilio O Casamayor
 - Carlos PedrÃ³s-AliÃ³
 date: '2004-08-01'
 publishDate: '2024-08-05T15:04:48.548447Z'

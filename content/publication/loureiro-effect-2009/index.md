@@ -2,11 +2,11 @@
 title: Effect of marine autotrophic dissolved organic matter (DOM) on Alexandrium
   catenella in semi-continuous cultures
 authors:
-- S. Loureiro
-- E. Garces
-- Y. Collos
-- D. Vaque
-- J. Camp
+- S Loureiro
+- E Garces
+- Y Collos
+- D Vaque
+- J Camp
 date: '2009-11-01'
 publishDate: '2024-08-05T15:04:47.932362Z'
 publication_types:

@@ -6,7 +6,7 @@ authors:
 - Ramiro Logares
 - Shinichi Sunagawa
 - Guillem Salazar
-- Francisco M. Cornejo‐Castillo
+- Francisco M Cornejo‐Castillo
 - Isabel Ferrera
 - Hugo Sarmento
 - Pascal Hingamp

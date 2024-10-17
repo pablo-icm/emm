@@ -6,8 +6,8 @@ authors:
 - Josep M Gasol
 - Silvia G Acinas
 - Laura Gómez-Consarnau
-- Bibiana G. Crespo
-- Emilio O. Casamayor
+- Bibiana G Crespo
+- Emilio O Casamayor
 - Ramon Massana
 - Carlos Pedrós-Alió
 - Jarone Pinhassi

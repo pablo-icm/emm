@@ -3,10 +3,10 @@ title: Water mass age structures the auxiliary metabolic gene content of free-li
   and particle-attached deep ocean viral communities
 authors:
 - Felipe H Coutinho
-- Cynthia B. Silveira
+- Cynthia B Silveira
 - Marta Sebastián
 - Pablo Sánchez
-- Carlos M. Duarte
+- Carlos M Duarte
 - Dolors Vaqué
 - Josep M Gasol
 - Silvia G Acinas

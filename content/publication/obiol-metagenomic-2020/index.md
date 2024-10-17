@@ -2,9 +2,9 @@
 title: A metagenomic assessment of microbial eukaryotic diversity in the global ocean
 authors:
 - Aleix Obiol
-- Caterina R. Giner
+- Caterina R Giner
 - Pablo Sánchez
-- Carlos M. Duarte
+- Carlos M Duarte
 - Silvia G Acinas
 - Ramon Massana
 date: '2020-05-01'

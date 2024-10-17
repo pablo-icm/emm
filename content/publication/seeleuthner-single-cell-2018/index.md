@@ -31,7 +31,7 @@ authors:
 - Fabrice Not
 - Hiroyuki Ogata
 - Jeroen Raes
-- Emmanuel G. Reynaud
+- Emmanuel G Reynaud
 - Christian Sardet
 - Sabrina Speich
 - Lars Stemmann
@@ -43,7 +43,7 @@ authors:
 - Peer Bork
 - Chris Bowler
 - Pascal Hingamp
-- Matthew B. Sullivan
+- Matthew B Sullivan
 - Daniele Iudicone
 - Ramon Massana
 - Jean-Marc Aury

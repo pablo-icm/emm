@@ -2,7 +2,7 @@
 title: 'The queer Tetraëdron minimum from Lake Kivu (Eastern Africa): is it a result
   of a human impact?'
 authors:
-- Maya P. Stoyneva
+- Maya P Stoyneva
 - Jean-Pierre Descy
 - Vanessa Balagué
 - Pierre Compère

@@ -2,7 +2,7 @@
 title: Large-scale ocean connectivity and planktonic body size
 authors:
 - Ernesto Villarino
-- James R. Watson
+- James R Watson
 - Bror Jönsson
 - Josep M Gasol
 - Guillem Salazar
@@ -10,21 +10,21 @@ authors:
 - Marta Estrada
 - Ramon Massana
 - Ramiro Logares
-- Caterina R. Giner
+- Caterina R Giner
 - Massimo C Pernice
-- M. Pilar Olivar
+- M Pilar Olivar
 - Leire Citores
 - Jon Corell
 - Naiara Rodríguez-Ezpeleta
 - José Luis Acuña
 - Axayacatl Molina-Ramírez
-- J. Ignacio González-Gordillo
+- J Ignacio González-Gordillo
 - Andrés Cózar
 - Elisa Martí
-- José A. Cuesta
+- José A Cuesta
 - Susana Agustí
 - Eugenio Fraile-Nuez
-- Carlos M. Duarte
+- Carlos M Duarte
 - Xabier Irigoien
 - Guillem Chust
 date: '2018-01-01'

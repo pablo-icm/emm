@@ -2,12 +2,12 @@
 title: Global diversity and distribution of aerobic anoxygenic phototrophs in the
   tropical and subtropical oceans
 authors:
-- Carlota R. Gazulla
+- Carlota R Gazulla
 - Adrià Auladell
 - Clara Ruiz‐González
-- Pedro C. Junger
+- Pedro C Junger
 - Marta Royo‐Llonch
-- Carlos M. Duarte
+- Carlos M Duarte
 - Josep M Gasol
 - Olga Sánchez
 - Isabel Ferrera

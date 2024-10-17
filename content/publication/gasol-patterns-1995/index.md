@@ -3,7 +3,7 @@ title: Patterns in the top-down versus bottom-up regulation of heterotrophic nan
   in temperate lakes
 authors:
 - Josep M Gasol
-- Andrew M. Simons
+- Andrew M Simons
 - Jacob Kalff
 date: '1995-01-01'
 publishDate: '2024-08-05T15:04:48.989292Z'

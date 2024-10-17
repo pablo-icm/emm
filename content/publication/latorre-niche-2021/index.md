@@ -2,12 +2,12 @@
 title: Niche adaptation promoted the evolutionary diversification of tiny ocean predators
 authors:
 - Francisco Latorre
-- Ina M. Deutschmann
+- Ina M Deutschmann
 - Aurélie Labarre
 - Aleix Obiol
-- Anders K. Krabberød
+- Anders K Krabberød
 - Eric Pelletier
-- Michael E. Sieracki
+- Michael E Sieracki
 - Corinne Cruaud
 - Olivier Jaillon
 - Ramon Massana

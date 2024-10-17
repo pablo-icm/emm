@@ -4,8 +4,8 @@ title: Phylogenetically and functionally diverse microorganisms reside under the
 authors:
 - Clara Martínez-Pérez
 - Chris Greening
-- Sean K. Bay
-- Rachael J. Lappan
+- Sean K Bay
+- Rachael J Lappan
 - Zihao Zhao
 - Daniele De Corte
 - Christina Hulbe
@@ -13,10 +13,10 @@ authors:
 - Craig Stevens
 - Blair Thomson
 - Ramunas Stepanauskas
-- José M. González
+- José M González
 - Ramiro Logares
-- Gerhard J. Herndl
-- Sergio E. Morales
+- Gerhard J Herndl
+- Sergio E Morales
 - Federico Baltar
 date: '2022-01-01'
 publishDate: '2024-08-05T15:04:45.803201Z'

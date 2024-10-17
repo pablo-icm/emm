@@ -3,11 +3,11 @@ title: Molecular diversity among marine picophytoplankton as revealed by textitp
   analyses
 authors:
 - Gil Zeidner
-- Christina M. Preston
-- Edward F. Delong
+- Christina M Preston
+- Edward F Delong
 - Ramon Massana
-- Anton F. Post
-- David J. Scanlan
+- Anton F Post
+- David J Scanlan
 - Oded Béjà
 date: '2003-03-01'
 publishDate: '2024-08-05T15:04:48.600511Z'

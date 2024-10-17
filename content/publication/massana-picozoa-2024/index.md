@@ -5,7 +5,7 @@ authors:
 - Daniele De Angelis
 - Hugo Sarmento
 - Sebastian Metz
-- Caterina R. Giner
+- Caterina R Giner
 - Colomban De Vargas
 - Luigi Maiorano
 - Ramon Massana

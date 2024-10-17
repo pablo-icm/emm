@@ -2,23 +2,23 @@
 title: A consensus protocol for the recovery of mercury methylation genes from metagenomes
 authors:
 - Eric Capo
-- Benjamin D. Peterson
+- Benjamin D Peterson
 - Minjae Kim
-- Daniel S. Jones
+- Daniel S Jones
 - Silvia G Acinas
 - Marc Amyot
 - Stefan Bertilsson
 - Erik Björn
 - Moritz Buck
 - Claudia Cosio
-- Dwayne A. Elias
+- Dwayne A Elias
 - Cynthia Gilmour
 - Marisol Goñi-Urriza
 - Baohua Gu
 - Heyu Lin
 - Yu-Rong Liu
 - Katherine McMahon
-- John W. Moreau
+- John W Moreau
 - Jarone Pinhassi
 - Mircea Podar
 - Fernando Puente-Sánchez
@@ -26,10 +26,10 @@ authors:
 - Veronika Storck
 - Yuya Tada
 - Adrien Vigneron
-- David A. Walsh
+- David A Walsh
 - Marine Vandewalle-Capo
 - Andrea G Bravo
-- Caitlin M. Gionfriddo
+- Caitlin M Gionfriddo
 date: '2023-01-01'
 publishDate: '2024-08-08T12:00:46.964078Z'
 publication_types:

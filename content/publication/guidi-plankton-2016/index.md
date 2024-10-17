@@ -10,7 +10,7 @@ authors:
 - Youssef Darzi
 - Stephane Audic
 - Léo Berline
-- Jennifer R. Brum
+- Jennifer R Brum
 - Luis Pedro Coelho
 - Julio Cesar Ignacio Espinoza
 - Shruti Malviya
@@ -36,7 +36,7 @@ authors:
 - Peer Bork
 - Colomban De Vargas
 - Daniele Iudicone
-- Matthew B. Sullivan
+- Matthew B Sullivan
 - Jeroen Raes
 - Eric Karsenti
 - Chris Bowler

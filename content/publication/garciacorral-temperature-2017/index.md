@@ -2,20 +2,20 @@
 title: Temperature dependence of plankton community metabolism in the subtropical
   and tropical oceans
 authors:
-- Lara S. Garcia‐Corral
-- Johnna M. Holding
+- Lara S Garcia‐Corral
+- Johnna M Holding
 - Paloma Carrillo‐de‐Albornoz
 - Alexandra Steckbauer
 - María Pérez‐Lorenzo
 - Nuria Navarro
 - Pablo Serret
 - Josep M Gasol
-- Xosé Anxelu G. Morán
+- Xosé Anxelu G Morán
 - Marta Estrada
 - Eugenio Fraile‐Nuez
 - Verónica Benítez‐Barrios
 - Susana Agusti
-- Carlos M. Duarte
+- Carlos M Duarte
 date: '2017-07-01'
 publishDate: '2024-08-05T15:04:46.528818Z'
 publication_types:

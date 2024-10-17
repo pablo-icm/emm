@@ -4,13 +4,13 @@ title: Seasonal patterns in phytoplankton photosynthetic parameters and primary 
 authors:
 - Josep M Gasol
 - Clara Cardelús
-- Xosé Anxelu G. Morán
+- Xosé Anxelu G Morán
 - Vanessa Balagué
 - Irene Forn
 - Cèlia Marrasé
 - Ramon Massana
 - Carlos Pedrós-Alió
-- M. Montserrat Sala
+- M Montserrat Sala
 - Rafel Simó
 - Dolors Vaqué
 - Marta Estrada

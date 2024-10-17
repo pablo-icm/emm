@@ -2,12 +2,12 @@
 title: The significance of organic nutrients in the nutrition of Pseudo-nitzschia
   delicatissima (Bacillariophyceae)
 authors:
-- S. Loureiro
-- C. Jauzein
-- E. Garces
-- Y. Collos
-- J. Camp
-- D. Vaque
+- S Loureiro
+- C Jauzein
+- E Garces
+- Y Collos
+- J Camp
+- D Vaque
 date: '2009-01-01'
 publishDate: '2024-08-05T15:04:48.026923Z'
 publication_types:

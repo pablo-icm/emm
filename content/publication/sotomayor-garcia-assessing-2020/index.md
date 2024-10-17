@@ -12,7 +12,7 @@ authors:
 - Cèlia Marrasé
 - Eva Ortega-Retuerta
 - Sdena Nunes
-- Yaiza M. Castillo
+- Yaiza M Castillo
 - Maria Serrano Cuerva
 - Marta Sebastián
 - Manuel Dall’Osto

@@ -3,7 +3,7 @@ title: Distribution of phytoplankton groups within the deep chlorophyll maximum
 authors:
 - Mikel Latasa
 - Ana María Cabello
-- Xosé Anxelu G. Morán
+- Xosé Anxelu G Morán
 - Ramon Massana
 - Renate Scharek
 date: '2017-03-01'

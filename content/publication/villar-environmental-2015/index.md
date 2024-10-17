@@ -2,23 +2,23 @@
 title: Environmental characteristics of Agulhas rings affect interocean plankton transport
 authors:
 - Emilie Villar
-- Gregory K. Farrant
+- Gregory K Farrant
 - Michael Follows
 - Laurence Garczarek
 - Sabrina Speich
 - Stéphane Audic
 - Lucie Bittner
 - Bruno Blanke
-- Jennifer R. Brum
+- Jennifer R Brum
 - Christophe Brunet
 - Raffaella Casotti
 - Alison Chase
-- John R. Dolan
+- John R Dolan
 - Fabrizio d’Ortenzio
 - Jean-Pierre Gattuso
 - Nicolas Grima
 - Lionel Guidi
-- Christopher N. Hill
+- Christopher N Hill
 - Oliver Jahn
 - Jean-Louis Jamet
 - Hervé Le Goff
@@ -29,7 +29,7 @@ authors:
 - Simon Roux
 - Sébastien Santini
 - Eleonora Scalco
-- Sarah M. Schwenck
+- Sarah M Schwenck
 - Atsuko Tanaka
 - Pierre Testor
 - Thomas Vannier
@@ -47,7 +47,7 @@ authors:
 - Gabriel Gorsky
 - Hiroyuki Ogata
 - Stéphane Pesant
-- Matthew B. Sullivan
+- Matthew B Sullivan
 - Shinichi Sunagawa
 - Patrick Wincker
 - Eric Karsenti

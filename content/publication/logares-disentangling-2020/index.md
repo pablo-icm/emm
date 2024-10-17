@@ -2,11 +2,11 @@
 title: Disentangling the mechanisms shaping the surface ocean microbiota
 authors:
 - Ramiro Logares
-- Ina M. Deutschmann
-- Pedro C. Junger
-- Caterina R. Giner
-- Anders K. Krabberød
-- Thomas S. B. Schmidt
+- Ina M Deutschmann
+- Pedro C Junger
+- Caterina R Giner
+- Anders K Krabberød
+- Thomas S B Schmidt
 - Laura Rubinat-Ripoll
 - Mireia Mestre
 - Guillem Salazar
@@ -14,7 +14,7 @@ authors:
 - Marta Sebastián
 - Colomban De Vargas
 - Silvia G Acinas
-- Carlos M. Duarte
+- Carlos M Duarte
 - Josep M Gasol
 - Ramon Massana
 date: '2020-12-01'

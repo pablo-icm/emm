@@ -4,12 +4,12 @@ title: Ecogenomics and potential biogeochemical impacts of globally abundant oce
 authors:
 - Tara Oceans Coordinators
 - Simon Roux
-- Jennifer R. Brum
-- Bas E. Dutilh
+- Jennifer R Brum
+- Bas E Dutilh
 - Shinichi Sunagawa
-- Melissa B. Duhaime
+- Melissa B Duhaime
 - Alexander Loy
-- Bonnie T. Poulos
+- Bonnie T Poulos
 - Natalie Solonenko
 - Elena Lara
 - Julie Poulain
@@ -20,13 +20,13 @@ authors:
 - Sarah Searson
 - Corinne Cruaud
 - Adriana Alberti
-- Carlos M. Duarte
+- Carlos M Duarte
 - Josep M Gasol
 - Dolors Vaqué
 - Peer Bork
 - Silvia G Acinas
 - Patrick Wincker
-- Matthew B. Sullivan
+- Matthew B Sullivan
 date: '2016-09-01'
 publishDate: '2024-08-05T15:04:46.654210Z'
 publication_types:

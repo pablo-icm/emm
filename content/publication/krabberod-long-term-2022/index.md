@@ -1,11 +1,11 @@
 ---
 title: Long-term patterns of an interconnected core marine microbiota
 authors:
-- Anders K. Krabberød
-- Ina M. Deutschmann
-- Marit F. M. Bjorbækmo
+- Anders K Krabberød
+- Ina M Deutschmann
+- Marit F M Bjorbækmo
 - Vanessa Balagué
-- Caterina R. Giner
+- Caterina R Giner
 - Isabel Ferrera
 - Esther Garcés
 - Ramon Massana

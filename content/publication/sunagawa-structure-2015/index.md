@@ -9,10 +9,10 @@ authors:
 - Guillem Salazar
 - Bardya Djahanschiri
 - Georg Zeller
-- Daniel R. Mende
+- Daniel R Mende
 - Adriana Alberti
 - Francisco M Cornejo-Castillo
-- Paul I. Costea
+- Paul I Costea
 - Corinne Cruaud
 - Francesco d'Ovidio
 - Stefan Engelen
@@ -24,7 +24,7 @@ authors:
 - Cyrille Lepoivre
 - Gipsi Lima-Mendez
 - Julie Poulain
-- Bonnie T. Poulos
+- Bonnie T Poulos
 - Marta Royo-Llonch
 - Hugo Sarmento
 - Sara Vieira-Silva
@@ -45,7 +45,7 @@ authors:
 - Stephane Pesant
 - Sabrina Speich
 - Lars Stemmann
-- Matthew B. Sullivan
+- Matthew B Sullivan
 - Jean Weissenbach
 - Patrick Wincker
 - Eric Karsenti
@@ -57,7 +57,7 @@ authors:
 - Michael Follows
 - Lee Karp-Boss
 - Uros Krzic
-- Emmanuel G. Reynaud
+- Emmanuel G Reynaud
 - Christian Sardet
 - Mike Sieracki
 - Didier Velayoudon

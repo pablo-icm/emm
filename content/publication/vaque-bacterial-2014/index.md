@@ -6,8 +6,8 @@ authors:
 - Laura Alonso-Sáez
 - Javier Arístegui
 - Susana Agustí
-- Carlos M. Duarte
-- M. Montserrat Sala
+- Carlos M Duarte
+- M Montserrat Sala
 - Evaristo Vázquez-Domínguez
 - Josep M Gasol
 date: '2014-01-01'

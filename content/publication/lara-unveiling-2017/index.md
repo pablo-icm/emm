@@ -5,25 +5,25 @@ authors:
 - Elena Lara
 - Dolors Vaqué
 - Elisabet Laia Sà
-- Julia A. Boras
+- Julia A Boras
 - Ana Gomes
 - Encarna Borrull
 - Cristina Díez-Vives
 - Eva Teira
 - Massimo C Pernice
-- Francisca C. Garcia
+- Francisca C Garcia
 - Irene Forn
-- Yaiza M. Castillo
+- Yaiza M Castillo
 - Aida Peiró
 - Guillem Salazar
-- Xosé Anxelu G. Morán
+- Xosé Anxelu G Morán
 - Ramon Massana
-- Teresa S. Catalá
+- Teresa S Catalá
 - Gian Marco Luna
 - Susana Agustí
 - Marta Estrada
 - Josep M Gasol
-- Carlos M. Duarte
+- Carlos M Duarte
 date: '2017-09-01'
 publishDate: '2024-08-05T15:04:46.545077Z'
 publication_types:

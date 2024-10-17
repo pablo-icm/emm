@@ -8,7 +8,7 @@ authors:
 - Ana Fernández
 - Jose González
 - Itziar Lekunberri
-- X. Antón Álvarez‐Salgado
+- X Antón Álvarez‐Salgado
 date: '2008-04-01'
 publishDate: '2024-08-05T15:04:48.089390Z'
 publication_types:

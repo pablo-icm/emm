@@ -7,7 +7,7 @@ authors:
 - Rubén Marín‐Juez
 - Joan Cerdà
 - Joaquín Abián
-- Josep V. Planas
+- Josep V Planas
 date: '2011-06-01'
 publishDate: '2024-08-05T15:04:47.722880Z'
 publication_types:

@@ -8,8 +8,8 @@ authors:
 - Pablo Sánchez
 - Guillem Salazar
 - Ramunas Stepanauskas
-- José M. González
-- Michael E. Sieracki
+- José M González
+- Michael E Sieracki
 - Sabrina Speich
 - Lars Stemmann
 - Carlos Pedrós-Alió

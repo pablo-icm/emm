@@ -1,13 +1,13 @@
 ---
 title: Abiotic selection of microbial genome size in the global ocean
 authors:
-- David K. Ngugi
+- David K Ngugi
 - Silvia G Acinas
 - Pablo Sánchez
 - Josep M Gasol
 - Susana Agusti
-- David M. Karl
-- Carlos M. Duarte
+- David M Karl
+- Carlos M Duarte
 date: '2023-03-01'
 publishDate: '2024-08-08T12:00:46.988820Z'
 publication_types:

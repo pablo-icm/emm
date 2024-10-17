@@ -3,7 +3,7 @@ title: Differential Sunlight Sensitivity of Picophytoplankton from Surface Medit
   Coastal Waters
 authors:
 - Ruben Sommaruga
-- Julia S. Hofer
+- Julia S Hofer
 - Laura Alonso-Sáez
 - Josep M Gasol
 date: '2005-04-01'

@@ -2,28 +2,28 @@
 title: Contrasting effects of ocean acidification on the microbial food web under
   different trophic conditions
 authors:
-- M. M. Sala
-- F. L. Aparicio
-- V. Balagué
-- J. A. Boras
-- E. Borrull
-- C. Cardelús
-- L. Cros
-- A. Gomes
-- A. López-Sanz
-- A. Malits
-- R. A. Martínez
-- M. Mestre
-- J. Movilla
-- H. Sarmento
-- E. Vázquez-Domínguez
-- D. Vaqué
-- J. Pinhassi
-- A. Calbet
-- E. Calvo
-- J. M. Gasol
-- C. Pelejero
-- C. Marrasé
+- M M Sala
+- F L Aparicio
+- V Balagué
+- J A Boras
+- E Borrull
+- C Cardelús
+- L Cros
+- A Gomes
+- A López-Sanz
+- A Malits
+- R A Martínez
+- M Mestre
+- J Movilla
+- H Sarmento
+- E Vázquez-Domínguez
+- D Vaqué
+- J Pinhassi
+- A Calbet
+- E Calvo
+- J M Gasol
+- C Pelejero
+- C Marrasé
 date: '2016-03-01'
 publishDate: '2024-08-05T15:04:46.610000Z'
 publication_types:

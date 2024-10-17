@@ -10,7 +10,7 @@ authors:
 - Joaquín Valencia-Vila
 - Teresa Serrano Catalá
 - Marta Hernández-Ruiz
-- Marta M. Varela
+- Marta M Varela
 - Isabel Ferrera
 - Xosé Anxelu Gutiérrez Morán
 - Josep M Gasol

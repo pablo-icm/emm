@@ -7,8 +7,8 @@ authors:
 - Grazia Marina Quero
 - Luís Torgo
 - Julie Poulain
-- Pierre E. Galand
-- Jed A. Fuhrman
+- Pierre E Galand
+- Jed A Fuhrman
 - Alex Mitchell
 - Tinkara Tinta
 - Timotej Turk Dermastia

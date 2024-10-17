@@ -3,23 +3,23 @@ title: Global beta diversity patterns of microbial communities in the surface an
   deep ocean
 authors:
 - Ernesto Villarino
-- James R. Watson
+- James R Watson
 - Guillem Chust
-- A. John Woodill
+- A John Woodill
 - Benjamin Klempay
 - Bror Jonsson
 - Josep M Gasol
 - Ramiro Logares
 - Ramon Massana
-- Caterina R. Giner
+- Caterina R Giner
 - Guillem Salazar
-- X. Anton Alvarez‐Salgado
-- Teresa S. Catala
-- Carlos M. Duarte
+- X Anton Alvarez‐Salgado
+- Teresa S Catala
+- Carlos M Duarte
 - Susana Agusti
 - Francisco Mauro
 - Xabier Irigoien
-- Andrew D. Barton
+- Andrew D Barton
 date: '2022-11-01'
 publishDate: '2024-08-05T15:04:45.719731Z'
 publication_types:

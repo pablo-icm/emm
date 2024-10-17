@@ -1,12 +1,12 @@
 ---
 title: Experimental test of bacteria-phytoplankton coupling in the Southern Ocean
 authors:
-- Carlos M. Duarte
+- Carlos M Duarte
 - Susana Agustí
 - Dolors Vaqué
-- Nona S. R. Agawin
+- Nona S R Agawin
 - Jordi Felipe
-- Emilio O. Casamayor
+- Emilio O Casamayor
 - Josep M Gasol
 date: '2005-11-01'
 publishDate: '2024-08-05T15:04:48.428765Z'

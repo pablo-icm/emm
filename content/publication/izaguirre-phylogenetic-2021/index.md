@@ -4,7 +4,7 @@ title: Phylogenetic diversity and dominant ecological traits of freshwater Antar
 authors:
 - Irina Izaguirre
 - Fernando Unrein
-- M. Romina Schiaffino
+- M Romina Schiaffino
 - Enrique Lara
 - David Singer
 - Vanessa Balagué

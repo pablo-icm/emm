@@ -2,14 +2,14 @@
 title: Temperature regulation of marine heterotrophic prokaryotes increases latitudinally
   as a breach between bottom‐up and top‐down controls
 authors:
-- Xosé Anxelu G. Morán
+- Xosé Anxelu G Morán
 - Josep M Gasol
 - Massimo C Pernice
 - Jean‐François Mangot
 - Ramon Massana
 - Elena Lara
 - Dolors Vaqué
-- Carlos M. Duarte
+- Carlos M Duarte
 date: '2017-09-01'
 publishDate: '2024-08-05T15:04:46.537220Z'
 publication_types:

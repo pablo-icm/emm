@@ -2,12 +2,12 @@
 title: Molecular diversity and distribution of marine fungi across 130 European environmental
   samples
 authors:
-- Thomas A. Richards
+- Thomas A Richards
 - Guy Leonard
 - Frédéric Mahé
 - Javier Del Campo
 - Sarah Romac
-- Meredith D. M. Jones
+- Meredith D M Jones
 - Finlay Maguire
 - Micah Dunthorn
 - Colomban De Vargas

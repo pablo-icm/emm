@@ -1,7 +1,7 @@
 ---
 title: Rôle des mécanismes biotiques et abiotiques dans la dynamique de la matière organique dissoute dans les écosystèmes marins pélagiques (Méditerranée Nord Occidentale)
 authors: 
-- Elvia D. Sanchez-Perez
+- Elvia D Sanchez-Perez
 date: '2015-10-06'
 publishDate: '2015-10-06'
 publication_types:

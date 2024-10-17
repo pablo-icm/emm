@@ -7,10 +7,10 @@ authors:
 - Antonio Bode
 - Bieito Fernández-Castro
 - Josep M Gasol
-- Xosé Anxelu G. Morán
+- Xosé Anxelu G Morán
 - Emilio Marañon
 - Victor Moreira-Coello
-- Marta M. Varela
+- Marta M Varela
 - Marina Villamaña
 - Beatriz Mouriño-Carballido
 date: '2018-10-01'

@@ -2,7 +2,7 @@
 title: 'Bio-optical characterization of offshore NW Mediterranean waters: CDOM contribution
   to the absorption budget and diffuse attenuation of downwelling irradiance'
 authors:
-- Gonzalo L. Pérez
+- Gonzalo L Pérez
 - Martí Galí
 - Sarah-Jeanne Royer
 - Hugo Sarmento

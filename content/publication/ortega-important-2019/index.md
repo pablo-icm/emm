@@ -2,15 +2,15 @@
 title: Important contribution of macroalgae to oceanic carbon sequestration
 authors:
 - Alejandra Ortega
-- Nathan R. Geraldi
+- Nathan R Geraldi
 - Intikhab Alam
-- Allan A. Kamau
+- Allan A Kamau
 - Silvia G Acinas
 - Ramiro Logares
 - Josep M Gasol
 - Ramon Massana
 - Dorte Krause-Jensen
-- Carlos M. Duarte
+- Carlos M Duarte
 date: '2019-09-01'
 publishDate: '2024-08-05T15:04:46.201684Z'
 publication_types:

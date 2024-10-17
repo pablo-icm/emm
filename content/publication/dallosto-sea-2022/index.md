@@ -16,8 +16,8 @@ authors:
 - Heike Wex
 - Matteo Rinaldi
 - Marco Paglione
-- David C. S. Beddows
-- Roy M. Harrison
+- David C S Beddows
+- Roy M Harrison
 - Elisa Berdalet
 date: '2022-06-01'
 publishDate: '2024-08-05T15:04:45.810935Z'

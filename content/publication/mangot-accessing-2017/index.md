@@ -8,7 +8,7 @@ authors:
 - Fran Latorre
 - Yoann Seeleuthner
 - Samuel Mondy
-- Michael E. Sieracki
+- Michael E Sieracki
 - Olivier Jaillon
 - Patrick Wincker
 - Colomban De Vargas

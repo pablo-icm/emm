@@ -5,15 +5,15 @@ authors:
 - Javier Del Campo
 - Martin Kolisko
 - Vittorio Boscaro
-- Luciana F. Santoferrara
+- Luciana F Santoferrara
 - Serafim Nenarokov
 - Ramon Massana
 - Laure Guillou
 - Alastair Simpson
 - Cedric Berney
 - Colomban De Vargas
-- Matthew W. Brown
-- Patrick J. Keeling
+- Matthew W Brown
+- Patrick J Keeling
 - Laura Wegener Parfrey
 date: '2018-09-01'
 publishDate: '2024-08-05T15:04:46.315215Z'

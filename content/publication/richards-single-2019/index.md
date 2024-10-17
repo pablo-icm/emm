@@ -1,7 +1,7 @@
 ---
 title: Single cell ecology
 authors:
-- Thomas A. Richards
+- Thomas A Richards
 - Ramon Massana
 - Stefano Pagliara
 - Neil Hall

@@ -2,7 +2,7 @@
 title: Temperature control of microbial respiration and growth efficiency in the mesopelagic
   zone of the South Atlantic and Indian Oceans
 authors:
-- Ignacio P. Mazuecos
+- Ignacio P Mazuecos
 - Javier Arístegui
 - Evaristo Vázquez-Domínguez
 - Eva Ortega-Retuerta

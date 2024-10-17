@@ -10,7 +10,7 @@ authors:
 - Marta Sebastián
 - Karine Labadie
 - Lucas Paoli
-- Federico M. Ibarbalz
+- Federico M Ibarbalz
 - Lucie Zinger
 - Benjamin Churcheward
 - Tara Oceans Coordinators
@@ -34,7 +34,7 @@ authors:
 - Christian Sardet
 - Sabrina Speich
 - Lars Setmmann
-- Matthew B. Sullivan
+- Matthew B Sullivan
 - Samuel Chaffron
 - Damien Eveillard
 - Eric Karsenti

@@ -23,7 +23,7 @@ authors:
 - Stéphane Pesant
 - Emmanuel Georges Reynaud
 - Christian Sardet
-- Michael E. Sieracki
+- Michael E Sieracki
 - Sabrina Speich
 - Didier Velayoudon
 - Jean Weissenbach

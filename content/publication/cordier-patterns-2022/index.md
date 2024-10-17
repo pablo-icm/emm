@@ -15,10 +15,10 @@ authors:
 - Ramon Massana
 - Covadonga Orejas
 - Julie Poulain
-- Craig R. Smith
+- Craig R Smith
 - Patrick Wincker
 - Sophie Arnaud-Haond
-- Andrew J. Gooday
+- Andrew J Gooday
 - Colomban De Vargas
 - Jan Pawlowski
 date: '2022-02-01'

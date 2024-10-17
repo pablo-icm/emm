@@ -18,7 +18,7 @@ authors:
 - Mercedes Masó
 - Albert Reñé
 - Anna Maria Rossi
-- M. Montserrat Sala
+- M Montserrat Sala
 - Thierry Thibaut
 - Cecilia Totti
 - Magda Vila

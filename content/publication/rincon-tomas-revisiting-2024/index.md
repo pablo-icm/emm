@@ -7,13 +7,13 @@ authors:
 - Pablo Sánchez
 - Mónica Estupiñán
 - Isabel Sanz-Sáez
-- M. Elisabete Bilbao
+- M Elisabete Bilbao
 - Diana Rojo
 - Iñaki Mendibil
 - Carla Pérez-Cruz
 - Marta Ferri
 - Eric Capo
-- Ion L. Abad-Recio
+- Ion L Abad-Recio
 - David Amouroux
 - Stefan Bertilsson
 - Olga Sánchez

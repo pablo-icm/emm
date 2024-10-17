@@ -2,12 +2,12 @@
 title: Microbial eukaryote communities exhibit robust biogeographical patterns along
   a gradient of Patagonian and Antarctic lakes
 authors:
-- M. Romina Schiaffino
+- M Romina Schiaffino
 - Enrique Lara
-- Leonardo D. Fernández
+- Leonardo D Fernández
 - Vanessa Balagué
 - David Singer
-- Christophe C. W. Seppey
+- Christophe C W Seppey
 - Ramon Massana
 - Irina Izaguirre
 date: '2016-12-01'

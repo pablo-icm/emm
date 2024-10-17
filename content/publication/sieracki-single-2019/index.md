@@ -2,15 +2,15 @@
 title: Single cell genomics yields a wide diversity of small planktonic protists across
   major ocean ecosystems
 authors:
-- M. E. Sieracki
-- N. J. Poulton
-- O. Jaillon
-- P. Wincker
-- C. De Vargas
-- L. Rubinat-Ripoll
-- R. Stepanauskas
-- R. Logares
-- R. Massana
+- M E Sieracki
+- N J Poulton
+- O Jaillon
+- P Wincker
+- C De Vargas
+- L Rubinat-Ripoll
+- R Stepanauskas
+- R Logares
+- R Massana
 date: '2019-04-01'
 publishDate: '2024-08-05T15:04:46.263572Z'
 publication_types:

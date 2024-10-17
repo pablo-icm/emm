@@ -4,12 +4,12 @@ title: Assessing the Diversity and Distribution of Apicomplexans in Host and Fre
   Reference Framework
 authors:
 - Javier Del Campo
-- Thierry J. Heger
+- Thierry J Heger
 - Raquel Rodríguez-Martínez
-- Alexandra Z. Worden
-- Thomas A. Richards
+- Alexandra Z Worden
+- Thomas A Richards
 - Ramon Massana
-- Patrick J. Keeling
+- Patrick J Keeling
 date: '2019-10-01'
 publishDate: '2024-08-05T15:04:46.126179Z'
 publication_types:

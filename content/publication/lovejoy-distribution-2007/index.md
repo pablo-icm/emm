@@ -3,7 +3,7 @@ title: DISTRIBUTION, PHYLOGENY, AND GROWTH OF COLD‐ADAPTED PICOPRASINOPHYTES I
   SEAS $^textrm1$
 authors:
 - Connie Lovejoy
-- Warwick F. Vincent
+- Warwick F Vincent
 - Sylvia Bonilla
 - Suzanne Roy
 - Marie‐Josée Martineau

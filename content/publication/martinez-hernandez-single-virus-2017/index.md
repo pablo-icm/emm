@@ -11,7 +11,7 @@ authors:
 - Josep M Gasol
 - Riccardo Rosselli
 - Francisco Rodriguez-Valera
-- Matthew B. Sullivan
+- Matthew B Sullivan
 - Silvia G Acinas
 - Manuel Martinez-Garcia
 date: '2017-06-01'

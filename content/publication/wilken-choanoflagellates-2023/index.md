@@ -3,11 +3,11 @@ title: Choanoflagellates alongside diverse uncultured predatory protists consume
   abundant open-ocean cyanobacterium textitProchlorococcus
 authors:
 - Susanne Wilken
-- Charmaine C. M. Yung
+- Charmaine C M Yung
 - Camille Poirier
 - Ramon Massana
 - Valeria Jimenez
-- Alexandra Z. Worden
+- Alexandra Z Worden
 date: '2023-07-01'
 publishDate: '2024-08-05T15:04:45.647292Z'
 publication_types:

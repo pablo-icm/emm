@@ -4,8 +4,8 @@ title: Bacterioplankton groups involved in the uptake of phosphate and dissolved
 authors:
 - Marta Sebastián
 - Paraskevi Pitta
-- José M. González
-- T. Frede Thingstad
+- José M González
+- T Frede Thingstad
 - Josep M Gasol
 date: '2012-09-01'
 publishDate: '2024-08-05T15:04:47.405116Z'

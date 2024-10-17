@@ -7,7 +7,7 @@ authors:
 - Josep M Gasol
 - Mar Nieto‐Cid
 - Xosé Antón Álvarez‐Salgado
-- Francisco G. Figueiras
+- Francisco G Figueiras
 date: '2007-10-01'
 publishDate: '2024-08-05T15:04:48.228150Z'
 publication_types:

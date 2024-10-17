@@ -4,22 +4,22 @@ authors:
 - Robert Ptacnik
 - Ana Gomes
 - Sarah-Jeanne Royer
-- Stella A. Berger
+- Stella A Berger
 - Albert Calbet
-- Jens C. Nejstgaard
+- Jens C Nejstgaard
 - Josep M Gasol
 - Stamatina Isari
-- Stefanie D. Moorthi
+- Stefanie D Moorthi
 - Radka Ptacnikova
 - Maren Striebel
-- Andrey F. Sazhin
-- Tatiana M. Tsagaraki
+- Andrey F Sazhin
+- Tatiana M Tsagaraki
 - Soultana Zervoudaki
 - Kristi Altoja
-- Panagiotis D. Dimitriou
+- Panagiotis D Dimitriou
 - Peeter Laas
 - Ayse Gazihan
-- Rodrigo A. Martínez
+- Rodrigo A Martínez
 - Stefanie Schabhüttl
 - Ioulia Santi
 - Despoina Sousoni

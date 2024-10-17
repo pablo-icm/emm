@@ -8,7 +8,7 @@ authors:
 - Sébastien Colin
 - Fabrizio Carcillo
 - Samuel Chaffron
-- J. Cesar Ignacio-Espinosa
+- J Cesar Ignacio-Espinosa
 - Simon Roux
 - Flora Vincent
 - Lucie Bittner
@@ -17,7 +17,7 @@ authors:
 - Stéphane Audic
 - Léo Berline
 - Gianluca Bontempi
-- Ana M. Cabello
+- Ana M Cabello
 - Laurent Coppola
 - Francisco M Cornejo-Castillo
 - Francesco d'Ovidio
@@ -47,7 +47,7 @@ authors:
 - Silvia G Acinas
 - Shinichi Sunagawa
 - Peer Bork
-- Matthew B. Sullivan
+- Matthew B Sullivan
 - Eric Karsenti
 - Chris Bowler
 - Colomban De Vargas

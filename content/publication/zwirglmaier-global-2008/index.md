@@ -11,7 +11,7 @@ authors:
 - Fabrice Not
 - Ramon Massana
 - Osvaldo Ulloa
-- Dave J. Scanlan
+- Dave J Scanlan
 date: '2008-01-01'
 publishDate: '2024-08-05T15:04:48.074544Z'
 publication_types:

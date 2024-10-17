@@ -1,7 +1,7 @@
 ---
 title: Counting error and the quantitative analysis of phytoplankton communities
 authors:
-- Carlos M. Duarte
+- Carlos M Duarte
 - Celia Marrasé
 - Dolors Vaqué
 - Marta Estrada

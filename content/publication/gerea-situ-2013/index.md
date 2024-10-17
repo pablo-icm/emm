@@ -4,7 +4,7 @@ title: 'In situ prey selection of mixotrophic and heterotrophic flagellates in A
 authors:
 - Marina Gerea
 - Claudia Queimaliños
-- M. Romina Schiaffino
+- M Romina Schiaffino
 - Irina Izaguirre
 - Irene Forn
 - Ramon Massana

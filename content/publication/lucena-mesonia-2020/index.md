@@ -4,12 +4,12 @@ title: Mesonia oceanica sp. nov., isolated from oceans during the Tara oceans ex
 authors:
 - Teresa Lucena
 - Isabel Sanz-Sáez
-- David R. Arahal
+- David R Arahal
 - Silvia G Acinas
 - Olga Sánchez
 - Carlos Pedrós-Alió
 - Rosa Aznar
-- María J. Pujalte
+- María J Pujalte
 date: '2020-07-01'
 publishDate: '2024-08-05T15:04:46.058595Z'
 publication_types:

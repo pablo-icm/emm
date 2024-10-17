@@ -3,7 +3,7 @@ title: 'Bacterial community structure in a latitudinal gradient of lakes: the ro
   of spatial versus environmental factors: Factors shaping bacterioplankton community
   structure'
 authors:
-- M. Romina Schiaffino
+- M Romina Schiaffino
 - Fernando Unrein
 - Josep M Gasol
 - Ramon Massana

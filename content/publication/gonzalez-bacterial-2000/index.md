@@ -2,11 +2,11 @@
 title: Bacterial Community Structure Associated with a Dimethylsulfoniopropionate-Producing
   North Atlantic Algal Bloom
 authors:
-- José M. González
+- José M González
 - Rafel Simó
 - Ramon Massana
-- Joseph S. Covert
-- Emilio O. Casamayor
+- Joseph S Covert
+- Emilio O Casamayor
 - Carlos Pedrós-Alió
 - Mary Ann Moran
 date: '2000-10-01'

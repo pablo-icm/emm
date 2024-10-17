@@ -9,11 +9,11 @@ authors:
 - Richard Christen
 - Jean-Michel Claverie
 - Johan Decelle
-- John R. Dolan
+- John R Dolan
 - Micah Dunthorn
 - Bente Edvardsen
 - Angélique Gobet
-- Wiebe H.C.F. Kooistra
+- Wiebe H.C.F Kooistra
 - Frédéric Mahé
 - Fabrice Not
 - Hiroyuki Ogata
@@ -27,7 +27,7 @@ authors:
 - Raffaele Siano
 - Patrick Wincker
 - Adriana Zingone
-- Thomas A. Richards
+- Thomas A Richards
 - Colomban de Vargas
 - Ramon Massana
 date: '2014-04-01'

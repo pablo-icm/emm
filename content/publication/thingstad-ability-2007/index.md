@@ -2,18 +2,18 @@
 title: Ability of a “minimum” microbial food web model to reproduce response patterns
   observed in mesocosms manipulated with N and P, glucose, and Si
 authors:
-- T. Frede Thingstad
+- T Frede Thingstad
 - Harry Havskum
 - Ulla Li Zweifel
 - Elisa Berdalet
-- M. Montserrat Sala
+- M Montserrat Sala
 - Francesc Peters
 - Miquel Alcaraz
 - Renate Scharek
 - Maite Perez
 - Stéphan Jacquet
 - Gro Anita Fonnes Flaten
-- John R. Dolan
+- John R Dolan
 - Celia Marrasé
 - Fereidoun Rassoulzadegan
 - Åke Hagstrøm
