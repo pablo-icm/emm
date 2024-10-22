@@ -56,6 +56,11 @@ if ($grid_pubs.length) {
 
 
     pubFilters[filterGroup] = this.value;
+
+    // If the supervisor filter changes, ensure to filter by thesis
+    if (filterGroup === 'supervisor') {
+        pubFilters['pubtype'] = '.pubtype-thesis'; // restrict to thesis
+    }
   
     // Combine filters.
     filterValues = concatValues(pubFilters);
@@ -64,9 +69,9 @@ if ($grid_pubs.length) {
     $grid_pubs.isotope();
 
     // Update the URL hash to enable direct linking to results.
-    if (filterGroup === 'pubtype' || filterGroup === 'author' || filterGroup === 'year') {
+    if (filterGroup === 'pubtype' || filterGroup === 'author' || filterGroup === 'year' || filterGroup === 'supervisor') {
       let url = $(this).val();
-      if (url.startsWith('.pubtype-') || url.startsWith('.author-') || url.startsWith('.year-')) {
+      if (url.startsWith('.pubtype-') || url.startsWith('.author-') || url.startsWith('.year-') || url.startsWith('.supervisor-')) {
         window.location.hash = url.substr(url.indexOf('-') + 1);
       } else {
         window.location.hash = '';
@@ -81,9 +86,28 @@ if ($grid_pubs.length) {
     pubFilters['author'] = authorFilterValue; // Set the author filter
     filterValues = concatValues(pubFilters); // Combine all filters
     $grid_pubs.isotope(); // Apply the filter
+  }
+  if (queryParams.supervisor) {
+    const supervisorFilterValue = '.supervisor-' + queryParams.supervisor;
+    pubFilters['supervisor'] = supervisorFilterValue; // Set the supervisor filter
+    pubFilters['pubtype'] = '.pubtype-thesis'; // also restrict to thesis
+    filterValues = concatValues(pubFilters); // Combine all filters
+    $grid_pubs.isotope(); // Apply the filter
+  }
+  
+  
 
-    // Set the dropdown to the selected author
-    $('.pub-filters[data-filter-group="author"]').val(authorFilterValue);
+  // Combine all filters
+  filterValues = concatValues(pubFilters); 
+  $grid_pubs.isotope(); // Apply the filter
+
+  // Set the dropdown to the selected author and supervisor if they exist
+  if (queryParams.author) {
+    $('.pub-filters[data-filter-group="author"]').val(pubFilters['author']);
+  }
+  
+  if (queryParams.supervisor) {
+    $('.pub-filters[data-filter-group="supervisor"]').val(pubFilters['supervisor']);
   }
 }
 
@@ -128,11 +152,13 @@ function filter_publications() {
       filterValue = '.pubtype-' + urlHash.replace('pubtype-', '');
     } else if (urlHash.startsWith('author-')) {
       filterValue = '.author-' + urlHash.replace('author-', '');
+    } else if (urlHash.startsWith('supervisor-')) {
+      filterValue = '.supervisor-' + urlHash.replace('supervisor-', '');
     }
   }
 
   // Set filter.
-  let filterGroup = urlHash.startsWith('author-') ? 'author' : 'pubtype';
+  let filterGroup = urlHash.startsWith('author-') ? 'author' : urlHash.startsWith('supervisor-') ? 'supervisor' : 'pubtype';
   pubFilters[filterGroup] = filterValue;
   filterValues = concatValues(pubFilters);
 
@@ -144,8 +170,11 @@ function filter_publications() {
     $('.pubtype-select').val(filterValue);
   } else if (filterGroup === 'author') {
     $('.pub-filters[data-filter-group="author"]').val(filterValue);
+  } else if (filterGroup === 'supervisor') {
+    $('.pub-filters[data-filter-group="supervisor"]').val(filterValue);
   }
 }
+
 
 document.addEventListener('DOMContentLoaded', function () {
   // Enable publication filter for publication index page.
