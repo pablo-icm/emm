@@ -22,24 +22,24 @@ organizations:
   url: "https://www.icm.csic.es/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
+# bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
 
-interests:
-- Add your interest
-- Add your interest
-- Add as many interests as you need
+# interests:
+# - Add your interest
+# - Add your interest
+# - Add as many interests as you need
 
-education:
-  courses:
-  - course: Add your PhD program
-    institution: Add your Uni here
-    year: Year of PhD
-  - course: Add bachelor title
-    institution: Add Uni Here
-    year: Add year of uni
-  - course: add as many courses as you want
-    institution: Add uni
-    year: Add year
+# education:
+#   courses:
+#   - course: Add your PhD program
+#     institution: Add your Uni here
+#     year: Year of PhD
+#   - course: Add bachelor title
+#     institution: Add Uni Here
+#     year: Add year of uni
+#   - course: add as many courses as you want
+#     institution: Add uni
+#     year: Add year
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -49,28 +49,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:example@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/your_twitter_handle
+  link: "mailto:sofiya@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/your_twitter_handle
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/your_scholar_profile
+  link: https://scholar.google.es/citations?hl=en&user=rpDLGygAAAAJ
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/your_orcid_id
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Your_researchgate_profile
-- icon: github
-  icon_pack: fab
-  link: https://github.com/your_github
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/your_insta
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/your_linkedin/
+  link: https://orcid.org/0000-0003-0838-7564
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/Your_researchgate_profile
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/your_github
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://www.instagram.com/your_insta
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/your_linkedin/
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -87,5 +87,11 @@ email: ""
 user_groups:
 - 'Postdoctoral scientists'
 ---
-Description of your research. Add here everything... blabalblbablablablablablab
+
+
+I defended my PhD at Moscow State University, Russia, in the Department of Algology and Mycology. My research has been focused on studying a rare and unique group of fungi called alkaliphiles, which thrive at high pH levels (up to 11 and above). I explored the diversity, eco-physiology, and adaptive mechanisms of these fungi to various extreme conditions.
+
+Currently, I am a postdoctoral researcher at ICM CSIC with a Beatriu de Pinós grant from AGAUR. My project, EXTREFUN, aims to study extremophilic fungi in hypersaline lakes of Spain, focusing on their diversity, ecology, and functional roles. To investigate all this, I am employing metabarcoding, culturing studies, CARD-FISH for fungal visualization, and planning to use metatranscriptomics in the future.
+
+Moreover, I am interested in marine fungi, particularly in the search for poorly described basal lineages. As part of my work, I am highly motivated to improve the classification of fungi in existing 18S sequence databases, ensuring that we do not overlook basal lineages while analyzing the vast pool of metabarcoding data accumulated to date.
 

@@ -22,24 +22,24 @@ organizations:
   url: "https://www.icm.csic.es/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
+# bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
 
-interests:
-- Add your interest
-- Add your interest
-- Add as many interests as you need
+# interests:
+# - Add your interest
+# - Add your interest
+# - Add as many interests as you need
 
-education:
-  courses:
-  - course: Add your PhD program
-    institution: Add your Uni here
-    year: Year of PhD
-  - course: Add bachelor title
-    institution: Add Uni Here
-    year: Add year of uni
-  - course: add as many courses as you want
-    institution: Add uni
-    year: Add year
+# education:
+#   courses:
+#   - course: Add your PhD program
+#     institution: Add your Uni here
+#     year: Year of PhD
+#   - course: Add bachelor title
+#     institution: Add Uni Here
+#     year: Add year of uni
+#   - course: add as many courses as you want
+#     institution: Add uni
+#     year: Add year
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -49,28 +49,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:example@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/your_twitter_handle
+  link: "mailto:pernice@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/your_twitter_handle
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/your_scholar_profile
+  link: https://scholar.google.es/citations?hl=es&user=v6jlDXgAAAAJ
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/your_orcid_id
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Your_researchgate_profile
-- icon: github
-  icon_pack: fab
-  link: https://github.com/your_github
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/your_insta
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/your_linkedin/
+  link: https://orcid.org/0000-0001-6917-8999
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/Your_researchgate_profile
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/your_github
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://www.instagram.com/your_insta
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/your_linkedin/
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -87,5 +87,4 @@ email: ""
 user_groups:
 - 'Postdoctoral scientists'
 ---
-Description of your research. Add here everything... blabalblbablablablablablab
-
+I am a marine microbiologist and I achieved my PhD in oceanography here at ICM in 2014. I am mainly interested in marine eukaryotes and their interactions with other components of the microbial community. At the moment I am working as lab technician at the laboratory of Flow cytometry belonging to the department of Marine Biology and Oceanography. The main goal of this facility is the counting and characterization of plankton components like bacteria, eukaryotes and virus. In this frame my main tasks are formation and support of new users and analyses of several types of marine samples. I am also working on developing new methods and applications in order to better define different marine population through flow cytometry (e.g. active bacteria versus dormant). In parallel to these activities I keep nurturing my personal research interests and projects.

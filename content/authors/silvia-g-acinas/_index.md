@@ -22,24 +22,24 @@ organizations:
   url: "https://www.icm.csic.es/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
+# bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
 
-interests:
-- Add your interest
-- Add your interest
-- Add as many interests as you need
+# interests:
+# - Add your interest
+# - Add your interest
+# - Add as many interests as you need
 
-education:
-  courses:
-  - course: Add your PhD program
-    institution: Add your Uni here
-    year: Year of PhD
-  - course: Add bachelor title
-    institution: Add Uni Here
-    year: Add year of uni
-  - course: add as many courses as you want
-    institution: Add uni
-    year: Add year
+# education:
+#   courses:
+#   - course: Add your PhD program
+#     institution: Add your Uni here
+#     year: Year of PhD
+#   - course: Add bachelor title
+#     institution: Add Uni Here
+#     year: Add year of uni
+#   - course: add as many courses as you want
+#     institution: Add uni
+#     year: Add year
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -49,28 +49,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:example@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/your_twitter_handle
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/your_scholar_profile
+  link: "mailto:sacinas@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/your_twitter_handle
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/your_scholar_profile
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/your_orcid_id
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Your_researchgate_profile
-- icon: github
-  icon_pack: fab
-  link: https://github.com/your_github
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/your_insta
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/your_linkedin/
+  link: http://orcid.org/0000-0002-3439-0428
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/Your_researchgate_profile
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/your_github
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://www.instagram.com/your_insta
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/your_linkedin/
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -87,5 +87,5 @@ email: ""
 user_groups:
 - 'Staff scientists'
 ---
-Description of your research. Add here everything... blabalblbablablablablablab
-
+I am a marine microbial microbiologist with interest in ecology, genomics and evolution. I studied Biology at University of Murcia (UM) and completed my PhD at University of Miguel-Hernández (UMH) in Alicante in 1999. My PhD thesis was focused to study microbial diversity patterns and dynamics of environmental microbial communities using molecular and culturing techniques. My postdoctoral training in molecular microbial ecology and genomics started in 1999 in USA and I spent 5 years at Massachusetts Institute of Technology (MIT) from 2001 to 2005. I extended my postdoc research at the Netherlands Institute of Ecology (NIOO-KNAW) at Centre for Estuarine and Marine Ecology in Yerseke, in 2006. Finally, I joined as a research scientist at Department of Marine Biology and Oceanography at the ICM (Institut de Ciències del Mar), CSIC in Barcelona, with a Ramon and Cajal program in 2007 and I secured a permanent position in 2017. Since 2009, I am the coordinator of prokaryotic consortium within the TARA Ocean global expedition. I am also leading DeepMalaspinomics, a project funded by DOE JGI´s Community Sequencing Program (CSP). This project is a large scale sequencing project of deep ocean samples within the context of Malaspina global expedition.
+My current research is mainly focused on linking microbial genetic diversity with functional capacities of ecologically relevant marine microbial taxa using metagenomics, metranscriptomics, single cell genomics and isolation. Thus, our group is interested to understand the evolutionary mechanisms underlying diversification processes. Finally,  we are also exploring the diversity and genomics of bacteria capable of detoxification and methylation of methymercury using omics and culturing experimental analyses.

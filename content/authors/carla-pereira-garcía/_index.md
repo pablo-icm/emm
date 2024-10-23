@@ -22,24 +22,24 @@ organizations:
   url: "https://www.icm.csic.es/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
+# bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
 
-interests:
-- Add your interest
-- Add your interest
-- Add as many interests as you need
+# interests:
+# - Add your interest
+# - Add your interest
+# - Add as many interests as you need
 
-education:
-  courses:
-  - course: Add your PhD program
-    institution: Add your Uni here
-    year: Year of PhD
-  - course: Add bachelor title
-    institution: Add Uni Here
-    year: Add year of uni
-  - course: add as many courses as you want
-    institution: Add uni
-    year: Add year
+# education:
+#   courses:
+  # - course: Add your PhD program
+  #   institution: Add your Uni here
+  #   year: Year of PhD
+  # - course: Add bachelor title
+  #   institution: Add Uni Here
+  #   year: Add year of uni
+  # - course: add as many courses as you want
+  #   institution: Add uni
+  #   year: Add year
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -49,28 +49,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:example@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/your_twitter_handle
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/your_scholar_profile
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/your_orcid_id
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Your_researchgate_profile
-- icon: github
-  icon_pack: fab
-  link: https://github.com/your_github
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/your_insta
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/your_linkedin/
+  link: "mailto:cpereira@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/your_twitter_handle
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/your_scholar_profile
+# - icon: orcid
+#   icon_pack: ai
+#   link: https://orcid.org/your_orcid_id
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/Your_researchgate_profile
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/your_github
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://www.instagram.com/your_insta
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/your_linkedin/
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -87,5 +87,4 @@ email: ""
 user_groups:
 - 'Postdoctoral scientists'
 ---
-Description of your research. Add here everything... blabalblbablablablablablab
-
+Since February 2020 I am a PhD student at the Institut de Ciències del Mar, where I also did my undergrad and master thesis. I am co-supervised by Dr. Acinas (ICM-CSIC) and Dr. Sanchez (UAB). I graduated in Biotechnology from the University of Salamanca in 2018 and studied a Master degree in Applied Microbiology in the Universitat Autònoma de Barcelona during 2018/19. I have work mostly with molecular techniques and bacterial cultures experiments but there were some bioinformatics on my master thesis as well, which I enjoyed. My thesis is going to take the same path; having both, lab work and bioinformatics, involve. My thesis is part of the project MER-CLUB, in which using environmental genomics, cell sorting and Hg Stable Isotope tracing, bacteria strains and consortia with the potential for Hg bioremediation will be identify in marine sediments and later used to make a clean-up system based on this bacteria. 

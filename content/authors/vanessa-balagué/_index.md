@@ -22,24 +22,24 @@ organizations:
   url: "https://www.icm.csic.es/"  
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.  
+# bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.  
 
-interests:  
-- Add your interest  
-- Add your interest  
-- Add as many interests as you need  
+# interests:  
+# - Add your interest  
+# - Add your interest  
+# - Add as many interests as you need  
 
-education:  
-  courses:  
-  - course: Add your PhD program if any  
-    institution: Add your Uni here  
-    year: Year of PhD  
-  - course: Add bachelor title  
-    institution: Add Uni Here  
-    year: Add year of uni  
-  - course: add as many courses as you want  
-    institution: Add uni  
-    year: Add year  
+# education:  
+#   courses:  
+#   - course: Add your PhD program if any  
+#     institution: Add your Uni here  
+#     year: Year of PhD  
+#   - course: Add bachelor title  
+#     institution: Add Uni Here  
+#     year: Add year of uni  
+#   - course: add as many courses as you want  
+#     institution: Add uni  
+#     year: Add year  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -49,28 +49,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:example@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/your_twitter_handle
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/your_scholar_profile
+  link: "mailto:vbalague@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/your_twitter_handle
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/your_scholar_profile
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/your_orcid_id
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Your_researchgate_profile
-- icon: github
-  icon_pack: fab
-  link: https://github.com/your_github
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/your_insta
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/your_linkedin/
+  link: http://orcid.org/0000-0001-6813-8207%20
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/Your_researchgate_profile
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/your_github
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://www.instagram.com/your_insta
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/your_linkedin/
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -88,5 +88,11 @@ user_groups:
 - 'Technicians'  
 - 
 ---
-Description of your research. Add here everything... blabalblbablablablablablab  
+
+
+I work as a Lab Technician in the Laboratory of Molecular Biology in the Department of Marine Biology and Oceanography (Institut de Ciències del Mar, CSIC) since 2001.
+
+My main scientific interest is the application of molecular techniques to unravel the identity and activity of marine microbial community members. I work giving support to scientists who try to have a complete biogeographical study of the patterns of distribution of marine microbial assemblages adapted to different habitats worldwide. We are interested in deepening in the functioning of marine microorganisms related to those different environmental conditions (temperature, salinity, trophic status, light-dependence, etc.). In that sense, I have participated in several oceanographic cruises in the Arctic and Antarctic Oceans, in the Atlantic, in the Baltic Sea and in the Mediterranean.
+
+I consider that curiosity, creativity and enjoying at work are essential elements for science. I am also involved in several outreach projects. I strongly believe that spreading our knowledge about the ocean will translate into more people loving the sea, taking care of it.
 

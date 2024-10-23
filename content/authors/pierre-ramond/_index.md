@@ -22,24 +22,24 @@ organizations:
   url: "https://www.icm.csic.es/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
+# bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
 
-interests:
-- Add your interest
-- Add your interest
-- Add as many interests as you need
+# interests:
+# - Add your interest
+# - Add your interest
+# - Add as many interests as you need
 
-education:
-  courses:
-  - course: Add your PhD program
-    institution: Add your Uni here
-    year: Year of PhD
-  - course: Add bachelor title
-    institution: Add Uni Here
-    year: Add year of uni
-  - course: add as many courses as you want
-    institution: Add uni
-    year: Add year
+# education:
+#   courses:
+#   - course: Add your PhD program
+#     institution: Add your Uni here
+#     year: Year of PhD
+#   - course: Add bachelor title
+#     institution: Add Uni Here
+#     year: Add year of uni
+#   - course: add as many courses as you want
+#     institution: Add uni
+#     year: Add year
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -49,28 +49,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:example@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/your_twitter_handle
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/your_scholar_profile
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/your_orcid_id
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Your_researchgate_profile
-- icon: github
-  icon_pack: fab
-  link: https://github.com/your_github
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/your_insta
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/your_linkedin/
+  link: "mailto:pierre@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/your_twitter_handle
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/your_scholar_profile
+# - icon: orcid
+#   icon_pack: ai
+#   link: https://orcid.org/your_orcid_id
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/Your_researchgate_profile
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/your_github
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://www.instagram.com/your_insta
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/your_linkedin/
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -87,5 +87,4 @@ email: ""
 user_groups:
 - 'Postdoctoral scientists'
 ---
-Description of your research. Add here everything... blabalblbablablablablablab
-
+I am a postdoctoral fellow at the ICM on a MSCA project called ‘FROM’. I am interested in theoretical ecology, particularly in testing ecological hypotheses with environmental observations. My research focus on understanding what structures marine microbial communities and how these communities structure retro-actively their ecosystem. During my PhD (2015-2018) at the ‘Ifremer de Brest’ and the ‘Station Biologique de Roscoff’ (France), I studied the functional ecology of marine protist in North-Atlantic coastal ecosystems. During my first postdoc at the ‘NIOZ’ institute (Netherlands; 2020-2022), I have been working on novel approaches to infer the interactions that take place in the microbial ecosystem of the Wadden-Sea. I have always taken part in multidisciplinary projects, combining together molecular, biogeochemical and computational tools to better understand environmental patterns. Within ‘FROM’ and at the ICM, I will make use of molecular data on the ocean’s microbiome to study the functional redundancy of microbes, a crucial topic to predict how will microbial communities affect ecosystems in a changing ocean.

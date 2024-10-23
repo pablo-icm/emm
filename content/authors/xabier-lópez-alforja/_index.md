@@ -22,24 +22,24 @@ organizations:
   url: "https://www.icm.csic.es/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
+# bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
 
-interests:
-- Add your interest
-- Add your interest
-- Add as many interests as you need
+# interests:
+# - Add your interest
+# - Add your interest
+# - Add as many interests as you need
 
-education:
-  courses:
-  - course: Add your PhD program
-    institution: Add your Uni here
-    year: Year of PhD
-  - course: Add bachelor title
-    institution: Add Uni Here
-    year: Add year of uni
-  - course: add as many courses as you want
-    institution: Add uni
-    year: Add year
+# education:
+#   courses:
+#   - course: Add your PhD program
+#     institution: Add your Uni here
+#     year: Year of PhD
+#   - course: Add bachelor title
+#     institution: Add Uni Here
+#     year: Add year of uni
+#   - course: add as many courses as you want
+#     institution: Add uni
+#     year: Add year
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -49,28 +49,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:example@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/your_twitter_handle
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/your_scholar_profile
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/your_orcid_id
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Your_researchgate_profile
-- icon: github
-  icon_pack: fab
-  link: https://github.com/your_github
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/your_insta
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/your_linkedin/
+  link: "mailto:xabierlopez@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/your_twitter_handle
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/your_scholar_profile
+# - icon: orcid
+#   icon_pack: ai
+#   link: https://orcid.org/your_orcid_id
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/Your_researchgate_profile
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/your_github
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://www.instagram.com/your_insta
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/your_linkedin/
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -87,5 +87,8 @@ email: ""
 user_groups:
 - 'Predoctoral scientists'
 ---
-Description of your research. Add here everything... blabalblbablablablablablab
+
+Researcher in Marine Sciences, specialized in Marine Microbial Ecology, Bioinformatics and Biostatistics. currently developing my PhD at the ICM-CSIC. My thesis deals with the temporal trends of planktonic viruses in an oligotrophic coastal system (DIVAS). I intend to evaluate the changes that virus-picoeukaryotic interactions undergo over time in Blanes Bay Microbial Observatory (BBMO).
+ 
+I am passionate about everything that surrounds the sea and science, both in the field and in the laboratory. So much so that I studied Marine Sciences at the University of Vigo (UVIGO). Later, I became interested in the world of microbial ecology, so I did a master’s degree in Marine Ecology (Universitat de les Illes Balears-UIB) in which I worked with anthropogenic impact (microplastics) on the nitrogen-fixing microbiota of Posidonia Oceanica (Marine Ecology and Systematics -MarES- Research group). In addition, I got into another master’s degree in Bioinformatics and Biostatistics (Universitat Oberta de Catalunya) in which I developed my master’s thesis in collaboration with the EMM of the ICM-CSIC, “Taxonomic classification of assemblages of protists ordered by cells from the Bay of Blanes by means of long-read metagenomics “.
 

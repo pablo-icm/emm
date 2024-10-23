@@ -27,24 +27,24 @@ organizations:
     url: 'https://www.icm.csic.es/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: One line with your general interest.
+# bio: One line with your general interest.
 
-interests:
-  - Add your interest 1
-  - Add your interest 2
-  - ...and so on
+# interests:
+#   - Add your interest 1
+#   - Add your interest 2
+#   - ...and so on
 
-education:
-  courses:
-    - course: PhD 
-      institution: institution name
-      year: PhD year
-    - course: BsC
-      institution: BsC institution
-      year: year BsC
-    - course: add more courses if necessary
-      institution: institution
-      year: year
+# education:
+#   courses:
+#     - course: PhD 
+#       institution: institution name
+#       year: PhD year
+#     - course: BsC
+#       institution: BsC institution
+#       year: year BsC
+#     - course: add more courses if necessary
+#       institution: institution
+#       year: year
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,28 +53,28 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yourname@icm.csic.es'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/your-twitter-hanle
+    link: 'mailto:ramiro.logares@icm.csic.es'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/your-twitter-hanle
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/your-google-scholar
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/your_orcid_id
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Your_researchgate_profile
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/your-github
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/your_insta
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/your_linkedin/
+    link: https://scholar.google.es/citations?user=fToLu1gAAAAJ&hl=es
+  # - icon: orcid
+  #   icon_pack: ai
+  #   link: https://orcid.org/your_orcid_id
+  # - icon: researchgate
+  #   icon_pack: ai
+  #   link: https://www.researchgate.net/profile/Your_researchgate_profile
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/your-github
+  # - icon: instagram
+  #   icon_pack: fab
+  #   link: https://www.instagram.com/your_insta
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/in/your_linkedin/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -93,4 +93,4 @@ user_groups:
   - Staff scientists
 ---
 
-Description of your research. Add here everything... blabalblbablablablablablab.
+ define myself as a computational ecologist & evolutionary biologist investigating the microbial world. I obtained my PhD at Lund University (Ecology Department), Sweden and afterwards, I did a postdoc at Uppsala University (Evolutionary Biology Centre), Sweden. Since 2010, I have been at the Department of Marine Biology and Oceanography at ICM-CSIC, Barcelona. Initially, I was a Marie Curie Fellow, then a Juan de la Cierva fellow, and since 2015, I am a researcher within the Ramon y Cajal programme. Today, I lead a research environment on microbial computational ecology and evolution, including a post-doc, PhD students, and technicians. My main research lines aim at 1) understanding the structuring and dynamics of natural microbial communities using ecological theory, 2) disentangling the network of microbial interactions in ecosystems and 3) linking the gene content of genomes, communities and their variation, with ecological function and evolutionary processes. Since 2009, I have been teaching in local and international postgraduate bioinformatics courses. I coordinate the Marbits eco-informatics platform at the ICM-CSIC. I am also ambassador for Spain at the International Society for Microbial Ecology.

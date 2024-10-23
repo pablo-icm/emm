@@ -22,24 +22,24 @@ organizations:
   url: "https://www.icm.csic.es/"  
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.  
+# bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.  
 
-interests:  
-- Add your interest  
-- Add your interest  
-- Add as many interests as you need  
+# interests:  
+# - Add your interest  
+# - Add your interest  
+# - Add as many interests as you need  
 
-education:  
-  courses:  
-  - course: Add your PhD program if any  
-    institution: Add your Uni here  
-    year: Year of PhD  
-  - course: Add bachelor title  
-    institution: Add Uni Here  
-    year: Add year of uni  
-  - course: add as many courses as you want  
-    institution: Add uni  
-    year: Add year  
+# education:  
+#   courses:  
+#   - course: Add your PhD program if any  
+#     institution: Add your Uni here  
+#     year: Year of PhD  
+#   - course: Add bachelor title  
+#     institution: Add Uni Here  
+#     year: Add year of uni  
+#   - course: add as many courses as you want  
+#     institution: Add uni  
+#     year: Add year  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -49,28 +49,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:example@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/your_twitter_handle
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/your_scholar_profile
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/your_orcid_id
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Your_researchgate_profile
-- icon: github
-  icon_pack: fab
-  link: https://github.com/your_github
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/your_insta
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/your_linkedin/
+  link: "mailto:forn@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/your_twitter_handle
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/your_scholar_profile
+# - icon: orcid
+#   icon_pack: ai
+#   link: https://orcid.org/your_orcid_id
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/Your_researchgate_profile
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/your_github
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://www.instagram.com/your_insta
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/your_linkedin/
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -88,5 +88,8 @@ user_groups:
 - 'Technicians'  
 
 ---
-Description of your research. Add here everything... blabalblbablablablablablab
+I work as a Technician at the Laboratory of Molecular Stainings of the Department of Marine Biology and Oceanography (Institut de Ciències del Mar-CSIC) since 2004.
 
+As a technician, I am in charge of the epifluorescence microscopes and one of the laboratories where we apply molecular techniques. Particularly, I work with specific staining techniques such as FISH (Fluorescent in Situ Hybridization), CARD-FISH (Catalyzed Reported Deposition), Microautorradiography and BONCAT ( Bioorhogonal Noncanonical Amino Acid Tagging). My job consists in organizing and doing the maintenance of the laboratory, setting up new techniques and processing samples for different projects. I also devote a substantial part of my time teaching these techniques to students and researchers of the ICM as well as external visitors who wish to learn and apply them to their samples. It is also under my responsibility the collection and conservation of the epifluorescence and FISH samples for bacteria and flagellates of the Blanes Bay Microbial Observatory.
+
+Using all these microscopic and molecular techniques, I have the the opportunity to work with all kind of organisms, viruses, bacteria, flagellates, fungi, dinoflagellates or even sponges. Every new project is a new challenge.

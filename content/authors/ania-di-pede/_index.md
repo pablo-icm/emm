@@ -22,24 +22,24 @@ organizations:
   url: "https://www.icm.csic.es/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
+# bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
 
-interests:
-- Add your interest
-- Add your interest
-- Add as many interests as you need
+# interests:
+# - Add your interest
+# - Add your interest
+# - Add as many interests as you need
 
-education:
-  courses:
-  - course: Add your PhD program
-    institution: Add your Uni here
-    year: Year of PhD
-  - course: Add bachelor title
-    institution: Add Uni Here
-    year: Add year of uni
-  - course: add as many courses as you want
-    institution: Add uni
-    year: Add year
+# education:
+#   courses:
+  # - course: Add your PhD program
+  #   institution: Add your Uni here
+  #   year: Year of PhD
+  # - course: Add bachelor title
+  #   institution: Add Uni Here
+  #   year: Add year of uni
+  # - course: add as many courses as you want
+  #   institution: Add uni
+  #   year: Add year
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -49,28 +49,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:example@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/your_twitter_handle
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/your_scholar_profile
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/your_orcid_id
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Your_researchgate_profile
-- icon: github
-  icon_pack: fab
-  link: https://github.com/your_github
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/your_insta
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/your_linkedin/
+  link: "mailto:sdipede@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/your_twitter_handle
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/your_scholar_profile
+# - icon: orcid
+#   icon_pack: ai
+#   link: https://orcid.org/your_orcid_id
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/Your_researchgate_profile
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/your_github
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://www.instagram.com/your_insta
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/your_linkedin/
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -87,5 +87,10 @@ email: ""
 user_groups:
 - 'Predoctoral scientists'
 ---
-Description of your research. Add here everything... blabalblbablablablablablab
+
+I graduated from the University of Bologna (Italy) in Medicinal Chemistry, a joint master’s degree that combines chemistry and pharmacy. I did my Master’s Thesis at the University Complutense of Madrid, where I worked on the chemical synthesis of new molecules acting against Alzheimer’s Disease. During an internship at the IQAC-CSIC, I worked in a chemical biology laboratory to develop new fluorescent probes to study cellular metabolism of sphingolipids. I then specialized in Computational Chemistry, during a stay at the University of Barcelona. I was working on the characterization of protein-ligands interactions in neurodegeneration.  
+
+I arrived at the ICM-CSIC to start my PhD in biotechnology at the Molecular Ocean Lab under the supervision of Dr. Francesco Colizzi. We work in a recently established biomolecular simulations lab. Our first step will be to use computational tools to study oceanic systems involved in the plastic pollution chain and the molecular mechanism of plastic degradation by oceanic microbiome. We then plan to develop new biotechnological tools to apply on environmental problems both in research and industry.  
+
+I am a curious and active person, so I am happy to spend time outdoors, travelling or doing sport, while I also love a good book, mostly when I can learn about different cultures and languages.”  
 

@@ -23,24 +23,24 @@ organizations:
     url: 'https://www.icm.csic.es/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: One line with your general interest.
+# bio: One line with your general interest.
 
-interests:
-  - Add your interest 1
-  - Add your interest 2
-  - ...and so on
+# interests:
+  # - Add your interest 1
+  # - Add your interest 2
+  # - ...and so on
 
-education:
-  courses:
-    - course: PhD 
-      institution: institution name
-      year: PhD year
-    - course: BsC
-      institution: BsC institution
-      year: year BsC
-    - course: add more courses if necessary
-      institution: institution
-      year: year
+# education:
+#   courses:
+    # - course: PhD 
+    #   institution: institution name
+    #   year: PhD year
+    # - course: BsC
+    #   institution: BsC institution
+    #   year: year BsC
+    # - course: add more courses if necessary
+    #   institution: institution
+    #   year: year
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -49,28 +49,28 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yourname@icm.csic.es'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/your-twitter-hanle
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/your-google-scholar
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/your_orcid_id
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Your_researchgate_profile
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/your-github
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/your_insta
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/your_linkedin/
+    link: 'mailto:dolors@icm.csic.es'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/your-twitter-hanle
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.com/your-google-scholar
+  # - icon: orcid
+  #   icon_pack: ai
+  #   link: https://orcid.org/your_orcid_id
+  # - icon: researchgate
+  #   icon_pack: ai
+  #   link: https://www.researchgate.net/profile/Your_researchgate_profile
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/your-github
+  # - icon: instagram
+  #   icon_pack: fab
+  #   link: https://www.instagram.com/your_insta
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/in/your_linkedin/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -89,4 +89,4 @@ user_groups:
   - Staff scientists
 ---
 
-Description of your research. Add here everything... blabalblbablablablablablab.
+I am a Senior Research Scientist at the Institute of Marine Sciences of Barcelona (ICM-CSIC) since 2007. My expertise is on marine microbial ecology. It is focused in the identification of marine planktonic microorganisms and viruses, their biomass and activity. We investigate the bacterial carbon fluxes from phytoplankton to higher trophic levels or back to the water column through the viral action, as well as the role of viruses in regulating prokaryotic and eukaryotic mortality and diversity. In the Ocean we are also studying the changes of viral distribution and diversity in different marine ecosystems (Mediterranean, Atlantic, Pacific, Arctic and Antarctic Oceans). Currently, using isolated viruses and bacteria, we analyzed the specificity between viruses and different bacterial strains, through cross virus-bacterium infection to find viral host-ranges and realize that viruses sometimes are not as specific as expected. Also, in order to know who is infecting whom we are developing different tagging viral techniques as PhageFISH, VirusFISH and Viraltag. For that we are using cultured virus-host models, that will be transferred in the future to the environment. Finally, through molecular methods (SAGs: Single cell genome amplification, and metagenomics) we are detecting viral genes in non-cultivated hosts in different latitudes and thus, to identify which viruses infect them in nature. The results of my research resulted in 93 (SCI) scientific (H:35) and 20 (Non-SCI) papers, 9 book chapters, as well as the participation in international meetings and workshops (many of them by invitation) and dissemination to the general public. I have supervised several doctoral theses, masters theses, bachelor’s degrees and works of initiation to Research. Since 2010, I am the Editor in Chief of the International journal Scientia Marina and currently I have been appointed delegate of SCAR (Scientific Committee of Antarctic Research) in the Life Sciences section

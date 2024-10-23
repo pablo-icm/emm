@@ -23,24 +23,24 @@ organizations:
   url: "https://www.icm.csic.es/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
+# bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
 
-interests:
-- Add your interest
-- Add your interest
-- Add as many interests as you need
+# interests:
+# - Add your interest
+# - Add your interest
+# - Add as many interests as you need
 
-education:
-  courses:
-  - course: Add your PhD program
-    institution: Add your Uni here
-    year: Year of PhD
-  - course: Add bachelor title
-    institution: Add Uni Here
-    year: Add year of uni
-  - course: add as many courses as you want
-    institution: Add uni
-    year: Add year
+# education:
+#   courses:
+#   - course: Add your PhD program
+#     institution: Add your Uni here
+#     year: Year of PhD
+#   - course: Add bachelor title
+#     institution: Add Uni Here
+#     year: Add year of uni
+#   - course: add as many courses as you want
+#     institution: Add uni
+#     year: Add year
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -51,27 +51,29 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:example@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/your_twitter_handle
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/your_twitter_handle
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/your_scholar_profile
+  link: https://scholar.google.es/citations?hl=ca&user=sytW0GEAAAAJ
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/your_orcid_id
+  link: http://orcid.org/0000-0003-3568-4943
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Your_researchgate_profile
-- icon: github
+  link: https://www.researchgate.net/profile/Clara_Ruiz-Gonzalez
   icon_pack: fab
-  link: https://github.com/your_github
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/your_insta
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/your_linkedin/
+#   link: https://github.com/your_github
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://www.instagram.com/your_insta
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/your_linkedin/
+- icon: globe
+  icon_pack: fas
+  link: "https://clararuizgonzalez.weebly.com/"
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -88,5 +90,9 @@ email: ""
 user_groups:
 - 'Staff scientists'
 ---
-Description of your research. Add here everything... blabalblbablablablablablab
+
+
+I am interested in understanding the links between prokaryotic diversity and function in aquatic ecosystems, as well as in exploring how the connectivity and the dispersal of microbes between local communities or ecosystems may influence such links. In order to address thesequestions, I use different methods and approaches, such as single-cell techniques or Illumina sequencing, and I have worked in ecosystems as different as rivers, lakes, soils, groundwater, estuaries and the ocean.
+
+I did my PhD at the Institut de Ciències del Mar (ICM-CSIC) in Barcelona (Spain, 2006-2011), during which I explored the role of solar radiation as a regulator of the uptake of organic carbon by marine bacterioplankton communities using culture-independent techniques (e.g. MAR-CAR-FISH, flow cytometry cell sorting). During my postdoctoral experience, I moved my focus to the study of freshwater bacterial communities through the use of high throughput sequencing technologies, first at the University of Girona (Spain, 2011-2012),where I investigated the effects of dams on riverine bacterial communities, and during almost three years across complex boreal aquatic networks from Quebec at the Université du Québec à Montréal (Canada, 2013-2015). Currently, I am back at the ICM working on the biogeography and dispersal of marine bacteria, trying to gain insight into some of the factors that determine the structure of marine microbial communities at boththe local and the global scale, as well as their connectivity with the surrounding continental habitats.In summary, my scientific experience has been consolidating between research fields that not always communicate, such as limnology, oceanography and theoretical ecology. This trajectory has provided me with a rare balance between these disciplines that I try to maintain in my current research.
 

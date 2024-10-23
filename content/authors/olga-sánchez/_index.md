@@ -25,24 +25,24 @@ organizations:
   url: "https://www.uab.cat/"  
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+# bio: 
 
-interests:  
-- Add your interest  
-- Add your interest  
-- Add as many interests as you need  
+# interests:  
+# - Add your interest  
+# - Add your interest  
+# - Add as many interests as you need  
 
-education:  
-  courses:  
-  - course: Add your PhD program  
-    institution: Add your Uni here  
-    year: Year of PhD  
-  - course: Add bachelor title  
-    institution: Add Uni Here  
-    year: Add year of uni  
-  - course: add as many courses as you want  
-    institution: Add uni  
-    year: Add year  
+# education:  
+#   courses:  
+#   - course: Add your PhD program  
+#     institution: Add your Uni here  
+#     year: Year of PhD  
+#   - course: Add bachelor title  
+#     institution: Add Uni Here  
+#     year: Add year of uni  
+#   - course: add as many courses as you want  
+#     institution: Add uni  
+#     year: Add year  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
