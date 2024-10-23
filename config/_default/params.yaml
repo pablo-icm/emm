@@ -22,14 +22,14 @@ marketing:
     org_name: Ecology of Marine Microbes
     description: Ecology of Marine Microbes Group at Institut de Ciències del Mar (ICM-CSIC)
     twitter: EMM_Barcelona
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
-  verification:
-    google: ''
-    baidu: ''
+  # analytics:
+  #   google_analytics: ''
+  #   baidu_tongji: ''
+  #   google_tag_manager: ''
+  #   microsoft_clarity: ''
+  # verification:
+  #   google: ''
+  #   baidu: ''
 
 # Site header
 
