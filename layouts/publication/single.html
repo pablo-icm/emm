@@ -1,0 +1,40 @@
+{{- define "main" -}}
+
+{{ $pub_type_csl := "" }}
+{{ $pub_type_display := "" }}
+{{ if .Params.publication_types }}
+  {{ if reflect.IsSlice .Params.publication_types }}
+    {{ $pub_type_csl = index .Params.publication_types 0 }}
+    {{ $pub_type_display = i18n (printf "pub_%s" (strings.Replace $pub_type_csl "-" "_")) | default (strings.Title $pub_type_csl) }}
+  {{ end }}
+{{ end }}
+
+<div class="pub">
+
+  {{ partial "page_header_publication.html" . }}
+
+  <div class="article-container">
+
+    <!-- Debugging Line -->
+    <!-- <div style="color:red; font-weight:bold; margin-top: 20px;">
+      Debug: Rendering single page for publication "{{ .Title }}"
+    </div> -->
+
+    {{ if .Params.abstract }}
+    <h3>{{ i18n "abstract" }}</h3>
+    <p class="pub-abstract">{{ .Params.abstract | markdownify }}</p>
+    {{ end }}
+
+    <div class="row"></div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">{{ .Content }}</div>
+
+    {{ partial "page_footer_publication" . }}
+
+  </div>
+</div>
+{{- end -}}
