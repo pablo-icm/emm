@@ -18,10 +18,10 @@
         {{ $year := print (.Date.Format "2006") }}
         {{ $.Scratch.SetInMap "years" $year $year }}
       {{ end }}
-
+      {{/* <p style="color:red;">This is my custom content for debugging purposes.</p> */}}
       <div class="form-row mb-4">
         <div class="col-auto">
-          <input type="search" class="filter-search form-control form-control-sm" placeholder="{{ i18n "search_placeholder" }}" autocapitalize="off"
+          <input type="search" class="filter-search form-control no-dropdown" placeholder="{{ i18n "search_placeholder" }}" autocapitalize="off"
           autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
         </div>
         <div class="col-auto">
@@ -35,7 +35,7 @@
           </select>
         </div>
         <div class="col-auto">
-          <select class="pub-filters form-control form-control-sm" data-filter-group="year">
+          <select class="pub-filters form-control no-dropdown" data-filter-group="year">
             <option value="*">{{ i18n "date" }}</option>
             {{ $years_sorted := $.Scratch.GetSortedMapValues "years" }}
             {{ if $years_sorted }}
@@ -50,7 +50,7 @@
 
         {{/* Filter publications by author, adding the functionality of a custom URL per author. See also assets/js/wowchemy-publication.js. Author names and slugs are in config/_default/params.yaml */}}
         <div class="col-auto">
-          <select class="pub-filters form-control form-control-sm" data-filter-group="author">
+          <select class="pub-filters form-control no-dropdown" data-filter-group="author">
             <option value="*" selected>EMM Author</option> <!-- Default prompt -->
             {{ range site.Params.authors }}
             <option value=".author-{{ .slug }}">{{ .name }}</option>
