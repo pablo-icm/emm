@@ -2,7 +2,7 @@
 title: Ecogenomics of uncultured marine prokaryotes
 authors:
 - Marta Royo-Llonch
-date: '2020-03'
+date: '2020-03-01'
 publishDate: '2020-03-01'
 publication_types:
 - thesis
