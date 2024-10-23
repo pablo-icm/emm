@@ -2,7 +2,7 @@
 title: Large-scale biogeography of marine pelagic bacteria and archaea
 authors:
 - Guillem Salazar
-date: '2019-02'
+date: '2019-02-01'
 publishDate: '2019-02-01'
 publication_types:
 - thesis

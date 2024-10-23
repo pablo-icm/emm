@@ -3,7 +3,7 @@ title: Global distribution and vertical patterns of a prymnesiophyte–cyanobact
   obligate symbiosis
 authors:
 - Francisco M Cornejo-Castillo
-date: '2017-12'
+date: '2017-12-01'
 publishDate: '2017-12-01'
 publication_types:
 - thesis
