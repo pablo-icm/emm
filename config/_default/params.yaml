@@ -15,13 +15,13 @@ appearance:
 
 # SEO
 
-marketing:
-  seo:
-    site_type: EducationalOrganization
-    local_business_type: ''
-    org_name: Ecology of Marine Microbes
-    description: Ecology of Marine Microbes Group at Institut de Ciències del Mar (ICM-CSIC)
-    twitter: EMM_Barcelona
+# marketing:
+#   seo:
+#     site_type: EducationalOrganization
+#     local_business_type: ''
+#     org_name: Ecology of Marine Microbes
+#     description: Ecology of Marine Microbes Group at Institut de Ciències del Mar (ICM-CSIC)
+#     twitter: EMM_Barcelona
   # analytics:
   #   google_analytics: ''
   #   baidu_tongji: ''
