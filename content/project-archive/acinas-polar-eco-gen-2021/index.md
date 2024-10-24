@@ -3,7 +3,7 @@ title: POLAR_ECOGEN - Ecogenómica y evolucion de procariotas polares clave no c
 authors:
 - Silvia G Acinas
 date: '2021-01-01'
-publishDate: '2021-01-01'
+publishDate: '2021'
 publication_types:
 - project
 funding: 'MICINN'
