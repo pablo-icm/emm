@@ -5,6 +5,7 @@ title: Pierre Ramond
 # Full Name (for SEO)
 first_name: Pierre
 last_name: Ramond
+weight: 110
 
 # Username (this should match the folder name)
 authors:

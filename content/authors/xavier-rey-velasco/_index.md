@@ -5,6 +5,7 @@ title: Xavier Rey Velasco
 # Full Name (for SEO)
 first_name: Xavier
 last_name: Rey Velasco
+weight: 130
 
 # Username (this should match the folder name)
 authors:

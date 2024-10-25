@@ -5,6 +5,7 @@ title: Lidia Montiel
 # Full Name (for SEO)
 first_name: Lidia
 last_name: Montiel
+weight: 110
 
 # Username (this should match the folder name)
 authors:

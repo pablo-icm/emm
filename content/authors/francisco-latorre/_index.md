@@ -5,6 +5,7 @@ title: Francisco Latorre
 # Full Name (for SEO)
 first_name: Francisco
 last_name: Latorre
+weight: 80
 
 # Username (this should match the folder name)
 authors:

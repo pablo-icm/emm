@@ -5,6 +5,7 @@ title: Carlos Pedrós-Alió
 # Full Name (for SEO)
 first_name: Carlos
 last_name: Pedrós-Alió
+weight: 30
 
 # Username (this should match the folder name)
 authors:

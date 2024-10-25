@@ -5,6 +5,7 @@ title: Elisabet L. Sà
 # Full Name (for SEO)
 first_name: Elisabet L.
 last_name: Sà
+weight: 120
 
 # Username (this should match the folder name)
 authors:

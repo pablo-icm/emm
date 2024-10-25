@@ -5,6 +5,7 @@ title: Dani Romano
 # Full Name (for SEO)
 first_name: Daniel
 last_name: Romano
+weight: 140
 
 # Username (this should match the folder name)
 authors:

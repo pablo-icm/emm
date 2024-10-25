@@ -5,6 +5,7 @@ title: Ona Deulofeu
 # Full Name (for SEO)
 first_name: Ona
 last_name: Deulofeu
+weight: 20
 
 # Username (this should match the folder name)
 authors:
