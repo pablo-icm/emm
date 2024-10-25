@@ -2,7 +2,8 @@
 title: CAARL - Comparative Genomics and Environmental Diversity of Coral Associated
   Apicomplexa-Related Lineages
 authors:
-- Ramon Massana, Javier del Campo
+- Ramon Massana
+- Javier del Campo
 date: '2014-01-01'
 publishDate: '2024-08-14T09:35:58.247733Z'
 publication_types:
