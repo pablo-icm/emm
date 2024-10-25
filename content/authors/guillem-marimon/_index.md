@@ -5,6 +5,7 @@ title: Guillem Marimon
 # Full Name (for SEO)
 first_name: Guillem
 last_name: Marimon
+weight: 100
 
 # Username (this should match the folder name)
 authors:

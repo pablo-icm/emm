@@ -5,6 +5,7 @@ title: Ulises Lora
 # Full Name (for SEO)
 first_name: Ulises
 last_name: Lora
+weight: 90
 
 # Username (this should match the folder name)
 authors:

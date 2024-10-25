@@ -62,6 +62,8 @@ subtitle = ""
 - [Elena Torrecilla](https://www.icm.csic.es/en/staff/elena-torrecilla-ribalta-1643), Project Manager, 2015-2020  
 - [Imer Muhovich](https://imuhovic.com/), Early Stage Researcher H2020 SINGEK ITN Project, 2016-2020  
 - [Jean-François Mangot](https://www.icm.csic.es/en/staff/jean-francois-mangot-305), Postdoctoral Researcher, 2014-2018  
+- [Guillem Salazar](https://guillemsalazar.github.io/), PhD Student, 20XX-20XX  
+- [Ana María Cabello](https://www.ieo.es/en_US/web/malaga/personal?p_p_id=ieopersonalmain_WAR_IEOPersonalportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_ieopersonalmain_WAR_IEOPersonalportlet_slCentro=C.O.+M%C3%81LAGA), PhD Student, 20XX-20XX  
 - [Carolina Antequera Bellorín](https://www.linkedin.com/in/carolinantequera/), Lab Technician, 2011-2018  
 
 

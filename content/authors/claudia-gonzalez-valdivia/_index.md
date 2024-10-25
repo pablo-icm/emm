@@ -5,6 +5,7 @@ title: Clàudia González-Valdivia
 # Full Name (for SEO)
 first_name: Clàudia
 last_name: González-Valdivia
+weight: 70
 
 # Username (this should match the folder name)
 authors:

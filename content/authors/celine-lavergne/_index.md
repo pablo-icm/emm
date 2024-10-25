@@ -5,6 +5,7 @@ title: Céline Lavergne
 # Full Name (for SEO)
 first_name: Céline
 last_name: Lavergne
+weight: 70
 
 # Username (this should match the folder name)
 authors:

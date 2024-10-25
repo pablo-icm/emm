@@ -5,6 +5,7 @@ title: Ester M López-García
 # Full Name (for SEO)
 first_name: Ester M
 last_name: López-García
+weight: 90
 
 # Username (this should match the folder name)
 authors:

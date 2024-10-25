@@ -5,6 +5,7 @@ title: Raimon Bundó
 # Full Name (for SEO)
 first_name: Raimon
 last_name: Bundó
+weight: 30
 
 # Username (this should match the folder name)
 authors:

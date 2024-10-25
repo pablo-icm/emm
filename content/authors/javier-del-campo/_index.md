@@ -5,6 +5,7 @@ title: Javier del Campo
 # Full Name (for SEO)
 first_name: Javier
 last_name: del Campo
+weight: 10
 
 # Username (this should match the folder name)
 authors:  

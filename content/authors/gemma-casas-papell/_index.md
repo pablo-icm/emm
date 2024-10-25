@@ -5,6 +5,7 @@ title: Gemma Casas-Papell
 # Full Name (for SEO)
 first_name: Gemma
 last_name: Casas-Papell
+weight: 60
 
 # Username (this should match the folder name)
 authors:

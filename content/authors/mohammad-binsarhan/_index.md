@@ -5,6 +5,7 @@ title: Mohammad Binsarhan
 # Full Name (for SEO)
 first_name: Mohammad
 last_name: Binsharan
+weight: 10
 
 # Username (this should match the folder name)
 authors:

@@ -5,6 +5,7 @@ title: Sandra Garcés-Pastor
 # Full Name (for SEO)
 first_name: Sandra
 last_name: Garcés-Pastor
+weight: 50
 
 # Username (this should match the folder name)
 authors:

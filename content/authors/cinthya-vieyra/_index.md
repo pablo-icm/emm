@@ -5,6 +5,7 @@ title: Cinthya Vieyra
 # Full Name (for SEO)
 first_name: Cinthya
 last_name: Vieyra
+weight: 180
 
 # Username (this should match the folder name)
 authors:

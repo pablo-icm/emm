@@ -5,6 +5,7 @@ title: Mattia Grecco
 # Full Name (for SEO)
 first_name: Mattia
 last_name: Grecco
+weight: 60
 
 # Username (this should match the folder name)
 authors:

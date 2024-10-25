@@ -5,6 +5,7 @@ title: Judith Traver Azuara
 # Full Name (for SEO)
 first_name: Judith
 last_name: Traver Azuara
+weight: 170
 
 # Username (this should match the folder name)
 authors:

@@ -5,6 +5,7 @@ title: Isabel Ferrera
 # Full Name (for SEO)
 first_name: Isabel
 last_name: Ferrera
+weight: 20
 
 # Username (this should match the folder name)
 authors:

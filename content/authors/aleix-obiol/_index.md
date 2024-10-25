@@ -5,7 +5,8 @@ title: Aleix Obiol
 # Full Name (for SEO)
 first_name: Aleix
 last_name: Obiol
-weight: 1
+weight: 80
+
 # Username (this should match the folder name)
 authors:
 - aleix-obiol

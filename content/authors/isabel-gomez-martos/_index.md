@@ -5,6 +5,7 @@ title: Isabel González-Martos
 # Full Name (for SEO)
 first_name: Isabel
 last_name: González-Martos
+weight: 60
 
 # Username (this should match the folder name)
 authors:

@@ -5,6 +5,7 @@ title: Olga Sánchez
 # Full Name (for SEO)
 first_name: Olga
 last_name: Sánchez
+weight: 40
 
 # Username (this should match the folder name)
 authors:  

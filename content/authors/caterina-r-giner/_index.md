@@ -5,6 +5,7 @@ title: Caterina R. Giner
 # Full Name (for SEO)
 first_name: Caterina R.
 last_name: Giner
+weight: 65
 
 # Username (this should match the folder name)
 authors:

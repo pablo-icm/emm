@@ -5,6 +5,7 @@ title: Vanessa Balagué
 # Full Name (for SEO)
 first_name: Vanessa
 last_name: Balagué
+weight: 10
 
 # Username (this should match the folder name)
 authors:  

@@ -5,6 +5,7 @@ title: Xabier López-Alforja
 # Full Name (for SEO)
 first_name: Xabier
 last_name: López-Alforja
+weight: 80
 
 # Username (this should match the folder name)
 authors:

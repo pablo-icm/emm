@@ -5,6 +5,7 @@ title: Laura Cabrera-Vázquez
 # Full Name (for SEO)
 first_name: Laura
 last_name: Cabrera-Vázquez
+weight: 40
 
 # Username (this should match the folder name)
 authors:

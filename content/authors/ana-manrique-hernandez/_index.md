@@ -5,6 +5,7 @@ title: Ana Manrique-Hernández
 # Full Name (for SEO)
 first_name: Ana
 last_name: Manrique-Hernández
+weight: 100
 
 # Username (this should match the folder name)
 authors:

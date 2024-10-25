@@ -5,6 +5,7 @@ title: Georgina Brennan
 # Full Name (for SEO)
 first_name: Georgina
 last_name: Brennan
+weight: 30
 
 # Username (this should match the folder name)
 authors:

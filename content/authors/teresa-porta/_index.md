@@ -5,6 +5,7 @@ title: Teresa Porta
 # Full Name (for SEO)
 first_name: Teresa
 last_name: Porta
+weight: 120
 
 # Username (this should match the folder name)
 authors:

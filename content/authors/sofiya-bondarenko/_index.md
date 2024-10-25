@@ -5,6 +5,7 @@ title: Sofiya Bondarenko
 # Full Name (for SEO)
 first_name: Sofiya
 last_name: Bondarenko
+weight: 10
 
 # Username (this should match the folder name)
 authors:

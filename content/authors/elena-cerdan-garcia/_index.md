@@ -5,6 +5,7 @@ title: Elena Cerdán-García
 # Full Name (for SEO)
 first_name: Elena
 last_name: Cerdán-García
+weight: 40
 
 # Username (this should match the folder name)
 authors:

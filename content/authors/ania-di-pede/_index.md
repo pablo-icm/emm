@@ -5,6 +5,7 @@ title: Stefania Di Pede Mattatelli
 # Full Name (for SEO)
 first_name: Stefania
 last_name: Di Pede Mattatelli
+weight: 30
 
 # Username (this should match the folder name)
 authors:

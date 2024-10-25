@@ -5,6 +5,7 @@ title: Sergi Martorell-Borràs
 # Full Name (for SEO)
 first_name: Sergi
 last_name: Martorell-Borràs
+weight: 110
 
 # Username (this should match the folder name)
 authors:

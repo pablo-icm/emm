@@ -5,6 +5,7 @@ title: Albert Bosch
 # Full Name (for SEO)
 first_name: Albert
 last_name: Bosch
+weight: 20
 
 # Username (this should match the folder name)
 authors:

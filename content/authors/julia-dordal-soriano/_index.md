@@ -5,6 +5,7 @@ title: Júlia Dordal-Soriano
 # Full Name (for SEO)
 first_name: Júlia
 last_name: Dordal-Soriano
+weight: 40
 
 # Username (this should match the folder name)
 authors:

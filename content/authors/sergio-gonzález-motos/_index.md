@@ -5,6 +5,7 @@ title: Sergio González Motos
 # Full Name (for SEO)
 first_name: Sergio
 last_name: González Motos
+weight: 50
 
 # Username (this should match the folder name)
 authors:
