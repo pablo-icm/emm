@@ -3,9 +3,9 @@ title: Changes in marine bacterioplankton phylogenetic composition during incuba
   designed to measure biogeochemically significant parameters
 authors:
 - Ramon Massana
-- ', Carlos PedrόsߚAliό'
+- Carlos Pedrόs-Aliό
 - Emilio O Casamayor
-- Josep M Gasol
+- Josep M. Gasol
 date: '2001-07-01'
 publishDate: '2024-08-05T15:04:48.757076Z'
 publication_types:
