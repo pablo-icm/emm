@@ -2,14 +2,14 @@
 title: Widespread occurrence and genetic diversity of marine parasitoids belonging
   to textitSyndiniales ( textitAlveolata )
 authors:
-- L Guillou
-- M Viprey
-- A Chambouvet
-- R M Welsh
-- A R Kirkham
-- R Massana
-- D J Scanlan
-- A Z Worden
+- Laure Guillou
+- Manon Viprey
+- Aurelie Chambouvet
+- Rory M Welsh
+- Amy R Kirkham
+- Ramon Massana
+- David J Scanlan
+- Alexandra Z Worden
 date: '2008-12-01'
 publishDate: '2024-08-05T15:04:48.159343Z'
 publication_types:
