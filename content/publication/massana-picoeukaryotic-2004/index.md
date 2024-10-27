@@ -3,9 +3,9 @@ title: Picoeukaryotic diversity in an oligotrophic coastal site studied by molec
   and culturing approaches
 authors:
 - Ramon Massana
-- Vanessa BalaguÃ©
+- Vanessa Balagué
 - Laure Guillou
-- Carlos PedrÃ³s-AliÃ³
+- Carlos Pedrós-Alió
 date: '2004-11-01'
 publishDate: '2024-08-05T15:04:48.575437Z'
 publication_types:
