@@ -1,14 +1,14 @@
 ---
-title: FLAME - Population Ecology of Model Marine Heterotrophic Flagellates
+title: FLAME - Population ecology of model marine heterotrophic flagellates
 authors:
-- Dr Jane Doe
+- Ramon Massana
 date: '2011-01-01'
 publishDate: '2024-08-14T09:35:58.294752Z'
 publication_types:
 - project
 funding: 'MICINN'
-summary: 'Start: 2011 End: 2013'
+summary: 'Start: 2011 End: 2014'
 start: '2011'
-end: '2013'
-abstract: ' - '
+end: '2014'
+abstract: ' In microbial ecology, the biomass, activity and ecological role of a given microbial assemblage is often addressed as a bulk property, obviating the fact that these assemblages are formed by distinct species with diverse evolutionary histories, cellular traits and metabolic capacities. The main reason for this is that microorganisms are morphologically similar and often impossible to identify without molecular tools, which use in microbial ecology is relatively recent. One of such microbial assemblages in aquatic systems are the "heterotrophic flagellates", a consortium of tiny unpigmented eukaryotic cells that play critical roles as microbial grazers (controlling prokaryotic abundance) and nutrient remineralizers. The biomass and grazing impact of heterotrophic flagellates in marine systems is relatively well established, but their phylogenetic and functional diversity is still poorly known. Therefore, the natural following step in the research of this microbial consortium is moving on from their bulk properties to the investigation of the different component populations. In this project we propose to study the population ecology of three model species of heterotrophic flagellates that represent different scenarios with respect to culturability and dominance in the marine plankton. These model taxa are Cafeteria roenbergensis (culturable and low in situ abundance), MAST-4 (unculturable and high in situ abundance), and Minorisa minuta, recently isolated in our laboratory (culturable and moderate in situ abundance). Our approach consists in a sequence of steps. First, we will study the physiological properties of these model organisms, such as growth and grazing rates, numerical and functional responses, and prey selectivity. Second, we will develop molecular tools (FISH and q-PCR) to study their distribution and abundance in the marine environment, taking advantage of the Malaspina cruise (which provides samples with a wide geographical coverage) and the Blanes Bay Microbial Observatory (a well-characterized temporal sampling site). Third, we will select a reduced number of samples to study the population genetic structure of one of the taxa (MAST-4) using molecular markers and high-throughput pyrosequencing. Fourth, we will aim at isolating specific viruses for the two cultured taxa and study viral genomics, estimate viral abundances in the sea and infer the viral impact on natural populations of flagellates. Fifth, we will take the preliminary steps in genome projects of the cultured species. The results generated will shed light into the processes leading to the adaptation and success of each taxa to the marine environment and will serve to start understanding heterotrophic flagellates in nature. Focusing on the population ecology of a few model species provides a unique possibility of going one step further in disentangling the structure and function of microbial assemblages in nature. '
 ---
