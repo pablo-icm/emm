@@ -2,11 +2,11 @@
 title: Analysis of Environmental 18S Ribosomal RNA Sequences reveals Unknown Diversity
   of the Cosmopolitan Phylum Telonemia
 authors:
-- K Shalchiantabrizi
-- H Kauserud
-- R Massana
-- D Klaveness
-- K Jakobsen
+- Kamran Shalchian-Tabrizi
+- Håvard Kauserud
+- Ramon Massana
+- Dag Klaveness
+- Kjetill Jakobsen
 date: '2007-04-01'
 publishDate: '2024-08-05T15:04:48.188006Z'
 publication_types:
