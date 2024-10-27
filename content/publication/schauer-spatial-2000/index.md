@@ -4,7 +4,7 @@ title: Spatial differences in bacterioplankton composition along the Catalan coa
 authors:
 - Michael Schauer
 - Ramon Massana
-- Carlos PedrÃ³s-AliÃ³
+- Carlos Pedrós-Alió
 date: '2000-07-01'
 publishDate: '2024-08-05T15:04:48.850547Z'
 publication_types:
