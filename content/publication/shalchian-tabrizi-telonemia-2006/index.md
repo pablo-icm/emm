@@ -1,18 +1,18 @@
 ---
 title: Telonemia, a new protist phylum with affinity to chromist lineages
 authors:
-- K Shalchian-Tabrizi
-- W Eikrem
-- D Klaveness
-- D Vaulot
+- Kamran Shalchian-Tabrizi
+- Wenche Eikrem
+- Dag Klaveness
+- Daniel Vaulot
 - M.A Minge
-- F Le Gall
-- K Romari
-- J Throndsen
+- Florence Le Gall
+- Khadidja Romari
+- Jhan Throndsen
 - A Botnen
-- R Massana
-- H.A Thomsen
-- K.S Jakobsen
+- Ramon Massana
+- Helge A. Thomsen
+- Kjetill S. Jakobsen
 date: '2006-07-01'
 publishDate: '2024-08-05T15:04:48.407197Z'
 publication_types:
