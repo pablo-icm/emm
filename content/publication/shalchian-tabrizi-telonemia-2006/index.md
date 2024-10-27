@@ -8,7 +8,7 @@ authors:
 - M.A Minge
 - Florence Le Gall
 - Khadidja Romari
-- Jhan Throndsen
+- Jahn Throndsen
 - A Botnen
 - Ramon Massana
 - Helge A. Thomsen
