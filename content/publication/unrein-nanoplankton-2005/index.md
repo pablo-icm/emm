@@ -2,11 +2,11 @@
 title: 'Nanoplankton assemblages in maritime Antarctic lakes: characterisation and
   molecular fingerprinting comparison'
 authors:
-- F Unrein
-- I Izaguirre
-- R Massana
-- V Balagué
-- Jm Gasol
+- Fernando Unrein
+- Irina Izaguirre
+- Ramon Massana
+- Vanessa Balagué
+- Josep M. Gasol
 date: '2005-01-01'
 publishDate: '2024-08-05T15:04:48.468476Z'
 publication_types:
