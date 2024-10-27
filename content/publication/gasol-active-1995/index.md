@@ -2,10 +2,10 @@
 title: Active versus inactive bacteria:size-dependence in a coastal marine plankton
   community
 authors:
-- Jm Gasol
-- Pa Del Giorgio
-- R Massana
-- Cm Duarte
+- Josep M. Gasol
+- Paul Del Giorgio
+- Ramon Massana
+- Carlos M. Duarte
 date: '1995-01-01'
 publishDate: '2024-08-05T15:04:48.976816Z'
 publication_types:
