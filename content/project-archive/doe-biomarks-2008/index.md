@@ -1,7 +1,7 @@
 ---
 title: BioMarKs - Biodiversity of Marine Eukaryotes
 authors:
-- Dr Ramon Massana
+- Ramon Massana
 date: '2008-12-09'
 publishDate: '2024-08-14T09:35:58.288912Z'
 publication_types:
