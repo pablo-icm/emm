@@ -1,6 +1,7 @@
 ---
 title: ESUMAST - Ecological significance of uncultured marine stramenopiles
 authors:
+- Fabrice Not
 - Ramon Massana
 date: '2005-12-01'
 publishDate: '2024-08-14T09:35:58.439064Z'
