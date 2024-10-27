@@ -1,11 +1,11 @@
 ---
 title: Growth of uncultured heterotrophic flagellates in unamended seawater incubations
 authors:
-- R Massana
-- L Guillou
-- R Terrado
-- I Forn
-- C Pedrós-Alió
+- Ramon Massana
+- Laure Guillou
+- Ramon Terrado
+- Irene Forn
+- Carlos Pedrós-Alió
 date: '2006-11-01'
 publishDate: '2024-08-05T15:04:48.381883Z'
 publication_types:
