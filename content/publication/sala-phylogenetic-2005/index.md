@@ -3,8 +3,8 @@ title: Phylogenetic and functional diversity of bacterioplankton during Alexandr
   spp. blooms
 authors:
 - Maria Montserrat Sala
-- Vanessa BalaguÃ©
-- Carlos PedrÃ³s-AliÃ³
+- Vanessa Balagué
+- Carlos Pedrós-Alió
 - Ramon Massana
 - Jordi Felipe
 - Laura Arin
