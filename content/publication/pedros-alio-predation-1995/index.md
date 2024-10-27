@@ -5,8 +5,8 @@ authors:
 - Carlos Pedrós-Alió
 - Ramon Massana
 - Mikel Latasa
-- Josefina Garcí-Cantizano
-- Josep M Gasol
+- Josefina García-Cantizano
+- Josep M. Gasol
 date: '1995-01-01'
 publishDate: '2024-08-05T15:04:48.995585Z'
 publication_types:
