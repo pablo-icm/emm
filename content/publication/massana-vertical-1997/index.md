@@ -40,4 +40,7 @@ abstract: Newly described phylogenetic lineages within the domain Archaea have r
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/aem.63.1.50-56.1997
+pages: '50-56'
+volume: '63'
+number: '-'
 ---
