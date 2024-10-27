@@ -2,9 +2,9 @@
 title: Components, structure and fluxes of the microbial food web in a small, stratified
   lake
 authors:
-- R Massana
-- J García-Cantizano
-- C Pedrós-Alió
+- Ramon Massana
+- Josefina García-Cantizano
+- Carlos Pedrós-Alió
 date: '1996-01-01'
 publishDate: '2024-08-05T15:04:48.964043Z'
 publication_types:
