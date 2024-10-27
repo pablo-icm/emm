@@ -1,6 +1,5 @@
 ---
-title: DISTRIBUTION, PHYLOGENY, AND GROWTH OF COLD‐ADAPTED PICOPRASINOPHYTES IN ARCTIC
-  SEAS $^textrm1$
+title: Distribution, phylogeny, and growth of cold-adapted picoprasinophytes in Arctic Seas
 authors:
 - Connie Lovejoy
 - Warwick F Vincent
