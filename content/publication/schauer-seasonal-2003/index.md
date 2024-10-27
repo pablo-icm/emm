@@ -2,10 +2,10 @@
 title: Seasonal changes in the taxonomic composition of bacterioplankton in a coastal
   oligotrophic system
 authors:
-- M Schauer
-- V Balagué
-- C Pedrós-Alió
-- R Massana
+- Michael Schauer
+- Vanessa Balagué
+- Carlos Pedrós-Alió
+- Ramon Massana
 date: '2003-01-01'
 publishDate: '2024-08-05T15:04:48.621121Z'
 publication_types:
