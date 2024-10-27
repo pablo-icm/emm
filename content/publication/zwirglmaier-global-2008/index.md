@@ -1,5 +1,5 @@
 ---
-title: Global phylogeography of marine textitSynechococcus and textitProchlorococcus
+title: Global phylogeography of marine *Synechococcus* and *Prochlorococcus*
   reveals a distinct partitioning of lineages among oceanic biomes
 authors:
 - Katrin Zwirglmaier
