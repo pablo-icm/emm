@@ -1,6 +1,6 @@
 ---
 title: Widespread occurrence and genetic diversity of marine parasitoids belonging
-  to textitSyndiniales ( textitAlveolata )
+  to Syndiniales (Alveolata)
 authors:
 - Laure Guillou
 - Manon Viprey
