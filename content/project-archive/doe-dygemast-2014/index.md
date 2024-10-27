@@ -2,8 +2,8 @@
 title: DYGEMAST - Dynamics, genomics and functional significance of uncultured marine
   Stramenopiles
 authors:
-- Ramon Massana
 - Jean-François Mangot
+- Ramon Massana
 date: '2014-04-01'
 publishDate: '2024-08-14T09:35:58.271205Z'
 publication_types:
