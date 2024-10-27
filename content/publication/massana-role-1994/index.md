@@ -28,4 +28,7 @@ abstract: We studied the dynamics of two populations of anaerobic ciliates, Plag
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/aem.60.4.1325-1334.1994
+pages: '1325-1334'
+volume: '60'
+number: '-'
 ---
