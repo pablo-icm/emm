@@ -36,4 +36,7 @@ abstract: 'The trophic role of ciliates in anaerobic food webs has not been asse
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/aem.60.4.1317-1324.1994
+pages: '1317-1324'
+volume: '60'
+number: '-'
 ---
