@@ -2,14 +2,14 @@
 title: 'Episodic meteorological and nutrient-load events as drivers of coastal planktonic
   ecosystem dynamics: a time-series analysis'
 authors:
-- Ò Guadayol
-- F Peters
-- C Marrasé
-- Jm Gasol
-- C Roldán
-- E Berdalet
-- R Massana
-- A Sabata
+- Òscar Guadayol
+- Francesc Peters
+- Celia Marrasé
+- Josep M. Gasol
+- Cristina Roldán
+- Elisa Berdalet
+- Ramon Massana
+- Anna Sabata
 date: '2009-04-01'
 publishDate: '2024-08-05T15:04:47.938631Z'
 publication_types:
