@@ -22,4 +22,7 @@ abstract: ABSTRACT  The kingdom Crenarchaeota is now known to include archaea wh
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/AEM.64.3.1133-1138.1998
+pages: '1133-1138'
+volume: '64'
+number: '-'
 ---
