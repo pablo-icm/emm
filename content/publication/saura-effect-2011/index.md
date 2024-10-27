@@ -2,12 +2,12 @@
 title: Effect of viruses on marine stramenopile (MAST) communities in an oligotrophic
   coastal marine system
 authors:
-- A Saura
-- R Massana
-- J A Boras
-- I Forn
-- G Vila-Reixach
-- D Vaque
+- Andreu Saura
+- Ramon Massana
+- Julia A Boras
+- Irene Forn
+- Gemma Vila-Reixach
+- Dolors Vaque
 date: '2011-11-01'
 publishDate: '2024-08-05T15:04:47.631417Z'
 publication_types:
