@@ -2,7 +2,7 @@
 title: Distribution of eukaryotic picoplankton assemblages across hydrographic fronts
   in the Southern Ocean, studied by denaturing gradient gel electrophoresis
 authors:
-- Beatriz Diíez
+- Beatriz Díez
 - Ramon Massana
 - Marta Estrada
 - Carlos Pedrós‐Alió
