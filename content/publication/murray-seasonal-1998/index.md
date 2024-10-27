@@ -2,13 +2,13 @@
 title: Seasonal and Spatial Variability of Bacterial and Archaeal Assemblages in the
   Coastal Waters near Anvers Island, Antarctica
 authors:
-- A E Murray
-- C M Preston
-- R Massana
-- L T Taylor
-- A Blakis
-- K Wu
-- E F DeLong
+- Alison E. Murray
+- Christina M. Preston
+- Ramon Massana
+- Lance T. Taylor
+- Andrew Blakis
+- Ke-Ying Wu
+- Edward F. DeLong
 date: '1998-07-01'
 publishDate: '2024-08-05T15:04:48.920631Z'
 publication_types:
