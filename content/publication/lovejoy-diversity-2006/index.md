@@ -2,9 +2,9 @@
 title: Diversity and Distribution of Marine Microbial Eukaryotes in the Arctic Ocean
   and Adjacent Seas
 authors:
-- C Lovejoy
-- R Massana
-- C Pedrós-Alió
+- Connie Lovejoy
+- Ramon Massana
+- Carlo Pedrós-Alió
 date: '2006-05-01'
 publishDate: '2024-08-05T15:04:48.342330Z'
 publication_types:
