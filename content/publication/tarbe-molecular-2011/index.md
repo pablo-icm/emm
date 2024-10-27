@@ -2,12 +2,12 @@
 title: Molecular characterisation of the small-eukaryote community in a tropical Great
   Lake (Lake Tanganyika, East Africa)
 authors:
-- Al Tarbe
-- S Stenuite
-- V Balagué
-- D Sinyinza
-- Jp Descy
-- R Massana
+- Anne-Laure Tarbe
+- Stephane Stenuite
+- Vanessa Balagué
+- Danny Sinyinza
+- Jean-Pierre Descy
+- Ramon Massana
 date: '2011-01-01'
 publishDate: '2024-08-05T15:04:47.676681Z'
 publication_types:
