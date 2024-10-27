@@ -16,4 +16,7 @@ links:
 - name: URL
   url: 
     http://www.schweizerbart.de/papers/fal/detail/131/99059/Control_of_heterotrophic_bacteria_and_protozoans_b?af=crossref
+pages: '55-78'
+volume: '131'
+number: '-'
 ---
