@@ -1,6 +1,6 @@
 ---
-title: 'Ecological niche partitioning in the picoplanktonic green alga textitMicromonas
-  pusilla : evidence from environmental surveys using phylogenetic probes'
+title: 'Ecological niche partitioning in the picoplanktonic green alga *Micromonas
+  pusilla*: evidence from environmental surveys using phylogenetic probes'
 authors:
 - Elodie Foulon
 - Fabrice Not
@@ -36,4 +36,7 @@ links:
 - name: URL
   url: 
     https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.2008.01673.x
+pages: '2433-2443'
+volume: '10'
+number: '10'
 ---
