@@ -1,6 +1,5 @@
 ---
-title: PARASITIC SPECIES OF THE GENUS textitBLASTODINIUM (BLASTODINIPHYCEAE) ARE PERIDINIOID
-  DINOFLAGELLATES $^textrm1$
+title: Parasitic species of the genus *Blastodinium* (Blastodiniphyceae) are peridinioid dinoflagellates
 authors:
 - Alf Skovgaard
 - Ramon Massana
