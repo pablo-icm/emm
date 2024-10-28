@@ -1,6 +1,5 @@
 ---
-title: Marine protist diversity in textlessspan style=\"font-variant:small-caps;\"textgreaterEtextless/spantextgreater
-  uropean coastal waters and sediments as revealed by high‐throughput sequencing
+title: Marine protist diversity in European coastal waters and sediments as revealed by high‐throughput sequencing
 authors:
 - Ramon Massana
 - Angélique Gobet
