@@ -2,11 +2,11 @@
 title: Low Evolutionary Diversification in a Widespread and Abundant Uncultured Protist
   (MAST-4)
 authors:
-- R Rodriguez-Martinez
-- G Rocap
-- R Logares
-- S Romac
-- R Massana
+- Raquel Rodriguez-Martinez
+- Gabrielle Rocap
+- Ramiro Logares
+- Sarah Romac
+- Ramon Massana
 date: '2012-05-01'
 publishDate: '2024-08-05T15:04:47.462441Z'
 publication_types:
