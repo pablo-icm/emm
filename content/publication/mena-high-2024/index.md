@@ -45,4 +45,7 @@ abstract: Abstract The osmotrophic uptake of dissolved organic compounds in the 
 links:
 - name: URL
   url: https://academic.oup.com/ismecommun/article/7571404
+pages: 'ycae004'
+volume: '4'
+number: '-'
 ---
