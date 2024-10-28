@@ -21,8 +21,8 @@ of variations in environmental factors, such as temperature, shaping physiologic
 **Conclusions** Overall, this work advances our understanding of uncharted protists’ evolutionary dynamics and eco- logical strategies. Our results highlight the importance of understanding the species-level ecology of marine het- eroflagellates like Picozoa. The observed phylogenetic overdispersion challenges the concept of phylogenetic niche conservatism in protist communities, suggesting that closely related species do not necessarily share similar ecologi- cal niches.'
 links:
 - name: URL
-  url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.12955
-volume: '17'
-pages: '4035-4049'
+  url: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01874-1
+volume: '12'
+pages: '162'
 ---
 
