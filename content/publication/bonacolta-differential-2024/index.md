@@ -36,4 +36,7 @@ abstract: Abstract  Paramuricea clavata is an ecosystem architect of the Mediter
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16548
+pages: 'e16548'
+volume: '26'
+number: '-'
 ---
