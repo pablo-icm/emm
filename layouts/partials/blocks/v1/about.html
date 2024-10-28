@@ -51,13 +51,23 @@
         </h2>
 
         {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+        {{/* {{ with $person.supervisor }} Sup. {{ . | markdownify | emojify }} {{ end }} */}}
+        <h3>{{ if $person.supervisor }}
+          {{ with $person.supervisor }}
+            Thesis advisor(s): 
+            {{ range $person, $supervisor := . }}
+            {{ if $person }} {{ end }}
+              <a href="{{ (printf "/emmTest/%s" (urlize $supervisor)) | relURL }}">{{ $supervisor }}</a>
+            {{ end }}
+            </span>
+          {{ end }}
+        {{ end }}</h3>
 
         {{ range $person.organizations }}
-        <h3>
+       
           {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
           <span>{{ .name }}</span>
           {{ if .url }}</a>{{ end }}
-        </h3>
         {{ end }}
       </div>
 

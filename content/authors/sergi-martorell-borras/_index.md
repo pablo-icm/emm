@@ -16,6 +16,9 @@ superuser: false
 
 # Role/position
 role: Predoctoral scientist
+supervisor: 
+  - Fran Cornejo-Castillo
+  - Marta Sebastián
 
 # Organizations/Affiliations
 organizations:

@@ -8,7 +8,7 @@ authors:
 - Albert Reñé
 - Esther Garcés
 - Ramon Massana
-- Josep M. Gasol
+- Josep M Gasol
 date: '2024-08-01'
 publishDate: '2024-10-23T22:08:18.414525Z'
 publication_types:

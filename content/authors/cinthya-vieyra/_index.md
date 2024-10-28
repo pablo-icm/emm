@@ -16,6 +16,8 @@ superuser: false
 
 # Role/position
 role: Predoctoral scientist
+supervisor: 
+  - Fran Cornejo-Castillo
 
 # Organizations/Affiliations
 organizations:

@@ -16,6 +16,8 @@ superuser: false
 
 # Role/position
 role: Predoctoral scientist
+supervisor: 
+  - Josep M. Gasol
 
 # Organizations/Affiliations
 organizations:

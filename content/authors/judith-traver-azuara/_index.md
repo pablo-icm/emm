@@ -16,6 +16,9 @@ superuser: false
 
 # Role/position
 role: Predoctoral scientist
+supervisor: 
+  - Ramiro Logares
+  - Carmen García-Comas
 
 # Organizations/Affiliations
 organizations:

@@ -16,6 +16,9 @@ superuser: false
 
 # Role/position
 role: Predoctoral scientist
+supervisor: 
+  - Felipe H. Coutinho
+  - Ramon Massana
 
 # Organizations/Affiliations
 organizations:
