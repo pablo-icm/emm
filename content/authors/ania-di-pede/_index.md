@@ -16,6 +16,8 @@ superuser: false
 
 # Role/position
 role: Predoctoral scientist
+supervisor: 
+  - Francesco Colizzi
 
 # Organizations/Affiliations
 organizations:

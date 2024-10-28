@@ -16,6 +16,9 @@ superuser: false
 
 # Role/position
 role: Predoctoral scientist
+supervisor:
+  - Josep M. Gasol
+  - Marta Sebastián
 
 # Organizations/Affiliations
 organizations:

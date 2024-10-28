@@ -16,6 +16,8 @@ superuser: false
 
 # Role/position
 role: Predoctoral scientist
+supervisor: 
+  - Marta Sebastián
 
 # Organizations/Affiliations
 organizations:

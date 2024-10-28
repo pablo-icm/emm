@@ -16,7 +16,9 @@ superuser: false
 
 # Role/position
 role: Predoctoral scientist
-
+supervisor: 
+  - Marta Sebastián
+  
 # Organizations/Affiliations
 organizations:
 - name: Institut de Ciències del Mar (ICM-CSIC)

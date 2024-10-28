@@ -16,6 +16,8 @@ superuser: false
 
 # Role/position
 role: Predoctoral scientist
+supervisor: 
+  - Clara Ruíz-González
 
 # Organizations/Affiliations
 organizations:
