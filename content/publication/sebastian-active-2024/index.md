@@ -37,4 +37,7 @@ abstract: Abstract A persistent microbial seed bank is postulated to sustain the
 links:
 - name: URL
   url: https://academic.oup.com/ismecommun/article/7585945
+pages: 'ycae015'
+volume: '4'
+number: '-'
 ---
