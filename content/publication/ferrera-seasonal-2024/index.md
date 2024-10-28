@@ -36,4 +36,7 @@ abstract: Abstract Marine microbial communities differ genetically, metabolicall
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.13299
+pages: 'e13299'
+volume: '16'
+number: '-'
 ---
