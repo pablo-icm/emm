@@ -1,14 +1,14 @@
 ---
 title: Functional convergence of microbes associated with temperate marine sponges
 authors:
-- M Ribes
-- E Jiménez
-- G Yahel
-- P López‐Sendino
-- B Diez
-- R Massana
-- J H Sharp
-- R Coma
+- Marta Ribes
+- Eroteida Jiménez
+- Gitai Yahel
+- Paula López‐Sendino
+- Beatriz Díez
+- Ramon Massana
+- Jasmine H Sharp
+- Rafel Coma
 date: '2012-05-01'
 publishDate: '2024-08-05T15:04:47.448107Z'
 publication_types:
