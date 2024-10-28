@@ -1,5 +1,5 @@
 ---
-title: textitMediocremonas mediterraneus , a New Member within the Developea
+title: *Mediocremonas mediterraneus*, a New Member within the Developea
 authors:
 - Bradley A Weiler
 - Elisabet L Sà
