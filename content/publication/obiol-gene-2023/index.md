@@ -38,4 +38,7 @@ abstract: Abstract  Background Marine heterotrophic flagellates (HF) are dominan
 links:
 - name: URL
   url: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01571-5
+pages: '134'
+volume: '11'
+number: '-'
 ---
