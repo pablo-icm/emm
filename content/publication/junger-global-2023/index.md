@@ -40,4 +40,7 @@ abstract: Tiny ocean plankton (picoplankton) are fundamental for the functioning
 links:
 - name: URL
   url: https://www.science.org/doi/10.1126/sciadv.adg9763
+pages: 'eadg9763'
+volume: '9'
+number: '-'
 ---
