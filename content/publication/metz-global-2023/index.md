@@ -50,4 +50,7 @@ abstract: Abstract Perkinsea constitutes a lineage within the Alveolata eukaryot
 links:
 - name: URL
   url: https://www.nature.com/articles/s41598-023-47378-0
+pages: '20111'
+volume: '13'
+number: '-'
 ---
