@@ -2,12 +2,12 @@
 title: Grazing rates of protists in wetlands under contrasting light conditions due
   to floating plants
 authors:
-- I Izaguirre
-- R Sinistro
-- Mr Schiaffino
-- Ml Sánchez
-- F Unrein
-- R Massana
+- Irina Izaguirre
+- Rodrigo Sinistro
+- M Romina Schiaffino
+- Maria L Sánchez
+- Fernando Unrein
+- Ramon Massana
 date: '2012-02-01'
 publishDate: '2024-08-05T15:04:47.455621Z'
 publication_types:
