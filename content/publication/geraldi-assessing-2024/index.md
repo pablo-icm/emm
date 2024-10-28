@@ -40,4 +40,7 @@ abstract: Documenting large-scale patterns of animals in the ocean and determini
 links:
 - name: URL
   url: https://royalsocietypublishing.org/doi/10.1098/rsos.240724
+pages: '240724'
+volume: '11'
+number: '-'
 ---
