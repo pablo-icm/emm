@@ -31,4 +31,7 @@ abstract: Abstract  A plant parasite associated with the white haze disease in a
 links:
 - name: URL
   url: https://www.nature.com/articles/s41598-024-61422-7
+pages: '10601'
+volume: '14'
+number: '-'
 ---
