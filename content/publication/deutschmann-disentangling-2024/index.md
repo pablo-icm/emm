@@ -38,4 +38,7 @@ abstract: Abstract Microbial interactions are vital in maintaining ocean ecosyst
 links:
 - name: URL
   url: https://www.nature.com/articles/s41467-023-44550-y
+pages: '126'
+volume: '15'
+number: '-'
 ---
