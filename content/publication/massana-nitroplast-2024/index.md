@@ -24,4 +24,7 @@ abstract: A bacterial endosymbiont of marine algae evolved to an organelle ,   E
 links:
 - name: URL
   url: https://www.science.org/doi/10.1126/science.ado8571
+pages: '160-161'
+volume: '384'
+number: '-'
 ---
