@@ -36,4 +36,7 @@ abstract: Abstract  Understanding the patterns of marine microbial diversity (Ba
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lol2.10422
+pages: '512-523'
+volume: '9'
+number: '-'
 ---
