@@ -1,5 +1,5 @@
 ---
-title: How marine are Marine Stramenopiles (MAST)? A cross-system evaluation
+title: "How marine are Marine Stramenopiles (MAST)? A cross-system evaluation"
 authors:
 - Aleix Obiol
 - Javier Del Campo
