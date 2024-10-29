@@ -10,7 +10,7 @@
 <div class="card-simple view-card">
   {{/* First Line: Thesis Title */}}
   <div class="section-subheading article-title mb-1 mt-3">
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify -}}</a>
   </div>
 
   {{/* Second Line: Author Name */}}

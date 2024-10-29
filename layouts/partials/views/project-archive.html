@@ -11,7 +11,7 @@
 
   {{/* First Line: Project Title */}}
   <div class="section-subheading article-title mb-1 mt-3">
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify -}}</a>
   </div>
 
   {{/* Second Line: Author Name */}}
@@ -24,7 +24,7 @@
   {{/* Fourth Line: Funding Agency */}}
   {{ with $item.Params.funding }}
   <div class="article-metadata thesis-author li-cite-author">
-    <p><strong>Funding Agency:</strong> {{ . }}</p>
+    <p><strong>Funding Agency:</strong> {{ . | markdownify -}}</p>
   </div>
   {{ end }}
 
