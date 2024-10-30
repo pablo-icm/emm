@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Ecology of Marine Microbes # Website name
-baseURL: 'https://pablo-icm.github.io/emmTest/' # Website URL
+baseURL: 'https://pablo-icm.github.io/emm/' # Website URL
 
 ############################
 ## LANGUAGE

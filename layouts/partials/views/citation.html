@@ -34,7 +34,7 @@
     Thesis advisor(s): 
     {{ range $index, $supervisor := . }}
       {{ if $index }}, {{ end }}
-      <a href="{{ (printf "/emmTest/%s" (urlize $supervisor)) | relURL }}">{{ $supervisor }}</a>
+      <a href="{{ (printf "/emm/%s" (urlize $supervisor)) | relURL }}">{{ $supervisor }}</a>
     {{ end }}
   </span>
   {{ end }}
