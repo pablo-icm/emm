@@ -1,6 +1,6 @@
 ---
 title: Description, Host-specificity, and Strain Selectivity of the Dinoflagellate
-  Parasite Parvilucifera sinerae sp. nov. (Perkinsozoa)
+  Parasite *Parvilucifera sinerae* sp. nov. (Perkinsozoa)
 authors:
 - Rosa Isabel Figueroa
 - Esther Garcés
