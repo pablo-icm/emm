@@ -1,6 +1,6 @@
 ---
 title: Control of heterotrophic bacteria and protozoans by *Daphnia pulex* in the epilimnion
-  of Lake Cisó.
+  of Lake Cisó
 authors:
 - Klaus Jürgens
 - Josep M Gasol
