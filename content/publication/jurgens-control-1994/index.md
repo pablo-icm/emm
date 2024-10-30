@@ -1,5 +1,5 @@
 ---
-title: Control of heterotrophic bacteria and protozoans by Daphnia pulex in the epilimnion
+title: Control of heterotrophic bacteria and protozoans by *Daphnia pulex* in the epilimnion
   of Lake Cisó.
 authors:
 - Klaus Jürgens
