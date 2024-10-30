@@ -1,6 +1,6 @@
 ---
-title: Choanoflagellates alongside diverse uncultured predatory protists consume the
-  abundant open-ocean cyanobacterium *Prochlorococcus*
+title: "Choanoflagellates alongside diverse uncultured predatory protists consume the
+  abundant open-ocean cyanobacterium *Prochlorococcus*"
 authors:
 - Susanne Wilken
 - Charmaine C M Yung
