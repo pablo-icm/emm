@@ -1,5 +1,5 @@
 ---
-title: Phylogenetic Position of the Copepod-Infesting Parasite Syndinium turbo (Dinoflagellata,
+title: Phylogenetic Position of the Copepod-Infesting Parasite *Syndinium turbo* (Dinoflagellata,
   Syndinea)
 authors:
 - Alf Skovgaard
