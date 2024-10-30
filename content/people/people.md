@@ -20,8 +20,8 @@ content:
   - Technicians  
   - Postdoctoral scientists  
   - Predoctoral scientists  
-  - Close collaborators  
-  - Former members  
+  #- Close collaborators  
+  #- Former members  
 
 design:
   show_interests: false  
