@@ -1,5 +1,5 @@
 ---
-title: 'A fungi hotspot deep in the ocean: explaining the presence of Gjaerumia minor
+title: 'A fungi hotspot deep in the ocean: explaining the presence of *Gjaerumia minor*
   in equatorial Pacific bathypelagic waters'
 authors:
 - Massimo C Pernice
