@@ -57,7 +57,7 @@
             Thesis advisor(s): 
             {{ range $person, $supervisor := . }}
             {{ if $person }} {{ end }}
-              <a href="{{ (printf "/emm/%s" (urlize $supervisor)) | relURL }}">{{ $supervisor }}</a>
+              <a href="{{  (urlize $supervisor) | relURL }}">{{ $supervisor }}</a>
             {{ end }}
             </span>
           {{ end }}
@@ -136,17 +136,17 @@
       {{ end }}
       {{/* CUSTOM block to add buttons to author's filtered production */}}
       <div class="btn-links mr-3 ml-3 mt-3">
-       <a href="/emm/publication/?author={{ $author | urlize }}" class="btn btn-outline-primary btn-lg">
+       <a href="publication/?author={{ $author | urlize }}" class="btn btn-outline-primary btn-lg">
         View all journal articles
        </a>
       </div>
       <div class="btn-links mr-3 ml-3 mt-3">
-       <a href="/emm/thesis/?supervisor={{ $author | urlize }}" class="btn btn-outline-primary btn-lg">
+       <a href="thesis/?supervisor={{ $author | urlize }}" class="btn btn-outline-primary btn-lg">
          View supervised thesis
        </a>
       </div>
       <div class="btn-links mr-3 ml-3 mt-3">
-       <a href="/emm/project-archive/?author={{ $author | urlize }}" class="btn btn-outline-primary btn-lg">
+       <a href="/project-archive/?author={{ $author | urlize }}" class="btn btn-outline-primary btn-lg">
          View lead projects
        </a>
       </div>
