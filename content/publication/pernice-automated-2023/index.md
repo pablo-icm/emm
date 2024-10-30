@@ -41,4 +41,6 @@ abstract: On a standard oceanographic cruise, flow cytometry data are usually co
 links:
 - name: URL
   url: https://www.frontiersin.org/articles/10.3389/fmicb.2022.1064112/full
+pages: '1064112'
+volume: '13'
 ---

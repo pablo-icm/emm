@@ -6,7 +6,7 @@ authors:
 - Roberta Piredda
 - Cecilia Balestra
 - Mauro Bastianini
-- Josep M. Gasol
+- Josep M Gasol
 - Raffaella Casotti
 date: '2022-07-01'
 publishDate: '2024-10-30T12:13:09.186875Z'
@@ -32,4 +32,6 @@ abstract: The Northern Adriatic Sea is a key area of the Mediterranean Sea, stro
 links:
 - name: URL
   url: https://www.frontiersin.org/articles/10.3389/fmars.2022.912528/full
+pages: '912528'
+number: ''
 ---

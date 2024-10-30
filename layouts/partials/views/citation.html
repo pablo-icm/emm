@@ -18,9 +18,13 @@
     {{- $item.Params.publication | markdownify -}},
   {{ end }}
 
-  {{/* Display volume and pages. If there's field Volume we assume that there are pages */}}
+  {{/* Display volume and pages. */}}
   {{ if $item.Params.volume }}
-  <span>{{ $item.Params.volume }}, {{ $item.Params.pages }}</span>
+    <span>{{ $item.Params.volume }}</span>,
+  {{ end }}
+
+  {{ if $item.Params.pages }}
+    <span>{{ $item.Params.pages }}</span>.
   {{ end }}
   
   {{/* Display Thesis supervisor */}}

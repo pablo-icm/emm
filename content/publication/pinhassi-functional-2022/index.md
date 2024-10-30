@@ -47,4 +47,6 @@ abstract: Coastal ecosystems deteriorate globally due to human-induced stress fa
 links:
 - name: URL
   url: https://www.frontiersin.org/articles/10.3389/fmicb.2022.869093/full
+pages: '869093'
+volume: '13'
 ---

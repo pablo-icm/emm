@@ -5,7 +5,7 @@ authors:
 - Carlota R. Gazulla
 - Michal Koblížek
 - Jesús M. Mercado
-- Josep M. Gasol
+- Josep M Gasol
 - Olga Sánchez
 - Isabel Ferrera
 date: '2024-09-01'
@@ -34,4 +34,5 @@ abstract: Abstract  Aerobic anoxygenic phototrophic (AAP) bacteria are a common 
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.12682
+pages: 'lno.12682'
 ---

@@ -5,7 +5,7 @@ authors:
 - Sergio M. Vallina
 - Charlie Gaborit
 - Celia Marrase
-- Josep M. Gasol
+- Josep M Gasol
 - Nixon Bahamon
 - Michael J. Follows
 - Guillaume Le Gland
@@ -19,4 +19,6 @@ doi: 10.1016/j.pocean.2023.103125
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0079661123001684
+pages: '103125'
+volume: '219'
 ---

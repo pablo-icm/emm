@@ -61,4 +61,7 @@ abstract: ABSTRACT    Aerobic anoxygenic phototrophic (AAP) bacteria harvest lig
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/aem.00032-24
+pages: 'e00032-24'
+volume: '90'
+number: '4'
 ---

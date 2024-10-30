@@ -5,7 +5,7 @@ title: 'Time Series Data Provide Insights into the Evolution and Abundance of On
 authors:
 - Marina Vila-Nistal
 - Ramiro Logares
-- Josep M. Gasol
+- Josep M Gasol
 - Manuel Martinez-Garcia
 date: '2024-10-01'
 publishDate: '2024-10-30T12:13:09.054561Z'
@@ -41,4 +41,7 @@ abstract: Viruses play a pivotal role in ecosystems by influencing biochemical c
 links:
 - name: URL
   url: https://www.mdpi.com/1999-4915/16/11/1669
+pages: '1669'
+volume: '16'
+number: '11'
 ---

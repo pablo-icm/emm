@@ -45,4 +45,6 @@ abstract: In this work, we present, for the first time, the seawater carbonate s
 links:
 - name: URL
   url: https://www.frontiersin.org/articles/10.3389/fmars.2024.1348133/full
+pages: '1348133'
+volume: '11'
 ---

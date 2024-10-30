@@ -8,7 +8,7 @@ authors:
 - Célio Dias Santos Júnior
 - Marta Sebastián
 - Ramiro Logares
-- Josep M. Gasol
+- Josep M Gasol
 date: '2023-08-01'
 publishDate: '2024-10-30T12:13:09.130231Z'
 publication_types:
@@ -36,4 +36,7 @@ abstract: 'Abstract  Microbes drive the biogeochemical cycles of marine ecosyste
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16367
+pages: '1465-1483'
+volume: '25'
+number: '8'
 ---

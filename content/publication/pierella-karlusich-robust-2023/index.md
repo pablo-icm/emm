@@ -7,11 +7,11 @@ authors:
 - Fabien Lombard
 - Adriana Zingone
 - Sébastien Colin
-- Josep M. Gasol
+- Josep M Gasol
 - Richard G. Dorrell
 - Nicolas Henry
 - Eleonora Scalco
-- Silvia G. Acinas
+- Silvia G Acinas
 - Patrick Wincker
 - Colomban De Vargas
 - Chris Bowler
@@ -46,4 +46,7 @@ abstract: 'Abstract  Phytoplankton account for textgreater45% of global primary 
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13592
+pages: '16-40'
+volume: '23'
+number: '1'
 ---

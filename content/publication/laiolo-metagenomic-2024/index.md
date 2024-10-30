@@ -42,4 +42,6 @@ abstract: The global ocean genome (the pool of genes in marine organisms and the
 links:
 - name: URL
   url: https://www.frontiersin.org/articles/10.3389/fsci.2023.1038696/full
+pages: '2813-6330'
+volume: '1'
 ---

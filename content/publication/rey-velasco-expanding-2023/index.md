@@ -7,7 +7,7 @@ authors:
 - Isabel Sanz-Sáez
 - Clara Cardelús
 - Isabel Ferrera
-- Josep M. Gasol
+- Josep M Gasol
 - Olga Sánchez
 date: '2023-10-01'
 publishDate: '2024-10-30T12:13:09.162640Z'
@@ -54,4 +54,7 @@ abstract: ABSTRACT  Isolation of microorganisms is a useful approach to gatherin
 links:
 - name: URL
   url: https://journals.asm.org/doi/10.1128/spectrum.00890-23
+pages: 'e00890-23'
+volume: '11'
+number: '5'
 ---

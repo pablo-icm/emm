@@ -1,9 +1,5 @@
 ---
-title: Marked seasonality of aerobic anoxygenic phototrophic bacteria in the coastal
-  textlessspan style=\"font-variant:small-caps;\"textgreaterNW Mtextless/spantextgreater
-  editerranean textlessspan style=\"font-variant:small-caps;\"textgreaterStextless/spantextgreater
-  ea as revealed by cell abundance, pigment concentration and pyrosequencing of textit
-  puf textlessspan style=\"font-variant:small-caps;\"textgreaterMtextless/spantextgreater  gene
+title: Marked seasonality of aerobic anoxygenic phototrophic bacteria in the coastal NW Mediterranean Sea as revealed by cell abundance, pigment concentration and pyrosequencing of *pufM* gene
 authors:
 - Isabel Ferrera
 - Carles M Borrego
