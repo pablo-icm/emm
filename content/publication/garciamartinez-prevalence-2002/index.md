@@ -1,6 +1,5 @@
 ---
-title: Prevalence and microdiversity of textitAlteromonas macleodii ‐like microorganisms
-  in different oceanic regions
+title: "Prevalence and microdiversity of *Alteromonas macleodii*‐like microorganisms in different oceanic regions"
 authors:
 - Jesús García‐Martínez
 - Silvia G Acinas
