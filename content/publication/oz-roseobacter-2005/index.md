@@ -1,6 +1,5 @@
 ---
-title: textitRoseobacter -Like Bacteria in Red and Mediterranean Sea Aerobic Anoxygenic
-  Photosynthetic Populations
+title: "*Roseobacter* Like Bacteria in Red and Mediterranean Sea Aerobic Anoxygenic Photosynthetic Populations"
 authors:
 - Aia Oz
 - Gazalah Sabehi
