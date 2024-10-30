@@ -1,6 +1,6 @@
 ---
-title: Crash of a population of the marine heterotrophic flagellate textitCafeteria
-  roenbergensis by viral infection
+title: Crash of a population of the marine heterotrophic flagellate *Cafeteria
+  roenbergensis* by viral infection
 authors:
 - Ramon Massana
 - Javier Del Campo
