@@ -1,6 +1,5 @@
 ---
-title: *Gymnodinium litoralis* sp. nov. (Dinophyceae), a newly identified bloom-forming
-  dinoflagellate from the NW Mediterranean Sea
+title: "*Gymnodinium litoralis* sp. nov. (Dinophyceae), a newly identified bloom-forming dinoflagellate from the NW Mediterranean Sea"
 authors:
 - Albert Reñé
 - Cecilia Teodora Satta
