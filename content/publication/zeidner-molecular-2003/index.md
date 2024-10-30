@@ -1,6 +1,5 @@
 ---
-title: Molecular diversity among marine picophytoplankton as revealed by textitpsbA
-  analyses
+title: Molecular diversity among marine picophytoplankton as revealed by *psbA* analyses
 authors:
 - Gil Zeidner
 - Christina M Preston
