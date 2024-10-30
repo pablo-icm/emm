@@ -1,5 +1,5 @@
 ---
-title: Mixotrophy in the bloom-forming genus Phaeocystis and other haptophytes
+title: Mixotrophy in the bloom-forming genus *Phaeocystis* and other haptophytes
 authors:
 - Sebastiaan Koppelle
 - David López-Escardó
