@@ -1,6 +1,6 @@
 ---
 title: Differential apicomplexan presence predicts thermal stress mortality in the
-  Mediterranean coral textitParamuricea clavata
+  Mediterranean coral *Paramuricea clavata*
 authors:
 - Anthony M. Bonacolta
 - Jordi Miravall
