@@ -1,6 +1,5 @@
 ---
-title: 'In situ prey selection of mixotrophic and heterotrophic flagellates in Antarctic
-  oligotrophic lakes: an analysis of the digestive vacuole content'
+title: "*In situ* prey selection of mixotrophic and heterotrophic flagellates in Antarctic oligotrophic lakes: an analysis of the digestive vacuole content"
 authors:
 - Marina Gerea
 - Claudia Queimaliños
