@@ -2,13 +2,13 @@
 title: Preferences of phytoplankton groups for waters of different trophic status
   in the northwestern Mediterranean Sea
 authors:
-- M Latasa
-- R Scharek
-- M Vidal
-- G Vila-Reixach
-- A Gutiérrez-Rodríguez
-- M Emelianov
-- Jm Gasol
+- Mikel Latasa
+- Renate Scharek
+- Montserrat Vidal
+- Gemma Vila-Reixach
+- Andrés Gutiérrez-Rodríguez
+- Mikhail Emelianov
+- Josep M Gasol
 date: '2010-05-01'
 publishDate: '2024-08-05T15:04:47.832194Z'
 publication_types:

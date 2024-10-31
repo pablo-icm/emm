@@ -1,8 +1,7 @@
 ---
-title: UCYN‐A3, a newly characterized open ocean sublineage of the symbiotic N $_textrm2$
-  ‐fixing cyanobacterium textitCandidatus Atelocyanobacterium thalassa
+title: UCYN‐A3, a newly characterized open ocean sublineage of the symbiotic N2‐fixing cyanobacterium *Candidatus* Atelocyanobacterium thalassa
 authors:
-- Francisco M Cornejo‐Castillo
+- Francisco M Cornejo Castillo
 - Maria Del Carmen Muñoz‐Marín
 - Kendra A Turk‐Kubo
 - Marta Royo‐Llonch

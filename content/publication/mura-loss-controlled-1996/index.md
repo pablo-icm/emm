@@ -2,12 +2,12 @@
 title: Loss-controlled phytoplankton production in nutrient-poor littoral waters of
   the NW Mediterranean:in situ experimental evidence
 authors:
-- Mp Mura
-- S Agustí
-- Pa Del Giorgio
-- Jm Gasol
-- D Vaqué
-- Cm Duarte
+- M. P. Mura
+- Susana Agustí
+- Paul A. Del Giorgio
+- Josep M Gasol
+- Dolors Vaqué
+- Carlos M. Duarte
 date: '1996-01-01'
 publishDate: '2024-08-05T15:04:48.970389Z'
 publication_types:

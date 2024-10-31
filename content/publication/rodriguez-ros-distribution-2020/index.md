@@ -9,7 +9,7 @@ authors:
 - Christel Hassler
 - Sarah-Jeanne Royer
 - Marta Estrada
-- M Montserrat Sala
+- Maria M Sala
 - Rafel Simó
 date: '2020-05-01'
 publishDate: '2024-08-05T15:04:46.003863Z'

@@ -13,7 +13,7 @@ authors:
 - Isabel Sanz-Sáez
 - Massimo C Pernice
 - Cèlia Marrasé
-- M Montserrat Sala
+- Maria M Sala
 - Josep M Gasol
 date: '2020-11-01'
 publishDate: '2024-08-05T15:04:46.097051Z'

@@ -4,7 +4,7 @@ title: Shifts in bacterioplankton community structure between dry and wet season
 authors:
 - Carolina Marín-Vindas
 - Marta Sebastián
-- Clara Ruíz-González
+- Clara Ruiz-González
 - Vanessa Balagué
 - Luis Vega-Corrales
 - Josep M Gasol

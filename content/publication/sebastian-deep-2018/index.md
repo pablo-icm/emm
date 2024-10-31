@@ -5,7 +5,7 @@ authors:
 - Marta Sebastián
 - Jean‐Christophe Auguet
 - Claudia Ximena Restrepo‐Ortiz
-- María Montserrat Sala
+- Maria Montserrat Sala
 - Celia Marrasé
 - Josep M Gasol
 date: '2018-02-01'

@@ -8,7 +8,7 @@ authors:
 - Pablo Rodríguez-Ros
 - Manuel Dall'Osto
 - Marta Estrada
-- Maria Montserrat Sala
+- Maria M Sala
 - Rafel Simó
 date: '2019-02-01'
 publishDate: '2024-08-05T15:04:46.215525Z'

@@ -1,6 +1,5 @@
 ---
-title: Seasonal patterns in Arctic prasinophytes and inferred ecology of textitBathycoccus
-  unveiled in an Arctic winter metagenome
+title: 'Seasonal patterns in Arctic prasinophytes and inferred ecology of *Bathycoccus* unveiled in an Arctic winter metagenome'
 authors:
 - Nathalie Joli
 - Adam Monier

@@ -10,7 +10,7 @@ authors:
 - Cèlia Marrasé
 - Carles Pelejero
 - Jarone Pinhassi
-- Maria Montserrat Sala
+- Maria M Sala
 - Dolors Vaqué
 date: '2021-04-01'
 publishDate: '2024-08-05T15:04:45.957006Z'

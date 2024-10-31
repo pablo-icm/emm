@@ -1,10 +1,10 @@
 ---
 title: Zooplankton influence on the phytoplankton-bacterioplankton coupling
 authors:
-- D Vaqué
-- C Marrasé
-- V Iñiguez
-- M Alcaraz
+- Dolors Vaqué
+- Cèlia Marrasé
+- V. Iñiguez
+- Miquel Alcaraz
 date: '1989-01-01'
 publishDate: '2024-08-05T15:04:49.100968Z'
 publication_types:

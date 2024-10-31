@@ -2,7 +2,7 @@
 title: Changes in Bacterioplankton Composition under Different Phytoplankton Regimens
 authors:
 - Jarone Pinhassi
-- Maria Montserrat Sala
+- Maria M Sala
 - Harry Havskum
 - Francesc Peters
 - Òscar Guadayol

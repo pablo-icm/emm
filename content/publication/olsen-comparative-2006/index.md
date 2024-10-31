@@ -2,23 +2,23 @@
 title: A comparative study of responses in plankton food web structure and function
   in contrasting European coastal waters exposed to experimental nutrient addition
 authors:
-- Y Olsen
-- S Agustí
-- T Andersen
-- C M Duarte
-- J M Gasol
-- I Gismervik
+- Y. Olsen
+- Susana Agustí
+- T. Andersen
+- Carlos M Duarte
+- Josep M Gasol
+- I. Gismervik
 - A.-S Heiskanen
-- E Hoell
-- P Kuuppo
-- R Lignell
-- H Reinertsen
-- U Sommer
-- H Stibor
-- T Tamminen
-- O Vadstein
-- D Vaqué
-- M Vidal
+- E. Hoell
+- P. Kuuppo
+- R. Lignell
+- H. Reinertsen
+- U. Sommer
+- H. Stibor
+- T. Tamminen
+- O. Vadstein
+- Dolors Vaqué
+- M. Vidal
 date: '2006-01-01'
 publishDate: '2024-08-05T15:04:48.312658Z'
 publication_types:

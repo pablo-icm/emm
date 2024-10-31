@@ -2,7 +2,7 @@
 title: Seasonal dynamics of pelagic and benthic (littoral and profundal) bacterial
   abundances and activities in a deep prealpine lake (L. Constance)
 authors:
-- Maria Montserrat Sala
+- Maria M Sala
 - Hans Güde
 date: '2006-10-01'
 publishDate: '2024-08-05T15:04:48.400874Z'

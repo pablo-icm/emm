@@ -16,7 +16,7 @@ authors:
 - Dolors Vaqué
 - Cèlia Marrasé
 - Marta Estrada
-- M Montserrat Sala
+- Maria M Sala
 - Montserrat Vidal
 - Mark F Fitzsimons
 - Rachael Beale

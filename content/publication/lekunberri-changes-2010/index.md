@@ -2,15 +2,15 @@
 title: Changes in bacterial activity and community composition caused by exposure
   to a simulated oil spill in microcosm and mesocosm experiments
 authors:
-- I Lekunberri
-- A Calvo-Díaz
-- E Teira
-- Xag Morán
-- F Peters
-- M Nieto-Cid
-- O Espinoza-González
-- Ig Teixeira
-- Jm Gasol
+- Itziar Lekunberri
+- Alejandra Calvo-Díaz
+- Eva Teira
+- Xosé Anxelu G. Morán
+- Francesc Peters
+- Mar Nieto-Cid
+- Oscar Espinoza-González
+- Isabel G. Teixeira
+- Josep M Gasol
 date: '2010-04-01'
 publishDate: '2024-08-05T15:04:47.744069Z'
 publication_types:

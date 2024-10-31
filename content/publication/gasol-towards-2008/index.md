@@ -1,17 +1,17 @@
 ---
 title: Towards a better understanding of microbial carbon flux in the sea*
 authors:
-- Jm Gasol
-- J Pinhassi
-- L Alonso-Sáez
-- H Ducklow
-- Gj Herndl
-- M Koblízek
-- M Labrenz
-- Y Luo
-- Xag Morán
-- T Reinthaler
-- M Simon
+- Josep M Gasol
+- Jarone Pinhassi
+- Laura Alonso-Sáez
+- Hugh Ducklow
+- Gerhard J. Herndl
+- Michal Koblízek
+- Matthias Labrenz
+- Yawi Luo
+- Xosé Anxelu G. Morán
+- Thomas Reinthaler
+- Meinhard Simon
 date: '2008-09-01'
 publishDate: '2024-08-05T15:04:48.146490Z'
 publication_types:

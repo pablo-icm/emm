@@ -1,12 +1,10 @@
 ---
-title: Metagenomic textlessspan style=\"font-variant:small-caps;\"textgreater16S rDNA
-  Itextless/spantextgreater llumina tags are a powerful alternative to amplicon sequencing
-  to explore diversity and structure of microbial communities
+title: 'Metagenomic 16S rDNA Illumina tags are a powerful alternative to amplicon sequencing to explore diversity and structure of microbial communities'
 authors:
 - Ramiro Logares
 - Shinichi Sunagawa
 - Guillem Salazar
-- Francisco M Cornejo‐Castillo
+- Francisco M Cornejo-Castillo
 - Isabel Ferrera
 - Hugo Sarmento
 - Pascal Hingamp

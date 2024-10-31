@@ -2,9 +2,9 @@
 title: Temperature effects on the heterotrophic bacteria, heterotrophic nanoflagellates,
   and microbial top predators of the NW Mediterranean
 authors:
-- E Vázquez-Domínguez
-- D Vaqué
-- Jm Gasol
+- Evaristo Vázquez-Domínguez
+- Dolors Vaqué
+- Josep M Gasol
 date: '2012-10-01'
 publishDate: '2024-08-05T15:04:47.528626Z'
 publication_types:

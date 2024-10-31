@@ -2,7 +2,7 @@
 title: Prokaryotic Capability to Use Organic Substrates Across the Global Tropical
   and Subtropical Ocean
 authors:
-- Maria Montserrat Sala
+- Maria M Sala
 - Clara Ruiz-González
 - Encarna Borrull
 - Iñigo Azúa

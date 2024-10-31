@@ -1,13 +1,12 @@
 ---
-title: Presence, abundance and bacterivory of the mixotrophic algae Pseudopedinella
-  (Dictyochophyceae) in freshwater environments
+title: 'Presence, abundance and bacterivory of the mixotrophic algae *Pseudopedinella* (Dictyochophyceae) in freshwater environments'
 authors:
-- M Gerea
-- Jf Saad
-- I Izaguirre
-- C Queimaliños
-- Jm Gasol
-- F Unrein
+- Marina Gerea
+- Juan F. Saad
+- Irina Izaguirre
+- Claudia Queimaliños
+- Josep M Gasol
+- Fernando Unrein
 date: '2016-02-01'
 publishDate: '2024-08-05T15:04:46.783656Z'
 publication_types:

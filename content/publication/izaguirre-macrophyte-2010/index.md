@@ -2,13 +2,13 @@
 title: Macrophyte influence on the structure and productivity of photosynthetic picoplankton
   in wetlands
 authors:
-- I Izaguirre
-- H Pizarro
-- P De Tezanos Pinto
-- P Rodriguez
-- I O'Farrell
-- F Unrein
-- J M Gasol
+- Irina Izaguirre
+- Haydee Pizarro
+- Paula De Tezanos Pinto
+- Patricia Rodriguez
+- Inés O'Farrell
+- Fernando Unrein
+- Josep M Gasol
 date: '2010-02-01'
 publishDate: '2024-08-05T15:04:47.803704Z'
 publication_types:

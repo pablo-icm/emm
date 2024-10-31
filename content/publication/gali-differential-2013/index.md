@@ -3,14 +3,14 @@ title: Differential response of planktonic primary, bacterial, and dimethylsulfi
   production rates to static vs. dynamic light exposure in upper mixed-layer summer
   sea waters
 authors:
-- M Galí
-- R Simó
-- G L Pérez
-- C Ruiz-González
-- H Sarmento
-- S.-J Royer
-- A Fuentes-Lema
-- J M Gasol
+- Martí Galí
+- Rafel Simó
+- G. L. Pérez
+- Clara Ruiz-González
+- Hugo Sarmento
+- Sarah-Jeanne Royer
+- A. Fuentes-Lema
+- Josep M Gasol
 date: '2013-12-01'
 publishDate: '2024-08-05T15:04:47.243693Z'
 publication_types:

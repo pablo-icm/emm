@@ -1,7 +1,7 @@
 ---
 title: Ectoenzymatic activities and heterotrophic bacteria decomposing detritus
 authors:
-- Maria Montserrat Sala
+- Maria M Sala
 - Hans Güde
 date: '2004-07-01'
 publishDate: '2024-08-05T15:04:48.554959Z'

@@ -10,7 +10,7 @@ authors:
 - Cèlia Marrasé
 - Ramon Massana
 - Carlos Pedrós-Alió
-- M Montserrat Sala
+- Maria M Sala
 - Rafel Simó
 - Dolors Vaqué
 - Marta Estrada

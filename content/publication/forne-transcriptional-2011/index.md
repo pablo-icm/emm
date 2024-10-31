@@ -1,6 +1,5 @@
 ---
-title: Transcriptional and proteomic profiling of flatfish ( textitSolea senegalensis
-  ) spermatogenesis
+title: 'Transcriptional and proteomic profiling of flatfish (*Solea senegalensis*) spermatogenesis'
 authors:
 - Ignasi Forné
 - Bárbara Castellana
@@ -12,7 +11,7 @@ date: '2011-06-01'
 publishDate: '2024-08-05T15:04:47.722880Z'
 publication_types:
 - article-journal
-publication: '*PROTEOMICS*'
+publication: '*Proteomics*'
 doi: 10.1002/pmic.201000296
 abstract: Abstract  The Senegalese sole ( Solea senegalensis ) is a marine flatfish
   of high economic value and a target species for aquaculture. The efforts to reproduce

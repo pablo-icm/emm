@@ -1,6 +1,6 @@
 ---
-title: Dynamics of the hydrocarbon‐degrading textitCycloclasticus bacteria during
-  mesocosm‐simulated oil spills
+title: 'Dynamics of the hydrocarbon‐degrading *Cycloclasticus* bacteria during
+  mesocosm‐simulated oil spills'
 authors:
 - Eva Teira
 - Itziar Lekunberri

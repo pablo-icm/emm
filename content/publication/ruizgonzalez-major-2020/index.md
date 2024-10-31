@@ -12,7 +12,7 @@ authors:
 - Xosé Antón Álvarez‐Salgado
 - Xosé Anxelu G Morán
 - Carlos M Duarte
-- M Montserrat Sala
+- Maria M Sala
 - Josep M Gasol
 date: '2020-05-01'
 publishDate: '2024-08-05T15:04:46.042138Z'

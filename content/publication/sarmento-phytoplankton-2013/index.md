@@ -6,7 +6,7 @@ authors:
 - Cristina Romera-Castillo
 - Markus Lindh
 - Jarone Pinhassi
-- M Montserrat Sala
+- Maria M Sala
 - Josep M Gasol
 - Cèlia Marrase
 - Gordon T Taylor

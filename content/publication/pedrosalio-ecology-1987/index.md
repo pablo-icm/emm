@@ -1,6 +1,5 @@
 ---
-title: 'On the ecology of a textitCryptomonas phaseolus population forming a metalimnetic
-  bloom in Lake Cisó, Spain: Annual distribution and loss factors1'
+title: 'On the ecology of a *Cryptomonas phaseolus* population forming a metalimnetic bloom in Lake Cisó, Spain: Annual distribution and loss factors'
 authors:
 - Carlos Pedrós‐Alió
 - Josep M Gasol

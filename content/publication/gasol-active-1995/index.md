@@ -2,7 +2,7 @@
 title: Active versus inactive bacteria:size-dependence in a coastal marine plankton
   community
 authors:
-- Josep M. Gasol
+- Josep M Gasol
 - Paul Del Giorgio
 - Ramon Massana
 - Carlos M. Duarte

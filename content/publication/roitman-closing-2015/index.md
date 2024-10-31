@@ -1,7 +1,5 @@
 ---
-title: Closing the gaps on the viral photosystem‐ textlessspan style=\"font-variant:small-caps;\"textgreaterItextless/spantextgreater
-  textit psa textlessspan style=\"font-variant:small-caps;\"textgreaterDCABtextless/spantextgreater  gene
-  organization
+title: 'Closing the gaps on the viral photosystem-I *psaDCAB* gene organization'
 authors:
 - Sheila Roitman
 - José Flores‐Uribe

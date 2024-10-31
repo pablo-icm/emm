@@ -8,7 +8,7 @@ authors:
 - Xosé A Álvarez-Salgado
 - Isabel Reche
 - Xosé Anxelu G Morán
-- Maria Montserrat Sala
+- Maria M Sala
 - Carlos M Duarte
 - Silvia G Acinas
 - Josep M Gasol

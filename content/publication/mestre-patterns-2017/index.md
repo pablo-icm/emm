@@ -4,7 +4,7 @@ title: Patterns of bacterial diversity in the marine planktonic particulate matt
 authors:
 - Mireia Mestre
 - Encarna Borrull
-- M Montserrat Sala
+- Maria M Sala
 - Josep M Gasol
 date: '2017-04-01'
 publishDate: '2024-08-05T15:04:46.484623Z'

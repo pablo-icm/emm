@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Clara Ruíz-González
+title: Clara Ruiz-González
 
 # Full Name (for SEO)
 first_name: Clara

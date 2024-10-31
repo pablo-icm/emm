@@ -2,10 +2,10 @@
 title: Seasonal and interannual variability of phytoplankton community structure in
   a Mediterranean coastal site
 authors:
-- S Nunes
-- M Latasa
-- Jm Gasol
-- M Estrada
+- Sdena Nunes
+- Mikel Latasa
+- Josep M Gasol
+- Marta Estrada
 date: '2018-03-01'
 publishDate: '2024-08-05T15:04:46.357606Z'
 publication_types:

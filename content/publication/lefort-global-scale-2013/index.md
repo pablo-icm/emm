@@ -3,8 +3,8 @@ title: 'Global-scale distributions of marine surface bacterioplankton groups alo
   gradients of salinity, temperature, and chlorophyll: a meta-analysis of fluorescence
   in situ hybridization studies'
 authors:
-- T Lefort
-- Jm Gasol
+- Thomas Lefort
+- Josep M Gasol
 date: '2013-08-01'
 publishDate: '2024-08-05T15:04:47.303871Z'
 publication_types:

@@ -5,7 +5,7 @@ authors:
 - Òscar Guadayol
 - Francesc Peters
 - Celia Marrasé
-- Josep M. Gasol
+- Josep M Gasol
 - Cristina Roldán
 - Elisa Berdalet
 - Ramon Massana

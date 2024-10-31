@@ -2,8 +2,8 @@
 title: Cytometric evidence reconciling the toxicity and usefulness of CTC as a marker
   of bacterial activity
 authors:
-- Jm Gasol
-- J Arístegui
+- Josep M Gasol
+- Javier Arístegui
 date: '2007-01-01'
 publishDate: '2024-08-05T15:04:48.214662Z'
 publication_types:

@@ -6,7 +6,7 @@ authors:
 - Eva Ortega-Retuerta
 - Sdena Nunes
 - Marta Estrada
-- María Montserrat Sala
+- Maria Montserrat Sala
 - Sarah-Jeanne Royer
 - Daffne C López-Sandoval
 - Mikhail Emelianov

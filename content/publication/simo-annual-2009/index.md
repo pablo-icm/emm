@@ -2,13 +2,13 @@
 title: Annual DMSP contribution to S and C fluxes through phytoplankton and bacterioplankton
   in a NW Mediterranean coastal site
 authors:
-- R Simó
-- M Vila-Costa
-- L Alonso-Sáez
-- C Cardelús
-- Ò Guadayol
-- E Vázquez-Domínguez
-- Jm Gasol
+- Rafel Simó
+- Maria Vila-Costa
+- Laura Alonso-Sáez
+- Clara Cardelús
+- Òscar Guadayol
+- Evaristo Vázquez-Domínguez
+- Josep M Gasol
 date: '2009-09-01'
 publishDate: '2024-08-05T15:04:47.886991Z'
 publication_types:

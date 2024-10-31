@@ -2,7 +2,7 @@
 title: 'Extracellular Enzymes in Aquatic Environments: Exploring the Link Between
   Genomic Potential and Biogeochemical Consequences'
 authors:
-- Maria Montserrat Sala
+- Maria M Sala
 - Judith Piontek
 - Sonja Endres
 - Anna Maria Romani

@@ -1,12 +1,12 @@
 ---
 title: Potential impacts of black carbon on the marine microbial community
 authors:
-- A Malits
-- R Cattaneo
-- E Sintes
-- Jm Gasol
-- Gj Herndl
-- Mg Weinbauer
+- Andrea Malits
+- Raffaela Cattaneo
+- Eva Sintes
+- Josep M Gasol
+- Gerhard J. Herndl
+- Markus G. Weinbauer
 date: '2015-04-01'
 publishDate: '2024-08-05T15:04:46.968370Z'
 publication_types:

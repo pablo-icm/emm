@@ -1,12 +1,12 @@
 ---
 title: Restructuring of the sponge microbiome favors tolerance to ocean acidification
 authors:
-- M Ribes
-- E Calvo
-- J Movilla
-- R Logares
-- R Coma
-- C Pelejero
+- Marta Ribes
+- Eva Calvo
+- Juan I. Movilla
+- Ramiro Logares
+- R. Coma
+- Carles Pelejero
 date: '2016-08-01'
 publishDate: '2024-08-05T15:04:46.803142Z'
 publication_types:

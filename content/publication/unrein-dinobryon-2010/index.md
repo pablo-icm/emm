@@ -3,7 +3,7 @@ title: '*Dinobryon faculiferum* (Chrysophyta) in coastal Mediterranean seawater:
   and grazing impact on bacteria'
 authors:
 - Fernando Unrein
-- Josep M. Gasol
+- Josep M Gasol
 - Ramon Massana
 date: '2010-04-01'
 publishDate: '2024-08-05T15:04:47.750635Z'

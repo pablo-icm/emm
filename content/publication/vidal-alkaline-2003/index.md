@@ -2,11 +2,11 @@
 title: Alkaline phosphatase activities in the central Atlantic Ocean indicate large
   areas with phosphorus deficiency
 authors:
-- M Vidal
-- Cm Duarte
-- S Agustí
-- Jm Gasol
-- D Vaqué
+- Montserrat Vidal
+- Carlos M Duarte
+- Susana Agustí
+- Josep M Gasol
+- Dolors Vaqué
 date: '2003-01-01'
 publishDate: '2024-08-05T15:04:48.582037Z'
 publication_types:

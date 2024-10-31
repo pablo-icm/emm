@@ -2,7 +2,8 @@
 title: Bacterial growth on macrophyte leachate in the presence and absence of bacterivorous
   protists
 authors:
-- Maria Jürgens Montserrat Sala
+- Maria M Sala
+- Klaus Jürgens
 date: '2004-11-01'
 publishDate: '2024-08-05T15:04:48.506858Z'
 publication_types:

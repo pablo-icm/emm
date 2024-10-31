@@ -1,10 +1,10 @@
 ---
 title: Exploring the oceanic microeukaryotic interactome with metaomics approaches
 authors:
-- Ak Krabberød
-- Mfm Bjorbækmo
-- K Shalchian-Tabrizi
-- R Logares
+- Anders K. Krabberød
+- Marit F. M. Bjorbækmo
+- Kamran Shalchian-Tabrizi
+- Ramiro Logares
 date: '2017-03-01'
 publishDate: '2024-08-05T15:04:46.456968Z'
 publication_types:

@@ -3,9 +3,9 @@ title: Dynamics of whole community bacterial production and grazing losses in se
   incubations as related to the changes in the proportions of bacteria with different
   DNA content
 authors:
-- D Vaqué
-- Eo Casamayor
-- Jm Gasol
+- Dolors Vaqué
+- Emilio O. Casamayor
+- Josep M. Gasol
 date: '2001-01-01'
 publishDate: '2024-08-05T15:04:48.777269Z'
 publication_types:

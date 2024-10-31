@@ -2,10 +2,10 @@
 title: 'Measuring the grazing losses of picoplankton: methodological improvements
   in the use of fluorescently labeled tracers combined with flow cytometry'
 authors:
-- E Vazquez-Dominguez
-- F Peters
-- Jm Gasol
-- D Vaqué
+- Evaristo Vazquez-Dominguez
+- Francesc Peters
+- Josep M Gasol
+- Dolors Vaqué
 date: '1999-01-01'
 publishDate: '2024-08-05T15:04:48.895001Z'
 publication_types:

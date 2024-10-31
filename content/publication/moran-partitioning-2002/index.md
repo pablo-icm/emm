@@ -3,10 +3,10 @@ title: Partitioning of phytoplanktonic organic carbon production and bacterial p
   along a coastal-offshore gradient in the NE Atlantic during different hydrographic
   regimes
 authors:
-- Xag Morán
-- Jm Gasol
-- C Pedrós-Alió
-- M Estrada
+- Xosé Anxelu G. Morán
+- Josep M Gasol
+- Carlos Pedrós-Alió
+- Marta Estrada
 date: '2002-01-01'
 publishDate: '2024-08-05T15:04:48.674445Z'
 publication_types:

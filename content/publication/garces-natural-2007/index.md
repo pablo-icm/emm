@@ -2,14 +2,14 @@
 title: Natural bacterioplankton assemblage composition during blooms of Alexandrium
   spp. (Dinophyceae) in NW Mediterranean coastal waters
 authors:
-- E Garcés
-- M Vila
-- A Reñé
-- L Alonso-Sáez
-- S Anglès
-- A Lugliè
-- M Masó
-- Jm Gasol
+- Esther Garcés
+- Magda Vila
+- Albert Reñé
+- Laura Alonso-Sáez
+- Silvia Anglès
+- Antonella Lugliè
+- Mercedes Masó
+- Josep M Gasol
 date: '2007-01-01'
 publishDate: '2024-08-05T15:04:48.250298Z'
 publication_types:

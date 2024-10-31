@@ -2,11 +2,11 @@
 title: 'Effect of nutrient supply on the biomass structure of planktonic communities:
   an experimental test on a Mediterranean coastal community'
 authors:
-- Cm Duarte
-- S Agustí
-- Jm Gasol
-- D Vaqué
-- E Vazquez-Dominguez
+- Carlos M. Duarte
+- Susana Agustí
+- Josep M Gasol
+- Dolors Vaqué
+- Evaristo Vazquez-Dominguez
 date: '2000-01-01'
 publishDate: '2024-08-05T15:04:48.844327Z'
 publication_types:

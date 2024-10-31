@@ -1,7 +1,7 @@
 ---
 title: COVID-19 lockdown moderately increased oligotrophy at a marine coastal site
 authors:
-- Maria Montserrat Sala
+- Maria M Sala
 - Francesc Peters
 - Marta Sebastián
 - Clara Cardelús

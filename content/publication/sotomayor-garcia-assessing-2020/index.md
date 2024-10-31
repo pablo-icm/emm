@@ -3,7 +3,7 @@ title: Assessing Viral Abundance and Community Composition in Four Contrasting R
   of the Southern Ocean
 authors:
 - Ana Sotomayor-Garcia
-- Maria Montserrat Sala
+- Maria M Sala
 - Isabel Ferrera
 - Marta Estrada
 - Evaristo Vázquez-Domínguez

@@ -1,8 +1,5 @@
 ---
-title: Abundant and rare picoeukaryotic sub‐communities present contrasting patterns
-  in the epipelagic waters of marginal seas in the northwestern textlessspan style=\"font-variant:small-caps;\"textgreaterPtextless/spantextgreater
-  acific textlessspan style=\"font-variant:small-caps;\"textgreaterOtextless/spantextgreater
-  cean
+title: 'Abundant and rare picoeukaryotic sub-communities present contrasting patterns in the epipelagic waters of marginal seas in the northwestern Pacific Ocean'
 authors:
 - Wenxue Wu
 - Ramiro Logares
