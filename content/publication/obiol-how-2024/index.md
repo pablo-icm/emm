@@ -34,4 +34,6 @@ links:
   url: 
     https://academic.oup.com/femsec/advance-article/doi/10.1093/femsec/fiae130/7815208
 pages: 'fiae130'
+volume: '100'
+number: '-'
 ---
