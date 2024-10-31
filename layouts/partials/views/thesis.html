@@ -25,7 +25,7 @@
   <div class="article-metadata thesis-author li-cite-author">
     <strong>Supervisor:</strong> {{ range $index, $supervisor := . }}
       {{ if $index }}, {{ end }}
-      <a href="{{ (printf "/emm/%s" (urlize $supervisor)) | relURL }}">{{ $supervisor }}</a>
+      <a href="{{ (printf "/" (urlize $supervisor)) | relURL }}">{{ $supervisor }}</a>
     {{ end }}
   </div>
   {{ end }}
