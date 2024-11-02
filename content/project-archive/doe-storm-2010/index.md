@@ -2,7 +2,7 @@
 title: 'STORM - Structure of Organic Matter in the coastal ocean: biogeochemical and
   ecological implications'
 authors:
-- Dr Jane Doe
+- Maria M sala
 date: '2010-01-01'
 publishDate: '2024-08-14T09:35:58.300550Z'
 publication_types:
