@@ -2,7 +2,7 @@
 title: 'Biosensómica: Utilización de técnicas de matagenómica y metatranscriptómica
   microbiana como biosensores en el océano'
 authors:
-- Dr Jane Doe
+- Silvia G Acinas
 date: '2015-01-01'
 publishDate: '2024-08-14T09:35:58.259443Z'
 publication_types:
