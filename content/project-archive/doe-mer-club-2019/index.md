@@ -1,8 +1,7 @@
 ---
-title: MER-CLUB - Enterprise Europe Network Madrimasd MERCURY CLEAN-UP SYSTEM BASED
-  ON BIOREMEDIATION BY MARINE BACTERIA
+title: Clean-up system based on bioremediation by marine bacteria
 authors:
-- Dr Jane Doe
+- Silvia G Acinas
 date: '2019-01-01'
 publishDate: '2024-08-14T09:35:58.147870Z'
 publication_types:
