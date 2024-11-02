@@ -1,7 +1,7 @@
 ---
 title: FROM - Functional Redundancy of the Global Ocean Microbiome
 authors:
-- Dr Jane Doe
+- Ramiro Logares
 date: '2022-01-01'
 publishDate: '2024-08-14T09:35:58.112446Z'
 publication_types:
