@@ -1,7 +1,7 @@
 ---
 title: MINIME - Evolución y genómica poblacional de microorganismos en un oceano cambiante
 authors:
-- Dr Jane Doe
+- Ramiro Logares
 date: '2020-01-01'
 publishDate: '2024-08-14T09:35:58.135997Z'
 publication_types:
