@@ -2,7 +2,8 @@
 title: WILDE - Exploring the evolution of wild microbes using a molecular genomic
   approach
 authors:
-- Dr Jane Doe
+- Georgina L. Brennan
+- Ramiro Logares
 date: '2020-01-01'
 publishDate: '2024-08-14T09:35:58.153743Z'
 publication_types:
