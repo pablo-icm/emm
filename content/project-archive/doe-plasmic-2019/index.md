@@ -2,7 +2,7 @@
 title: PLASMIC - Effects of conventional and biodegradable microPLAStics on marine
   MICrobial communities
 authors:
-- Dr Jane Doe
+- Maria M Sala
 date: '2019-01-01'
 publishDate: '2024-08-14T09:35:58.200806Z'
 publication_types:
