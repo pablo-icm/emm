@@ -3,7 +3,7 @@ title: 'MICROFLUX - Protozoos y virus: control de la biomasa y la diversidad de 
   y su repercusión en los ciclos biogeoquímicos en una zona costera del Mediterráneo
   Nor-Occidental.'
 authors:
-- Dr Jane Doe
+- Dolors Vaqué
 date: '2004-01-01'
 publishDate: '2024-08-14T09:35:58.430665Z'
 publication_types:
