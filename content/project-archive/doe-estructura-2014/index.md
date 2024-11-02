@@ -1,7 +1,7 @@
 ---
 title: Estructura i funció de Xarxes Tròfiques Microbianes Planctòniques
 authors:
-- Dr Jane Doe
+- Josep M Gasol
 date: '2014-01-01'
 publishDate: '2024-08-14T09:35:58.253563Z'
 publication_types:
