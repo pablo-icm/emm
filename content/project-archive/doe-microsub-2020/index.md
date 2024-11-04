@@ -1,6 +1,5 @@
 ---
-title: MICROSUB - Diversidad microbiana y biogeoquímica oculta en las aguas subterráneas
-  costeras de los parques nacionales maritimos
+title: MICROSUB - Microbial diversity and hidden biogeochemistry in the coastal subterranean waters of the Maritime National Parks
 authors:
 - Josep M Gasol
 date: '2020-01-01'
