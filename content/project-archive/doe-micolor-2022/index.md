@@ -1,5 +1,5 @@
 ---
-title: Micolor - Microbial colonization of ocean particles: from mechanistic understanding to global patterns
+title: Micolor - Microbial colonization of ocean particles, from mechanistic understanding to global patterns
 authors:
 - Josep M Gasol
 date: '2022-01-01'
