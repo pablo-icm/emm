@@ -1,7 +1,7 @@
 ---
 title: DeepCas - Explotación de secuencias crispr-cas9 únicas del oceano profundo.
 authors:
-- Silvia Acinas
+- Silvia G Acinas
 date: '2021-01-01'
 publishDate: '2024-08-14T09:35:58.124235Z'
 publication_types:

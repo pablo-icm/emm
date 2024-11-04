@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Georgina Brennan
+title: Georgina L. Brennan
 
 # Full Name (for SEO)
-first_name: Georgina
+first_name: Georgina L
 last_name: Brennan
 weight: 30
 
 # Username (this should match the folder name)
 authors:
-- georgina-brennan
+- georgina-l-brennan
 
 # Is this the primary user of the site?
 superuser: false
