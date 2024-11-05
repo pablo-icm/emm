@@ -10,7 +10,6 @@ authors:
 - "Susana Agustí"
 - "Paul F. Wassmann"
 - "Dolors Vaqué"
-- "Josep M Gasol"
 date: "2013-08-01"
 publishDate: "2024-08-05T15:04:47.276932Z"
 publication_types:
