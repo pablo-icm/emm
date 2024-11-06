@@ -3,7 +3,7 @@ title: "Culturability, taxonomic novelty and functional genomics of marine bacte
 authors:
 - Xavier Rey Velasco
 date: '2025-01-01'
-publishDate: '2024-01-01'
+publishDate: '2025-01-10'
 publication_types:
 - thesis
 type: 'phdthesis'
