@@ -135,18 +135,20 @@
       </div>
       {{ end }}
       {{/* CUSTOM block to add buttons to author's filtered production */}}
+      {{/* I'm adding a replace statement to deal with the period in the initials. I'm sure that escaping characters like this in URLs must be a capitl sin, but it works */}}
+
       <div class="btn-links mr-3 ml-3 mt-3">
-       <a href="/publication/?author={{ $author | urlize }}" class="btn btn-outline-primary btn-lg">
+       <a href="/publication/?author={{ replace ($author | urlize) "." "\\." }}" class="btn btn-outline-primary btn-lg">
         View all journal articles
        </a>
       </div>
       <div class="btn-links mr-3 ml-3 mt-3">
-       <a href="/thesis/?supervisor={{ $author | urlize }}" class="btn btn-outline-primary btn-lg">
+       <a href="/thesis/?supervisor={{ replace ($author | urlize) "." "\\." }}" class="btn btn-outline-primary btn-lg">
          View supervised thesis
        </a>
       </div>
       <div class="btn-links mr-3 ml-3 mt-3">
-       <a href="/project-archive/?author={{ $author | urlize }}" class="btn btn-outline-primary btn-lg">
+       <a href="/project-archive/?author={{ replace ($author | urlize) "." "\\." }}" class="btn btn-outline-primary btn-lg">
          View lead projects
        </a>
       </div>
