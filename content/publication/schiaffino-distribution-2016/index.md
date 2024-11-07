@@ -7,7 +7,7 @@ authors:
 - Marina Gerea
 - Fernando Unrein
 - Vanessa Balagué
-- Josep M Gasol
+- Josep M. Gasol
 - Irina Izaguirre
 date: '2016-01-01'
 publishDate: '2024-08-05T15:04:46.640009Z'

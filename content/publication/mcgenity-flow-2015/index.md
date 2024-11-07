@@ -2,7 +2,7 @@
 title: Flow Cytometric Determination of Microbial Abundances and Its Use to Obtain
   Indices of Community Structure and Relative Activity
 authors:
-- Josep M Gasol
+- Josep M. Gasol
 - Xosé Anxelu G Morán
 date: '2015-01-01'
 publishDate: '2024-08-05T15:04:46.690256Z'

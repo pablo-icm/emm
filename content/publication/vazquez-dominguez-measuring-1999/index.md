@@ -4,7 +4,7 @@ title: 'Measuring the grazing losses of picoplankton: methodological improvement
 authors:
 - Evaristo Vazquez-Dominguez
 - Francesc Peters
-- Josep M Gasol
+- Josep M. Gasol
 - Dolors Vaqué
 date: '1999-01-01'
 publishDate: '2024-08-05T15:04:48.895001Z'

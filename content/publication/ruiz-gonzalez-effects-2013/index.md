@@ -4,7 +4,7 @@ authors:
 - Clara Ruiz-González
 - Lorenzo Proia
 - Isabel Ferrera
-- Josep M Gasol
+- Josep M. Gasol
 - Sergi Sabater
 date: '2013-05-01'
 publishDate: '2024-08-05T15:04:47.263624Z'

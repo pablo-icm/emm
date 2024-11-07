@@ -8,7 +8,7 @@ authors:
 - Pablo Sánchez
 - Carlos M Duarte
 - Dolors Vaqué
-- Josep M Gasol
+- Josep M. Gasol
 - Silvia G Acinas
 date: '2023-05-01'
 publishDate: '2024-08-05T15:04:45.682667Z'

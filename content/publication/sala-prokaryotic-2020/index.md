@@ -9,7 +9,7 @@ authors:
 - Zuriñe Baña
 - Begoña Ayo
 - X Antón Álvarez-Salgado
-- Josep M Gasol
+- Josep M. Gasol
 - Carlos M Duarte
 date: '2020-06-01'
 publishDate: '2024-08-05T15:04:46.073846Z'

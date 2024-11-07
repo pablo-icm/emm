@@ -1,5 +1,5 @@
 ---
-title: "Seasonal dynamics of natural \textitOstreococcus viral infection at the single cell level using \textlessspan style="font-variant:small-caps;"\textgreaterVirusFISH\textless/span\textgreater"
+title: "Seasonal dynamics of natural *Ostreococcus* viral infection at the single cell level using VirusFISH"
 authors:
 - Yaiza M. Castillo
 - Irene Forn
@@ -9,7 +9,7 @@ authors:
 - Néstor Arandia‐Gorostidi
 - Dolors Vaqué
 - Marta Sebastián
-date: "2024-08-05"
+date: "2021-01-01"
 year: "2021"
 publication-types:
 - article-journal

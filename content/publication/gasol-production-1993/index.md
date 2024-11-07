@@ -2,7 +2,7 @@
 title: 'Production of bacteria in freshwater sediments: Comparison of different cell-specific
   measurements to mineralization rates'
 authors:
-- Josep M Gasol
+- Josep M. Gasol
 - Bettina Sander
 - Marc Schallenberg
 date: '1993-09-01'

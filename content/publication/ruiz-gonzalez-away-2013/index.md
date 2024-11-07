@@ -5,7 +5,7 @@ authors:
 - Rafel Simó
 - Ruben Sommaruga
 - Josep M. Gasol
-date: "2024-08-05"
+date: "2013-01-01"
 year: "2013"
 publication-types:
 - article-journal

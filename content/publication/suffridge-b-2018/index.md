@@ -8,7 +8,7 @@ authors:
 - L. Cutter
 - Javier Arístegui
 - Xosé Antón Álvarez‐Salgado
-- Josep M Gasol
+- Josep M. Gasol
 - S. A. Sañudo‐Wilhelmy
 date: '2018-09-01'
 publishDate: '2024-08-05T15:04:46.285262Z'

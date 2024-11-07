@@ -6,7 +6,7 @@ authors:
 - Martí Galí
 - Sarah-Jeanne Royer
 - Hugo Sarmento
-- Josep M Gasol
+- Josep M. Gasol
 - Cèlia Marrasé
 - Rafel Simó
 date: '2016-08-01'

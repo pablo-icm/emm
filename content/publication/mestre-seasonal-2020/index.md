@@ -5,7 +5,7 @@ authors:
 - Mireia Mestre
 - Juan Höfer
 - Maria M Sala
-- Josep M Gasol
+- Josep M. Gasol
 date: '2020-07-01'
 publishDate: '2024-08-05T15:04:46.105299Z'
 publication_types:

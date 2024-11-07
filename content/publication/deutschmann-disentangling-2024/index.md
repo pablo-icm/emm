@@ -11,7 +11,7 @@ authors:
 - Carlos M Duarte
 - Silvia G Acinas
 - Ramon Massana
-- Josep M Gasol
+- Josep M. Gasol
 - Damien Eveillard
 - Samuel Chaffron
 - Ramiro Logares

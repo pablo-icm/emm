@@ -11,7 +11,7 @@ authors:
 - Clara Ruiz-González
 - Eric Capo
 - Carlos M. Duarte
-- Josep M Gasol
+- Josep M. Gasol
 - Pablo Sánchez
 - Silvia G Acinas
 date: '2024-08-01'

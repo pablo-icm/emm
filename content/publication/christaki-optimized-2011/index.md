@@ -8,7 +8,7 @@ authors:
 - Philippe Lebaron
 - Josep M. Gasol
 - Mikhail V. Zubkov
-date: "2024-08-05"
+date: "2011-01-01"
 year: "2011"
 publication-types:
 - article-journal

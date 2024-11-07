@@ -9,7 +9,7 @@ authors:
 - Silvia Anglès
 - Antonella Lugliè
 - Mercedes Masó
-- Josep M Gasol
+- Josep M. Gasol
 date: '2007-01-01'
 publishDate: '2024-08-05T15:04:48.250298Z'
 publication_types:

@@ -4,7 +4,7 @@ title: Seasonal changes in the functional diversity of bacterioplankton in contr
 authors:
 - Maria M Sala
 - Marta Estrada
-- Josep M Gasol
+- Josep M. Gasol
 date: '2006-08-01'
 publishDate: '2024-08-05T15:04:48.394446Z'
 publication_types:

@@ -9,7 +9,7 @@ authors:
 - Montserrat Coll-Lladó
 - Clara Ruiz-González
 - Cèlia Marrasé
-- Josep M Gasol
+- Josep M. Gasol
 date: '2012-02-01'
 publishDate: '2024-08-05T15:04:47.489422Z'
 publication_types:

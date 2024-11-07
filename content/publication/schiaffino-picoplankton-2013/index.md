@@ -3,7 +3,7 @@ title: Picoplankton abundance and cytometric group diversity along a trophic and
   lake gradient
 authors:
 - M. Romina Schiaffino
-- Josep M Gasol
+- Josep M. Gasol
 - Irina Izaguirre
 - Fernando Unrein
 date: '2013-03-01'

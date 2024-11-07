@@ -4,7 +4,7 @@ title: Estimation of bacterial use of dissolved organic nitrogen compounds in aq
 authors:
 - Maria M Sala
 - Jarone Pinhassi
-- Josep M Gasol
+- Josep M. Gasol
 date: '2006-01-01'
 publishDate: '2024-08-05T15:04:48.369620Z'
 publication_types:

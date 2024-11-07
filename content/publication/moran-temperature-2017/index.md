@@ -3,7 +3,7 @@ title: Temperature regulation of marine heterotrophic prokaryotes increases lati
   as a breach between bottom‐up and top‐down controls
 authors:
 - Xosé Anxelu G Morán
-- Josep M Gasol
+- Josep M. Gasol
 - Massimo C Pernice
 - Jean‐François Mangot
 - Ramon Massana

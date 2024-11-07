@@ -12,7 +12,7 @@ authors:
 - María J Pujalte
 - Dolors Vaqué
 - Carlos M Duarte
-- Josep M Gasol
+- Josep M. Gasol
 - Carlos Pedrós-Alió
 - Olga Sánchez
 - Silvia G Acinas

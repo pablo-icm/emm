@@ -4,7 +4,7 @@ title: Structuring of bacterioplankton communities by specific dissolved organic
 authors:
 - Laura Gómez‐Consarnau
 - Markus V Lindh
-- Josep M Gasol
+- Josep M. Gasol
 - Jarone Pinhassi
 date: '2012-09-01'
 publishDate: '2024-08-05T15:04:47.502397Z'

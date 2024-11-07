@@ -1,12 +1,12 @@
 ---
-title: "Changes in bacterial metabolism as a response to dissolved organic matter modification during protozoan grazing in coastal \textlessspan style="font-variant:small-caps;"\textgreaterC\textless/span\textgreater antabrian and \textlessspan style="font-variant:small-caps;"\textgreaterM\textless/span\textgreater editerranean waters"
+title: "Changes in bacterial metabolism as a response to dissolved organic matter modification during protozoan grazing in coastal Cantabrian and Mediterranean waters"
 authors:
 - Zuriñe Baña
 - Begoña Ayo
 - Cèlia Marrasé
 - Josep M. Gasol
 - Juan Iriberri
-date: "2024-08-05"
+date: "2014-01-01"
 year: "2014"
 publication-types:
 - article-journal

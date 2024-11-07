@@ -7,7 +7,7 @@ authors:
 - Erwan Delage
 - Cèlia Marrasé
 - Vanessa Balagué
-- Josep M Gasol
+- Josep M. Gasol
 - Ramon Massana
 - Damien Eveillard
 - Samuel Chaffron

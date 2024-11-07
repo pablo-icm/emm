@@ -4,7 +4,7 @@ title: Temperature effects on the heterotrophic bacteria, heterotrophic nanoflag
 authors:
 - Evaristo Vázquez-Domínguez
 - Dolors Vaqué
-- Josep M Gasol
+- Josep M. Gasol
 date: '2012-10-01'
 publishDate: '2024-08-05T15:04:47.528626Z'
 publication_types:

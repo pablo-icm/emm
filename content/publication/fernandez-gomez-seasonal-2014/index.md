@@ -4,7 +4,7 @@ authors:
 - Beatriz Fernández-Gómez
 - M. Montserrat Sala
 - Carlos Pedrós-Alió
-date: "2024-08-05"
+date: "2014-01-01"
 year: "2014"
 publication-types:
 - article-journal

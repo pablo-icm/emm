@@ -4,7 +4,7 @@ title: Seasonal and spatial variations in the nutrient limitation of bacteriopla
 authors:
 - Maria M Sala
 - Francesc Peters
-- Josep M Gasol
+- Josep M. Gasol
 - Carlos Pedrós-Alió
 - Cèlia Marrasé
 - Dolors Vaqué

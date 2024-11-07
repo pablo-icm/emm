@@ -3,11 +3,11 @@ title: "High dissolved extracellular enzymatic activity in the deep central Atla
 authors:
 - F Baltar
 - J Arístegui
-- Jm Gasol
+- Josep M. Gasol
 - E Sintes
 - Hm Van Aken
 - Gj Herndl
-date: "2024-08-05"
+date: "2010-01-01"
 year: "2010"
 publication-types:
 - article-journal

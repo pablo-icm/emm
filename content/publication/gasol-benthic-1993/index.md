@@ -1,8 +1,8 @@
 ---
 title: "Benthic flagellates and ciliates in fine freshwater sediments: Calibration of a live counting procedure and estimation of their abundances"
 authors:
-- JosepM. Gasol
-date: "2024-08-05"
+- Josep M. Gasol
+date: "1993-01-01"
 year: "1993"
 publication-types:
 - article-journal

@@ -6,7 +6,7 @@ authors:
 - Josep M. Gasol
 - Ricardo Guerrero
 - Carlos Pedrós-Alió
-date: "2024-08-05"
+date: "2005-01-01"
 year: "2005"
 publication-types:
 - article-journal

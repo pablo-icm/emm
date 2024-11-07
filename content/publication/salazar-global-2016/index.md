@@ -7,7 +7,7 @@ authors:
 - Eugenio Fraile-Nuez
 - X Antón Álvarez-Salgado
 - Carlos M Duarte
-- Josep M Gasol
+- Josep M. Gasol
 - Silvia G Acinas
 date: '2016-03-01'
 publishDate: '2024-08-05T15:04:46.704878Z'

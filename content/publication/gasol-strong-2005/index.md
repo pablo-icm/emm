@@ -2,7 +2,7 @@
 title: Strong small-scale temporal bacterial changes associated with the migrations
   of bloom-forming dinoflagellates
 authors:
-- Josep M Gasol
+- Josep M. Gasol
 - Esther Garcés
 - Magda Vila
 date: '2005-06-01'

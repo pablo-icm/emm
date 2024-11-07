@@ -5,7 +5,7 @@ title: 'Bacterial community structure in a latitudinal gradient of lakes: the ro
 authors:
 - M Romina Schiaffino
 - Fernando Unrein
-- Josep M Gasol
+- Josep M. Gasol
 - Ramon Massana
 - Vanessa Balagué
 - Irina Izaguirre

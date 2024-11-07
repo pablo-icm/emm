@@ -21,7 +21,7 @@ authors:
 - Jarone Pinhassi
 - Albert Calbet
 - Eva Calvo
-- Josep M Gasol
+- Josep M. Gasol
 - Carles Pelejero
 - Cèlia Marrasé
 date: '2016-03-01'

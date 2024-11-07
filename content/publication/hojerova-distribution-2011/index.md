@@ -6,7 +6,7 @@ authors:
 - Michal Mašín
 - Christophe Brunet
 - Isabel Ferrera
-- Josep M Gasol
+- Josep M. Gasol
 - Michal Koblížek
 date: '2011-10-01'
 publishDate: '2024-08-05T15:04:47.610891Z'

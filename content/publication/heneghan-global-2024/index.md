@@ -3,7 +3,7 @@ title: The global distribution and climate resilience of marine heterotrophic pr
 authors:
 - Ryan F. Heneghan
 - Jacinta Holloway-Brown
-- Josep M Gasol
+- Josep M. Gasol
 - Gerhard J. Herndl
 - Xosé Anxelu G. Morán
 - Eric D. Galbraith

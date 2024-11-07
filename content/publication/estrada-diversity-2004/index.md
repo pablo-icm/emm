@@ -4,7 +4,7 @@ title: Diversity of planktonic photoautotrophic microorganisms along a salinity 
 authors:
 - Marta Estrada
 - Peter Henriksen
-- Josep M Gasol
+- Josep M. Gasol
 - Emilio O Casamayor
 - Carlos Pedró-Alió
 date: '2004-08-01'

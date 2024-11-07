@@ -2,7 +2,7 @@
 title: 'Jacob Kalff: Limnology: Prentice Hall, Upper Saddle River, NJ, 2002. 608 pp,
   25.2 × 20 cm (ISBN: 0-13-033775-7) US$ 90'
 authors:
-- Josep M Gasol
+- Josep M. Gasol
 date: '2002-03-01'
 publishDate: '2024-08-05T15:04:48.668293Z'
 publication_types:

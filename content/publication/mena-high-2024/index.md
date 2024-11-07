@@ -13,7 +13,7 @@ authors:
 - Ramon Massana
 - Cristina Romera-Castillo
 - Rebeca Mallenco-Fornies
-- Josep M Gasol
+- Josep M. Gasol
 - Clara Ruiz-González
 date: '2024-01-01'
 publishDate: '2024-10-23T22:08:18.445120Z'

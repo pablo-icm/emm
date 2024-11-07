@@ -3,7 +3,7 @@ title: Heterotrophic bacterial responses to the winter–spring phytoplankton bl
   in open waters of the NW Mediterranean
 authors:
 - Ana Gomes
-- Josep M Gasol
+- Josep M. Gasol
 - Marta Estrada
 - Leticia Franco-Vidal
 - Laura Díaz-Pérez

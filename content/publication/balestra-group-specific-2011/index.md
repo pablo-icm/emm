@@ -3,9 +3,9 @@ title: "Group-specific effects on coastal bacterioplankton of polyunsaturated al
 authors:
 - C Balestra
 - L Alonso-Sáez
-- Jm Gasol
+- Josep M. Gasol
 - R Casotti
-date: "2024-08-05"
+date: "2011-01-01"
 year: "2011"
 publication-types:
 - article-journal

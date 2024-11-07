@@ -7,7 +7,7 @@ authors:
 - Eva Kolářová
 - Solange Duhamel
 - Kimberly J. Popendorf
-- Josep M Gasol
+- Josep M. Gasol
 - Benjamin A. S. Van Mooy
 date: '2024-04-01'
 publishDate: '2024-10-30T12:13:09.105196Z'

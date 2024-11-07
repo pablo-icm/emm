@@ -7,7 +7,7 @@ authors:
 - Marta Estrada
 - Miquel Alcaraz
 - José A. Fernández
-date: "2024-08-05"
+date: "1997-01-01"
 year: "1997"
 publication-types:
 - article-journal

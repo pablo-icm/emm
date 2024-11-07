@@ -11,7 +11,7 @@ authors:
 - Maria M Sala
 - Carlos M Duarte
 - Silvia G Acinas
-- Josep M Gasol
+- Josep M. Gasol
 date: '2024-01-01'
 publishDate: '2024-08-08T12:00:47.055898Z'
 publication_types:

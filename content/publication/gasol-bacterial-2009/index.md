@@ -2,7 +2,7 @@
 title: Bacterial activity and diffusive nutrient supply in the oligotrophic Central
   Atlantic Ocean
 authors:
-- Josep M Gasol
+- Josep M. Gasol
 - Evaristo Vázquez-Domínguez
 - Dolors Vaqué
 - Susana Agustí

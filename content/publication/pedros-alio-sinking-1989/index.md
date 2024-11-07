@@ -4,7 +4,7 @@ title: Sinking speeds of free-living phototrophic bacteria determined with cover
 authors:
 - Carlos Pedrós-Alió
 - Jordi Mas
-- Joseph M Gasol
+- Josep M. Gasol
 - Ricardo Guerrero
 date: '1989-01-01'
 publishDate: '2024-08-05T15:04:49.087935Z'

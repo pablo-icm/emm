@@ -8,7 +8,7 @@ authors:
 - A John Woodill
 - Benjamin Klempay
 - Bror Jonsson
-- Josep M Gasol
+- Josep M. Gasol
 - Ramiro Logares
 - Ramon Massana
 - Caterina R Giner

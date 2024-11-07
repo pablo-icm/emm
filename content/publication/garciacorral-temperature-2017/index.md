@@ -9,7 +9,7 @@ authors:
 - María Pérez‐Lorenzo
 - Nuria Navarro
 - Pablo Serret
-- Josep M Gasol
+- Josep M. Gasol
 - Xosé Anxelu G Morán
 - Marta Estrada
 - Eugenio Fraile‐Nuez

@@ -4,7 +4,7 @@ title: Dissolved and suspended organic carbon in the Atlantic sector of the Sout
 authors:
 - M. D. Doval
 - Xose A. Álvarez-Salgado
-- Josep M Gasol
+- Josep M. Gasol
 - L. M. Lorenzo
 - I. Mirón
 - F. G. Figueiras

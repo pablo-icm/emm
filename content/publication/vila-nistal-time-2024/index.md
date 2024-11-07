@@ -5,7 +5,7 @@ title: 'Time Series Data Provide Insights into the Evolution and Abundance of On
 authors:
 - Marina Vila-Nistal
 - Ramiro Logares
-- Josep M Gasol
+- Josep M. Gasol
 - Manuel Martinez-Garcia
 date: '2024-10-01'
 publishDate: '2024-10-30T12:13:09.054561Z'

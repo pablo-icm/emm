@@ -5,7 +5,7 @@ authors:
 - Martí Gali
 - Clara Ruiz-González
 - Thomas Lefort
-- Josep M Gasol
+- Josep M. Gasol
 - Clara Cardelús
 - Cristina Romera-Castillo
 - Rafel Simó

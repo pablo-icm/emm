@@ -12,7 +12,7 @@ authors:
 - Patricia De La Fuente
 - Josep M. Gasol
 - Cèlia Marrasé
-date: "2024-08-05"
+date: "2017-01-01"
 year: "2017"
 publication-types:
 - article-journal

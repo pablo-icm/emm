@@ -4,7 +4,7 @@ title: 'Effect of nutrient supply on the biomass structure of planktonic communi
 authors:
 - Carlos M. Duarte
 - Susana Agustí
-- Josep M Gasol
+- Josep M. Gasol
 - Dolors Vaqué
 - Evaristo Vazquez-Dominguez
 date: '2000-01-01'

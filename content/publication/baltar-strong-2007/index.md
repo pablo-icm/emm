@@ -3,10 +3,10 @@ title: "Strong coastocean and surfacedepth gradients in prokaryotic assemblage s
 authors:
 - F Baltar
 - J Arístegui
-- Jm Gasol
+- Josep M. Gasol
 - S Hernández-León
 - Gj Herndl
-date: "2024-08-05"
+date: "2007-01-01"
 year: "2007"
 publication-types:
 - article-journal

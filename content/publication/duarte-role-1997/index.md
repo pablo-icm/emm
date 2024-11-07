@@ -2,7 +2,7 @@
 title: Role of experimental approaches in marine microbial ecology
 authors:
 - Carlos M. Duarte
-- Josep M Gasol
+- Josep M. Gasol
 - Dolors Vaqué
 date: '1997-01-01'
 publishDate: '2024-08-05T15:04:48.950033Z'

@@ -6,7 +6,7 @@ authors:
 - Julia A Boras
 - Vanessa Balagué
 - Eva Calvo
-- Josep M Gasol
+- Josep M. Gasol
 - Cèlia Marrasé
 - Carles Pelejero
 - Jarone Pinhassi

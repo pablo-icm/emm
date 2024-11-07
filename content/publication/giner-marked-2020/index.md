@@ -6,7 +6,7 @@ authors:
 - Massimo C Pernice
 - Vanessa Balagué
 - Carlos M Duarte
-- Josep M Gasol
+- Josep M. Gasol
 - Ramiro Logares
 - Ramon Massana
 date: '2020-02-01'

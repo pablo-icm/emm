@@ -1,14 +1,14 @@
 ---
 title: "Diel variations in bacterial heterotrophic activity and growth in the northwestern Mediterranean Sea"
 authors:
-- Jm Gasol
+- Josep M. Gasol
 - Md Doval
 - J Pinhassi
 - Ji Calderón-Paz
 - N Guixa-Boixareu
 - D Vaqué
 - C Pedrós-Alió
-date: "2024-08-05"
+date: "1998-01-01"
 year: "1998"
 publication-types:
 - article-journal

@@ -6,9 +6,9 @@ authors:
 - Emilio Fernández
 - Manuel Varela
 - Manuel Zapata
-- Josep M Gasol
+- Josep M. Gasol
 - Dolors Vaqué
-date: "2024-08-05"
+date: "2002-01-01"
 year: "2002"
 publication-types:
 - article-journal

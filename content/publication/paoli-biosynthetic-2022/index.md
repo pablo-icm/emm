@@ -25,7 +25,7 @@ authors:
 - Peer Bork
 - Chris Bowler
 - Tom O Delmont
-- Josep M Gasol
+- Josep M. Gasol
 - Alvar D Gossert
 - André Kahles
 - Matthew B Sullivan

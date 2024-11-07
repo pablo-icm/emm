@@ -4,7 +4,7 @@ title: 'Bacterioplankton niche partitioning in the use of phytoplankton-derived 
 authors:
 - Hugo Sarmento
 - Cédric Morana
-- Josep M Gasol
+- Josep M. Gasol
 date: '2016-11-01'
 publishDate: '2024-08-05T15:04:46.580804Z'
 publication_types:

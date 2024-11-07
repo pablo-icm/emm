@@ -16,7 +16,7 @@ authors:
 - Chris Bowler
 - Patrick Wincker
 - Jonathan P Zehr
-- Josep M Gasol
+- Josep M. Gasol
 - Ramon Massana
 - Silvia G Acinas
 date: '2016-03-01'

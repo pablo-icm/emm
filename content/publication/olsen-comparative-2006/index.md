@@ -6,7 +6,7 @@ authors:
 - Susana Agustí
 - T. Andersen
 - Carlos M Duarte
-- Josep M Gasol
+- Josep M. Gasol
 - I. Gismervik
 - A.-S Heiskanen
 - E. Hoell

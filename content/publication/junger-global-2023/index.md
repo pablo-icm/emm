@@ -12,7 +12,7 @@ authors:
 - Carlos M Duarte
 - Silvia G Acinas
 - Ramon Massana
-- Josep M Gasol
+- Josep M. Gasol
 - Ramiro Logares
 date: '2023-11-01'
 publishDate: '2024-10-23T22:08:18.476234Z'

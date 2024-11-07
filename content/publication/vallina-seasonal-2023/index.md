@@ -5,7 +5,7 @@ authors:
 - Sergio M. Vallina
 - Charlie Gaborit
 - Celia Marrase
-- Josep M Gasol
+- Josep M. Gasol
 - Nixon Bahamon
 - Michael J. Follows
 - Guillaume Le Gland

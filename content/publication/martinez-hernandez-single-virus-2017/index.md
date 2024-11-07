@@ -8,7 +8,7 @@ authors:
 - Maria Jose De La Cruz Peña
 - Joaquín Martínez Martínez
 - Josefa Anton
-- Josep M Gasol
+- Josep M. Gasol
 - Riccardo Rosselli
 - Francisco Rodriguez-Valera
 - Matthew B Sullivan

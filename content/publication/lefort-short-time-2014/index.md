@@ -3,7 +3,7 @@ title: Short-time scale coupling of picoplankton community structure and single-
   heterotrophic activity in winter in coastal NW Mediterranean Sea waters
 authors:
 - Thomas Lefort
-- Josep M Gasol
+- Josep M. Gasol
 date: '2014-01-01'
 publishDate: '2024-08-05T15:04:47.172740Z'
 publication_types:

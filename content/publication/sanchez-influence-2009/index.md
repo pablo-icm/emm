@@ -3,7 +3,7 @@ title: 'Influence of primer mismatch and microdiversity on DGGE results: a case 
   with SAR11'
 authors:
 - Olga Sánchez
-- Josep M Gasol
+- Josep M. Gasol
 - Vanessa Balagué
 - Ramon Massana
 - Jordi Mas

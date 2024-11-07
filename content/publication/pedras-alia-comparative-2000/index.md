@@ -4,7 +4,7 @@ title: Comparative analysis shows that bacterivory, not viral lysis, controls th
 authors:
 - Carlos PedrÃ³s-AliÃ³
 - Juan I CalderÃ³n-Paz
-- Josep M Gasol
+- Josep M. Gasol
 date: '2000-04-01'
 publishDate: '2024-08-05T15:04:48.838090Z'
 publication_types:

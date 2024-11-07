@@ -4,7 +4,7 @@ title: Spatial patterns of bacterial richness and evenness in the NW Mediterrane
 authors:
 - Thomas Pommier
 - P. R. Neal
-- Josep M Gasol
+- Josep M. Gasol
 - Montserrat Coll
 - Silvia G Acinas
 - Carlos Pedrós-Alió

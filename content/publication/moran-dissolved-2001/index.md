@@ -3,7 +3,7 @@ title: 'Dissolved and particulate primary production and bacterial production in
   Antarctic waters during austral summer: coupled or uncoupled?'
 authors:
 - Xosé Anxelu G. Morán
-- Josep M Gasol
+- Josep M. Gasol
 - Carlos Pedrós-Alió
 - Marta Estrada
 date: '2001-01-01'

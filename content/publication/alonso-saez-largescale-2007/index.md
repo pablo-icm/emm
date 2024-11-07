@@ -8,7 +8,7 @@ authors:
 - Dolors Vaqué
 - Carlos M. Duarte
 - Susana Agustí
-date: "2024-08-05"
+date: "2007-01-01"
 year: "2007"
 publication-types:
 - article-journal

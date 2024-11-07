@@ -6,7 +6,7 @@ authors:
 - Fernando Unrein
 - Mwapu Isumbisho
 - Stephane Stenuite
-- Josep M Gasol
+- Josep M. Gasol
 - Jean‐Pierre Descy
 date: '2008-04-01'
 publishDate: '2024-08-05T15:04:48.040545Z'

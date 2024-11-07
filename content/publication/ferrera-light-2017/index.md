@@ -6,7 +6,7 @@ authors:
 - Olga Sánchez
 - Eva Kolářová
 - Michal Koblížek
-- Josep M Gasol
+- Josep M. Gasol
 date: '2017-10-01'
 publishDate: '2024-08-05T15:04:46.477694Z'
 publication_types:

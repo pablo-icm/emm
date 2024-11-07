@@ -10,7 +10,7 @@ authors:
 - Ingrid Obernosterer
 - Christopher Quince
 - Maria Vila-Costa
-- Josep M Gasol
+- Josep M. Gasol
 - Daniel Lundin
 - Anders F. Andersson
 - Matthias Labrenz

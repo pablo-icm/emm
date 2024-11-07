@@ -2,7 +2,7 @@
 title: Patterns in the top-down versus bottom-up regulation of heterotrophic nanoflagellates
   in temperate lakes
 authors:
-- Josep M Gasol
+- Josep M. Gasol
 - Andrew M Simons
 - Jacob Kalff
 date: '1995-01-01'

@@ -5,7 +5,7 @@ authors:
 - Juan F. Saad
 - Irina Izaguirre
 - Claudia Queimaliños
-- Josep M Gasol
+- Josep M. Gasol
 - Fernando Unrein
 date: '2016-02-01'
 publishDate: '2024-08-05T15:04:46.783656Z'

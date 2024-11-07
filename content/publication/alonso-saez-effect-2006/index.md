@@ -6,7 +6,7 @@ authors:
 - Thomas Lefort
 - Julia Hofer
 - Ruben Sommaruga
-date: "2024-08-05"
+date: "2006-01-01"
 year: "2006"
 publication-types:
 - article-journal

@@ -6,7 +6,7 @@ authors:
 - Thomas Lefort
 - Ramon Massana
 - Rafel Simó
-- Josep M Gasol
+- Josep M. Gasol
 date: '2012-01-01'
 publishDate: '2024-08-05T15:04:47.420739Z'
 publication_types:

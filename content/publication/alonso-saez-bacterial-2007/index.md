@@ -8,8 +8,8 @@ authors:
 - Jm González
 - D Vaqué
 - S Agustí
-- Jm Gasol
-date: "2024-08-05"
+- Josep M. Gasol
+date: "2007-01-01"
 year: "2007"
 publication-types:
 - article-journal

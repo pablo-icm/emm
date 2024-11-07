@@ -1,7 +1,7 @@
 ---
 title: 'Comparative analyses in aquatic microbial ecology: how far do they go?'
 authors:
-- Josep M Gasol
+- Josep M. Gasol
 - Carlos M Duarte
 date: '2000-02-01'
 publishDate: '2024-08-05T15:04:48.831901Z'

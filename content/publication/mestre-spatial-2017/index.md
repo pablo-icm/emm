@@ -8,7 +8,7 @@ authors:
 - Eva Ortega‐Retuerta
 - Susan Mbedi
 - Hans‐Peter Grossart
-- Josep M Gasol
+- Josep M. Gasol
 - Maria M Sala
 date: '2017-12-01'
 publishDate: '2024-08-05T15:04:46.520909Z'

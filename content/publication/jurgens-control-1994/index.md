@@ -3,7 +3,7 @@ title: Control of heterotrophic bacteria and protozoans by *Daphnia pulex* in th
   of Lake Cisó
 authors:
 - Klaus Jürgens
-- Josep M Gasol
+- Josep M. Gasol
 - Ramon Massana
 - Carlos Pedrós-Alió
 date: '1994-07-01'

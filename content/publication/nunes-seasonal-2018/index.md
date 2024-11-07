@@ -4,7 +4,7 @@ title: Seasonal and interannual variability of phytoplankton community structure
 authors:
 - Sdena Nunes
 - Mikel Latasa
-- Josep M Gasol
+- Josep M. Gasol
 - Marta Estrada
 date: '2018-03-01'
 publishDate: '2024-08-05T15:04:46.357606Z'

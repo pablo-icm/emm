@@ -3,7 +3,7 @@ title: Heterogeneity in the nutrient limitation of different bacterioplankton gr
   in the Eastern Mediterranean Sea
 authors:
 - Marta Sebastián
-- Josep M Gasol
+- Josep M. Gasol
 date: '2013-08-01'
 publishDate: '2024-08-05T15:04:47.310022Z'
 publication_types:

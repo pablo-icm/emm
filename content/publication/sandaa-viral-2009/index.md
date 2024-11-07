@@ -8,7 +8,7 @@ authors:
 - Lasse Riemann
 - Andrea Malits
 - Markus G Weinbauer
-- Josep M Gasol
+- Josep M. Gasol
 - T Frede Thingstad
 date: '2009-10-01'
 publishDate: '2024-08-05T15:04:48.033209Z'

@@ -2,7 +2,7 @@
 title: Impact of *Daphnia pulex* on a metalimnetic microbial community
 authors:
 - Ramon Massana
-- Josep M Gasol
+- Josep M. Gasol
 - Klaus Jürgens
 - Carlos Pedrós-Alió
 date: '1994-01-01'

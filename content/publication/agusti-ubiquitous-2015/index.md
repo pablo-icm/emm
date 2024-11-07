@@ -1,15 +1,15 @@
 ---
 title: "Ubiquitous healthy diatoms in the deep sea confirm deep carbon injection by the biological pump"
 authors:
-- S. Agusti
+- Susana Agusti
 - J. I. González-Gordillo
-- D. Vaqué
-- M. Estrada
+- Dolors Vaqué
+- Marta Estrada
 - M. I. Cerezo
-- G. Salazar
-- J. M. Gasol
-- C. M. Duarte
-date: "2024-08-05"
+- Guillem Salazar
+- Josep M. Gasol
+- Carlos M. Duarte
+date: "2015-08-05"
 year: "2015"
 publication-types:
 - article-journal

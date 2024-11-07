@@ -7,7 +7,7 @@ authors:
 - Allan A Kamau
 - Silvia G Acinas
 - Ramiro Logares
-- Josep M Gasol
+- Josep M. Gasol
 - Ramon Massana
 - Dorte Krause-Jensen
 - Carlos M Duarte

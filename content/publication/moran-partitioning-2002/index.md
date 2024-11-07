@@ -4,7 +4,7 @@ title: Partitioning of phytoplanktonic organic carbon production and bacterial p
   regimes
 authors:
 - Xosé Anxelu G. Morán
-- Josep M Gasol
+- Josep M. Gasol
 - Carlos Pedrós-Alió
 - Marta Estrada
 date: '2002-01-01'

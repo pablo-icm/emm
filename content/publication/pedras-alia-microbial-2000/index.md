@@ -6,7 +6,7 @@ authors:
 - Marlie H MacLean
 - GlÃ²ria Medina
 - CÃ¨lia MarrasÃ©
-- Josep M Gasol
+- Josep M. Gasol
 - NÃºria Guixa-Boixereu
 date: '2000-04-01'
 publishDate: '2024-08-05T15:04:48.856890Z'

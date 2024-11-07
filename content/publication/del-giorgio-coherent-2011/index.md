@@ -8,7 +8,7 @@ authors:
 - Krista Longnecker
 - Corinne Bouvier
 - Evelyn Sherr
-- Josep M Gasol
+- Josep M. Gasol
 date: '2011-01-01'
 publishDate: '2024-08-05T15:04:47.588244Z'
 publication_types:

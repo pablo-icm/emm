@@ -2,7 +2,7 @@
 title: Biomass Distribution in Freshwater Plankton Communities
 authors:
 - Paul A Del Giorgio
-- Josep M Gasol
+- Josep M. Gasol
 date: '1995-07-01'
 publishDate: '2024-08-05T15:04:48.983058Z'
 publication_types:

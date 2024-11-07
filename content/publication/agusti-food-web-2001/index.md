@@ -5,9 +5,9 @@ authors:
 - Carlos M Duarte
 - Dolors Vaqué
 - Mette Hein
-- Josep M Gasol
+- Josep M. Gasol
 - Montserrat Vidal
-date: "2024-08-05"
+date: "2001-01-01"
 year: "2001"
 publication-types:
 - article-journal

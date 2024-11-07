@@ -2,7 +2,7 @@
 title: Mixotrophic haptophytes are key bacterial grazers in oligotrophic coastal waters
 authors:
 - Fernando Unrein
-- Josep M Gasol
+- Josep M. Gasol
 - Fabrice Not
 - Irene Forn
 - Ramon Massana

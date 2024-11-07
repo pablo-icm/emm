@@ -7,7 +7,7 @@ authors:
 - Clara Ruiz-González
 - Vanessa Balagué
 - Luis Vega-Corrales
-- Josep M Gasol
+- Josep M. Gasol
 date: '2023-12-01'
 publishDate: '2024-10-30T12:13:09.138802Z'
 publication_types:

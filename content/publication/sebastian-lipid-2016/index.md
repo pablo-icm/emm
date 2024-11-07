@@ -15,7 +15,7 @@ authors:
 - Paraskevi Pitta
 - Anthony D Postle
 - Pablo Sánchez
-- Josep M Gasol
+- Josep M. Gasol
 - David J Scanlan
 - Yin Chen
 date: '2016-04-01'

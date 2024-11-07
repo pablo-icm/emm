@@ -4,7 +4,7 @@ authors:
 - Isabel Ferrera
 - Carles M Borrego
 - Guillem Salazar
-- Josep M Gasol
+- Josep M. Gasol
 date: '2014-09-01'
 publishDate: '2024-08-05T15:04:47.121857Z'
 publication_types:

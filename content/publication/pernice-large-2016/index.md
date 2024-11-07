@@ -8,7 +8,7 @@ authors:
 - Júlia Perera-Bel
 - Silvia G Acinas
 - Carlos M Duarte
-- Josep M Gasol
+- Josep M. Gasol
 - Ramon Massana
 date: '2016-04-01'
 publishDate: '2024-08-05T15:04:46.734017Z'

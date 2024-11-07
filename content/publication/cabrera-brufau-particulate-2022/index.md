@@ -11,7 +11,7 @@ authors:
 - Gonzalo L. Pérez
 - Rafel Simó
 - Pedro Cermeño
-date: "2024-08-05"
+date: "2022-01-01"
 year: "2022"
 publication-types:
 - article-journal

@@ -5,7 +5,7 @@ authors:
 - M. P. Mura
 - Susana Agustí
 - Paul A. Del Giorgio
-- Josep M Gasol
+- Josep M. Gasol
 - Dolors Vaqué
 - Carlos M. Duarte
 date: '1996-01-01'

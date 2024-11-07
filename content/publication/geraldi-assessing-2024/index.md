@@ -4,7 +4,7 @@ authors:
 - Nathan R Geraldi
 - Silvia G Acinas
 - Intikhab Alam
-- Josep M Gasol
+- Josep M. Gasol
 - María Luz Fernández-de-Puelles
 - Caterina R Giner
 - Santiago Hernández León

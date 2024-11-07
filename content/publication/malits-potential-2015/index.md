@@ -4,7 +4,7 @@ authors:
 - Andrea Malits
 - Raffaela Cattaneo
 - Eva Sintes
-- Josep M Gasol
+- Josep M. Gasol
 - Gerhard J. Herndl
 - Markus G. Weinbauer
 date: '2015-04-01'

@@ -5,7 +5,7 @@ authors:
 - Carlos Pedrós-Alió
 - Dolors Vaqué
 - Núria Guixa-Boixereu
-- Josep M Gasol
+- Josep M. Gasol
 date: '2002-01-01'
 publishDate: '2024-08-05T15:04:48.696350Z'
 publication_types:

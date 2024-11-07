@@ -4,7 +4,7 @@ authors:
 - Laura Alonso-Sáez
 - Olga Sánchez
 - Josep M. Gasol
-date: "2024-08-05"
+date: "2012-01-01"
 year: "2012"
 publication-types:
 - article-journal

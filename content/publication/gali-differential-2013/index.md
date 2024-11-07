@@ -10,7 +10,7 @@ authors:
 - Hugo Sarmento
 - Sarah-Jeanne Royer
 - A. Fuentes-Lema
-- Josep M Gasol
+- Josep M. Gasol
 date: '2013-12-01'
 publishDate: '2024-08-05T15:04:47.243693Z'
 publication_types:

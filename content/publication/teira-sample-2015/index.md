@@ -13,7 +13,7 @@ authors:
 - Marta M Varela
 - Isabel Ferrera
 - Xosé Anxelu Gutiérrez Morán
-- Josep M Gasol
+- Josep M. Gasol
 date: '2015-12-01'
 publishDate: '2024-08-05T15:04:46.999699Z'
 publication_types:

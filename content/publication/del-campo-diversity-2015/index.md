@@ -1,5 +1,5 @@
 ---
-title: "Diversity and distribution of unicellular opisthokonts along the \textlessspan style="font-variant:small-caps;"\textgreaterE\textless/span\textgreater uropean coast analysed using high‐throughput sequencing"
+title: "Diversity and distribution of unicellular opisthokonts along the European coast analysed using high‐throughput sequencing"
 authors:
 - Javier Del Campo
 - Diego Mallo
@@ -7,7 +7,7 @@ authors:
 - Colomban De Vargas
 - Thomas A. Richards
 - Iñaki Ruiz‐Trillo
-date: "2024-08-05"
+date: "2015-01-01"
 year: "2015"
 publication-types:
 - article-journal

@@ -2,7 +2,7 @@
 title: Effects of filtration on bacterial activity and picoplankton community structure
   as assessed by flow cytometry
 authors:
-- Josep M Gasol
+- Josep M. Gasol
 - Xosé A. G. Morán
 date: '1999-01-01'
 publishDate: '2024-08-05T15:04:48.888824Z'

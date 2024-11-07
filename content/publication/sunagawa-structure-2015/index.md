@@ -17,7 +17,7 @@ authors:
 - Francesco d'Ovidio
 - Stefan Engelen
 - Isabel Ferrera
-- Josep M Gasol
+- Josep M. Gasol
 - Lionel Guidi
 - Falk Hildebrand
 - Florian Kokoszka

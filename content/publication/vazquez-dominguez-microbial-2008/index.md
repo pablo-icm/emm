@@ -7,7 +7,7 @@ authors:
 - Susana Agustí
 - Klaus Jürgens
 - Dolors Vaqué
-- Josep M Gasol
+- Josep M. Gasol
 date: '2008-10-01'
 publishDate: '2024-08-05T15:04:48.120017Z'
 publication_types:

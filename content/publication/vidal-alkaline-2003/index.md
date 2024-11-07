@@ -5,7 +5,7 @@ authors:
 - Montserrat Vidal
 - Carlos M Duarte
 - Susana Agustí
-- Josep M Gasol
+- Josep M. Gasol
 - Dolors Vaqué
 date: '2003-01-01'
 publishDate: '2024-08-05T15:04:48.582037Z'

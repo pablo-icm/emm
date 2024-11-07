@@ -3,7 +3,7 @@ title: Seasonal dynamics and net production of dissolved organic carbon in an ol
   coastal environment
 authors:
 - Gemma Vila-Reixach
-- Josep M Gasol
+- Josep M. Gasol
 - Clara Cardelús
 - Montserrat Vidal
 date: '2012-06-01'

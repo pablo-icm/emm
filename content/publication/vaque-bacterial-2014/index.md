@@ -9,7 +9,7 @@ authors:
 - Carlos M Duarte
 - Maria M Sala
 - Evaristo Vázquez-Domínguez
-- Josep M Gasol
+- Josep M. Gasol
 date: '2014-01-01'
 publishDate: '2024-08-05T15:04:47.061948Z'
 publication_types:

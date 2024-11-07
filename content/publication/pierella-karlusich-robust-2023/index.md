@@ -7,7 +7,7 @@ authors:
 - Fabien Lombard
 - Adriana Zingone
 - Sébastien Colin
-- Josep M Gasol
+- Josep M. Gasol
 - Richard G. Dorrell
 - Nicolas Henry
 - Eleonora Scalco

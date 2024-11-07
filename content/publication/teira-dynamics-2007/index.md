@@ -4,7 +4,7 @@ title: 'Dynamics of the hydrocarbon‐degrading *Cycloclasticus* bacteria during
 authors:
 - Eva Teira
 - Itziar Lekunberri
-- Josep M Gasol
+- Josep M. Gasol
 - Mar Nieto‐Cid
 - Xosé Antón Álvarez‐Salgado
 - Francisco G Figueiras

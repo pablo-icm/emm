@@ -8,7 +8,7 @@ authors:
 - Gemma Vila-Reixach
 - Andrés Gutiérrez-Rodríguez
 - Mikhail Emelianov
-- Josep M Gasol
+- Josep M. Gasol
 date: '2010-05-01'
 publishDate: '2024-08-05T15:04:47.832194Z'
 publication_types:

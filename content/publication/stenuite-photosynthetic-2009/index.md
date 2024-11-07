@@ -11,7 +11,7 @@ authors:
 - Sophie Thill
 - Mélanie Lecomte
 - Bruno Leporcq
-- Josep M Gasol
+- Josep M. Gasol
 - Jean-Pierre Descy
 date: '2009-12-01'
 publishDate: '2024-08-05T15:04:48.006555Z'

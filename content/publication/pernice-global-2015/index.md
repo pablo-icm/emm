@@ -17,7 +17,7 @@ authors:
 - Marta M Varela
 - Dolors Vaqué
 - Carlos M Duarte
-- Josep M Gasol
+- Josep M. Gasol
 - Ramon Massana
 date: '2015-03-01'
 publishDate: '2024-08-05T15:04:46.894488Z'

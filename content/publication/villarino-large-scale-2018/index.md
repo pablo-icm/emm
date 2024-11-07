@@ -4,7 +4,7 @@ authors:
 - Ernesto Villarino
 - James R Watson
 - Bror Jönsson
-- Josep M Gasol
+- Josep M. Gasol
 - Guillem Salazar
 - Silvia G Acinas
 - Marta Estrada

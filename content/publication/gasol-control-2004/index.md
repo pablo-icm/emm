@@ -2,7 +2,7 @@
 title: Control of heterotrophic prokaryotic abundance and growth rate in hypersaline
   planktonic environments
 authors:
-- Josep M Gasol
+- Josep M. Gasol
 - Emilio O. Casamayor
 - Ian Joint
 - Kristine Garde

@@ -3,7 +3,7 @@ title: A comparison between glass fiber and membrane filters for the estimation 
   phytoplankton POC and DOC production
 authors:
 - Xose Anxelu G. Morán
-- Josep M Gasol
+- Josep M. Gasol
 - Laura Arin
 - Marta Estrada
 date: '1999-01-01'

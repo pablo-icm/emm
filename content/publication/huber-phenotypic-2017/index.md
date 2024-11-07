@@ -11,7 +11,7 @@ authors:
 - José Bustingorry
 - Roberto Escaray
 - Silvia G Acinas
-- Josep M Gasol
+- Josep M. Gasol
 - Fernando Unrein
 date: '2017-03-01'
 publishDate: '2024-08-05T15:04:46.491903Z'

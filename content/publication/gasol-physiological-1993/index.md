@@ -6,7 +6,7 @@ authors:
 - Ramon Massana
 - Ricardo Guerrero
 - Carlos Pedrós-Alió
-date: "2024-08-05"
+date: "1993-01-01"
 year: "1993"
 publication-types:
 - article-journal

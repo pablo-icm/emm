@@ -5,7 +5,7 @@ authors:
 - Carlota R. Gazulla
 - Michal Koblížek
 - Jesús M. Mercado
-- Josep M Gasol
+- Josep M. Gasol
 - Olga Sánchez
 - Isabel Ferrera
 date: '2024-09-01'

@@ -9,7 +9,7 @@ authors:
 - Susana Agusti
 - Takashi Gojobori
 - Silvia G Acinas
-- Josep M Gasol
+- Josep M. Gasol
 - Carlos M. Duarte
 date: '2024-01-01'
 publishDate: '2024-10-30T12:13:09.066719Z'

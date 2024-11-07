@@ -9,7 +9,7 @@ authors:
 - Ramon Massana
 - Ramiro Logares
 - Carlos M Duarte
-- Josep M Gasol
+- Josep M. Gasol
 date: '2024-01-01'
 publishDate: '2024-10-23T22:08:18.437616Z'
 publication_types:

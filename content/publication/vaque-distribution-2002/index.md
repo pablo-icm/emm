@@ -5,7 +5,7 @@ title: Distribution of microbial biomass and importance of protists in regulatin
 authors:
 - Dolors Vaqué
 - Núria Guixa-Boixereu
-- Josep M Gasol
+- Josep M. Gasol
 - Carlos Pedrós-Alió
 date: '2002-01-01'
 publishDate: '2024-08-05T15:04:48.662053Z'

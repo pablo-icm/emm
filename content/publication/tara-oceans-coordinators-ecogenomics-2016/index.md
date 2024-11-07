@@ -21,7 +21,7 @@ authors:
 - Corinne Cruaud
 - Adriana Alberti
 - Carlos M Duarte
-- Josep M Gasol
+- Josep M. Gasol
 - Dolors Vaqué
 - Peer Bork
 - Silvia G Acinas

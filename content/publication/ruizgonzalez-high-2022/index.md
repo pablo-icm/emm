@@ -10,7 +10,7 @@ authors:
 - Marc Diego‐Feliu
 - Albert Folch
 - Jordi Garcia‐Orellana
-- Josep M Gasol
+- Josep M. Gasol
 date: '2022-11-01'
 publishDate: '2024-08-05T15:04:45.751984Z'
 publication_types:

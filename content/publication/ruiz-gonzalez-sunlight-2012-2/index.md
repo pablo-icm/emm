@@ -6,7 +6,7 @@ authors:
 - Rafel Simó
 - Maria Vila-Costa
 - Ruben Sommaruga
-- Josep M Gasol
+- Josep M. Gasol
 date: '2012-03-01'
 publishDate: '2024-08-05T15:04:47.522379Z'
 publication_types:

@@ -3,10 +3,10 @@ title: "Mesoscale eddies: hotspots of prokaryotic activity and differential comm
 authors:
 - Federico Baltar
 - Javier Arístegui
-- Josep M Gasol
+- Josep M. Gasol
 - Itziar Lekunberri
 - Gerhard J Herndl
-date: "2024-08-05"
+date: "2010-01-01"
 year: "2010"
 publication-types:
 - article-journal

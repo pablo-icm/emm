@@ -2,7 +2,7 @@
 title: 'Lack of coupling between heterotrophic nanoflagellates and bacteria: A general
   phenomenon across aquatic systems?'
 authors:
-- Josep M Gasol
+- Josep M. Gasol
 - Dolors Vaqué
 date: '1993-05-01'
 publishDate: '2024-08-05T15:04:49.022302Z'

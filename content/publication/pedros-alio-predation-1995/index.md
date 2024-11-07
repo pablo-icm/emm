@@ -6,7 +6,7 @@ authors:
 - Ramon Massana
 - Mikel Latasa
 - Josefina García-Cantizano
-- Josep M Gasol
+- Josep M. Gasol
 date: '1995-01-01'
 publishDate: '2024-08-05T15:04:48.995585Z'
 publication_types:

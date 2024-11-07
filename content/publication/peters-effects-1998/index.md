@@ -3,7 +3,7 @@ title: Effects of turbulence on bacterial growth mediated through food web inter
 authors:
 - Francesc Peters
 - Cèlia Marrasé
-- Josep M Gasol
+- Josep M. Gasol
 - Maria M Sala
 - Laura Arin
 date: '1998-01-01'

@@ -7,7 +7,7 @@ authors:
 - Isabel Sanz-Sáez
 - Clara Cardelús
 - Isabel Ferrera
-- Josep M Gasol
+- Josep M. Gasol
 - Olga Sánchez
 date: '2023-10-01'
 publishDate: '2024-10-30T12:13:09.162640Z'

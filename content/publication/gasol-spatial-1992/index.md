@@ -4,7 +4,7 @@ authors:
 - Josep M. Gasol
 - Ricardo Guerrero
 - Carlos Pedrós-Alió
-date: "2024-08-05"
+date: "1992-01-01"
 year: "1992"
 publication-types:
 - article-journal

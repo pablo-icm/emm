@@ -3,7 +3,7 @@ title: Linkages between bacterioplankton community composition, heterotrophic ca
   cycling and environmental conditions in a highly dynamic coastal ecosystem
 authors:
 - Eva Teira
-- Josep M Gasol
+- Josep M. Gasol
 - María Aranguren‐Gassis
 - Ana Fernández
 - Jose González

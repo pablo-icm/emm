@@ -5,9 +5,9 @@ authors:
 - Albert Barberán
 - Ramiro Logares
 - Esther Garcés
-- Josep M Gasol
+- Josep M. Gasol
 - Isabel Ferrera
-date: "2024-08-05"
+date: "2022-01-01"
 year: "2022"
 publication-types:
 - article-journal

@@ -6,7 +6,7 @@ authors:
 - Elisa F. Guallart
 - Arturo Lucas
 - Josep Pascual
-- Josep M Gasol
+- Josep M. Gasol
 - Cèlia Marrasé
 - Eva Calvo
 - Carles Pelejero

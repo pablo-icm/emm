@@ -7,7 +7,7 @@ authors:
 - Adrià Auladell
 - Markel Gómez‐Letona
 - Maria M Sala
-- Josep M Gasol
+- Josep M. Gasol
 - Cèlia Marrasé
 date: '2021-01-01'
 publishDate: '2024-08-05T15:04:45.872948Z'

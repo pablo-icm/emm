@@ -3,7 +3,7 @@ title: Viral distribution and activity in Antarctic waters
 authors:
 - Núria Guixa-Boixereu
 - Dolors Vaqué
-- Josep M Gasol
+- Josep M. Gasol
 - Jaime Sánchez-Cámara
 - Carlos Pedrós-Alió
 date: '2002-01-01'

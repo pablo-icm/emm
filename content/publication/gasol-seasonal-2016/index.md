@@ -2,7 +2,7 @@
 title: Seasonal patterns in phytoplankton photosynthetic parameters and primary production
   at a coastal NW Mediterranean site
 authors:
-- Josep M Gasol
+- Josep M. Gasol
 - Clara Cardelús
 - Xosé Anxelu G Morán
 - Vanessa Balagué

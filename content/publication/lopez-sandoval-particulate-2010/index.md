@@ -6,7 +6,7 @@ authors:
 - Emilio Maranon
 - Ana Fernández
 - José González
-- Josep M Gasol
+- Josep M. Gasol
 - Itziar Lekunberri
 - Manuel Varela
 - Alejandra Calvo-Diaz

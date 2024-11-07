@@ -4,7 +4,7 @@ authors:
 - David K Ngugi
 - Silvia G Acinas
 - Pablo Sánchez
-- Josep M Gasol
+- Josep M. Gasol
 - Susana Agusti
 - David M Karl
 - Carlos M Duarte

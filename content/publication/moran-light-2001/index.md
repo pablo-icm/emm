@@ -4,7 +4,7 @@ title: Light Conditions Affect the Measurement of Oceanic Bacterial Production v
 authors:
 - Xosé Anxelu G Morán
 - Ramon Massana
-- Josep M Gasol
+- Josep M. Gasol
 date: '2001-09-01'
 publishDate: '2024-08-05T15:04:48.789735Z'
 publication_types:

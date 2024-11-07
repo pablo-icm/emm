@@ -4,7 +4,7 @@ title: Determining the availability of phosphate and glucose for bacteria in P-l
 authors:
 - Tuneo Tanaka
 - T. Frede Thingstad
-- Josep M Gasol
+- Josep M. Gasol
 - Clara Cardelús
 - Jan Jezbera
 - Maria M Sala

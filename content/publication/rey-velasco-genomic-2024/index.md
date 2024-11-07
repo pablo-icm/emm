@@ -5,7 +5,7 @@ authors:
 - Xavier Rey-Velasco
 - Teresa Lucena
 - Ana Belda
-- Josep M Gasol
+- Josep M. Gasol
 - Olga Sánchez
 - David R. Arahal
 - María J. Pujalte

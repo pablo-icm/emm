@@ -6,7 +6,7 @@ authors:
 - Roberta Piredda
 - Cecilia Balestra
 - Mauro Bastianini
-- Josep M Gasol
+- Josep M. Gasol
 - Raffaella Casotti
 date: '2022-07-01'
 publishDate: '2024-10-30T12:13:09.186875Z'

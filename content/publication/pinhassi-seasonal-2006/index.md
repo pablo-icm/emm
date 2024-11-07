@@ -8,7 +8,7 @@ authors:
 - Maria M Sala
 - Montserrat Vidal
 - Carlos Pedrós-Alió
-- Josep M Gasol
+- Josep M. Gasol
 date: '2006-10-01'
 publishDate: '2024-08-05T15:04:48.388153Z'
 publication_types:

@@ -10,7 +10,7 @@ authors:
 - Dolors Vaqué
 - Jesús M Arrieta
 - Carlos M Duarte
-- Josep M Gasol
+- Josep M. Gasol
 - Silvia G Acinas
 date: '2015-11-01'
 publishDate: '2024-08-05T15:04:46.952819Z'

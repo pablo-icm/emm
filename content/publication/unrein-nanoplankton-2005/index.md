@@ -6,7 +6,7 @@ authors:
 - Irina Izaguirre
 - Ramon Massana
 - Vanessa Balagué
-- Josep M Gasol
+- Josep M. Gasol
 date: '2005-01-01'
 publishDate: '2024-08-05T15:04:48.468476Z'
 publication_types:

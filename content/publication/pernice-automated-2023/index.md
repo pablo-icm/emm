@@ -3,7 +3,7 @@ title: Automated flow cytometry as a tool to obtain a fine-grain picture of mari
   prokaryote community structure along an entire oceanographic cruise
 authors:
 - Massimo C Pernice
-- Josep M Gasol
+- Josep M. Gasol
 date: '2023-01-01'
 publishDate: '2024-10-30T12:13:09.145786Z'
 publication_types:

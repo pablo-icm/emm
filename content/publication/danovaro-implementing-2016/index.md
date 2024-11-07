@@ -13,7 +13,7 @@ authors:
 - Antonio Dell'Anno
 - Nina Dzhembekova
 - Esther Garcés
-- Joseph M. Gasol
+- Josep M. Gasol
 - Priscila Goela
 - Jean-Pierre Féral
 - Isabel Ferrera
@@ -37,7 +37,7 @@ authors:
 - Sabine K. J. Cochrane
 - Olga Mangoni
 - Angel Borja
-date: "2024-08-05"
+date: "2016-01-01"
 year: "2016"
 publication-types:
 - article-journal

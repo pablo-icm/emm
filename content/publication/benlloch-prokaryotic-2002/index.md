@@ -13,7 +13,7 @@ authors:
 - Frede Thingstad
 - Carlos Pedrós‐Alió
 - Francisco Rodríguez‐Valera
-date: "2024-08-05"
+date: "2002-01-01"
 year: "2002"
 publication-types:
 - article-journal

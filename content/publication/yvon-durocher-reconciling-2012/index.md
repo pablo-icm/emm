@@ -7,7 +7,7 @@ authors:
 - Alessandro Cescatti
 - Matteo Dossena
 - Paul Del Giorgio
-- Josep M Gasol
+- Josep M. Gasol
 - José M Montoya
 - Jukka Pumpanen
 - Peter A Staehr

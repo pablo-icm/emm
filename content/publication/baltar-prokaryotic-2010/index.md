@@ -3,9 +3,9 @@ title: "Prokaryotic carbon utilization in the dark ocean: growth efficiency, leu
 authors:
 - F Baltar
 - J Arístegui
-- Jm Gasol
+- Josep M. Gasol
 - Gj Herndl
-date: "2024-08-05"
+date: "2010-01-01"
 year: "2010"
 publication-types:
 - article-journal

@@ -6,7 +6,7 @@ authors:
 - Rafel Simó
 - Maria Vila‐Costa
 - Clara Ruiz‐González
-- Josep M Gasol
+- Josep M. Gasol
 - Patricia Matrai
 date: '2013-09-01'
 publishDate: '2024-08-05T15:04:47.236166Z'

@@ -4,7 +4,7 @@ authors:
 - Encarna Borrull
 - Mireia Mestre
 - Cèlia Marrasé
-- Josep M Gasol
+- Josep M. Gasol
 - Maria M Sala
 date: '2024-10-01'
 publishDate: '2024-10-30T12:13:09.075434Z'

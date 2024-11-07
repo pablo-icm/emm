@@ -3,7 +3,7 @@ title: "The role of physical stability on the establishment of steady states in 
 authors:
 - Luz Allende
 - Irina Izaguirre
-date: "2024-08-05"
+date: "2003-01-01"
 year: "2003"
 publication-types:
 - article-journal

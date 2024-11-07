@@ -2,7 +2,7 @@
 title: Diel changes in the microstratification of the metalimnetic community in Lake
   Cisó
 authors:
-- Josep M Gasol
+- Josep M. Gasol
 - Josefina García-Cantizano
 - Ramon Massana
 - Francesc Peters

@@ -11,11 +11,11 @@ authors:
 - M. Nieto‐Cid
 - M. Latasa
 - X. A. G. Morán
-- J. M. Gasol
+- Josep M. Gasol
 - C. Marrasé
 - C. A. Stedmon
 - I. Reche
-date: "2024-08-05"
+date: "2016-01-01"
 year: "2016"
 publication-types:
 - article-journal

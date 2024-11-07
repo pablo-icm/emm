@@ -136,7 +136,7 @@ authors:
 - Edvardsen Bente
 - Hans Erik Karlsen
 - Peter N Golyshin
-- Josep M Gasol
+- Josep M. Gasol
 - Snejana Moncheva
 - Nina Dzhembekova
 - Zackary Johnson

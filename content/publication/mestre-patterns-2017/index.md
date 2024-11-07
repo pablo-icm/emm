@@ -5,7 +5,7 @@ authors:
 - Mireia Mestre
 - Encarna Borrull
 - Maria M Sala
-- Josep M Gasol
+- Josep M. Gasol
 date: '2017-04-01'
 publishDate: '2024-08-05T15:04:46.484623Z'
 publication_types:

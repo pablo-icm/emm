@@ -8,7 +8,7 @@ authors:
 - Célio Dias Santos Júnior
 - Marta Sebastián
 - Ramiro Logares
-- Josep M Gasol
+- Josep M. Gasol
 date: '2023-08-01'
 publishDate: '2024-10-30T12:13:09.130231Z'
 publication_types:

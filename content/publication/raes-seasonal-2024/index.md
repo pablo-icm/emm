@@ -10,7 +10,7 @@ authors:
 - Paul J. Somerfield
 - Andrew Bissett
 - Jodie Van De Kamp
-- Josep M Gasol
+- Josep M. Gasol
 - Ramon Massana
 - Yi‐Chun Yeh
 - Jed A. Fuhrman

@@ -13,7 +13,7 @@ authors:
 - Xosé Anxelu G Morán
 - Carlos M Duarte
 - Maria M Sala
-- Josep M Gasol
+- Josep M. Gasol
 date: '2020-05-01'
 publishDate: '2024-08-05T15:04:46.042138Z'
 publication_types:

@@ -7,7 +7,7 @@ authors:
 - Claudia Ximena Restrepo‐Ortiz
 - Maria Montserrat Sala
 - Celia Marrasé
-- Josep M Gasol
+- Josep M. Gasol
 date: '2018-02-01'
 publishDate: '2024-08-05T15:04:46.300391Z'
 publication_types:

@@ -3,7 +3,7 @@ title: Comparison of Different Denaturing Gradient Gel Electrophoresis Primer Se
   for the Study of Marine Bacterioplankton Communities
 authors:
 - Olga Sánchez
-- Josep M Gasol
+- Josep M. Gasol
 - Ramon Massana
 - Jordi Mas
 - Carlos Pedrós-Alió

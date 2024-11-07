@@ -4,7 +4,7 @@ title: Evaluating the Flow-Cytometric Nucleic Acid Double-Staining Protocol in R
 authors:
 - Tania Falcioni
 - Stefano Papa
-- Josep M Gasol
+- Josep M. Gasol
 date: '2008-03-01'
 publishDate: '2024-08-05T15:04:48.060635Z'
 publication_types:

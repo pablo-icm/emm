@@ -5,7 +5,7 @@ authors:
 - Cristina Romera-Castillo
 - Hugo Sarmento
 - Xosé Antón Álvarez-Salgado
-- Josep M Gasol
+- Josep M. Gasol
 - Celia Marrasé
 date: '2011-11-01'
 publishDate: '2024-08-05T15:04:47.691304Z'

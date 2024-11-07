@@ -3,7 +3,7 @@ title: Evaluation of Marine Bacteroidetes-Specific Primers for Microbial Diversi
   and Dynamics Studies
 authors:
 - Cristina Díez-Vives
-- Josep M Gasol
+- Josep M. Gasol
 - Silvia G Acinas
 date: '2012-11-01'
 publishDate: '2024-08-05T15:04:47.441713Z'

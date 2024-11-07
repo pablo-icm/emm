@@ -3,7 +3,7 @@ title: The phylogenetic and ecological context of cultured and whole genome-sequ
   planktonic bacteria from the coastal NW Mediterranean Sea
 authors:
 - Itziar Lekunberri
-- Josep M Gasol
+- Josep M. Gasol
 - Silvia G Acinas
 - Laura Gómez-Consarnau
 - Bibiana G Crespo

@@ -1,7 +1,7 @@
 ---
 title: Towards a better understanding of microbial carbon flux in the sea*
 authors:
-- Josep M Gasol
+- Josep M. Gasol
 - Jarone Pinhassi
 - Laura Alonso-Sáez
 - Hugh Ducklow

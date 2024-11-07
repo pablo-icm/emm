@@ -8,7 +8,7 @@ authors:
 - Clara Cardelús
 - Òscar Guadayol
 - Evaristo Vázquez-Domínguez
-- Josep M Gasol
+- Josep M. Gasol
 date: '2009-09-01'
 publishDate: '2024-08-05T15:04:47.886991Z'
 publication_types:
