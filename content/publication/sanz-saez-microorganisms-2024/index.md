@@ -7,7 +7,7 @@ authors:
 - Marta Ferri
 - Joan-Martí Carreras
 - Olga Sánchez
-- Marta Sebastian
+- Marta Sebastián
 - Clara Ruiz-González
 - Eric Capo
 - Carlos M. Duarte
