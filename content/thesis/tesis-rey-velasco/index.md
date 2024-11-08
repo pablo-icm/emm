@@ -9,7 +9,7 @@ publication_types:
 type: 'phdthesis'
 publication: 'Universitat Autònoma de Barcelona (UAB)'
 supervisor:
-- Josep M Gasol
+- Josep M. Gasol
 - Olga Sánchez
 # abstract: 'T'
 links:

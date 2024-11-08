@@ -1,7 +1,7 @@
 ---
-title: Ecology of marine aerobic anoxygenic phototrophic bacteria
+title: "Ecology of marine aerobic anoxygenic phototrophic bacteria"
 authors:
-- Carlota Ruiz 
+- Carlota Ruiz-Gazulla
 date: '2024-02-09'
 publishDate: '2024-02-09'
 publication_types:
@@ -9,7 +9,7 @@ publication_types:
 type: 'phdthesis'
 publication: 'Universitat Autònoma de Barcelona (UAB)'
 supervisor:
-- Josep M Gasol
+- Josep M. Gasol
 - Olga Sánchez
 - Isabel Ferrera
 abstract: ' - '

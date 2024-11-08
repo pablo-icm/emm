@@ -9,7 +9,7 @@ publication_types:
 type: 'phdthesis'
 publication: 'Universitat Politècnica de Catalunya (UPC)'
 supervisor:
-- Josep M Gasol
+- Josep M. Gasol
 - Marta Sebastián
 abstract: ' - '
 links:

@@ -1,7 +1,7 @@
 ---
 title: Abundance and diversity of marine microbial eukaryotes
 authors: 
-- Massimo C Pernice
+- Massimo C. Pernice
 date: '2014-07-04'
 publishDate: '2014-07-04'
 publication_types:
