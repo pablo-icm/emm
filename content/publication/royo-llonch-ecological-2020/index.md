@@ -1,11 +1,11 @@
 ---
-title: Ecological and functional capabilities of an uncultured Kordia sp.
+title: "Ecological and functional capabilities of an uncultured *Kordia sp.*"
 authors:
-- M Royo-Llonch
-- P Sánchez
-- J.M González
-- C Pedrós-Alió
-- S.G Acinas
+- Marta Royo-Llonch
+- Pablo Sánchez
+- José M. González
+- Carlos Pedrós-Alió
+- Silvia G. Acinas
 date: '2020-01-01'
 publishDate: '2024-08-05T15:04:46.020227Z'
 publication_types:

@@ -8,7 +8,7 @@ authors:
 - Tara Oceans Coordinators
 - Shinichi Sunagawa
 - Tom O Delmont
-- Silvia G Acinas
+- Silvia G. Acinas
 - Eric Pelletier
 - Pascal Hingamp
 - Magali Lescot

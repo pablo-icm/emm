@@ -3,13 +3,13 @@
 title: Andrea G. Bravo
 
 # Full Name (for SEO)
-first_name: Andrea G
+first_name: Andrea G.
 last_name: Bravo
 weight: 20
 
 # Username (this should match the folder name)
 authors:
-- andrea-g-bravo
+- andrea-g.-bravo
 
 # Is this the primary user of the site?
 superuser: false

@@ -2,7 +2,7 @@
 title: Global genetic capacity for mixotrophy in marine picocyanobacteria
 authors:
 - Alexis P Yelton
-- Silvia G Acinas
+- Silvia G. Acinas
 - Shinichi Sunagawa
 - Peer Bork
 - Carlos Pedrós-Alió

@@ -32,7 +32,7 @@ authors:
 - Stephane Pesant
 - Jean Weissenbach
 - Patrick Wincker
-- Silvia G Acinas
+- Silvia G. Acinas
 - Peer Bork
 - Colomban De Vargas
 - Daniele Iudicone

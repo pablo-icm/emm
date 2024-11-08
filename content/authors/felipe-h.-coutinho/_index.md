@@ -1,22 +1,21 @@
 ---
 # Display name
-title: Ester M López-García
+title: Felipe H. Coutinho
 
 # Full Name (for SEO)
-first_name: Ester M
-last_name: López-García
-weight: 90
+first_name: Felipe H.
+last_name: Coutinho
+weight: 50
 
 # Username (this should match the folder name)
 authors:
-- ester-m-lopez-garcia
+- felipe-h.-coutinho
+
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Predoctoral scientist
-supervisor: 
-  - Andrea G. Bravo
+role: Staff scientist
 
 # Organizations/Affiliations
 organizations:
@@ -33,15 +32,15 @@ organizations:
 
 # education:
 #   courses:
-  # - course: Add your PhD program if any
-  #   institution: Add your Uni here
-  #   year: Year of PhD
-  # - course: Add bachelor title
-  #   institution: Add Uni Here
-  #   year: Add year of uni
-  # - course: add as many courses as you want
-  #   institution: Add uni
-  #   year: Add year
+#   - course: Add your PhD program
+#     institution: Add your Uni here
+#     year: Year of PhD
+#   - course: Add bachelor title
+#     institution: Add Uni Here
+#     year: Add year of uni
+#   - course: add as many courses as you want
+#     institution: Add uni
+#     year: Add year
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -51,7 +50,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:emlopez@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:fhernandes@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/your_twitter_handle
@@ -87,7 +86,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Predoctoral scientists'
+- 'Staff scientists'
 ---
-Description of your research. 
-
+Describing the biodiversity and ecological interactions within microbial communities is the central goal of my career. My main focus as an undergraduate and master’s student was to characterize associations between anthropogenic impacts and the diversity of potentially pathogenic and antibiotic resistant bacteria from aquatic environments. Working on this topic allowed me to bridge the gap between environmental microbiology and public health, which for me was deeply satisfying. During my PhD I continued to study marine microbial communities, making use of bioinformatics as a tool for discoveries. I undertook projects on diverse topics of the ecology of Archaea, Bacteria and Viruses, including the following: community composition across environmental gradients, computational inference of ecological associations, genomic taxonomy and evolution. Findings obtained during my PhD have led to publications in high impact journals such as Nature. As a post-doctoral fellow I currently have ongoing projects focused on the biodiversity, ecology and evolution of marine viruses, an important yet often neglected fraction of marine biodiversity.

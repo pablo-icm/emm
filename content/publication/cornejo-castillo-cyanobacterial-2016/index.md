@@ -2,7 +2,7 @@
 title: Cyanobacterial symbionts diverged in the late Cretaceous towards lineage-specific
   nitrogen fixation factories in single-celled phytoplankton
 authors:
-- Francisco M Cornejo-Castillo
+- Francisco M. Cornejo-Castillo
 - Ana M Cabello
 - Guillem Salazar
 - Patricia Sánchez-Baracaldo
@@ -18,7 +18,7 @@ authors:
 - Jonathan P Zehr
 - Josep M. Gasol
 - Ramon Massana
-- Silvia G Acinas
+- Silvia G. Acinas
 date: '2016-03-01'
 publishDate: '2024-08-05T15:04:46.617916Z'
 publication_types:

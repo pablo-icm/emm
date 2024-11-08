@@ -4,7 +4,7 @@ title: Spatial and temporal variability among marine Bacteroidetes populations i
 authors:
 - Cristina Díez-Vives
 - Josep M. Gasol
-- Silvia G Acinas
+- Silvia G. Acinas
 date: '2014-02-01'
 publishDate: '2024-08-05T15:04:47.178984Z'
 publication_types:

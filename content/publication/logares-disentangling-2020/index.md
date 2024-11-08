@@ -4,7 +4,7 @@ authors:
 - Ramiro Logares
 - Ina M Deutschmann
 - Pedro C Junger
-- Caterina R Giner
+- Caterina R. Giner
 - Anders K Krabberød
 - Thomas S B Schmidt
 - Laura Rubinat-Ripoll
@@ -13,7 +13,7 @@ authors:
 - Clara Ruiz-González
 - Marta Sebastián
 - Colomban De Vargas
-- Silvia G Acinas
+- Silvia G. Acinas
 - Carlos M Duarte
 - Josep M. Gasol
 - Ramon Massana

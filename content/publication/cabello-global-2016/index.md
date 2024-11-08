@@ -2,14 +2,14 @@
 title: "Global distribution and vertical patterns of a prymnesiophyte–cyanobacteria obligate symbiosis"
 authors:
 - Ana M Cabello
-- Francisco M Cornejo-Castillo
+- Francisco M. Cornejo-Castillo
 - Nicolas Raho
 - Dolors Blasco
 - Montserrat Vidal
 - Stéphane Audic
 - Colomban De Vargas
 - Mikel Latasa
-- Silvia G Acinas
+- Silvia G. Acinas
 - Ramon Massana
 date: "2016-01-01"
 year: "2016"

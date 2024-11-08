@@ -10,7 +10,7 @@ authors:
 - Encarna Borrull
 - Cristina Díez-Vives
 - Eva Teira
-- Massimo C Pernice
+- Massimo C. Pernice
 - Francisca C Garcia
 - Irene Forn
 - Yaiza M Castillo

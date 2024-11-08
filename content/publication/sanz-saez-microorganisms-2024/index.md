@@ -3,7 +3,7 @@ title: Microorganisms Involved in Methylmercury Demethylation and Mercury Reduct
   are Widely Distributed and Active in the Bathypelagic Deep Ocean Waters
 authors:
 - Isabel Sanz-Sáez
-- Andrea G Bravo
+- Andrea G. Bravo
 - Marta Ferri
 - Joan-Martí Carreras
 - Olga Sánchez
@@ -13,7 +13,7 @@ authors:
 - Carlos M. Duarte
 - Josep M. Gasol
 - Pablo Sánchez
-- Silvia G Acinas
+- Silvia G. Acinas
 date: '2024-08-01'
 publishDate: '2024-10-30T12:13:09.122788Z'
 publication_types:

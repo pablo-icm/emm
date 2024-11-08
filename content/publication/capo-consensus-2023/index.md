@@ -5,7 +5,7 @@ authors:
 - Benjamin D Peterson
 - Minjae Kim
 - Daniel S Jones
-- Silvia G Acinas
+- Silvia G. Acinas
 - Marc Amyot
 - Stefan Bertilsson
 - Erik Björn
@@ -28,7 +28,7 @@ authors:
 - Adrien Vigneron
 - David A Walsh
 - Marine Vandewalle-Capo
-- Andrea G Bravo
+- Andrea G. Bravo
 - Caitlin M Gionfriddo
 date: '2023-01-01'
 publishDate: '2024-08-08T12:00:46.964078Z'

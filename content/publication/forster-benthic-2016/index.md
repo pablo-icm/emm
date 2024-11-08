@@ -23,7 +23,7 @@ authors:
 - Fabrice Not
 - Hiroyuki Ogata
 - Jan Pawlowski
-- Massimo C Pernice
+- Massimo C. Pernice
 - Sarah Romac
 - Kamran Shalchian-Tabrizi
 - Nathalie Simon

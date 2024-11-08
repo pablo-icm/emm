@@ -15,7 +15,7 @@ authors:
 - Brian P Thompson
 - Nicole J Poulton
 - Patrick Schwientek
-- Silvia G Acinas
+- Silvia G. Acinas
 - Stephen J Giovannoni
 - Mary Ann Moran
 - Steven J Hallam

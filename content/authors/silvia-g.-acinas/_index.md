@@ -3,12 +3,12 @@
 title: Silvia G. Acinas
 
 # Full Name (for SEO)
-first_name: Silvia G
+first_name: Silvia G.
 last_name: Acinas
 weight: 10
 # Username (this should match the folder name)
 authors:  
-- silvia-g-acinas  
+- silvia-g.-acinas  
 
 # Is this the primary user of the site?
 superuser: false

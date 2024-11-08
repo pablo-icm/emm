@@ -1,7 +1,7 @@
 ---
 title: General Patterns of Diversity in Major Marine Microeukaryote Lineages
 authors:
-- Massimo C Pernice
+- Massimo C. Pernice
 - Ramiro Logares
 - Laure Guillou
 - Ramon Massana

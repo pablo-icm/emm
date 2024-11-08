@@ -1,7 +1,7 @@
 ---
 title: Global abundance of planktonic heterotrophic protists in the deep ocean
 authors:
-- Massimo C Pernice
+- Massimo C. Pernice
 - Irene Forn
 - Ana Gomes
 - Elena Lara

@@ -12,7 +12,7 @@ authors:
 - Riccardo Rosselli
 - Francisco Rodriguez-Valera
 - Matthew B Sullivan
-- Silvia G Acinas
+- Silvia G. Acinas
 - Manuel Martinez-Garcia
 date: '2017-06-01'
 publishDate: '2024-08-05T15:04:46.513319Z'

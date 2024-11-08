@@ -3,7 +3,7 @@ title: Unifying the known and unknown microbial coding sequence space
 authors:
 - Chiara Vanni
 - Matthew S Schechter
-- Silvia G Acinas
+- Silvia G. Acinas
 - Albert Barberán
 - Pier Luigi Buttigieg
 - Emilio O Casamayor

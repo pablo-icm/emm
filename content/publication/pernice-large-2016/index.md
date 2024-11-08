@@ -2,11 +2,11 @@
 title: Large variability of bathypelagic microbial eukaryotic communities across the
   world’s oceans
 authors:
-- Massimo C Pernice
-- Caterina R Giner
+- Massimo C. Pernice
+- Caterina R. Giner
 - Ramiro Logares
 - Júlia Perera-Bel
-- Silvia G Acinas
+- Silvia G. Acinas
 - Carlos M Duarte
 - Josep M. Gasol
 - Ramon Massana

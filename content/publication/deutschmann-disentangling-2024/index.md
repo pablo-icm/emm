@@ -4,12 +4,12 @@ title: Disentangling microbial networks across pelagic zones in the tropical and
 authors:
 - Ina M Deutschmann
 - Erwan Delage
-- Caterina R Giner
+- Caterina R. Giner
 - Marta Sebastián
 - Julie Poulain
 - Javier Arístegui
 - Carlos M Duarte
-- Silvia G Acinas
+- Silvia G. Acinas
 - Ramon Massana
 - Josep M. Gasol
 - Damien Eveillard

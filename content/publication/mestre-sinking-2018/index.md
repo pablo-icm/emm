@@ -6,7 +6,7 @@ authors:
 - Ramiro Logares
 - Carlos M. Duarte
 - Josep M. Gasol
-- M. Montserrat Sala
+- Maria Montserrat Sala
 date: "2018-01-01"
 year: "2018"
 publication-types:

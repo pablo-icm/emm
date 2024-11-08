@@ -7,7 +7,7 @@ authors:
 - Eric D. Salomaki
 - Monika M. Wiśniewska
 - Irene Forn
-- Elisabet L Sà
+- Elisabet L. Sà
 - Dolors Vaqué
 - Martin Kolísko
 - Ramon Massana

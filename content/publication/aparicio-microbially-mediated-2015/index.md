@@ -6,7 +6,7 @@ authors:
 - Encarna Borrull
 - Estela Romero
 - Colin A. Stedmon
-- Maria M. Sala
+- Maria Montserrat Sala
 - Josep M. Gasol
 - Aida F. Ríos
 - Cèlia Marrasé

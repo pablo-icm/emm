@@ -2,7 +2,7 @@
 title: A Holistic Approach to Marine Eco-Systems Biology
 authors:
 - Eric Karsenti
-- Silvia G Acinas
+- Silvia G. Acinas
 - Peer Bork
 - Chris Bowler
 - Colomban De Vargas

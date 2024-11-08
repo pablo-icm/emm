@@ -3,7 +3,7 @@ title: Particle‐association lifestyle is a phylogenetically conserved trait in
   prokaryotes
 authors:
 - Guillem Salazar
-- Francisco M Cornejo‐Castillo
+- Francisco M. Cornejo‐Castillo
 - Encarna Borrull
 - Cristina Díez‐Vives
 - Elena Lara
@@ -11,7 +11,7 @@ authors:
 - Jesús M Arrieta
 - Carlos M Duarte
 - Josep M. Gasol
-- Silvia G Acinas
+- Silvia G. Acinas
 date: '2015-11-01'
 publishDate: '2024-08-05T15:04:46.952819Z'
 publication_types:

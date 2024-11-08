@@ -13,8 +13,8 @@ authors:
 - Angela Pannier
 - Ulrich Soltmann
 - Pablo Sánchez
-- Silvia G Acinas
-- Andrea G Bravo
+- Silvia G. Acinas
+- Andrea G. Bravo
 - Laura Alonso-Sáez
 - Olga Sánchez
 year: '2024'

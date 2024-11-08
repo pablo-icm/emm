@@ -6,12 +6,12 @@ authors:
 - Bror Jönsson
 - Josep M. Gasol
 - Guillem Salazar
-- Silvia G Acinas
+- Silvia G. Acinas
 - Marta Estrada
 - Ramon Massana
 - Ramiro Logares
-- Caterina R Giner
-- Massimo C Pernice
+- Caterina R. Giner
+- Massimo C. Pernice
 - M Pilar Olivar
 - Leire Citores
 - Jon Corell

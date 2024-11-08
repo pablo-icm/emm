@@ -19,7 +19,7 @@ authors:
 - Gianluca Bontempi
 - Ana M Cabello
 - Laurent Coppola
-- Francisco M Cornejo-Castillo
+- Francisco M. Cornejo-Castillo
 - Francesco d'Ovidio
 - Luc De Meester
 - Isabel Ferrera
@@ -44,7 +44,7 @@ authors:
 - Lars Stemmann
 - Jean Weissenbach
 - Patrick Wincker
-- Silvia G Acinas
+- Silvia G. Acinas
 - Shinichi Sunagawa
 - Peer Bork
 - Matthew B Sullivan

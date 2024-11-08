@@ -24,7 +24,7 @@ authors:
 - Josep M. Gasol
 - Dolors Vaqué
 - Peer Bork
-- Silvia G Acinas
+- Silvia G. Acinas
 - Patrick Wincker
 - Matthew B Sullivan
 date: '2016-09-01'

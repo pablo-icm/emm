@@ -3,7 +3,7 @@ title: "Out of Thin Air: Microbial Utilization of Atmospheric Gaseous Organics i
 authors:
 - Jesús M. Arrieta
 - Carlos M. Duarte
-- M. Montserrat Sala
+- Maria Montserrat Sala
 - Jordi Dachs
 date: "2016-01-01"
 year: "2016"

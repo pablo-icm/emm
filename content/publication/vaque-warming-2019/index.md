@@ -5,7 +5,7 @@ authors:
 - Elena Lara
 - Jesús M Arrieta
 - Johnna Holding
-- Elisabet L Sà
+- Elisabet L. Sà
 - Iris E Hendriks
 - Alexandra Coello-Camba
 - Marta Alvarez

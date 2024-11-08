@@ -2,7 +2,7 @@
 title: "Seasonal changes in substrate utilization patterns by bacterioplankton in the Amundsen Gulf (western Arctic)"
 authors:
 - Beatriz Fernández-Gómez
-- M. Montserrat Sala
+- Maria Montserrat Sala
 - Carlos Pedrós-Alió
 date: "2014-01-01"
 year: "2014"

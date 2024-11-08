@@ -9,7 +9,7 @@ authors:
 - Elena Lara
 - Yaiza M. Castillo
 - Carlos M. Duarte
-- Maria M. Sala
+- Maria Montserrat Sala
 date: "2017-01-01"
 year: "2017"
 publication-types:

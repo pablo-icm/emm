@@ -6,7 +6,7 @@ authors:
 - P. R. Neal
 - Josep M. Gasol
 - Montserrat Coll
-- Silvia G Acinas
+- Silvia G. Acinas
 - Carlos Pedrós-Alió
 date: '2010-12-01'
 publishDate: '2024-08-05T15:04:47.852421Z'

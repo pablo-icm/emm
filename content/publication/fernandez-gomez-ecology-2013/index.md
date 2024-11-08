@@ -5,7 +5,7 @@ authors:
 - Michael Richter
 - Margarete Schüler
 - Jarone Pinhassi
-- Silvia G Acinas
+- Silvia G. Acinas
 - José M González
 - Carlos Pedrós-Alió
 date: '2013-05-01'

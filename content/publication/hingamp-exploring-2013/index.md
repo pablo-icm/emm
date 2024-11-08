@@ -3,7 +3,7 @@ title: Exploring nucleo-cytoplasmic large DNA viruses in Tara Oceans microbial m
 authors:
 - Pascal Hingamp
 - Nigel Grimsley
-- Silvia G Acinas
+- Silvia G. Acinas
 - Camille Clerissi
 - Lucie Subirana
 - Julie Poulain

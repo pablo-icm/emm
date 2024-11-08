@@ -2,7 +2,7 @@
 title: "Prevalence and microdiversity of *Alteromonas macleodii*‐like microorganisms in different oceanic regions"
 authors:
 - Jesús García‐Martínez
-- Silvia G Acinas
+- Silvia G. Acinas
 - Ramon Massana
 - Francisco Rodríguez‐Valera
 date: '2002-01-01'

@@ -2,7 +2,7 @@
 title: "Modulation of microbial growth and enzymatic activities in the marine environment due to exposure to organic contaminants of emerging concern and hydrocarbons"
 authors:
 - Elena Cerro-Gálvez
-- M. Montserrat Sala
+- Maria Montserrat Sala
 - Cèlia Marrasé
 - Josep M. Gasol
 - Jordi Dachs

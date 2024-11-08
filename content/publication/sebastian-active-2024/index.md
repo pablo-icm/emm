@@ -3,7 +3,7 @@ title: The active free-living bathypelagic microbiome is largely dominated by ra
   surface taxa
 authors:
 - Marta Sebastián
-- Caterina R Giner
+- Caterina R. Giner
 - Vanessa Balagué
 - Markel Gómez-Letona
 - Ramon Massana

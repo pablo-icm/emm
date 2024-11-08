@@ -2,7 +2,7 @@
 title: "Annual changes of bacterial mortality due to viruses and protists in an oligotrophic coastal environment (NW Mediterranean)"
 authors:
 - Julia A. Boras
-- M. Montserrat Sala
+- Maria Montserrat Sala
 - Evaristo Vázquez‐Domínguez
 - Markus G. Weinbauer
 - Dolors Vaqué

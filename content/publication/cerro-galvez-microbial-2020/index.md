@@ -4,7 +4,7 @@ authors:
 - Elena Cerro-Gálvez
 - Jose L. Roscales
 - Begoña Jiménez
-- M. Montserrat Sala
+- Maria Montserrat Sala
 - Jordi Dachs
 - Maria Vila-Costa
 date: "2020-01-01"

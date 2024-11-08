@@ -17,7 +17,7 @@ authors:
 - J Cameron Thrash
 - Stephanus N Venter
 - William B Whitman
-- Silvia G Acinas
+- Silvia G. Acinas
 - Rudolf I Amann
 - Karthik Anantharaman
 - Jean Armengaud

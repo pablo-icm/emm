@@ -2,7 +2,7 @@
 title: Abiotic selection of microbial genome size in the global ocean
 authors:
 - David K Ngugi
-- Silvia G Acinas
+- Silvia G. Acinas
 - Pablo Sánchez
 - Josep M. Gasol
 - Susana Agusti

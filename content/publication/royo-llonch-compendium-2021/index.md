@@ -42,7 +42,7 @@ authors:
 - Patrick Wincker
 - Lee Karp-Boss
 - Chris Bowler
-- Silvia G Acinas
+- Silvia G. Acinas
 date: '2021-11-01'
 publishDate: '2024-08-05T15:04:45.849237Z'
 publication_types:

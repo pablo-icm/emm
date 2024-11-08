@@ -4,7 +4,7 @@ title: 'Prokaryotic functional gene diversity in the sunlit ocean: Stumbling in 
 authors:
 - Isabel Ferrera
 - Marta Sebastian
-- Silvia G Acinas
+- Silvia G. Acinas
 - Josep M. Gasol
 date: '2015-06-01'
 publishDate: '2024-08-05T15:04:46.974664Z'

@@ -11,7 +11,7 @@ authors:
 - Josep M. Gasol
 - Ramiro Logares
 - Ramon Massana
-- Caterina R Giner
+- Caterina R. Giner
 - Guillem Salazar
 - X Anton Alvarez‐Salgado
 - Teresa S Catala

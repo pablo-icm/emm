@@ -2,13 +2,13 @@
 title: Global diversity and biogeography of deep-sea pelagic prokaryotes
 authors:
 - Guillem Salazar
-- Francisco M Cornejo-Castillo
+- Francisco M. Cornejo-Castillo
 - Verónica Benítez-Barrios
 - Eugenio Fraile-Nuez
 - X Antón Álvarez-Salgado
 - Carlos M Duarte
 - Josep M. Gasol
-- Silvia G Acinas
+- Silvia G. Acinas
 date: '2016-03-01'
 publishDate: '2024-08-05T15:04:46.704878Z'
 publication_types:

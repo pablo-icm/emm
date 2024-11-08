@@ -2,11 +2,11 @@
 title: Assessing patterns of metazoans in the global ocean using environmental DNA
 authors:
 - Nathan R Geraldi
-- Silvia G Acinas
+- Silvia G. Acinas
 - Intikhab Alam
 - Josep M. Gasol
 - María Luz Fernández-de-Puelles
-- Caterina R Giner
+- Caterina R. Giner
 - Santiago Hernández León
 - Ramiro Logares
 - Ramon Massana

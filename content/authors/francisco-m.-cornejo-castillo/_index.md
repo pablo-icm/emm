@@ -3,13 +3,13 @@
 title: Fran Cornejo-Castillo
 
 # Full Name (for SEO)
-first_name: Francisco M
+first_name: Francisco M.
 last_name: Cornejo-Castillo
 weight: 40
 
 # Username (this should match the folder name)
 authors:
-- francisco-m-cornejo-castillo
+- francisco-m.-cornejo-castillo
 
 # Is this the primary user of the site?
 superuser: false

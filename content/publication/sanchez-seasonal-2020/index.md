@@ -11,7 +11,7 @@ authors:
 - Carolina Marín-Vindas
 - Clara Cardelús
 - Isabel Sanz-Sáez
-- Massimo C Pernice
+- Massimo C. Pernice
 - Cèlia Marrasé
 - Maria M Sala
 - Josep M. Gasol

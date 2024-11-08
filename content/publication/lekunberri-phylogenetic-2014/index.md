@@ -4,7 +4,7 @@ title: The phylogenetic and ecological context of cultured and whole genome-sequ
 authors:
 - Itziar Lekunberri
 - Josep M. Gasol
-- Silvia G Acinas
+- Silvia G. Acinas
 - Laura Gómez-Consarnau
 - Bibiana G Crespo
 - Emilio O Casamayor

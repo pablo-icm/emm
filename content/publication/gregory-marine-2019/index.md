@@ -34,7 +34,7 @@ authors:
 - Shinichi Sunagawa
 - Patrick Wincker
 - Matthew B Sullivan
-- Silvia G Acinas
+- Silvia G. Acinas
 - Marcel Babin
 - Peer Bork
 - Emmanuel Boss

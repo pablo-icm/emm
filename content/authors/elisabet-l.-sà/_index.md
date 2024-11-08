@@ -9,7 +9,7 @@ weight: 120
 
 # Username (this should match the folder name)
 authors:
-- elisabet-l-sà
+- elisabet-l.-sà
 
 # Is this the primary user of the site?
 superuser: false

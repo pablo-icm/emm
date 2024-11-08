@@ -21,7 +21,7 @@ authors:
 - Pablo Sánchez
 - Ahmed A Zayed
 - Dylan R Cronin
-- Silvia G Acinas
+- Silvia G. Acinas
 - Peer Bork
 - Chris Bowler
 - Tom O Delmont

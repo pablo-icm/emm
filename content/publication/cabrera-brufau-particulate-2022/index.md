@@ -6,7 +6,7 @@ authors:
 - Eva Ortega-Retuerta
 - Sdena Nunes
 - Marta Estrada
-- M. Montserrat Sala
+- Maria Montserrat Sala
 - Dolors Vaqué
 - Gonzalo L. Pérez
 - Rafel Simó

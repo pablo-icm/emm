@@ -5,7 +5,7 @@ authors:
 - Evaristo Vázquez-Domínguez
 - Clara Cardelús
 - Jarone Pinhassi
-- M. Montserrat Sala
+- Maria Montserrat Sala
 - Itziar Lekunberri
 - Vanessa Balagué
 - Maria Vila-Costa

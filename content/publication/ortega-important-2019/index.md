@@ -5,7 +5,7 @@ authors:
 - Nathan R Geraldi
 - Intikhab Alam
 - Allan A Kamau
-- Silvia G Acinas
+- Silvia G. Acinas
 - Ramiro Logares
 - Josep M. Gasol
 - Ramon Massana

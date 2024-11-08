@@ -3,14 +3,14 @@ title: Global biogeography of the smallest plankton across ocean depths
 authors:
 - Pedro C Junger
 - Hugo Sarmento
-- Caterina R Giner
+- Caterina R. Giner
 - Mireia Mestre
 - Marta Sebastián
 - Xosé Anxelu G Morán
 - Javier Arístegui
 - Susana Agustí
 - Carlos M Duarte
-- Silvia G Acinas
+- Silvia G. Acinas
 - Ramon Massana
 - Josep M. Gasol
 - Ramiro Logares

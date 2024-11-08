@@ -1,7 +1,7 @@
 ---
 title: "Phenotypic and genetic diversification of \textitPseudanabaena spp. (cyanobacteria)"
 authors:
-- Silvia G Acinas
+- Silvia G. Acinas
 - Thomas H A Haverkamp
 - Jef Huisman
 - Lucas J Stal

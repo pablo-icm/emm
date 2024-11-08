@@ -40,7 +40,7 @@ authors:
 - Sarah Searson
 - Stefanie Kandels-Lewis
 - Tara Oceans Coordinators
-- Silvia G Acinas
+- Silvia G. Acinas
 - Peer Bork
 - Emmanuel Boss
 - Colomban De Vargas

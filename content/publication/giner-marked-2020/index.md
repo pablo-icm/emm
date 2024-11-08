@@ -2,8 +2,8 @@
 title: Marked changes in diversity and relative activity of picoeukaryotes with depth
   in the world ocean
 authors:
-- Caterina R Giner
-- Massimo C Pernice
+- Caterina R. Giner
+- Massimo C. Pernice
 - Vanessa Balagué
 - Carlos M Duarte
 - Josep M. Gasol

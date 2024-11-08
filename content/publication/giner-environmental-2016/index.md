@@ -2,7 +2,7 @@
 title: Environmental Sequencing Provides Reasonable Estimates of the Relative Abundance
   of Specific Picoeukaryotes
 authors:
-- Caterina R Giner
+- Caterina R. Giner
 - Irene Forn
 - Sarah Romac
 - Ramiro Logares

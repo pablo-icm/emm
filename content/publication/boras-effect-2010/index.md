@@ -2,7 +2,7 @@
 title: "Effect of ice melting on bacterial carbon fluxes channelled by viruses and protists in the Arctic Ocean"
 authors:
 - Julia A. Boras
-- M. Montserrat Sala
+- Maria Montserrat Sala
 - Jesus M. Arrieta
 - Elisabet L. Sà
 - Jorge Felipe

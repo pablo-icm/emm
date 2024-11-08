@@ -4,7 +4,7 @@ title: Temperature regulation of marine heterotrophic prokaryotes increases lati
 authors:
 - Xosé Anxelu G Morán
 - Josep M. Gasol
-- Massimo C Pernice
+- Massimo C. Pernice
 - Jean‐François Mangot
 - Ramon Massana
 - Elena Lara

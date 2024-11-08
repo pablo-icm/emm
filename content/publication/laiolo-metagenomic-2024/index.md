@@ -8,7 +8,7 @@ authors:
 - Tahira Jamil
 - Susana Agusti
 - Takashi Gojobori
-- Silvia G Acinas
+- Silvia G. Acinas
 - Josep M. Gasol
 - Carlos M. Duarte
 date: '2024-01-01'

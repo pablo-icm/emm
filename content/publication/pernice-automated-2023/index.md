@@ -2,7 +2,7 @@
 title: Automated flow cytometry as a tool to obtain a fine-grain picture of marine
   prokaryote community structure along an entire oceanographic cruise
 authors:
-- Massimo C Pernice
+- Massimo C. Pernice
 - Josep M. Gasol
 date: '2023-01-01'
 publishDate: '2024-10-30T12:13:09.145786Z'

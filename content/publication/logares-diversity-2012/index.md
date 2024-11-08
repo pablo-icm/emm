@@ -5,7 +5,7 @@ authors:
 - Ramiro Logares
 - Stephane Audic
 - Sebastien Santini
-- Massimo C Pernice
+- Massimo C. Pernice
 - Colomban De Vargas
 - Ramon Massana
 date: '2012-10-01'

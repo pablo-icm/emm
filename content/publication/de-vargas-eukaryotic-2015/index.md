@@ -38,7 +38,7 @@ authors:
 - Sarah Searson
 - Stefanie Kandels-Lewis
 - Tara Oceans Coordinators
-- Silvia G Acinas
+- Silvia G. Acinas
 - Peer Bork
 - Chris Bowler
 - Gabriel Gorsky

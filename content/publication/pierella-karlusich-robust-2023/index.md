@@ -11,7 +11,7 @@ authors:
 - Richard G. Dorrell
 - Nicolas Henry
 - Eleonora Scalco
-- Silvia G Acinas
+- Silvia G. Acinas
 - Patrick Wincker
 - Colomban De Vargas
 - Chris Bowler

@@ -4,13 +4,13 @@ title: Prevalence of Heterotrophic Methylmercury Detoxifying Bacteria across Oce
 authors:
 - Isabel Sanz-Sáez
 - Carla Pereira-García
-- Andrea G Bravo
+- Andrea G. Bravo
 - Laura Trujillo
 - Martí Pla i Ferriol
 - Miguel Capilla
 - Pablo Sánchez
 - Rosa Carmen Rodríguez Martín-Doimeadios
-- Silvia G Acinas
+- Silvia G. Acinas
 - Olga Sánchez
 date: '2022-03-01'
 publishDate: '2024-08-08T12:00:46.933605Z'

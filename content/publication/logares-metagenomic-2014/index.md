@@ -4,7 +4,7 @@ authors:
 - Ramiro Logares
 - Shinichi Sunagawa
 - Guillem Salazar
-- Francisco M Cornejo-Castillo
+- Francisco M. Cornejo-Castillo
 - Isabel Ferrera
 - Hugo Sarmento
 - Pascal Hingamp
@@ -18,7 +18,7 @@ authors:
 - Stefanie Kandels‐Lewis
 - Eric Karsenti
 - Peer Bork
-- Silvia G Acinas
+- Silvia G. Acinas
 date: '2014-09-01'
 publishDate: '2024-08-05T15:04:47.129341Z'
 publication_types:

@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Maria M. Sala
+title: Massimo C. Pernice
 
 # Full Name (for SEO)
-first_name: Maria Montserrat
-last_name: Sala
-weight: 110
+first_name: Massimo C.
+last_name: Pernice
+weight: 100
 
 # Username (this should match the folder name)
 authors:
-- maria-m-sala
+- massimo-c.-pernice
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Staff scientist
+role: Postdoctoral scientist
 
 # Organizations/Affiliations
 organizations:
@@ -50,19 +50,19 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:msala@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:pernice@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/your_twitter_handle
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.es/citations?hl=ca&user=nrvxARkAAAAJ
+  link: https://scholar.google.es/citations?hl=es&user=v6jlDXgAAAAJ
 - icon: orcid
   icon_pack: ai
-  link: http://orcid.org/0000-0002-3804-5680
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Your_researchgate_profile
+  link: https://orcid.org/0000-0001-6917-8999
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/Your_researchgate_profile
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/your_github
@@ -86,19 +86,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Staff scientists'
+- 'Postdoctoral scientists'
 ---
-I am researcher at the Institut de Ciències del Mar (CSIC). During my PhD at the Institut für Seenforschung in Langenargen, Germany, (1990-1994) and several stays at the Max-Planck-Institut für Limnologie in Plön (Germany) I focused on the role of microbial communities in the degradation of detritus in freshwaters. In 1994 I started working at the Institut de Ciències del Mar (CSIC), since 2008 as a permanent scientist.
-
-My main research interests at the ICM are the diversity and activity of microorganisms and their role in the biogeochemical cycles of the ocean, although lately the atmosphere has also fascinated me. In our research, my group applies molecular tools as Illumina or CARD-FISH and to determine the potential use of specific carbon sources we assess the activity of selected extracellular enzymes or the utilization of a large set of carbon sources in Biolog plates.
-
-This is a selection of my latest research topic interests:
-
-- Characterization and quantification of airborne microorganisms in coastal areas  
-- Effects of atmospheric inputs on the activity and diversity of marine bacteria  
-- Impacts of ocean acidification on marine microbial communities  
-- Functional diversity of microorganisms in the global ocean  
-- The role of particles on the activity and diversity of marine microbes  
-- Microorganisms in the deep ocean and nepheloid layers  
-- Microlayers as a site of increased enzymatic activity  
-- Antarctic microorganisms associated to contrasting phytoplankton blooms  
+I am a marine microbiologist and I achieved my PhD in oceanography here at ICM in 2014. I am mainly interested in marine eukaryotes and their interactions with other components of the microbial community. At the moment I am working as lab technician at the laboratory of Flow cytometry belonging to the department of Marine Biology and Oceanography. The main goal of this facility is the counting and characterization of plankton components like bacteria, eukaryotes and virus. In this frame my main tasks are formation and support of new users and analyses of several types of marine samples. I am also working on developing new methods and applications in order to better define different marine population through flow cytometry (e.g. active bacteria versus dormant). In parallel to these activities I keep nurturing my personal research interests and projects.

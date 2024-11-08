@@ -7,7 +7,7 @@ authors:
 - Pablo Sánchez
 - Elena Lara
 - Marta Royo-Llonch
-- Elisabet L Sà
+- Elisabet L. Sà
 - Teresa Lucena
 - María J Pujalte
 - Dolors Vaqué
@@ -15,7 +15,7 @@ authors:
 - Josep M. Gasol
 - Carlos Pedrós-Alió
 - Olga Sánchez
-- Silvia G Acinas
+- Silvia G. Acinas
 date: '2020-12-01'
 publishDate: '2024-08-05T15:04:46.011647Z'
 publication_types:

@@ -5,7 +5,7 @@ authors:
 - Teresa Lucena
 - Isabel Sanz-Sáez
 - David R Arahal
-- Silvia G Acinas
+- Silvia G. Acinas
 - Olga Sánchez
 - Carlos Pedrós-Alió
 - Rosa Aznar

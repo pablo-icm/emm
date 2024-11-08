@@ -10,7 +10,7 @@ authors:
 - Marta Royo‐Llonch
 - José Bustingorry
 - Roberto Escaray
-- Silvia G Acinas
+- Silvia G. Acinas
 - Josep M. Gasol
 - Fernando Unrein
 date: '2017-03-01'
