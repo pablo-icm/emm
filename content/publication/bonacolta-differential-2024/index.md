@@ -4,9 +4,9 @@ title: "Differential apicomplexan presence predicts thermal stress mortality in 
 authors:
 - Anthony M. Bonacolta
 - Jordi Miravall
-- Daniel Gómez‐Gras
-- Jean‐Baptiste Ledoux
-- Paula López‐Sendino
+- Daniel Gómez-Gras
+- Jean-Baptiste Ledoux
+- Paula López-Sendino
 - Joaquim Garrabou
 - Ramon Massana
 - Javier Del Campo
@@ -25,14 +25,14 @@ abstract: Abstract  Paramuricea clavata is an ecosystem architect of the Mediter
   before experimental heat stress to determine if its microbial composition influences
   the thermal response of the holobiont. We found that members of P. clavata's microeukaryotic
   community were significantly correlated with thermal stress sensitivity. Syndiniales
-  from the Dino‐Group I Clade 1 were significantly enriched in thermally resistant
+  from the Dino-Group I Clade 1 were significantly enriched in thermally resistant
   corals, while the apicomplexan corallicolids were significantly enriched in thermally
   susceptible corals. We hypothesise that P. clavata mortality following heat stress
-  may be caused by a shift from apparent commensalism to parasitism in the corallicolid‐coral
+  may be caused by a shift from apparent commensalism to parasitism in the corallicolid-coral
   host relationship driven by the added stress. Our results show the potential importance
   of corallicolids and the rest of the microeukaryotic community of corals to understanding
   thermal stress response in corals and provide a useful tool to guide conservation
-  efforts and future research into coral‐associated microeukaryotes.
+  efforts and future research into coral-associated microeukaryotes.
 links:
 - name: URL
   url: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16548

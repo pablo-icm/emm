@@ -17,7 +17,7 @@ abstract: 'Abstract  The fine vertical distribution of phytoplankton groups with
   stratification. A simple but unconventional sampling strategy allowed examining
   the vertical structure with ca. 2 m resolution. The distribution of Prochlorococcus
   , Synechococcus , chlorophytes, pelagophytes, small prymnesiophytes, coccolithophores,
-  diatoms, and dinoflagellates was investigated with a combination of pigment‐markers,
+  diatoms, and dinoflagellates was investigated with a combination of pigment-markers,
   flow cytometry and optical and FISH microscopy. All groups presented minimum abundances
   at the surface and a maximum in the DCM layer. The cell distribution was not vertically
   symmetrical around the DCM peak and cells tended to accumulate in the upper part

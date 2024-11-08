@@ -23,14 +23,14 @@ abstract: Summary Microbial eukaryotes play important roles in aquatic ecosystem
   diversity gradients in microeukaryote communities (total, abundant, uncommon and
   rare community composition) along a latitudinal gradient of lakes distributed from
   Argentinean Patagonia to Maritime Antarctica using both denaturing gradient gel
-  electrophoresis (DGGE) and high‐throughput sequencing (Illumina HiSeq). DGGE and
+  electrophoresis (DGGE) and high-throughput sequencing (Illumina HiSeq). DGGE and
   abundant Illumina operational taxonomic units (OTUs) showed both decreasing richness
   with latitude and significant differences between Patagonian and Antarctic lakes
   communities. In contrast, total richness did not change significantly across the
   latitudinal gradient, although evenness and diversity indices were significantly
-  higher in Patagonian lakes. Beta‐diversity was characterized by a high species turnover,
+  higher in Patagonian lakes. Beta-diversity was characterized by a high species turnover,
   influenced by both environmental and geographical descriptors, although this pattern
-  faded in the rare community. Our results suggest the co‐existence of a ‘core biosphere’
+  faded in the rare community. Our results suggest the co-existence of a ‘core biosphere’
   containing reduced number of abundant/dominant OTUs on which classical ecological
   rules apply, together with a much larger seedbank of rare OTUs driven by stochastic
   and reduced dispersal processes. These findings shed new light on the biogeographical

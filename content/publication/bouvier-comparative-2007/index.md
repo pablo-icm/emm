@@ -1,5 +1,5 @@
 ---
-title: "A comparative study of the cytometric characteristics of High and Low nucleic‐acid bacterioplankton cells from different aquatic ecosystems"
+title: "A comparative study of the cytometric characteristics of High and Low nucleic-acid bacterioplankton cells from different aquatic ecosystems"
 authors:
 - Thierry Bouvier
 - Paul A. Del Giorgio

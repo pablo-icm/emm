@@ -22,7 +22,7 @@ abstract: Abstract Marine heterotrophic flagellates (HFs) form a diverse and eco
   of these dominant HFs were present at relatively constant abundances, while others
   were influenced by temperature or displayed a patchy distribution. In the deep ocean,
   only a handful of taxa belonging to Bicosoecida and Chrysophyceae, together with
-  Diplonemea and Kinetoplastida, explained most of the HF signal. Co‐occurrence networks
+  Diplonemea and Kinetoplastida, explained most of the HF signal. Co-occurrence networks
   between HF and prokaryotic taxa at the surface ocean revealed two main clusters
   influenced by temperature that did not seem to show specific patterns of interaction.
   However, some correlations emerged outside these thermal groups that could represent

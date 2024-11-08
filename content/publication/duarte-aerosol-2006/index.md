@@ -4,10 +4,10 @@ authors:
 - Carlos M Duarte
 - Jordi Dachs
 - Moira Llabrés
-- Patricia Alonso‐Laita
+- Patricia Alonso-Laita
 - Josep M. Gasol
-- Antonio Tovar‐Sánchez
-- Sergio Sañudo‐Wilhemy
+- Antonio Tovar-Sánchez
+- Sergio Sañudo-Wilhemy
 - Susana Agustí
 date: '2006-12-01'
 publishDate: '2024-08-05T15:04:48.320371Z'
@@ -20,7 +20,7 @@ abstract: Atmospheric deposition is an important source of limiting nutrients to
   important amounts of organic matter, which may fuel heterotrophic activity in the
   ocean. The effect of atmospheric dry aerosol deposition on the metabolic balance
   and net production of planktonic communities remains unresolved. Here we report
-  high inputs of aerosol‐bound N, Si, P, Fe and organic C to the subtropical NE Atlantic
+  high inputs of aerosol-bound N, Si, P, Fe and organic C to the subtropical NE Atlantic
   and experimentally demonstrate these inputs to stimulate autotrophic abundance and
   metabolism far beyond the modest stimulation of heterotrophic processes, thereby
   enhancing new production. Aerosol dry deposition was threefold to tenfold higher

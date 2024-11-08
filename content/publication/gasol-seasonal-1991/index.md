@@ -22,7 +22,7 @@ abstract: 'To be useful in understanding natural communities, the analysis of si
   (3 or more times the biomass of the others). We used these data to test the utility
   of the size spectral approach to describe seasonal changes in the lake. Both linear
   and polynomial equations were fitted to the normalized spectra. Although the slope
-  of the linear fit did not show any seasonal trend, the second‐order coefficient
+  of the linear fit did not show any seasonal trend, the second-order coefficient
   of the polynomial fit presented a clear pattern that made it a useful index of the
   degree of procaryotic dominance. The lake alternated between anaerobic conditions
   during mixing, when procaryotes dominated and polynomial fits were best, and stratification,

@@ -4,10 +4,10 @@ authors:
 - Silvia G. Acinas
 - Isabel Ferrera
 - Hugo Sarmento
-- Cristina Díez‐Vives
+- Cristina Díez-Vives
 - Irene Forn
-- Clara Ruiz‐González
-- Francisco M. Cornejo‐Castillo
+- Clara Ruiz-González
+- Francisco M. Cornejo-Castillo
 - Guillem Salazar
 - Josep M. Gasol
 date: "2015-01-01"

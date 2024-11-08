@@ -1,11 +1,11 @@
 ---
-title: Environmental gradients and physical barriers drive the basin‐wide spatial
+title: Environmental gradients and physical barriers drive the basin-wide spatial
   structuring of Mediterranean Sea and adjacent eastern Atlantic Ocean prokaryotic
   communities
 authors:
 - Marta Sebastián
-- Eva Ortega‐Retuerta
-- Laura Gómez‐Consarnau
+- Eva Ortega-Retuerta
+- Laura Gómez-Consarnau
 - Marina Zamanillo
 - Marta Álvarez
 - Javier Arístegui
@@ -28,7 +28,7 @@ abstract: Abstract The Mediterranean Sea is a miniature ocean divided by the Sic
   among the two Mediterranean basins and the adjacent Atlantic waters. Prokaryotic
   diversity increased with depth and toward the Atlantic, whereas the easternmost
   stations displayed more phylogenetically diverse phylotypes, despite harboring globally
-  less diverse communities. Basin‐indicator taxa (ASVs) accounted for a large fraction
+  less diverse communities. Basin-indicator taxa (ASVs) accounted for a large fraction
   of the community (between 50% and 80%) in each of the basins at the surface and
   bathypelagic layers, being associated with different environmental variables. The
   existence of biogeographic and environmental barriers in the Mediterranean Sea is

@@ -4,9 +4,9 @@ title: Global diversity and distribution of aerobic anoxygenic phototrophs in th
 authors:
 - Carlota R Gazulla
 - Adrià Auladell
-- Clara Ruiz‐González
+- Clara Ruiz-González
 - Pedro C Junger
-- Marta Royo‐Llonch
+- Marta Royo-Llonch
 - Carlos M Duarte
 - Josep M. Gasol
 - Olga Sánchez
@@ -19,7 +19,7 @@ publication: '*Environmental Microbiology*'
 doi: 10.1111/1462-2920.15835
 abstract: Summary  The aerobic anoxygenic phototrophic (AAP) bacteria are common in
   most marine environments but their global diversity and biogeography remain poorly
-  characterized. Here, we analyzed AAP communities across 113 globally‐distributed
+  characterized. Here, we analyzed AAP communities across 113 globally-distributed
   surface ocean stations sampled during the Malaspina Expedition in the tropical and
   subtropical ocean. By means of amplicon sequencing of the puf M gene, a genetic
   marker for this functional group, we show that AAP communities along the surface

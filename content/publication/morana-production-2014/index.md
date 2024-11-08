@@ -16,7 +16,7 @@ publication_types:
 publication: '*Limnology and Oceanography*'
 doi: 10.4319/lo.2014.59.4.1364
 abstract: 'In pelagic ecosystems, phytoplankton extracellular release can extensively
-  subsidize the heterotrophic prokaryotic carbon demand. Time‐course experiments were
+  subsidize the heterotrophic prokaryotic carbon demand. Time-course experiments were
   carried out to quantify primary production, phytoplankton excretion, and the microbial
   uptake of freshly released dissolved organic carbon (DOC) derived from phytoplankton
   extracellular release (DOCp) in four large tropical lakes distributed along a productivity
@@ -33,7 +33,7 @@ abstract: 'In pelagic ecosystems, phytoplankton extracellular release can extens
   In other words, there was a tight coupling between the production and the heterotrophic
   consumption of DOCp. None of the major phylogenetic bacterial groups that were investigated
   differed in their ability to take up DOCp, in contrast with earlier results reported
-  for standard labeled single‐molecule substrates (leucine, glucose, adenosine triphosphate).
+  for standard labeled single-molecule substrates (leucine, glucose, adenosine triphosphate).
   It supports the idea that the metabolic ability to use DOCp is widespread among
   heterotrophic prokaryotes. Overall, these results highlight the importance of carbon
   transfer between phytoplankton and bacterioplankton in large African lakes.'

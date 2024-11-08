@@ -17,8 +17,8 @@ doi: 10.4319/lo.1996.41.6.1169
 abstract: A series of dialysis experiments was performed to study the relative importance
   of substrate limitation and grazing in controlling the proportion of active cells
   of coastal marine bacterioplankton. The grazer community was manipulated by filling
-  dialysis bags with unfiltered water and water serially passed through 150‐, 40‐,
-  and 0.8‐ µ m pore‐size filters. The total number of bacteria, the number of metabolically
+  dialysis bags with unfiltered water and water serially passed through 150-, 40-,
+  and 0.8- µ m pore-size filters. The total number of bacteria, the number of metabolically
   active cells, bacterial loss rates, and the abundances of heterotrophic nanoflagellates
   were measured immediately and at 3 and 6 d. Gross growth rates were similar in all
   treatments, suggesting that ambient nutrient concentrations set an upper limit to

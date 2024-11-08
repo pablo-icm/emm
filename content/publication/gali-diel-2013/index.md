@@ -4,8 +4,8 @@ title: 'Diel patterns of oceanic dimethylsulfide (DMS) cycling: Microbial and ph
 authors:
 - Martí Galí
 - Rafel Simó
-- Maria Vila‐Costa
-- Clara Ruiz‐González
+- Maria Vila-Costa
+- Clara Ruiz-González
 - Josep M. Gasol
 - Patricia Matrai
 date: '2013-09-01'

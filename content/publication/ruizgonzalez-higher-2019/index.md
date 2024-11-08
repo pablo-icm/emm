@@ -2,11 +2,11 @@
 title: Higher contribution of globally rare bacterial taxa reflects environmental
   transitions across the surface ocean
 authors:
-- Clara Ruiz‐González
+- Clara Ruiz-González
 - Ramiro Logares
 - Marta Sebastián
 - Mireia Mestre
-- Raquel Rodríguez‐Martínez
+- Raquel Rodríguez-Martínez
 - Martí Galí
 - Maria M Sala
 - Silvia G. Acinas
@@ -23,18 +23,18 @@ abstract: Abstract Microbial taxa range from being ubiquitous and abundant acros
   processes acting locally or regionally. However, little is known about how cosmopolitan
   or rare taxa combine to constitute communities and whether environmental variations
   promote changes in their relative abundances. Here we identified the Spatial Abundance
-  Distribution (SpAD) of individual prokaryotic taxa (16S rDNA‐defined Operational
-  Taxonomic Units, OTUs) across 108 globally‐distributed surface ocean stations. We
-  grouped taxa based on their SpAD shape (“normal‐like”‐ abundant and ubiquitous;
-  “logistic”‐ globally rare, present in few sites; and “bimodal”‐ abundant only in
+  Distribution (SpAD) of individual prokaryotic taxa (16S rDNA-defined Operational
+  Taxonomic Units, OTUs) across 108 globally-distributed surface ocean stations. We
+  grouped taxa based on their SpAD shape (“normal-like”- abundant and ubiquitous;
+  “logistic”- globally rare, present in few sites; and “bimodal”- abundant only in
   certain oceanic regions), and investigated how the abundance of these three categories
   relates to environmental gradients. Most surface assemblages were numerically dominated
-  by a few cosmopolitan “normal‐like” OTUs, yet there was a gradual shift towards
+  by a few cosmopolitan “normal-like” OTUs, yet there was a gradual shift towards
   assemblages dominated by “logistic” taxa in specific areas with productivity and
   temperature differing the most from the average conditions in the sampled stations.
   When we performed the SpAD categorization including additional habitats (deeper
   layers and particles of varying sizes), the SpAD of many OTUs changed towards fewer
-  “normal‐like” shapes, and OTUs categorized as globally rare in the surface ocean
+  “normal-like” shapes, and OTUs categorized as globally rare in the surface ocean
   became abundant. This suggests that understanding the mechanisms behind microbial
   rarity and dominance requires expanding the context of study beyond local communities
   and single habitats. We show that marine bacterial communities comprise taxa displaying

@@ -1,5 +1,5 @@
 ---
-title: Assessing the Effectiveness of Marine Reserves on Unsustainably Harvested Long‐Lived
+title: Assessing the Effectiveness of Marine Reserves on Unsustainably Harvested Long-Lived
   Sessile Invertebrates
 authors:
 - Cristina Linares
@@ -16,7 +16,7 @@ publication_types:
 publication: '*Conservation Biology*'
 doi: 10.1111/j.1523-1739.2011.01795.x
 abstract: Abstract:  Although the rapid recovery of fishes after establishment of
-  a marine reserve is well known, much less is known about the response of long‐lived,
+  a marine reserve is well known, much less is known about the response of long-lived,
   sessile, benthic organisms to establishment of such reserves. Since antiquity, Mediterranean
   red coral (Corallium rubrum) has been harvested intensively for use in jewelry,
   and its distribution is currently smaller than its historical size throughout the
@@ -27,7 +27,7 @@ abstract: Abstract:  Although the rapid recovery of fishes after establishment
   in the Medes Islands Marine Reserve (established in 1992) and in adjacent unprotected
   areas. Moreover, we compared colony size in the Medes Islands Marine Reserve, where
   recreational diving is allowed and poaching has been observed after reserve establishment,
-  with colony size in three other marine protected areas (Banyuls, Carry‐le‐Rouet,
+  with colony size in three other marine protected areas (Banyuls, Carry-le-Rouet,
   and Scandola) with the enforced prohibition of fishing and diving. At the end of
   the study, the size of red coral colonies at all sampling sites in the Medes Islands
   was significantly smaller than predicted by growth models and smaller than those
@@ -51,7 +51,7 @@ abstract: Abstract:  Although the rapid recovery of fishes after establishment
   adyacentes. Más aun, comparamos el tamaño de las colonias en la Reserva Marina Islas
   Medes, donde se permite el buceo recreativo y se ha observado pesca furtiva después
   del establecimiento de la reserva, con el tamaño de las colonias en otras tres áreas
-  marinas protegidas (Banyus, Carry‐le‐Rouet y Scandola) con prohibición forzada de
+  marinas protegidas (Banyus, Carry-le-Rouet y Scandola) con prohibición forzada de
   pesca y buceo. Al final del estudio, el tamaño de las colonias de coral rojo en
   todos los sitios de muestreo en la Islas Medes fue significativamente más pequeño
   que el pronosticado por los modelos de crecimiento y más pequeño que el de las colonias

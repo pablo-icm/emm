@@ -27,20 +27,20 @@ abstract: 'Abstract  Phytoplankton account for textgreater45% of global primary 
   lineages containing chloroplasts. Genetic surveys of phytoplankton communities generally
   consist of PCR amplification of bacterial (16S), nuclear (18S) and/or chloroplastic
   (16S) rRNA marker genes from DNA extracted from environmental samples. However,
-  our appreciation of phytoplankton abundance or biomass is limited by PCR‐amplification
+  our appreciation of phytoplankton abundance or biomass is limited by PCR-amplification
   biases, rRNA gene copy number variations across taxa, and the fact that rRNA genes
   do not provide insights into metabolic traits such as photosynthesis. Here, we targeted
   the photosynthetic gene psbO from metagenomes to circumvent these limitations: the
-  method is PCR‐free, and the gene is universally and exclusively present in photosynthetic
+  method is PCR-free, and the gene is universally and exclusively present in photosynthetic
   prokaryotes and eukaryotes, mainly in one copy per genome. We applied and validated
-  this new strategy with the size‐fractionated marine samples collected by Tara Oceans,
+  this new strategy with the size-fractionated marine samples collected by Tara Oceans,
   and showed improved correlations with flow cytometry and microscopy than when based
   on rRNA genes. Furthermore, we revealed unexpected features of the ecology of these
   ecosystems, such as the high abundance of picocyanobacterial aggregates and symbionts
   in the ocean, and the decrease in relative abundance of phototrophs towards the
   larger size classes of marine dinoflagellates. To facilitate the incorporation of
-  psbO in molecular‐based surveys, we compiled a curated database of textgreater18,000
-  unique sequences. Overall, psbO appears to be a promising new gene marker for molecular‐based
+  psbO in molecular-based surveys, we compiled a curated database of textgreater18,000
+  unique sequences. Overall, psbO appears to be a promising new gene marker for molecular-based
   evaluations of entire phytoplankton communities.  ,   see also the Perspective by
   Georgina L. Brennan'
 links:

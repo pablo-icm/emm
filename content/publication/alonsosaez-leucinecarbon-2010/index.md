@@ -1,7 +1,7 @@
 ---
-title: "Leucine‐to‐carbon empirical conversion factor experiments: does bacterial community structure have an influence?"
+title: "Leucine-to-carbon empirical conversion factor experiments: does bacterial community structure have an influence?"
 authors:
-- Laura Alonso‐Sáez
+- Laura Alonso-Sáez
 - Jarone Pinhassi
 - Jakob Pernthaler
 - Josep M. Gasol
@@ -29,14 +29,14 @@ Flavobacteria
 were less abundant but increased up to 40% of cells counts in winter seawater cultures, when
 in situ
 chlorophyll a was high. The correlations between eCFs and the abundance of the main broad phylogenetic groups (
-Gamma‐, Alphaproteobacteria
+Gamma-, Alphaproteobacteria
 and
 Flavobacteria
 ) were significant, albeit weak, while more specific groups (
 Alteromonadaceae
 and
 Rhodobacteraceae
-) were not significantly correlated. Our results show that the frequent development of the fast‐growing group
+) were not significantly correlated. Our results show that the frequent development of the fast-growing group
 Alteromonadaceae
 in seawater cultures does not strongly drive the observed variations in eCFs. Rather, the results imply that environmental conditions and the growth of specific phylotypes interact to determine eCFs."
 links:

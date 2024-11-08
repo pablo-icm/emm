@@ -1,12 +1,12 @@
 ---
-title: 'Dynamics of the hydrocarbon‐degrading *Cycloclasticus* bacteria during
-  mesocosm‐simulated oil spills'
+title: 'Dynamics of the hydrocarbon-degrading *Cycloclasticus* bacteria during
+  mesocosm-simulated oil spills'
 authors:
 - Eva Teira
 - Itziar Lekunberri
 - Josep M. Gasol
-- Mar Nieto‐Cid
-- Xosé Antón Álvarez‐Salgado
+- Mar Nieto-Cid
+- Xosé Antón Álvarez-Salgado
 - Francisco G Figueiras
 date: '2007-10-01'
 publishDate: '2024-08-05T15:04:48.228150Z'
@@ -15,8 +15,8 @@ publication_types:
 publication: '*Environmental Microbiology*'
 doi: 10.1111/j.1462-2920.2007.01373.x
 abstract: 'Summary  We used catalysed reported deposition – fluorescence in situ hybridization
-  (CARD‐FISH) to analyse changes in the abundance of the bacterial groups Alphaproteobacteria
-  , Gammaproteobacteria and Bacteroidetes, and of hydrocarbon‐degrading Cycloclasticus
+  (CARD-FISH) to analyse changes in the abundance of the bacterial groups Alphaproteobacteria
+  , Gammaproteobacteria and Bacteroidetes, and of hydrocarbon-degrading Cycloclasticus
   bacteria in mesocosms that had received polycyclic aromatic hydrocarbons (PAHs)
   additions. The effects of PAHs were assessed under four contrasting hydrographic
   conditions in the coastal upwelling system of the Rías Baixas: winter mixing, spring

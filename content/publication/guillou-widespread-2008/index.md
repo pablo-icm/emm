@@ -27,10 +27,10 @@ abstract: Summary  Syndiniales are a parasitic order within the eukaryotic linea
   supported. Thus, the two uncultured novel marine alveolate groups I and II, which
   have been highlighted previously, are confirmed to belong to the Syndiniales . These
   groups were the most diverse and highly represented in environmental studies. Within
-  each, 8 and 44 clades were identified respectively. Co‐evolutionary trends between
+  each, 8 and 44 clades were identified respectively. Co-evolutionary trends between
   parasitic Syndiniales and their putative hosts were not clear, suggesting they may
   be relatively ‘general’ parasitoids. Based on the overall distribution patterns
-  of the Syndiniales ‐affiliated sequences, we propose that Syndiniales are exclusively
+  of the Syndiniales -affiliated sequences, we propose that Syndiniales are exclusively
   marine. Interestingly, sequences belonging to groups II, III and V were largely
   retrieved from the photic zone, while Group I dominated samples from anoxic and
   suboxic ecosystems. Nevertheless, both groups I and II contained specific clades

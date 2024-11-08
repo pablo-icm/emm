@@ -1,11 +1,11 @@
 ---
-title: "Winter‐to‐summer changes in the composition and single‐cell activity of near‐surface Arctic prokaryotes"
+title: "Winter-to-summer changes in the composition and single-cell activity of near-surface Arctic prokaryotes"
 authors:
-- Laura Alonso‐Sáez
+- Laura Alonso-Sáez
 - Olga Sánchez
 - Josep M. Gasol
 - Vanessa Balagué
-- Carlos Pedrós‐Alio
+- Carlos Pedrós-Alio
 date: "2008-01-01"
 year: "2008"
 publication-types:
@@ -17,7 +17,7 @@ pages: "2444--2454"
 doi: "10.1111/j.1462-2920.2008.01674.x"
 abstract: "Summary
 
-We collected surface samples in Franklin Bay (Western Arctic) from ice‐covered to ice‐free conditions, to determine seasonal changes in the identity and
+We collected surface samples in Franklin Bay (Western Arctic) from ice-covered to ice-free conditions, to determine seasonal changes in the identity and
 in situ
 activity of the prokaryotic assemblages. Catalysed reported fluorescence
 in situ

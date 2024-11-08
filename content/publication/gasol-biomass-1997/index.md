@@ -21,10 +21,10 @@ abstract: 'Patterns in primary production and carbon export from the euphotic zo
   very high relative heterotrophic biomasses resulting in inverted biomass pyramids,
   whereas the plankton of productive areas are characterized by a smaller contribution
   of heterotrophs to community biomass and a normal biomass pyramid with a broad autotrophic
-  base. Moreover, open‐ocean communities support significantly more heterotrophic
+  base. Moreover, open-ocean communities support significantly more heterotrophic
   biomass in the upper layers than do coastal communities for a given autotrophic
   biomass. These differences in the biomass structure of the community could be explained
-  by the changes in the biomass‐specific rates of phytoplankton production that seem
+  by the changes in the biomass-specific rates of phytoplankton production that seem
   to occur from ultraoligotrophic to eutrophic marine regions, but other factors could
   also generate them. The patterns described suggest a rather systematic shift from
   consumer control of primary production and phytoplankton biomass in open ocean to

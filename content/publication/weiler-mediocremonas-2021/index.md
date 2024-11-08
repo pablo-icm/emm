@@ -16,7 +16,7 @@ abstract: 'Abstract  The stramenopiles are a large and diverse group of eukaryot
   that possess various lifestyles required to thrive in a broad array of environments.
   The stramenopiles branch with the alveolates, rhizarians, and telonemids, forming
   the supergroup TSAR. Here, we present a new genus and species of aquatic nanoflagellated
-  stramenopile: Mediocremonas mediterraneus , a free‐swimming heterotrophic predator.
+  stramenopile: Mediocremonas mediterraneus , a free-swimming heterotrophic predator.
   M . mediterraneus cell bodies measure between 2.0–4.0 μm in length and 1.2–3.7 μm
   in width, possessing two flagella and an oval body morphology. The growth and grazing
   rate of M . mediterraneus in batch cultures ranges from 0.68 to 1.83 d −1 and 1.99

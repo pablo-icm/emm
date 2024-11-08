@@ -13,7 +13,7 @@ authors:
 - Ramon Massana
 - Caterina R. Giner
 - Guillem Salazar
-- X Anton Alvarez‐Salgado
+- X Anton Alvarez-Salgado
 - Teresa S Catala
 - Carlos M Duarte
 - Susana Agusti

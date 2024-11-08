@@ -6,7 +6,7 @@ authors:
 - Ramon Terrado
 - Irene Forn
 - Connie Lovejoy
-- Carlos Pedrós‐Alió
+- Carlos Pedrós-Alió
 date: '2006-09-01'
 publishDate: '2024-08-05T15:04:48.334876Z'
 publication_types:
@@ -22,12 +22,12 @@ abstract: Summary  Heterotrophic flagellates play fundamental roles in marine ec
   little is known about the organisms corresponding to these sequences. Here we determine
   the abundance of several marine stramenopile lineages in surface marine waters using
   molecular probes and fluorescent in situ hybridization. We show that these protists
-  are free‐living bacterivorous heterotrophic flagellates. They were widely distributed,
+  are free-living bacterivorous heterotrophic flagellates. They were widely distributed,
   occurring in the five world oceans, and accounted for a significant fraction (up
   to 35%) of heterotrophic flagellates in diverse geographic regions. A single group,
-  MAST‐4, represented 9% of cells within this functional assemblage, with the intriguing
-  exception of polar waters where it was absent. MAST‐4 cells likely contribute substantially
-  to picoplankton grazing and nutrient re‐mineralization in vast areas of the oceans
+  MAST-4, represented 9% of cells within this functional assemblage, with the intriguing
+  exception of polar waters where it was absent. MAST-4 cells likely contribute substantially
+  to picoplankton grazing and nutrient re-mineralization in vast areas of the oceans
   and represent a key eukaryotic group in marine food webs.
 links:
 - name: URL

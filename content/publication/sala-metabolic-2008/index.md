@@ -6,7 +6,7 @@ authors:
 - Ramon Terrado
 - Connie Lovejoy
 - Fernando Unrein
-- Carlos Pedrós‐Alió
+- Carlos Pedrós-Alió
 date: '2008-04-01'
 publishDate: '2024-08-05T15:04:48.097650Z'
 publication_types:

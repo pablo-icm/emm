@@ -1,5 +1,5 @@
 ---
-title: Physiological Structure and Single‐Cell Activity in Marine Bacterioplankton
+title: Physiological Structure and Single-Cell Activity in Marine Bacterioplankton
 authors:
 - Paul A Del Giorgio
 - Josep M. Gasol

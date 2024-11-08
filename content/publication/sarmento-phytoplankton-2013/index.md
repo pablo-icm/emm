@@ -1,5 +1,5 @@
 ---
-title: Phytoplankton species‐specific release of dissolved free amino acids and their
+title: Phytoplankton species-specific release of dissolved free amino acids and their
   selective consumption by bacteria
 authors:
 - Hugo Sarmento
@@ -31,7 +31,7 @@ abstract: Despite representing only a small fraction of the ocean's dissolved or
   especially alanine, which has been reported as the dominant individual DFAA in some
   oligotrophic environments. Community structure of heterotrophic prokaryotes responded
   to differences in the quality of organic matter released among microalgal species,
-  with Roseobacter ‐related bacteria responding strongly to exudate composition. Our
+  with Roseobacter -related bacteria responding strongly to exudate composition. Our
   results demonstrate the specificity of DFAA extracellular release among several
   algal species and their preferential uptake by members of bacterial communities.
 links:

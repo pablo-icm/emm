@@ -3,7 +3,7 @@ title: 'Transcriptional and proteomic profiling of flatfish (*Solea senegalensis
 authors:
 - Ignasi Forné
 - Bárbara Castellana
-- Rubén Marín‐Juez
+- Rubén Marín-Juez
 - Joan Cerdà
 - Joaquín Abián
 - Josep V Planas
@@ -16,9 +16,9 @@ doi: 10.1002/pmic.201000296
 abstract: Abstract  The Senegalese sole ( Solea senegalensis ) is a marine flatfish
   of high economic value and a target species for aquaculture. The efforts to reproduce
   this species in captivity have been hampered by the fact that farmed males (F1)
-  often show lower sperm production and fertilization capacity than wild‐type males
+  often show lower sperm production and fertilization capacity than wild-type males
   (F0). Our knowledge on spermatogenesis is however limited to a few studies. In a
-  previous work, we identified by 2‐D DIGE several potential protein markers in testis
+  previous work, we identified by 2-D DIGE several potential protein markers in testis
   for the poor reproductive performance of F1 males. Therefore, the objectives of
   the present study were, first, to investigate changes in genes and proteins expressed
   in the testis throughout spermatogenesis in F0 males by using a combination of transcriptomic

@@ -23,7 +23,7 @@ abstract: A station located in the Gerlache Strait (Antarctic Peninsula) was sam
   at the surface and extremely low at 500 m. The relative abundance of planktonic
   archaeal, eucaryal, and bacterial ribosomal RNA was determined by quantitative rRNA
   hybridization, and the performance of two different universal probes used to normalize
-  group‐specific probe hybridization response was compared. Archaeal rRNA was detected
+  group-specific probe hybridization response was compared. Archaeal rRNA was detected
   in all samples analyzed, and was more abundant at depth (up to 25% of total rRNA)
   than at the surface. In both years, the archaeal signal decreased during the sampling
   period, particularly at surface. Most of the archaeal signal was attributable to

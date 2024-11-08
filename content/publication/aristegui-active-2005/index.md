@@ -4,7 +4,7 @@ authors:
 - Javier Arístegui
 - Carlos M. Duarte
 - Josep M. Gasol
-- Laura Alonso‐Sáez
+- Laura Alonso-Sáez
 date: "2005-01-01"
 year: "2005"
 publication-types:

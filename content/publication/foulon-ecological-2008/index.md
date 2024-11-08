@@ -25,9 +25,9 @@ abstract: Summary  Very few studies have analysed the niches of pelagic protist 
   The three clades were detected in all biogeographical regions studied and were commonly
   found in sympatry. Cell abundances recorded for clades A and B were high, especially
   at coastal stations. Clade C, when detected, was always at low abundances and is
-  suggested to be a low‐light clade. Shifts in the contribution of clades to total
+  suggested to be a low-light clade. Shifts in the contribution of clades to total
   M. pusilla abundance were observed along environmental gradients, both at local
-  and basin‐wide scales. This suggests that the phylogenetic clades occupy specific
+  and basin-wide scales. This suggests that the phylogenetic clades occupy specific
   niches and confirms the existence of cryptic species within the morphospecies M.
   pusilla . Parameters which can precisely explain the distribution of these cryptic
   species remain to be elucidated.

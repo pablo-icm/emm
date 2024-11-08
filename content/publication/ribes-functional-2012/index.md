@@ -4,7 +4,7 @@ authors:
 - Marta Ribes
 - Eroteida Jiménez
 - Gitai Yahel
-- Paula López‐Sendino
+- Paula López-Sendino
 - Beatriz Díez
 - Ramon Massana
 - Jasmine H Sharp
@@ -18,7 +18,7 @@ doi: 10.1111/j.1462-2920.2012.02701.x
 abstract: Summary  Most marine sponges establish a persistent association with a wide
   array of phylogenetically and physiologically diverse microbes. To date, the role
   of these symbiotic microbial communities in the metabolism and nutrient cycles of
-  the sponge‐microbe consortium remains largely unknown. We identified and quantified
+  the sponge-microbe consortium remains largely unknown. We identified and quantified
   the microbial communities associated with three common Mediterranean sponge species,
   Dysidea avara , Agelas oroides and Chondrosia reniformis ( Demospongiae ) that cohabitate
   coralligenous community. For each sponge we quantified the uptake and release of

@@ -30,7 +30,7 @@ abstract: We quantify, compare, and generalize responses of experimental nutrien
   Data were derived from three mesocosm experiments undertaken in Baltic (BAL), Mediterranean
   (MED), and Norwegian (NOR) coastal waters. A planktonic model with seven functional
   compartments and 30–32 different carbon flows fit to all three experiments was used
-  as a framework for flow‐rate estimation and comparison. Flows were estimated on
+  as a framework for flow-rate estimation and comparison. Flows were estimated on
   the basis of time series of measured biomass, some measured flows, and inverse modeling.
   Biomass and gross uptake rate of carbon of most groups increased linearly with increasing
   L N in the nutrient input range of 0–1 µmol N L −1 d −1 at all locations. The fate

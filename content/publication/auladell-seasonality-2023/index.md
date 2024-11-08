@@ -20,9 +20,9 @@ abstract: 'Abstract  Microbes drive the biogeochemical cycles of marine ecosyste
   of the spatial distribution of these metabolic processes in various ecosystems,
   less is known about their seasonal dynamics. We investigated the annual patterns
   of 21 biogeochemical relevant functions in an oligotrophic coastal ocean site by
-  analysing the presence of key genes, analysing high‐rank gene taxonomy and the dynamics
+  analysing the presence of key genes, analysing high-rank gene taxonomy and the dynamics
   of nucleotide variants. Most genes presented seasonality: photoheterotrophic processes
-  were enriched during spring, phosphorous‐related genes were dominant during summer,
+  were enriched during spring, phosphorous-related genes were dominant during summer,
   coinciding with potential phosphate limitation, and assimilatory nitrate reductases
   appeared mostly during summer and autumn, correlating negatively with nitrate availability.
   Additionally, we identified the main taxa driving each function at each season and

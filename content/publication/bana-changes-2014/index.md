@@ -29,7 +29,7 @@ MS
 DOM
 quality, characterized by fluorescent
 DOM
-analysis and collected from key times of the predator–prey curve. In both ecosystems, protozoan‐altered
+analysis and collected from key times of the predator–prey curve. In both ecosystems, protozoan-altered
 DOM
 led to similar increases in bacterial carbon demand (238% and 213%) and decreases in bacterial growth efficiency (
 BGE

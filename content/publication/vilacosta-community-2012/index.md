@@ -1,8 +1,8 @@
 ---
-title: Community analysis of high‐ and low‐nucleic acid‐containing bacteria in NW
+title: Community analysis of high- and low-nucleic acid-containing bacteria in NW
   Mediterranean coastal waters using 16S rDNA pyrosequencing
 authors:
-- Maria Vila‐Costa
+- Maria Vila-Costa
 - Josep M. Gasol
 - Shalabh Sharma
 - Mary Ann Moran
@@ -17,13 +17,13 @@ abstract: Summary  The ecological significance of the marine bacterial populatio
   nucleic acid (NA) content and proxies of cell size (such as side scatter, SSC) remains
   largely unknown. Some studies have suggested that cells with high NA (HNA) content
   and high SSC (HS) represent the active members of the community, while the low NA
-  (LNA) cells are inactive members of the same phylogenetic groups. But group‐specific
+  (LNA) cells are inactive members of the same phylogenetic groups. But group-specific
   activity measurements and phylogenetic assignment after cell sorting have suggested
-  this is not be the case, particularly in open‐ocean communities. To test the extent
+  this is not be the case, particularly in open-ocean communities. To test the extent
   to which the different NA subgroups are similar, and consequently the extent to
   which they likely have similar ecological and biogeochemical roles in the environment,
   we analysed the phylogenetic composition of three populations after cell sorting
-  [high NA‐high SC (HNA‐HS), high NA‐low SC (HNA‐LS), low NA (LNA)] by 454 pyrosequencing
+  [high NA-high SC (HNA-HS), high NA-low SC (HNA-LS), low NA (LNA)] by 454 pyrosequencing
   in two contrasting periods of the year in NW Mediterranean coastal waters (BBMO,
   Blanes Bay Microbial Observatory) where these three populations have recurrent seasonal
   patterns. Statistical analyses showed that summer and winter samples were significantly
@@ -34,7 +34,7 @@ abstract: Summary  The ecological significance of the marine bacterial populatio
   , SAR116 and Bacteroidetes contributed primarily to the HNA fraction, whereas other
   groups such as SAR11 and SAR86 contributed largely to the LNA fractions. Gammaproteobacteria
   other than SAR86 showed less preference for one particular NA fraction. An increase
-  in diversity was observed from the LNA to the HNA‐HS fraction for both sample dates.
+  in diversity was observed from the LNA to the HNA-HS fraction for both sample dates.
   Our results suggest that, in Blanes Bay, flow cytometric signatures of natural communities
   track their phylogenetic composition.
 links:

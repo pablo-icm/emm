@@ -18,8 +18,8 @@ abstract: Summary Proteorhodopsins, ubiquitous retinylidene photoactive proton p
   surface waters. To survey proteorhodopsin diversity, new degenerate sets of proteorhodopsin
   primers were designed based on a genomic proteorhodopsin gene sequence originating
   from an Antarctic fosmid library. New proteorhodopsin variants were identified in
-  Red Sea samples that were most similar to the original green‐light absorbing proteorhodopsins
-  found in Monterey Bay California. Unlike green‐absorbing proteorhodopsins however,
+  Red Sea samples that were most similar to the original green-light absorbing proteorhodopsins
+  found in Monterey Bay California. Unlike green-absorbing proteorhodopsins however,
   these new variants contained a glutamine residue at position 105, the same site
   recently shown to control spectral tuning in naturally occurring proteorhodopsins.
   Different proteorhodopsin variants were also found in the Mediterranean Sea. These

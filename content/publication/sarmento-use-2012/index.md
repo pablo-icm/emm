@@ -1,5 +1,5 @@
 ---
-title: Use of phytoplankton‐derived dissolved organic carbon by different types of
+title: Use of phytoplankton-derived dissolved organic carbon by different types of
   bacterioplankton
 authors:
 - Hugo Sarmento
@@ -17,7 +17,7 @@ abstract: 'Summary Phytoplankton and heterotrophic prokaryotes are major compone
   for phytoplankton. For this reason, these communities are expected to be closely
   linked, although the study of the interactions between them is still a major challenge.
   Recent studies have presented interactions between phytoplankton and heterotrophic
-  prokaryotes based on coexistence or covariation throughout a time‐series. However,
+  prokaryotes based on coexistence or covariation throughout a time-series. However,
   a real quantification of the carbon flow within these networks (defined as the interaction
   strength, IS) has not been achieved yet. This is critical to understand the selectivity
   degree of bacteria responding to specific algal DOCp. Here we used microautoradiography
@@ -25,7 +25,7 @@ abstract: 'Summary Phytoplankton and heterotrophic prokaryotes are major compone
   on DOC derived from several representative phytoplankton species, and expressed
   these preferences as an IS value. The distribution of the ISs was not random but
   rather skewed towards weak interactions, in a similar way as the distributions described
-  for stable complex non‐microbial ecosystems, indicating that there are some cases
+  for stable complex non-microbial ecosystems, indicating that there are some cases
   of high specificity on the use of specific algal DOCp by some bacterial groups,
   but weak interactions are more common and may be relevant as well. The variety of
   IS patterns observed supports the view that the vast range of different resources

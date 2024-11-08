@@ -23,13 +23,13 @@ abstract: "Abstract
 
 Ocean oligotrophication concurrent with warming weakens the capacity of marine primary producers to support marine food webs and act as a CO
 2
-sink, and is believed to result from reduced nutrient inputs associated to the stabilization of the thermocline. However, nutrient supply in the oligotrophic ocean is largely dependent on the recycling of organic matter. This involves hydrolytic processes catalyzed by extracellular enzymes released by bacteria, which temperature dependence has not yet been evaluated. Here, we report a global assessment of the temperature‐sensitivity, as represented by the activation energies (
+sink, and is believed to result from reduced nutrient inputs associated to the stabilization of the thermocline. However, nutrient supply in the oligotrophic ocean is largely dependent on the recycling of organic matter. This involves hydrolytic processes catalyzed by extracellular enzymes released by bacteria, which temperature dependence has not yet been evaluated. Here, we report a global assessment of the temperature-sensitivity, as represented by the activation energies (
 E
 a
-), of extracellular β‐glucosidase (βG), leucine aminopeptidase (LAP) and alkaline phosphatase (AP) enzymatic activities, which enable the uptake by bacteria of substrates rich in carbon, nitrogen, and phosphorus, respectively. These
+), of extracellular β-glucosidase (βG), leucine aminopeptidase (LAP) and alkaline phosphatase (AP) enzymatic activities, which enable the uptake by bacteria of substrates rich in carbon, nitrogen, and phosphorus, respectively. These
 E
 a
-were calculated from two different approaches, temperature experimental manipulations and a space‐for‐time substitution approach, which generated congruent results. The three activities showed contrasting
+were calculated from two different approaches, temperature experimental manipulations and a space-for-time substitution approach, which generated congruent results. The three activities showed contrasting
 E
 a
 in the subtropical and tropical ocean, with βG increasing the fastest with warming, followed by LAP, while AP showed the smallest increase. The estimated activation energies predict that the hydrolysis products under projected warming scenarios will have higher C:N, C:P and N:P molar ratios than those currently generated, and suggest that the warming of oceanic surface waters leads to a decline in the nutrient supply to the microbial heterotrophic community relative to that of carbon, particularly so for phosphorus, slowing down nutrient recycling and contributing to further ocean oligotrophication."

@@ -25,7 +25,7 @@ abstract: Summary Marine microorganisms contribute markedly to global biomass an
   in picoeukaryotes. Finally, it is plausible that picoeukaryotes are less flexible
   to enter a reversible state of low metabolic activity, thus picoeukaryote assemblages
   may have fewer rare species and may be less resilient to environmental change. In
-  summary, lumping together pico‐sized microbes may be convenient for some ecological
+  summary, lumping together pico-sized microbes may be convenient for some ecological
   studies, but it is also important to keep in mind their differences.
 links:
 - name: URL

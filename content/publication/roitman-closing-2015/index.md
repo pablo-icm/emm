@@ -2,13 +2,13 @@
 title: 'Closing the gaps on the viral photosystem-I *psaDCAB* gene organization'
 authors:
 - Sheila Roitman
-- José Flores‐Uribe
+- José Flores-Uribe
 - Alon Philosof
 - Ben Knowles
 - Forest Rohwer
-- J Cesar Ignacio‐Espinoza
+- J Cesar Ignacio-Espinoza
 - Matthew B Sullivan
-- Francisco M. Cornejo‐Castillo
+- Francisco M. Cornejo-Castillo
 - Pablo Sánchez
 - Silvia G. Acinas
 - Chris L Dupont
@@ -34,7 +34,7 @@ abstract: Summary  Marine photosynthesis is largely driven by cyanobacteria, nam
   protein from the  psaD→ C → A → B  organization contains a lumenal loop conserved
   in PsaA proteins from  S ynechococcus  , but is completely absent in viral PsaA
   proteins from the  psaJF→ C → A → B → K → E → D  gene organization and most  P rochlorococcus  strains.
-  This may indicate a co‐evolutionary scenario where cyanophages containing either
+  This may indicate a co-evolutionary scenario where cyanophages containing either
   of these gene organizations infect cyanobacterial ecotypes biogeographically restricted
   to the 30°N and 30°S equatorial strip.
 links:

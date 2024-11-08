@@ -5,7 +5,7 @@ authors:
 - Marta Sebastián
 - Irene Forn
 - Adrià Auladell
-- Markel Gómez‐Letona
+- Markel Gómez-Letona
 - Maria M Sala
 - Josep M. Gasol
 - Cèlia Marrasé

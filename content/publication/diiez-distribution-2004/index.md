@@ -5,7 +5,7 @@ authors:
 - Beatriz Díez
 - Ramon Massana
 - Marta Estrada
-- Carlos Pedrós‐Alió
+- Carlos Pedrós-Alió
 date: '2004-07-01'
 publishDate: '2024-08-05T15:04:48.534035Z'
 publication_types:
@@ -17,7 +17,7 @@ abstract: We used a molecular fingerprinting technique to analyze the distributi
   Ocean. First, primers specific for eukaryotic 18S rDNA were used in a polymerase
   chain reaction (PCR) with environmental DNA. The amplification products were subjected
   to denaturing gradient gel electrophoresis (DGGE). Transect DOVETAIL (44°W) went
-  from the ice edge (at 60°S) across the Weddell‐Scotia confluence and north to 58°S;
+  from the ice edge (at 60°S) across the Weddell-Scotia confluence and north to 58°S;
   it was sampled in January 1998 (summer). Transect DHARMA (between 53°W and 58°W)
   went from the ice edge in the Weddell Sea (63°S) across the Drake Passage to the
   South American continental platform (55°S); it was sampled in December 1998 (late
@@ -27,7 +27,7 @@ abstract: We used a molecular fingerprinting technique to analyze the distributi
   was stratified and the DGGE band patterns varied with depth. In DHARMA the upper
   mixed layer showed the same composition of the eukaryotic picoplankton at all depths.
   The most dominant DGGE bands were excised and sequenced. Some were closely related
-  to well‐known components of the plankton such as prasinophytes, prymnesiophytes,
+  to well-known components of the plankton such as prasinophytes, prymnesiophytes,
   dinoflagellates, and diatoms. A significant number of sequences were related to
   previously unknown phylogenetic groups, including novel stramenopiles and alveolates
   or to poorly known groups such as cercomonads. This fingerprinting technique is

@@ -2,7 +2,7 @@
 title: A method to determine integrated predation in stratified waters
 authors:
 - Ramon Massana
-- Carlos Pedrós‐Alió
+- Carlos Pedrós-Alió
 date: '1994-03-01'
 publishDate: '2024-08-05T15:04:49.002162Z'
 publication_types:

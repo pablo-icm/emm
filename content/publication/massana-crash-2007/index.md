@@ -22,10 +22,10 @@ abstract: Summary  Viruses are known as important mortality agents of marine mic
   that the peak was formed by Cafeteria roenbergensis and Caecitellus paraparvulus
   (90% and 10% of the cells respectively). Both taxa were below detection in the original
   sample, indicating a strong positive selective bias during the enrichment. During
-  the peak, C. roenbergensis cells were observed with virus‐like particles in the
+  the peak, C. roenbergensis cells were observed with virus-like particles in the
   cytoplasm, and 4 days later this taxa could not be detected. Transmission electron
   microscopy confirmed the viral nature of these particles, which were large (280 nm),
-  had double‐stranded DNA, and were produced with a burst size of ∼70. This virus
+  had double-stranded DNA, and were produced with a burst size of ∼70. This virus
   was specific of C. roenbergensis as neither C. paraparvulus that was never seen
   infected, nor other flagellate taxa that developed in later stages of the incubation,
   appeared attacked. This is one of the few reports on a heterotrophic flagellate

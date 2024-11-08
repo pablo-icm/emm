@@ -16,7 +16,7 @@ publication: '*Limnology and Oceanography*'
 doi: 10.1002/lno.12682
 abstract: Abstract  Aerobic anoxygenic phototrophic (AAP) bacteria are a common part
   of microbial communities in the sunlit ocean. They contain bacteriochlorophyll a
-  (BChl a )‐based photosystems that harvest solar energy for their metabolism. Across
+  (BChl a )-based photosystems that harvest solar energy for their metabolism. Across
   different oceanic regions, AAP bacteria seem to be more abundant in eutrophic areas,
   associated with high chlorophyll concentrations. While most previous studies focused
   on surface samplings, there is limited information regarding their vertical distribution

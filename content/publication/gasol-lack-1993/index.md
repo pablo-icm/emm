@@ -16,7 +16,7 @@ abstract: The literature proposes that bacterial abundance (BA) and heterotrophi
   To test this proposed pattern, we collected published and unpublished data and analyzed
   trends across lakes, rivers, marine, and benthic samples. BA varied between 10 5
   and 10 11 cells ml −1 , while HNFA ranged from 10 2 to 10 6 cells ml −1 . The relationship
-  was stronger in systems with low bacterial abundances and weaker in the most bacteria‐rich
+  was stronger in systems with low bacterial abundances and weaker in the most bacteria-rich
   systems. When data were averaged per study or per system we detected a trend with
   trophy, with highest HNFA in benthic systems followed by lakes and coastal areas
   of the sea, and lowest abundances in rivers and the open ocean. This relationship
@@ -27,7 +27,7 @@ abstract: The literature proposes that bacterial abundance (BA) and heterotrophi
   Changes in population abundances of bacteria and heterotrophic nanoflagellates are
   mainly determined by nutrient supply and grazing, and also by complex trophic interactions
   with numerous feedbacks. Empirical relationships between BA and HNFA across systems
-  can only partially explain these changes in terms of predator‐prey dependence.
+  can only partially explain these changes in terms of predator-prey dependence.
 links:
 - name: URL
   url: https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lo.1993.38.3.0657

@@ -1,7 +1,7 @@
 ---
 title: Ocean warming enhances respiration and carbon demand of coastal microbial plankton
 authors:
-- Evaristo Vázquez‐Domínguez
+- Evaristo Vázquez-Domínguez
 - Dolors Vaqué
 - Josep M. Gasol
 date: '2007-07-01'

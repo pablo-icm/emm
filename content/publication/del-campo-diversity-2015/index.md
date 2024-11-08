@@ -1,12 +1,12 @@
 ---
-title: "Diversity and distribution of unicellular opisthokonts along the European coast analysed using high‐throughput sequencing"
+title: "Diversity and distribution of unicellular opisthokonts along the European coast analysed using high-throughput sequencing"
 authors:
 - Javier Del Campo
 - Diego Mallo
 - Ramon Massana
 - Colomban De Vargas
 - Thomas A. Richards
-- Iñaki Ruiz‐Trillo
+- Iñaki Ruiz-Trillo
 date: "2015-01-01"
 year: "2015"
 publication-types:
@@ -22,7 +22,7 @@ The opisthokonts are one of the major super groups of eukaryotes. It comprises t
 M
 etazoa and their unicellular relatives and (ii) the
 F
-ungi and their unicellular relatives. There is, however, little knowledge of the role of opisthokont microbes in many natural environments, especially among non‐metazoan and non‐fungal opisthokonts. Here, we begin to address this gap by analysing high‐throughput 18
+ungi and their unicellular relatives. There is, however, little knowledge of the role of opisthokont microbes in many natural environments, especially among non-metazoan and non-fungal opisthokonts. Here, we begin to address this gap by analysing high-throughput 18
 S rDNA
 and 18
 S rRNA
@@ -30,7 +30,7 @@ sequencing data from different European coastal sites, sampled at different size
 MAOP
 ). Furthermore, we describe a new lineage of marine fonticulids (
 MAFO
-) that appears to be abundant in sediments. Taken together, our work points to a greater potential ecological role for unicellular opisthokonts than previously appreciated in marine environments, both in water column and sediments, and also provides evidence of novel opisthokont phylogenetic lineages. This study highlights the importance of high‐throughput sequencing approaches to unravel the diversity and distribution of both known and novel eukaryotic lineages."
+) that appears to be abundant in sediments. Taken together, our work points to a greater potential ecological role for unicellular opisthokonts than previously appreciated in marine environments, both in water column and sediments, and also provides evidence of novel opisthokont phylogenetic lineages. This study highlights the importance of high-throughput sequencing approaches to unravel the diversity and distribution of both known and novel eukaryotic lineages."
 links:
 - name: URL
   url: "https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.12759"

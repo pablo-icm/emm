@@ -3,13 +3,13 @@ title: B Vitamins and Their Congeners as Potential Drivers of Microbial Communit
   Composition in an Oligotrophic Marine Ecosystem
 authors:
 - C. P. Suffridge
-- Laura Gómez‐Consarnau
+- Laura Gómez-Consarnau
 - D. R. Monteverde
 - L. Cutter
 - Javier Arístegui
-- Xosé Antón Álvarez‐Salgado
+- Xosé Antón Álvarez-Salgado
 - Josep M. Gasol
-- S. A. Sañudo‐Wilhelmy
+- S. A. Sañudo-Wilhelmy
 date: '2018-09-01'
 publishDate: '2024-08-05T15:04:46.285262Z'
 publication_types:
@@ -38,7 +38,7 @@ abstract: Abstract Determining the factors that influence marine microbial growt
   represent an advance in our understanding of B vitamin oceanographic distributions
   and point to interesting hypotheses of their influence on marine microbial ecology.
   ,  Key Points    Multiple biochemical forms of B vitamins are present both dissolved
-  in seawater and in particles as measured across a Mediterranean‐Atlantic transect   B
+  in seawater and in particles as measured across a Mediterranean-Atlantic transect   B
   vitamins cooccur in biogeographic patches driven by mesoscale oceanographic features
   that control both the microbial community and the distribution of total dissolved
   B vitamins   Model fits of microbial assemblages were significantly improved when

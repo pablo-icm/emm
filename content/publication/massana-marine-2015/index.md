@@ -1,5 +1,5 @@
 ---
-title: Marine protist diversity in European coastal waters and sediments as revealed by high‐throughput sequencing
+title: Marine protist diversity in European coastal waters and sediments as revealed by high-throughput sequencing
 authors:
 - Ramon Massana
 - Angélique Gobet
@@ -9,7 +9,7 @@ authors:
 - Christophe Boutte
 - Aurélie Chambouvet
 - Richard Christen
-- Jean‐Michel Claverie
+- Jean-Michel Claverie
 - Johan Decelle
 - John R Dolan
 - Micah Dunthorn
@@ -29,7 +29,7 @@ authors:
 - Sarah Romac
 - Thomas Richards
 - Sébastien Santini
-- Kamran Shalchian‐Tabrizi
+- Kamran Shalchian-Tabrizi
 - Raffaele Siano
 - Nathalie Simon
 - Thorsten Stoeck
@@ -46,16 +46,16 @@ abstract: 'Summary  Although protists are critical components of marine ecosyste
   they are still poorly characterized. Here we analysed the taxonomic diversity of
   planktonic and benthic protist communities collected in six distant E uropean coastal
   sites. Environmental deoxyribonucleic acid ( DNA ) and ribonucleic acid ( RNA )
-  from three size fractions (pico‐, nano‐ and micro/mesoplankton), as well as from
+  from three size fractions (pico-, nano- and micro/mesoplankton), as well as from
   dissolved DNA and surface sediments were used as templates for tag pyrosequencing
-  of the V4 region of the 18S ribosomal DNA. Beta‐diversity analyses split the protist
-  community structure into three main clusters: picoplankton‐nanoplankton‐dissolved
+  of the V4 region of the 18S ribosomal DNA. Beta-diversity analyses split the protist
+  community structure into three main clusters: picoplankton-nanoplankton-dissolved
   DNA , micro/mesoplankton and sediments. Within each cluster, protist communities
   from the same site and time clustered together, while communities from the same
-  site but different seasons were unrelated. Both DNA and RNA ‐based surveys provided
-  similar relative abundances for most class‐level taxonomic groups. Yet, particular
+  site but different seasons were unrelated. Both DNA and RNA -based surveys provided
+  similar relative abundances for most class-level taxonomic groups. Yet, particular
   groups were overrepresented in one of the two templates, such as marine alveolates
-  ( MALV )‐ I and MALV‐II that were much more abundant in DNA surveys. Overall, the
+  ( MALV )- I and MALV-II that were much more abundant in DNA surveys. Overall, the
   groups displaying the highest relative contribution were Dinophyceae, Diatomea,
   Ciliophora and Acantharia. Also, well represented were Mamiellophyceae, Cryptomonadales,
   marine alveolates and marine stramenopiles in the picoplankton, and Monadofilosa

@@ -2,7 +2,7 @@
 title: Dominant marine heterotrophic flagellates are adapted to natural planktonic
   bacterial abundances
 authors:
-- Raquel Rodríguez‐Martínez
+- Raquel Rodríguez-Martínez
 - Dolors Vaqué
 - Irene Forn
 - Ramon Massana
@@ -18,11 +18,11 @@ abstract: Summary  Grazing controls bacterial abundances and composition in many
   of their trophic behaviour are poorly known. Here, we assessed the functional response
   of the whole assemblage and of four taxa grown in an unamended seawater incubation.
   We used fluorescently labelled bacteria to create a prey gradient of two orders
-  of magnitude in abundance and estimated ingestion rates. Natural HFs had a half‐saturation
+  of magnitude in abundance and estimated ingestion rates. Natural HFs had a half-saturation
   constant of 6.7 × 10 5 prey ml −1 , a value lower than that of cultured flagellates
   and within the range of marine planktonic bacterial abundances. Minorisa minuta
   was well adapted to low prey abundances and very efficient in ingesting bacteria.
-  MAST‐4 and MAST‐7 were also well adapted to the typical marine abundances but less
+  MAST-4 and MAST-7 were also well adapted to the typical marine abundances but less
   voracious. In contrast, Paraphysomonas imperforata , a typical cultured species,
   did not achieve ingestion rate saturation even at the highest prey concentration
   assayed. Our study, beside to set the basis for the fundamental differences between

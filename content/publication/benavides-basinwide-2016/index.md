@@ -1,19 +1,19 @@
 ---
-title: "Basin‐wide N $_\textrm2$ fixation in the deep waters of the Mediterranean Sea"
+title: "Basin-wide N $_\textrm2$ fixation in the deep waters of the Mediterranean Sea"
 authors:
 - Mar Benavides
 - Sophie Bonnet
 - Nauzet Hernández
-- Alba María Martínez‐Pérez
-- Mar Nieto‐Cid
-- Xosé Antón Álvarez‐Salgado
+- Alba María Martínez-Pérez
+- Mar Nieto-Cid
+- Xosé Antón Álvarez-Salgado
 - Isabel Baños
 - María F. Montero
 - Ignacio P. Mazuecos
 - Josep M. Gasol
 - Helena Osterholz
 - Thorsten Dittmar
-- Ilana Berman‐Frank
+- Ilana Berman-Frank
 - Javier Arístegui
 date: "2016-01-01"
 year: "2016"
@@ -64,7 +64,7 @@ fixation was higher in more ventilated and oxygenated waters containing fresher 
 
 Deep N
 2
-fixation contributed largely to depth‐integrated rates and poorly to total nitrogen inputs"
+fixation contributed largely to depth-integrated rates and poorly to total nitrogen inputs"
 links:
 - name: URL
   url: "https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2015GB005326"

@@ -1,10 +1,10 @@
 ---
-title: Deep ocean prokaryotic communities are remarkably malleable when facing long‐term
+title: Deep ocean prokaryotic communities are remarkably malleable when facing long-term
   starvation
 authors:
 - Marta Sebastián
-- Jean‐Christophe Auguet
-- Claudia Ximena Restrepo‐Ortiz
+- Jean-Christophe Auguet
+- Claudia Ximena Restrepo-Ortiz
 - Maria Montserrat Sala
 - Celia Marrasé
 - Josep M. Gasol
@@ -16,10 +16,10 @@ publication: '*Environmental Microbiology*'
 doi: 10.1111/1462-2920.14002
 abstract: Summary The bathypelagic ocean is one of the largest ecosystems on Earth
   and sustains half of the ocean's microbial activity. This microbial activity strongly
-  relies on surface‐derived particles, but there is growing evidence that the carbon
+  relies on surface-derived particles, but there is growing evidence that the carbon
   released through solubilization of these particles may not be sufficient to meet
   the energy demands of deep ocean prokaryotes. To explore how bathypelagic prokaryotes
-  respond to the absence of external inputs of carbon, we followed the long‐term (1 year)
+  respond to the absence of external inputs of carbon, we followed the long-term (1 year)
   dynamics of an enclosed community. Despite the lack of external energy supply, we
   observed a continuous succession of active prokaryotic phylotypes, which was driven
   by recruitment of taxa from the seed bank (i.e., initially rare operational taxonomic

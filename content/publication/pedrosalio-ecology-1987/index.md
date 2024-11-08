@@ -1,7 +1,7 @@
 ---
 title: 'On the ecology of a *Cryptomonas phaseolus* population forming a metalimnetic bloom in Lake Cisó, Spain: Annual distribution and loss factors'
 authors:
-- Carlos Pedrós‐Alió
+- Carlos Pedrós-Alió
 - Josep M. Gasol
 - Ricardo Guerrero
 date: '1987-03-01'

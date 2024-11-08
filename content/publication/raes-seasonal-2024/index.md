@@ -12,7 +12,7 @@ authors:
 - Jodie Van De Kamp
 - Josep M. Gasol
 - Ramon Massana
-- Yi‐Chun Yeh
+- Yi-Chun Yeh
 - Jed A. Fuhrman
 - Julie LaRoche
 date: '2024-07-01'
@@ -22,11 +22,11 @@ publication_types:
 publication: '*Limnology and Oceanography Letters*'
 doi: 10.1002/lol2.10422
 abstract: Abstract  Understanding the patterns of marine microbial diversity (Bacteria + Archaea)
-  is essential, as variations in their alpha‐ and beta‐diversities can affect ecological
+  is essential, as variations in their alpha- and beta-diversities can affect ecological
   processes. Investigations of microbial diversity from global oceanographic expeditions
-  and basin‐wide transects show positive correlations between microbial diversity
+  and basin-wide transects show positive correlations between microbial diversity
   and either temperature or productivity, but these studies rarely captured seasonality,
-  especially in polar regions. Here, using multiannual alpha‐diversity data from eight
+  especially in polar regions. Here, using multiannual alpha-diversity data from eight
   time series in the northern and southern hemispheres, we show that marine microbial
   community richness and evenness generally correlate more strongly with daylength
   than with temperature or chlorophyll a (a proxy for photosynthetic biomass). This

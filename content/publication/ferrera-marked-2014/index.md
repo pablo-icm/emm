@@ -16,7 +16,7 @@ abstract: Summary  The abundance and diversity of aerobic anoxygenic phototrophs
   ( NW M editerranean) and their potential links to an array of environmental variables
   were explored. Cell numbers were low in winter and peaked in summer, showing a marked
   seasonality that positively correlated with day length and light at the surface.
-  Bacteriochlorophyll a concentration, their light‐harvesting pigment, was only detected
+  Bacteriochlorophyll a concentration, their light-harvesting pigment, was only detected
   between A pril and O ctober, and pigment cell quota showed large variations during
   this period. Pyrosequencing analysis of the  puf M  gene revealed that the most
   abundant operational taxonomic units ( OTU s) were affiliated to phylogroup K (  G

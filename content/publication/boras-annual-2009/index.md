@@ -3,7 +3,7 @@ title: "Annual changes of bacterial mortality due to viruses and protists in an 
 authors:
 - Julia A. Boras
 - Maria Montserrat Sala
-- Evaristo Vázquez‐Domínguez
+- Evaristo Vázquez-Domínguez
 - Markus G. Weinbauer
 - Dolors Vaqué
 date: "2009-01-01"

@@ -4,7 +4,7 @@ title: Evidence of concurrent local adaptation and high phenotypic plasticity in
 authors:
 - Karin Rengefors
 - Ramiro Logares
-- Johanna Laybourn‐Parry
+- Johanna Laybourn-Parry
 - Rebecca J Gast
 date: '2015-05-01'
 publishDate: '2024-08-05T15:04:47.091703Z'
