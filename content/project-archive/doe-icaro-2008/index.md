@@ -2,7 +2,7 @@
 title: ICARO - Efectos de la radiación solar sobre la actividad del bacterioplancton
   marino
 authors:
-- Maria M Sala
+- Maria Montserrat Sala
 date: '2008-01-01'
 publishDate: '2024-08-14T09:35:58.370417Z'
 publication_types:

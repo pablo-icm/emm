@@ -3,7 +3,7 @@ title: 'REMEI - REgulación del (meta) genóma procariótico de un ambiente cost
   factores biológicos y oceanográficos que determinan la presencia y función bioquímica
   de procariotas planctónicas'
 authors:
-- Josep M Gasol
+- Josep M. Gasol
 date: '2016-01-01'
 publishDate: '2024-08-14T09:35:58.212532Z'
 publication_types:

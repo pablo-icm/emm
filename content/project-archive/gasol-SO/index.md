@@ -1,7 +1,7 @@
 ---
 title: 'Severo Ochoa Excellence Award'
 authors:
-- Josep M Gasol
+- Josep M. Gasol
 date: '2020-01-01'
 publishDate: '2020-01-01'
 publication_types:

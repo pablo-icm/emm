@@ -2,7 +2,7 @@
 title: 'MicroOcean Pangenomes - MICROBIAL OCEAN PANGENOMES: FROM SINGLE CELL TO BACTERIAL
   POPULATION GENOMICS'
 authors:
-- Silvia G Acinas
+- Silvia G. Acinas
 date: '2012-01-01'
 publishDate: '2024-08-14T09:35:58.283012Z'
 publication_types:

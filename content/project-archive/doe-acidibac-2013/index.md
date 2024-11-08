@@ -3,7 +3,7 @@ title: 'ACIDIBAC - Impacts of Ocean Acidification on Bacterioplankton Functionin
   Effects on Proteorhodopsin-containing Marine Bacteria'
 authors:
 - Laura Consarnau-Gómez
-- Josep M Gasol
+- Josep M. Gasol
 date: '2013-01-01'
 publishDate: '2024-08-14T09:35:58.306311Z'
 publication_types:

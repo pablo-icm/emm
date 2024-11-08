@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Maria M. Sala
+title: Maria Montserrat Sala
 
 # Full Name (for SEO)
 first_name: Maria Montserrat

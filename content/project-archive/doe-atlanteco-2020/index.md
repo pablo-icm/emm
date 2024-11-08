@@ -1,7 +1,7 @@
 ---
 title: ATLANTECO - Atlantic ECOsystems assessment, forecasting & sustainability
 authors:
-- Silvia G Acinas
+- Silvia G. Acinas
 date: '2020-01-01'
 publishDate: '2024-08-14T09:35:58.079035Z'
 publication_types:
