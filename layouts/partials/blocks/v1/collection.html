@@ -110,7 +110,7 @@
     {{ $archive_text := $block.Params.content.archive.text | default (i18n $i18n) | default "See all" }}
     <div class="see-all">
       {{/* I have hard coded the publications page here to fix the format that it had before */}}
-      <a href="{{ "/emm/publication/#article-journal" }}">
+      <a href="{{ "/publication/#article-journal" }}">
         {{ $archive_text | emojify }}
         <i class="fas fa-angle-right"></i>
       </a>
