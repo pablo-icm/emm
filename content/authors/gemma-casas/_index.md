@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Gemma Casas-Papell
+title: Gemma Casas
 
 # Full Name (for SEO)
 first_name: Gemma
-last_name: Casas-Papell
-weight: 60
+last_name: Casas
+weight: 30
 
 # Username (this should match the folder name)
 authors:
-- gemma-casas-papell
+- gemma-casas
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Technician
+role: Postdoctoral scientist
 
 # Organizations/Affiliations
 organizations:
@@ -86,7 +86,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Technicians'
+- 'Postdoctoral scientists'
 ---
 Description of your research. 
 
