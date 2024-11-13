@@ -86,6 +86,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Predoctoral scientists'
+- 'Former members'
 ---
 I am a PhD Candidate at the Institut de Ciències del Mar. I hold an MSc in Marine Science from King Abdullah University of Science and Technology (KAUST, Thuwal – Saudi Arabia) and a Bachelor’s degree in Microbiology from King Abdulaziz University (KAU), Jeddah-Saudi Arabia. My scientific interests revolve around the microbial community structure of corals and the microbiome-coral interactions under different biotic and abiotic factors. However, out of the scientific community, I like to learn new languages, read about history and cultures.
