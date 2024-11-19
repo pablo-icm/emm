@@ -18,6 +18,7 @@ superuser: false
 role: Predoctoral scientist
 supervisor: 
   - Marta Sebastián
+  - Josep M. Gasol
 
 # Organizations/Affiliations
 organizations:
@@ -90,5 +91,8 @@ email: ""
 user_groups:
 - 'Predoctoral scientists'
 ---
-Description of your research. 
+I am currently pursuing my PhD at the Institut de Ciències del Mar (ICM-CSIC) under the supervision of Josep M. Gasol and Marta Sebastián. I completed my degree in Genetics at the Autonomous University of Barcelona (UAB) and earned a Master's degree in Genetics and Genomics of Development and Stem Cells at the University of Barcelona. During my master’s thesis, I studied the microbial ecology of the coral holobiont under heat stress using single-cell RNA sequencing.  
 
+My undergraduate experience spans both human and non-human genetics. Initially, I did an internship in a clinical laboratory of molecular genetic diagnosis at Taulí Hospital in Sabadell, where I became familiar with the genetic conditions of human neuropathies. Then, I undertook a short internship at CREAF, UAB, focusing on molecular ecology and participating in the research of adaptive markers in the response of the bird Corvus monedula to anthropogenic modifications. Additionally, during my Erasmus stay at the University of Maribor in Slovenia, I had the opportunity to study the aggressive male behavior of Betta splendens fish. My final degree project, which received honors, involved developing a board game called “Genogràfic” that illustrates human genetic variability and adaptation. This game holds promising applications for scientific education and dissemination and is available in both physical and virtual formats. You can explore it here: https://genografic.omicsuab.org/.  
+
+My PhD thesis focuses on studying the molecular processes that occur during the degradation of marine particles as they sink to the ocean floor. Understanding the role of microorganisms in this process throughout the water column is essential for comprehending the biological carbon pump, biogeochemical cycles of the ocean, and their impact in the context of climate change. To this end, I conduct experiments, sometimes aboard research vessels!  
