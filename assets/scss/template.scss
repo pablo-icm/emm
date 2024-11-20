@@ -112,4 +112,59 @@
   display: none;
 }
 
+/* Custom styles for resources text */
+.resources-style {
+  font-size: 0.8rem;      /* Adjust font size */
+  line-height: 1.4;       /* Adjust line spacing */
+  margin-bottom: 0.5rem;  /* Optional: Add space below */
+}
+
+/* Custom footer styles */
+.custom-footer {
+    background-color: #73aad1; 
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-container {
+    max-width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-logos {
+    display: flex;
+    gap: 30px; /* Adjust spacing between logos as needed */
+}
+
+.footer-logo {
+    height: 500px; /* Set height for logos */
+    max-width: 100%; /* Optionally set max width */
+}
+
+/* Adjust link colors  */
+.footer-text-links {
+    color: #ffffff; /* Text color */
+    text-decoration: none; /* Remove underline */
+    padding: 10px 15px; /* Adjust padding as needed */
+}
+
+/* Adjust link hover styles */
+.footer-text-links:hover {
+    color: #a8cae2; /* Hover text color */
+}
+
+.custom-footer .footer-logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%; /* Makes sure the container spans the footer width */
+}
+
+.custom-footer .footer-logo {
+  height: 100px; /* Adjust to your desired size */
+  margin-right: 10px; /* Add space between logo and text */
+}
 
