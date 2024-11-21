@@ -1,8 +1,8 @@
 ---
-title: The research interests of the Ecology of Marine Microorganisms Research group are
+title: "Resources and tools created and maintained by the EMM"
 
 # Listing view
-view: card
+view: card-resources
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:

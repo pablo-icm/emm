@@ -1,9 +1,10 @@
 ---
-title: Blanes Bay picoeukaryotic seasonality
+title: "Blanes Bay picoeukaryotic seasonality"
 date: 2024-08-07
 show_date: false 
 share: false
 weight: 3
+external_link: "https://bbs.icm.csic.es/"
 ---
 
 Here we provide a tool to investigate the seasonality of picoeukaryotic taxa during a monthly survey of 10 years at the Blanes Bay Microbial Observatory (BBMO). This site is a coastal monitoring station located near the city of Blanes in the NW Mediterranean Sea (41°40′N, 2°48′E) with a focus on the abundance, diversity and activity of marine microorganisms. The diversity dataset derives from environmental V4-18S rDNA sequences (Giner et al. 2019), and can be queried via BLAST or by specifying the taxa of interest. 

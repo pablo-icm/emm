@@ -31,6 +31,9 @@ main:
     #url: publication
     url: publication/#article-journal
     weight: 50
+  - name: Resources
+    url: page/resources
+    weight: 60
 # Nested menus
 # Nested menu for RESEARCH
   - name: Research lines
