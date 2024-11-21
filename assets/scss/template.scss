@@ -156,15 +156,23 @@
     color: #a8cae2; /* Hover text color */
 }
 
-.custom-footer .footer-logo-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%; /* Makes sure the container spans the footer width */
+/* Custom footer appearance */
+.custom-footer .footer-logo {
+    max-width: 150px;       /* Limit individual logo size */
+    justify-content: center; /* Center-align logos */
+    gap: 15px;              /* Space between logos */
+    flex-wrap: wrap;        /* Wrap logos to the next line if needed */
+    height: auto;           /* Maintain aspect ratio */
 }
 
-.custom-footer .footer-logo {
-  height: 100px; /* Adjust to your desired size */
-  margin-right: 10px; /* Add space between logo and text */
+.custom-footer .footer-logos {
+    display: flex;
+    justify-content: center; /* Center the logos horizontally */
+    align-items: center;    /* Align logos vertically if needed */
+    gap: 15px;              /* Space between logos */
+    flex-wrap: wrap;        /* Wrap logos to the next line if needed */
+    width: 100%;            /* Ensure the container spans the footer */
+    text-align: center;     /* Center-align the content */
+    margin: 0 auto;         /* Center the flexbox container itself if required */
 }
 

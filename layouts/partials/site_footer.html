@@ -1,10 +1,12 @@
 <footer class="custom-footer">
-
   {{ partial "blox-core/functions/get_hook" (dict "hook" "footer-start" "context" .) }}
-  <div class="footer-logo-container">
-    <img src="images/Logo-ICM-SO_white.png" alt="ICM SO LOGO" class="footer-logo">
-    <img src="images/logo-CSIC.png" alt="CSIC LOGO" class="footer-logo">
+  <div class="footer-logos">
+    <img src="{{ "images/logoEMM.png" | relURL }}" alt="EMM LOGO" class="footer-logo">
+    <img src="{{ "images/logoICM.png" | relURL }}" alt="ICM SO LOGO" class="footer-logo">
+    <img src="{{ "images/logoSO.png" | relURL }}" alt="SO LOGO" class="footer-logo">
+    <img src="{{ "images/logoCSIC.png" | relURL }}" alt="CSIC LOGO" class="footer-logo">
   </div>
+  <br>
   {{/* Load footer block */}}
   {{ $footer_section_name := site.Params.footer.block | default "minimal" }}
   {{ $footer_section_path := printf "components/footers/%s.html" $footer_section_name }}

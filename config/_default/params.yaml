@@ -46,8 +46,8 @@ header:
 
 
 # Site footer
-
 footer:
+#    block: "custom-footer" # Use the custom footer block globally
   copyright:
     notice: '© {year} EMM (ICM-CSIC). This work is licensed under {license}'
     license:
@@ -55,6 +55,7 @@ footer:
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+
 
 # Contact (edit or remove options as required)
 #email: mail@icm.csic.es
