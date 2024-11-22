@@ -2,15 +2,17 @@
 {{ $widget := .page }}
 {{ $index := .index }}
 
-{{ $do_link := true }}
-{{ if $item.Params.external_link | or $item.Content }}
-  {{ $do_link = true }}
-{{ else }}
-  {{ $do_link = false }}
+{{ $link := $item.RelPermalink }}
+{{ $target := .target }}
+
+{{/* External link setup for the image only */}}
+{{ $image_link := $item.RelPermalink }}
+{{ $image_target := "" }}
+{{ if $item.Params.external_link }}
+  {{ $image_link = $item.Params.external_link }}
+  {{ $image_target = "target=\"_blank\" rel=\"noopener\"" }}
 {{ end }}
 
-{{ $link := $item.Params.external_link | default $item.RelPermalink }}
-{{ $target := .target }}
 
 {{/* Get summary. */}}
 {{ $summary := "" }}
@@ -36,9 +38,8 @@
   <div class="row align-items-center">
     <div class="col-12 col-md-6">
       <div class="section-subheading article-title mb-0 mt-0">
-        {{- if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end -}}
-        {{ $item.Title | markdownify | emojify }}
-        {{- if $do_link}}</a>{{end -}}
+        <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
+        {{ $item.Title | markdownify | emojify }}</a>
       </div>
 
       {{ with $summary }}
@@ -46,11 +47,6 @@
         {{ . }}
       </div>
       {{ end }}
-
-      <div class="btn-links">
-        {{ partial "page_links" (dict "page" $item "is_list" 0) }}
-      </div>
-
     </div>
     <div class="col-12 col-md-6 order-first {{$order}}">
       {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
@@ -60,10 +56,10 @@
         filesize of GIFs when processing them, e.g. 400kB --> 1.5MB */}}
         {{ $image := . }}
         {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "resize 540x webp" }}{{ end }}
-        {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
+        <a href="{{ $image_link }}" {{ $image_target | safeHTMLAttr }}>
           <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
               alt="{{ $item.Title }}" loading="lazy" style="width: 540px; height: auto; object-fit: cover;">
-        {{if $do_link}}</a>{{end}}
+        </a>
       {{end}}
     </div>
   </div>
