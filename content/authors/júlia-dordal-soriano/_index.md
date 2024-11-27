@@ -9,7 +9,7 @@ weight: 40
 
 # Username (this should match the folder name)
 authors:
-- julia-dordal-soriano
+- júlia-dordal-soriano
 
 # Is this the primary user of the site?
 superuser: false
