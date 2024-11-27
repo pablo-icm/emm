@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pablo Sánchez Fernández
+title: Pablo Sánchez
 
 # Full Name (for SEO)
 first_name: Pablo
