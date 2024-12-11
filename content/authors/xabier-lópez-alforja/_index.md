@@ -19,6 +19,7 @@ role: Predoctoral scientist
 supervisor: 
   - Felipe H. Coutinho
   - Ramon Massana
+  - Dolors Vaqué
 
 # Organizations/Affiliations
 organizations:
