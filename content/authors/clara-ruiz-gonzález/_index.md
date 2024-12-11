@@ -52,9 +52,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:clararg@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/your_twitter_handle
+- icon: twitter
+  icon_pack: fab
+  link: https://x.com/Clara_RuizG
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?hl=ca&user=sytW0GEAAAAJ
