@@ -57,6 +57,6 @@ Our current interests are summarized in the following research lines:
 - Microbial Activities: From Single Cells to Biogeochemical Cycles  
 - Genes and Genomes: Function and Evolution   
 
-The group is located at the (sometimes) beautiful Somorrostro beach, in Barcelona, at the [ICM-CSIC](https:/icm.csic.es). 
+The group is located at the (sometimes) beautiful Somorrostro beach, in Barcelona, at the [ICM-CSIC](https://icm.csic.es). 
 
 
