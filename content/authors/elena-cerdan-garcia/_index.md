@@ -26,8 +26,8 @@ organizations:
 # bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
 
 interests:
-  - Marine microbes
-  - Athletics
+   - Marine microbes
+   - Athletics
 
  education:
    courses:
