@@ -18,7 +18,7 @@ superuser: false
 role: Predoctoral scientist
 supervisor: 
   - Andrea G. Bravo
-  - Clara Ruíz-González
+  - Clara Ruiz-González
 
 # Organizations/Affiliations
 organizations:
