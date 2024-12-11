@@ -58,16 +58,16 @@ social:
 #   link: https://twitter.com/your_twitter_handle
 - icon: google-scholar
   icon_pack: ai
-  link: "https://scholar.google.fr/citations?user=k-NSt7UAAAAJ&hl=fr"
+  link: https://scholar.google.fr/citations?user=k-NSt7UAAAAJ&hl
 - icon: orcid
   icon_pack: ai
-  link: "https://orcid.org/0000-0002-2314-0116"
+  link: https://orcid.org/0000-0002-2314-0116
 # - icon: researchgate
 #   icon_pack: ai
 #   link: https://www.researchgate.net/profile/Your_researchgate_profile
 - icon: github
   icon_pack: fab
-  link: "https://github.com/pjmramond"
+  link: https://github.com/pjmramond
 # - icon: instagram
 #   icon_pack: fab
 #   link: https://www.instagram.com/your_insta
