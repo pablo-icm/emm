@@ -29,9 +29,9 @@ bio: I am interested in studying microbial ecology and biogeography across terre
 # - Add your interest
 # - Add your interest
 # - Add as many interests as you need
-
-# education:
-#   courses:
+ 
+education:
+  courses:
     - course: PhD
      institution: Universidad de las Palmas de Gran Canaria
      year: 2011
