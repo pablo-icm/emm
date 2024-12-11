@@ -18,6 +18,7 @@ superuser: false
 role: Predoctoral scientist
 supervisor: 
   - Clara Ruiz-González
+  - Valentí Rodellas
 
 # Organizations/Affiliations
 organizations:
