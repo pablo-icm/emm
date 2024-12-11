@@ -56,8 +56,8 @@ social:
   icon_pack: fas
   link: "mailto:xabierlopez@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
-   icon_pack: fab
-   link: https://x.com/XabierLpez2
+  icon_pack: fab
+  link: https://x.com/XabierLpez2
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=WPV4GxkAAAAJ&hl=en
