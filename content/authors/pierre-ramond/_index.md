@@ -21,6 +21,8 @@ role: Postdoctoral scientist
 organizations:
 - name: Institut de Ciències del Mar (ICM-CSIC)
   url: "https://www.icm.csic.es/"
+- name: Laboratoire d'Ecogéochimie des Environnements Benthiques (UMR 8222, SU-CNRS)
+  url: "http://lecob.obs-banyuls.fr/contacts/4.html"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
