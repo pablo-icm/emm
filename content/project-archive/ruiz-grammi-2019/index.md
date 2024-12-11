@@ -3,7 +3,7 @@ title: GRAMMI - GRoundwater discharge to the Mediterranean Sea from a microbial 
 authors:
 - Clara Ruiz-González
 date: '2019-01-01'
-publishDate: '2022-01-01'
+publishDate: '2019-01-01'
 publication_types:
 - project
 funding: 'MICINN'
