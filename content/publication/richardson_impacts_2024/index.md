@@ -3,7 +3,7 @@ title: "The impacts of climate change on coastal groundwater"
 authors:
 - C. M. Richardson
 - K. L. Davis
-- C. Ruiz-González
+- Clara Ruiz-González
 - J. A. Guimond
 - H. A. Michael
 - A. Paldor
