@@ -56,13 +56,13 @@ social:
   link: "mailto:emlopez@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
-#   link: https://twitter.com/your_twitter_handle
+#   link: https://twitter.com/yggdrasil_66
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.com/your_scholar_profile
-# - icon: orcid
-#   icon_pack: ai
-#   link: https://orcid.org/your_orcid_id
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0009-0007-5671-3981
 # - icon: researchgate
 #   icon_pack: ai
 #   link: https://www.researchgate.net/profile/Your_researchgate_profile
@@ -85,6 +85,9 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
