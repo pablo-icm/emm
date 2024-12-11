@@ -1,6 +1,6 @@
 # Ecology of Marine Microbes website repository  
 
-[![EMM](https://github.com/pablo-icm/emm/blob/main/static/images/roseta-garcia.JPG)
+![EMM](https://github.com/pablo-icm/emm/blob/main/static/images/roseta-garcia.JPG)
 
 This is the public github repository for the EMM website. This website is based on the [**Research Group Template**](https://github.com/wowchemy/starter-hugo-research-group) 
 
