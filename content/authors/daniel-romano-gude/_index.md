@@ -17,7 +17,7 @@ superuser: false
 # Role/position
 role: Predoctoral scientist
 supervisor: 
-  - Clara Ruíz-González
+  - Clara Ruiz-González
 
 # Organizations/Affiliations
 organizations:
@@ -90,8 +90,8 @@ email: ""
 user_groups:
 - 'Predoctoral scientists'
 ---
- am a PhD student at the Institut de Ciències del Mar (ICM). My career has focused on the marine and microbiological field. I graduated in Biology from the Universidade de Santiago de Compostela (USC) and later I moved to Barcelona to do the master’s degree in Advanced Microbiology at the Universitat de Barcelona (UB). I chose the ICM to do my final project, where we studied the bacterial communities associated with the Tagoro volcano in a degassing stage. In addition, I participated in another project using samples from the MALASPINA expedition to analyze genes related to nitrogen fixation. I also worked in the marine renewable resources department studying different biomarkers and their response to different polluting compounds.
+I am a PhD student at the Institut de Ciències del Mar (ICM). My career has focused on the field of marine microbiology. I graduated in Biology from the Universidade de Santiago de Compostela (USC) and later I moved to Barcelona to do the master’s degree in Advanced Microbiology at the Universitat de Barcelona (UB). I chose the ICM to do my final project, where we studied the bacterial communities associated with the Tagoro volcano in a degassing stage. In addition, I participated in another project using samples from the MALASPINA expedition to analyze genes related to nitrogen fixation. I also worked in the marine renewable resources department from ICM studying different biomarkers and their response to different polluting compounds.
 
-My thesis returns to focus on microorganisms and how submarine groundwater discharge (SGD) affects their diversity, function and connectivity at the land-sea interface. We currently know very little about the microbial communities that develop in these microbial marine estuaries and the biogeochemical cycles they control. Through sampling in different campaigns, in collaboration with the UAB Marine and Environmental Biogeosciences research group and by several molecular techniques and bioinformatic analysis, we try to shed light on how groundwater flows affect marine microbial communities.
+My thesis returns to focus on microorganisms and how submarine groundwater discharge (SGD) affects their diversity, function and connectivity at the land-sea interface. We currently know very little about the microbial communities that develop in these microbial marine estuaries and the biogeochemical cycles they control. Through sampling in different campaigns, in collaboration with the UAB Marine and Environmental Biogeosciences research group and through several molecular techniques and bioinformatic analysis, we try to shed light on how groundwater flows affect marine microbial communities.
 
 Besides all this, during my spare time I enjoy reading, hiking, surfing and snorkeling.
