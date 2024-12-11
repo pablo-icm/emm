@@ -22,6 +22,8 @@ supervisor:
 organizations:
 - name: Institut de Ciències del Mar (ICM-CSIC)
   url: "https://www.icm.csic.es/"
+- name: Institut des Sciences Analytiques et de Physico-Chimie pour l'Environnement et les Matériaux (IPREM-UPPA)
+  url: "https://iprem.univ-pau.fr/fr/index.html"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
