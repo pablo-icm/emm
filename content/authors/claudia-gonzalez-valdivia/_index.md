@@ -65,9 +65,9 @@ social:
 # - icon: researchgate
 #   icon_pack: ai
 #   link: https://www.researchgate.net/profile/Your_researchgate_profile
- - icon: github
-   icon_pack: fab
-   link: https://github.com/clagovaldivia
+- icon: github
+  icon_pack: fab
+  link: https://github.com/clagovaldivia
 # - icon: instagram
 #   icon_pack: fab
 #   link: https://www.instagram.com/your_insta
