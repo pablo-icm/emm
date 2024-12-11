@@ -26,21 +26,20 @@ organizations:
 # bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
 
 interests:
-- Athletics
-# - Add your interest
-# - Add as many interests as you need
+  - Marine microbes
+  - Athletics
 
-# education:
-#   courses:
-  # - course: Add your PhD program if any
-  #   institution: Add your Uni here
-  #   year: Year of PhD
-  # - course: Add bachelor title
-  #   institution: Add Uni Here
-  #   year: Add year of uni
-  # - course: add as many courses as you want
-  #   institution: Add uni
-  #   year: Add year
+ education:
+   courses:
+   - course: PhD Ocean Sciences
+     institution: University of Southampton (UK)
+     year: 2021
+   - course: MSc. Oceanography
+     institution: University of Southampton (UK)
+     year: 2016
+   - course: BSc. Biological Sciences
+     institution: The University of Toledo, OH (USA)
+     year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
