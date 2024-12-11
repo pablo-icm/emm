@@ -23,7 +23,7 @@ organizations:
   url: "https://www.icm.csic.es/"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
+bio: I am interested in studying microbial ecology and biogeography across terrestrial, freshwater and marine ecosystems
 
 # interests:
 # - Add your interest
