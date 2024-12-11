@@ -1,5 +1,5 @@
 ---
-title: GRAMMI - GRoundwater discharge to the Mediterranean Sea from a microbial perspective: Diversity, functioning and connectivity at the terrestrial-marine interface
+title: GRAMMI - GRoundwater discharge to the Mediterranean Sea from a microbial perspective: Diversity, functioning and connectivity at the terrestrial marine interface
 authors:
 - Clara Ruiz-González
 date: '2019-01-01'
