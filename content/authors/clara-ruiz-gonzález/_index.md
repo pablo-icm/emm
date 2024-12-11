@@ -32,12 +32,12 @@ bio: I am interested in studying microbial ecology and biogeography across terre
 
 # education:
 #   courses:
-#   - course: Add your PhD program
-#     institution: Add your Uni here
-#     year: Year of PhD
-#   - course: Add bachelor title
-#     institution: Add Uni Here
-#     year: Add year of uni
+- course: PhD
+institution: Universidad de las Palmas de Gran Canaria
+year: 2011
+- course: BsC in Biology
+institution: Universidad Autónoma de Madrid
+year: 2005
 #   - course: add as many courses as you want
 #     institution: Add uni
 #     year: Add year
@@ -50,7 +50,7 @@ bio: I am interested in studying microbial ecology and biogeography across terre
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:example@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:clararg@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/your_twitter_handle
