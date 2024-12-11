@@ -39,9 +39,16 @@ education:
     - course: BsC in Biology
       institution: Universidad Autónoma de Madrid
       year: 2005
-#   - course: add as many courses as you want
-#     institution: Add uni
-#     year: Add year
+
+selected_papers: |
+   ### Selected papers
+   - Richardson CM, Davis KL, Ruiz-González C, Guimond JA, Michael HA, Paldor A, Moosdorf N, Paytan A (2024). [The impacts of global change on coastal groundwater](https://www.nature.com/articles/s43017-023-00500-2). *Nature Reviews Earth & Environment* 5: 100-119
+   - Ruiz-González C, Rodríguez-Pie L, Maister O, Rodellas V, Alorda-Keinglass A, Diego-Feliu M, Folch A, Garcia-Orellana J, Gasol JM (2022). [High spatial heterogeneity and low connectivity of bacterial communities along a Mediterranean subterranean estuary](https://onlinelibrary.wiley.com/doi/10.1111/mec.16695). *Molecular Ecology* 31: 5745–5764
+   - Ruiz-González C, Rodellas V, Garcia-Orellana J (2021). [The microbial dimension of submarine groundwater discharge: current challenges and future directions](https://doi.org/10.1093/femsre/fuab010). *FEMS Microbiology Reviews* 45: fuabo1o
+   - Ruiz-González C, Mestre M, Estrada M, Sebastián M, Agustí S, Moreno-Ostos E, Reche I, Álvarez-Salgado XA, Morán XAG, Duarte CM, Sala MM, Gasol JM (2020). [Major imprint of surface plankton on deep ocean prokaryotic structure and activity](https://onlinelibrary.wiley.com/doi/10.1111/mec.15454). *Molecular Ecology* 29: 1820–1838
+   - Mestre M, Ruiz-González C, Logares R, Gasol JM, Sala MM (2018). [Sinking particles promote vertical connectivity in the ocean microbiome](https://www.pnas.org/doi/full/10.1073/pnas.1802470115). *PNAS*  115: E6799-E6807
+   - Ruiz-González C, Niño-García JP, del Giorgio P (2015). [Terrestrial origin of bacterial communities in complex boreal freshwater networks](https://onlinelibrary.wiley.com/doi/10.1111/ele.12499). *Ecology Letters* 18: 1198-1206
+   - Ruiz-González C, Simó R, Sommaruga R, Gasol JM (2013). [Away from darkness: a review on the effects of solar radiation on heterotrophic bacterioplankton activity](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2013.00131/full). *Frontiers in Microbiology* 4, 131
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
