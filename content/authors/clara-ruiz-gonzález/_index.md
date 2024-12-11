@@ -25,10 +25,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in studying microbial ecology and biogeography across terrestrial, freshwater and marine ecosystems
 
-# interests:
-# - Add your interest
-# - Add your interest
-# - Add as many interests as you need
+interests:
+ - Microbial diversity and ecology
+ - Microbial dispersal and connectivity
+ - Aquatic ecosystems
+ - Submarine groundwater discharge
  
 education:
   courses:
