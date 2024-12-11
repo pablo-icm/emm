@@ -44,7 +44,7 @@ organizations:
 #     year: Add year of uni
 #   - course: add as many courses as you want
 #     institution: Add uni
-#     year: Add year
+#     year: Add yehttps://github.com/pablo-icm/emmar
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -55,27 +55,27 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:xabierlopez@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/your_twitter_handle
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/your_scholar_profile
-# - icon: orcid
-#   icon_pack: ai
-#   link: https://orcid.org/your_orcid_id
+- icon: twitter
+   icon_pack: fab
+   link: https://x.com/XabierLpez2
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=WPV4GxkAAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-9041-8862
 # - icon: researchgate
 #   icon_pack: ai
 #   link: https://www.researchgate.net/profile/Your_researchgate_profile
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/your_github
+- icon: github
+  icon_pack: fab
+  link: https://github.com/xabilopalf
 # - icon: instagram
 #   icon_pack: fab
 #   link: https://www.instagram.com/your_insta
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/your_linkedin/
+- icon: linkedin
+  icon_pack: fab
+  link: www.linkedin.com/in/xabier-lopez
 
 
 # Link to a PDF of your resume/CV from the About widget.
