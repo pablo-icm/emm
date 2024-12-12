@@ -23,7 +23,7 @@ organizations:
   url: "https://www.icm.csic.es/"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
+bio: Bioinformatics technician struggling with big data.
 
 interests:
 - Bioinformatics
@@ -95,4 +95,5 @@ user_groups:
 - 'Technicians'
 ---
 I work as a Bioinformatics Research Technician at the ICM-CSIC since January 2017. I studied Microbiology at the Universitat Autònoma de Barcelona (UAB) and finished my Master’s degree in Bioinformatics for Health Sciences at Universitat Pompeu Fabra (UPF) in Barcelona. Prior to my current position at the ICM, I carried out my master thesis here with Ramiro Logares as a supervisor, from September 2015 to June 2016. The aim of my master thesis was to characterize globally prevalent deep-sea fungi, particularly a Tilletiopsis-like fungi, using metagenomes from Malaspina-2010 circumnavigation expedition. 
+
 At the present time, I am involved in building gene catalogues and analyzing metagenomes, as well as potential MAGs from the Blanes Bay Microbial Observatory, along with other marine locations and experimental datasets. I am part of the [log[lab] group](https://log-lab.barcelona/) led by Ramiro Logares.
