@@ -25,19 +25,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
 
-# interests:
-# - Add your interest
-# - Add your interest
-# - Add as many interests as you need
+interests:
+- Bioinformatics
+- Big Data
+- Data Viz
+- Python
+- Yoga
+- Stand Up Paddle
 
-# education:
-#   courses:
-#   - course: Add your PhD program if any
-#     institution: Add your Uni here
-#     year: Year of PhD
-#   - course: Add bachelor title
-#     institution: Add Uni Here
-#     year: Add year of uni
+education:
+   courses:
+   - course: MSc in Bioinformatics for Health Sciences
+     institution: Universitat Pompeu Fabra
+     year: 2016
+   - course: BSc in Microbiology
+     institution: Universitat Autònoma de Barcelona
+     year: 2014
 #   - course: add as many courses as you want
 #     institution: Add uni
 #     year: Add year
@@ -57,21 +60,24 @@ social:
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.com/your_scholar_profile
-# - icon: orcid
-#   icon_pack: ai
-#   link: https://orcid.org/your_orcid_id
-# - icon: researchgate
-#   icon_pack: ai
-#   link: https://www.researchgate.net/profile/Your_researchgate_profile
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/your_github
+- icon: orcid
+  icon_pack: ai
+  link: "https://orcid.org/0000-0003-1514-1669"
+- icon: researchgate
+  icon_pack: ai
+  link: "https://www.researchgate.net/profile/Lidia-Montiel-2"
+- icon: github
+  icon_pack: fab
+  link: "https://github.com/lidmontiel"
 # - icon: instagram
 #   icon_pack: fab
 #   link: https://www.instagram.com/your_insta
-# - icon: linkedin
+#  - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/in/your_linkedin/
+- icon: globe
+  icon_pack: fas
+  link: "https://log-lab.barcelona/"
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -88,4 +94,5 @@ email: ""
 user_groups:
 - 'Technicians'
 ---
-I work as a Bioinformatics Research Assistant at the ICM-CSIC since January 2017. I studied Microbiology at the Universitat Autònoma de Barcelona (UAB) and finished my Master’s degree in Bioinformatics for Health Sciences at Universitat Pompeu Fabra (UPF) in Barcelona. Before my current position at the ICM, I carried out my master thesis here with Ramiro Logares as a supervisor, from September 2015 to June 2016. The aim of my master thesis was to characterize globally prevalent deep-sea fungi, specially a Tilletiopsis-like fungi, using metagenomes from Malaspina-2010 circumnavigation expedition. At the present time, I work analysing several datasets including metagenomes from the Blanes Bay Microbial Observatory and I’m part of the [Interactomics project](https://interactomics.icm.csic.es).
+I work as a Bioinformatics Research Technician at the ICM-CSIC since January 2017. I studied Microbiology at the Universitat Autònoma de Barcelona (UAB) and finished my Master’s degree in Bioinformatics for Health Sciences at Universitat Pompeu Fabra (UPF) in Barcelona. Prior to my current position at the ICM, I carried out my master thesis here with Ramiro Logares as a supervisor, from September 2015 to June 2016. The aim of my master thesis was to characterize globally prevalent deep-sea fungi, particularly a Tilletiopsis-like fungi, using metagenomes from Malaspina-2010 circumnavigation expedition. 
+At the present time, I am involved in building gene catalogues and analyzing metagenomes, as well as potential MAGs from the Blanes Bay Microbial Observatory, along with other marine locations and experimental datasets. I am part of the [log[lab] group](https://log-lab.barcelona/) led by Ramiro Logares.
