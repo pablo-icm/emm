@@ -4,7 +4,7 @@ title: Seasonality of biogeochemically relevant microbial genes in a coastal oce
 authors:
 - Adrià Auladell
 - Isabel Ferrera
-- Lidia Montiel Fontanet
+- Lidia Montiel
 - Célio Dias Santos Júnior
 - Marta Sebastián
 - Ramiro Logares
