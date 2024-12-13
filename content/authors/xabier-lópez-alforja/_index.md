@@ -29,11 +29,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
 
-# interests:
-# - Add your interest
-# - Add your interest
-# - Add as many interests as you need
-
+interests:
+  - Eukaryotic viruses
+  - Virus-host interactions
+  - Bioinformatics
+  - Biostatistics
+    
 # education:
 #   courses:
 #   - course: Add your PhD program
@@ -75,7 +76,7 @@ social:
 #   link: https://www.instagram.com/your_insta
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/xabier-lopez
+  link: https://www.linkedin.com/in/xabier-lopez/
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -93,7 +94,8 @@ user_groups:
 - 'Predoctoral scientists'
 ---
 
-Researcher in Marine Sciences, specialized in Marine Microbial Ecology, Bioinformatics and Biostatistics. currently developing my PhD at the ICM-CSIC. My thesis deals with the temporal trends of planktonic viruses in an oligotrophic coastal system (DIVAS). I intend to evaluate the changes that virus-picoeukaryotic interactions undergo over time in Blanes Bay Microbial Observatory (BBMO).
- 
-I am passionate about everything that surrounds the sea and science, both in the field and in the laboratory. So much so that I studied Marine Sciences at the University of Vigo (UVIGO). Later, I became interested in the world of microbial ecology, so I did a master’s degree in Marine Ecology (Universitat de les Illes Balears-UIB) in which I worked with anthropogenic impact (microplastics) on the nitrogen-fixing microbiota of Posidonia Oceanica (Marine Ecology and Systematics -MarES- Research group). In addition, I got into another master’s degree in Bioinformatics and Biostatistics (Universitat Oberta de Catalunya) in which I developed my master’s thesis in collaboration with the EMM of the ICM-CSIC, “Taxonomic classification of assemblages of protists ordered by cells from the Bay of Blanes by means of long-read metagenomics “.
+Researcher in Marine Sciences, specialized in Bioinformatics, Biostatistics and Marine Microbial Ecology, currently developing my PhD at the Institute of Marine Sciences (ICM-CSIC). 
+
+My research explores the **temporal dynamics of planktonic viruses** and their interactions with microbial communities in oligotrophic coastal systems, with a focus on the Blanes Bay Microbial Observatory (BBMO). Combining long-term environmental monitoring, **metagenomics**, and **single-cell genomic approaches**, I investigate how viruses are influenced by microbial community composition, nutrient cycling, and ecosystem functioning. Part of my work seeks to characterize **previously unidentified links between giant viruses and their microeukaryotic hosts**, shedding light on their natural dynamics. Additionally, my work examines the impact of climate-driven changes, such as rising temperatures and increasing oligotrophy, on viral abundance and diversity, providing insights into the evolving roles of marine viruses in microbial food webs and biogeochemical cycles.
+
 
