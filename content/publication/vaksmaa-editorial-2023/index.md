@@ -3,7 +3,7 @@ title: 'Editorial: Women in aquatic microbiology: 2022'
 authors:
 - Annika Vaksmaa
 - Alessandra Adessi
-- Maria M Sala
+- Maria Montserrat Sala
 - Alison Buchan
 - Catarina M Magalhães
 - Adriane Clark Jones

@@ -4,7 +4,7 @@ title: Effects of the toxic dinoflagellate Karlodinium sp. (cultured at differen
 authors:
 - Dolors Vaqué
 - Jordi Felipe
-- Maria M Sala
+- Maria Montserrat Sala
 - Albert Calbet
 - Marta Estrada
 - Miquel Alcaraz

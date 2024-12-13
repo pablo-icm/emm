@@ -5,7 +5,7 @@ authors:
 - Mireia Mestre
 - Cèlia Marrasé
 - Josep M. Gasol
-- Maria M Sala
+- Maria Montserrat Sala
 date: '2024-10-01'
 publishDate: '2024-10-30T12:13:09.075434Z'
 publication_types:

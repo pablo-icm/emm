@@ -15,7 +15,7 @@ authors:
 - Susana Agustí
 - Takashi Gojobori
 - Ramiro Logares
-- Maria M Sala
+- Maria Montserrat Sala
 - Dolors Vaqué
 - Ramon Massana
 - Carlos M. Duarte

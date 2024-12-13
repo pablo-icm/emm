@@ -2,7 +2,7 @@
 title: Metabolic diversity of heterotrophic bacterioplankton over winter and spring
   in the coastal Arctic Ocean
 authors:
-- Maria M Sala
+- Maria Montserrat Sala
 - Ramon Terrado
 - Connie Lovejoy
 - Fernando Unrein

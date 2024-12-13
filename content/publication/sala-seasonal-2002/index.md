@@ -2,7 +2,7 @@
 title: Seasonal and spatial variations in the nutrient limitation of bacterioplankton
   growth in the northwestern Mediterranean
 authors:
-- Maria M Sala
+- Maria Montserrat Sala
 - Francesc Peters
 - Josep M. Gasol
 - Carlos Pedrós-Alió

@@ -2,7 +2,7 @@
 title: Seasonal changes in the functional diversity of bacterioplankton in contrasting
   coastal environments of the NW Mediterranean
 authors:
-- Maria M Sala
+- Maria Montserrat Sala
 - Marta Estrada
 - Josep M. Gasol
 date: '2006-08-01'

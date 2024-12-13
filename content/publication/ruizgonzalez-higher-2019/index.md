@@ -8,7 +8,7 @@ authors:
 - Mireia Mestre
 - Raquel Rodríguez-Martínez
 - Martí Galí
-- Maria M Sala
+- Maria Montserrat Sala
 - Silvia G. Acinas
 - Carlos M Duarte
 - Josep M. Gasol

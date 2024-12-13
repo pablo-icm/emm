@@ -7,7 +7,7 @@ authors:
 - Javier Arístegui
 - Susana Agustí
 - Carlos M Duarte
-- Maria M Sala
+- Maria Montserrat Sala
 - Evaristo Vázquez-Domínguez
 - Josep M. Gasol
 date: '2014-01-01'

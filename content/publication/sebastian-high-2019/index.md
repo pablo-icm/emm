@@ -6,7 +6,7 @@ authors:
 - Margarita Estrany
 - Clara Ruiz-González
 - Irene Forn
-- Maria M Sala
+- Maria Montserrat Sala
 - Josep M. Gasol
 - Celia Marrasé
 date: '2019-04-01'

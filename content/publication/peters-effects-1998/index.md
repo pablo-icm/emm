@@ -4,7 +4,7 @@ authors:
 - Francesc Peters
 - Cèlia Marrasé
 - Josep M. Gasol
-- Maria M Sala
+- Maria Montserrat Sala
 - Laura Arin
 date: '1998-01-01'
 publishDate: '2024-08-05T15:04:48.914072Z'

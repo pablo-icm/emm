@@ -7,7 +7,7 @@ authors:
 - Jesús Maria Arrieta
 - Susana Agustí
 - Carlos M Duarte
-- Maria M Sala
+- Maria Montserrat Sala
 date: '2021-02-01'
 publishDate: '2024-08-05T15:04:45.880791Z'
 publication_types:

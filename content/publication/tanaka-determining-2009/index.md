@@ -7,7 +7,7 @@ authors:
 - Josep M. Gasol
 - Clara Cardelús
 - Jan Jezbera
-- Maria M Sala
+- Maria Montserrat Sala
 - Karel Simek
 - Fernando Unrein
 date: '2009-07-01'

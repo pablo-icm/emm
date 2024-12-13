@@ -9,7 +9,7 @@ authors:
 - Susan Mbedi
 - Hans-Peter Grossart
 - Josep M. Gasol
-- Maria M Sala
+- Maria Montserrat Sala
 date: '2017-12-01'
 publishDate: '2024-08-05T15:04:46.520909Z'
 publication_types:

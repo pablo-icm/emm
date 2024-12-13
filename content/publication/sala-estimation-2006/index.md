@@ -2,7 +2,7 @@
 title: Estimation of bacterial use of dissolved organic nitrogen compounds in aquatic
   ecosystems using Biolog plates
 authors:
-- Maria M Sala
+- Maria Montserrat Sala
 - Jarone Pinhassi
 - Josep M. Gasol
 date: '2006-01-01'

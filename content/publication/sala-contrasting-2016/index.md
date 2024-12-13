@@ -2,7 +2,7 @@
 title: Contrasting effects of ocean acidification on the microbial food web under
   different trophic conditions
 authors:
-- Maria M Sala
+- Maria Montserrat Sala
 - Francisco L Aparicio
 - Vanessa Balagué
 - Julia A Boras

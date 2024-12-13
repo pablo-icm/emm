@@ -6,7 +6,7 @@ authors:
 - Harry Havskum
 - Ulla Li Zweifel
 - Elisa Berdalet
-- Maria M Sala
+- Maria Montserrat Sala
 - Francesc Peters
 - Miquel Alcaraz
 - Renate Scharek

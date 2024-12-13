@@ -2,7 +2,7 @@
 title: Functional diversity of bacterioplankton assemblages in western Antarctic seawaters
   during late spring
 authors:
-- Maria M Sala
+- Maria Montserrat Sala
 - Laura Arin
 - Vanessa Balagué
 - Jordi Felipe

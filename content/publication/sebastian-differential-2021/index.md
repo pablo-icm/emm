@@ -6,7 +6,7 @@ authors:
 - Irene Forn
 - Adrià Auladell
 - Markel Gómez-Letona
-- Maria M Sala
+- Maria Montserrat Sala
 - Josep M. Gasol
 - Cèlia Marrasé
 date: '2021-01-01'

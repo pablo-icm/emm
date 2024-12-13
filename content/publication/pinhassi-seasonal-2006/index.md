@@ -5,7 +5,7 @@ authors:
 - Jarone Pinhassi
 - Laura Gómez-Consarnau
 - Laura Alonso-Sáez
-- Maria M Sala
+- Maria Montserrat Sala
 - Montserrat Vidal
 - Carlos Pedrós-Alió
 - Josep M. Gasol

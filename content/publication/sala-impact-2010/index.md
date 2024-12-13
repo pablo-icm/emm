@@ -1,7 +1,7 @@
 ---
 title: The impact of ice melting on bacterioplankton in the Arctic Ocean
 authors:
-- Maria M Sala
+- Maria Montserrat Sala
 - Jesús M Arrieta
 - Julia A Boras
 - Carlos M Duarte
