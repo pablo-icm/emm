@@ -53,9 +53,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:pablosanchez@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/el_pableras
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/el_pableras
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?hl=es&pli=1&user=T86iT48AAAAJ
