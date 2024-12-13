@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xabier López-Alforja
+title: Xabier López-Alforja _(he/him)_
 
 # Full Name (for SEO)
 first_name: Xabier
