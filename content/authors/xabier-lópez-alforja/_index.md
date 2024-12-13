@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xabier López-Alforja _(he/him)_
+title: Xabier López-Alforja
 
 # Full Name (for SEO)
 first_name: Xabier
@@ -38,15 +38,15 @@ interests:
 
 education:
   courses:
-  - course: BsC in Marine Sciences  
-    institution: Universidade de Vigo (UVIGO)
-    year: 2018  
-  - course: MsC in Marine Ecology 
-    institution: Universitat de les Illes Balears (UIB)
-    year: 2019
   - course: MsC in Bioinformatics and Biostatistics 
     institution: Universitat Oberta de Catalunya (UOC)
     year: 2021  
+  - course: MsC in Marine Ecology 
+    institution: Universitat de les Illes Balears (UIB)
+    year: 2019
+  - course: BsC in Marine Sciences  
+    institution: Universidade de Vigo (UVIGO)
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
