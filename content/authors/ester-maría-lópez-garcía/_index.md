@@ -9,7 +9,7 @@ weight: 90
 
 # Username (this should match the folder name)
 authors:
-- ester-maría-lopez-garcia
+- ester-maría-lópez-garcía
 # Is this the primary user of the site?
 superuser: false
 
