@@ -88,7 +88,11 @@
         {{ end }}
         <li>
           <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
-            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+            {{ if eq .icon "bluesky" }}
+              <img src="https://emm.icm.csic.es/images/bluesky.svg"  alt="Bluesky" class="custom-icon">
+            {{ else }}
+              <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+            {{ end }}
           </a>
         </li>
         {{ end }}

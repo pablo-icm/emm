@@ -71,12 +71,15 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/el_pableras
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/pablosanchezfernandez/
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/pablosanchezfernandez/
 - icon: globe
   icon_pack: fas
   link: "https://www.somorrostrobeach.com/"
+- icon: "bluesky"
+  link: "https://bsky.app/profile/el-pableras.bsky.social"
+
 
 
 # Link to a PDF of your resume/CV from the About widget.
