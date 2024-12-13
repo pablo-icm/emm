@@ -1,0 +1,42 @@
+---
+title: "Genomes of Novel Microbial Lineages Assembled from the Sub-Ice Waters of Lake Baikal"
+authors:
+- Pedro J. Cabello-Yeves
+- Tamara I. Zemskaya
+- Riccardo Rosselli
+- Felipe H. Coutinho
+- Alexandra S. Zakharenko
+- Vadim V. Blinov
+- Francisco Rodriguez-Valera
+date: "2018-01-01"
+publication-types:
+- article-journal
+publication: "*Applied and Environmental Microbiology*"
+volume: "84"
+number: "1"
+pages: "e02132--17"
+doi: "10.1128/AEM.02132-17"
+abstract: "ABSTRACT
+
+We present a metagenomic study of Lake Baikal (East Siberia). Two samples obtained from the water column under the ice cover (5 and 20 m deep) in March 2016 have been deep sequenced and the reads assembled to generate metagenome-assembled genomes (MAGs) that are representative of the microbes living in this special environment. Compared with freshwater bodies studied around the world, Lake Baikal had an unusually high fraction of
+Verrucomicrobia
+. Other groups, such as
+Actinobacteria
+and
+Proteobacteria
+, were in proportions similar to those found in other lakes. The genomes (and probably cells) tended to be small, presumably reflecting the extremely oligotrophic and cold prevalent conditions. Baikal microbes are novel lineages recruiting very little from other water bodies and are distantly related to other freshwater microbes. Despite their novelty, they showed the closest relationship to genomes discovered by similar approaches from other freshwater lakes and reservoirs. Some of them were particularly similar to MAGs from the Baltic Sea, which, although it is brackish, connected to the ocean, and much more eutrophic, has similar climatological conditions. Many of the microbes contained rhodopsin genes, indicating that, in spite of the decreased light penetration allowed by the thick ice/snow cover, photoheterotrophy could be widespread in the water column, either because enough light penetrates or because the microbes are already adapted to the summer ice-less conditions. We have found a freshwater SAR11 subtype I/II representative showing striking synteny with
+Pelagibacter
+ubique
+strains, as well as a phage infecting the widespread freshwater bacterium
+Polynucleobacter
+.
+
+
+IMPORTANCE
+Despite the increasing number of metagenomic studies on different freshwater bodies, there is still a missing component in oligotrophic cold lakes suffering from long seasonal frozen cycles. Here, we describe microbial genomes from metagenomic assemblies that appear in the upper water column of Lake Baikal, the largest and deepest freshwater body on Earth. This lake is frozen from January to May, which generates conditions that include an inverted temperature gradient (colder up), decrease in light penetration due to ice, and, especially, snow cover, and oligotrophic conditions more similar to the open-ocean and high-altitude lakes than to other freshwater or brackish systems. As could be expected, most reconstructed genomes are novel lineages distantly related to others in cold environments, like the Baltic Sea and other freshwater lakes. Among them, there was a broad set of streamlined microbes with small genomes/intergenic spacers, including a new nonmarine
+Pelagibacter
+-like (subtype I/II) genome."
+links:
+- name: URL
+  url: "https://journals.asm.org/doi/10.1128/AEM.02132-17"
+---
