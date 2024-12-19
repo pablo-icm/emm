@@ -4,7 +4,7 @@ authors:
 - Clara Ruiz-González
 - Thomas Lefort
 - Martí Galí
-- M. Montserrat Sala
+- Maria Montserrat Sala
 - Ruben Sommaruga
 - Rafel Simó
 - Josep M. Gasol
