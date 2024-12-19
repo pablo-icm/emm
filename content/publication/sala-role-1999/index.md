@@ -2,7 +2,7 @@
 title: Role of protozoans on the microbial ectoenzymatic activity during the degradation
   of macrophytes
 authors:
-- Mm Sala
+- Maria Montserrat Sala
 - H Güde
 date: '1999-01-01'
 publishDate: '2024-08-05T15:04:48.901290Z'

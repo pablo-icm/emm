@@ -5,7 +5,7 @@ authors:
 - D Vaqué
 - J Felipe
 - M Vila
-- M Montserrat Sala
+- Maria Montserrat Sala
 - M Alcaraz
 - M Estrada
 date: "2003-01-01"

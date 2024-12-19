@@ -2,7 +2,7 @@
 title: Measurement of ectoenzyme activities as an indication of inorganic nutrient
   imbalance in microbial communities
 authors:
-- Mm Sala
+- Maria Montserrat Sala
 - M Karner
 - L Arin
 - C Marrasé

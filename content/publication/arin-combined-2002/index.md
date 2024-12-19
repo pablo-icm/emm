@@ -5,7 +5,7 @@ authors:
 - C Marrasé
 - M Maar
 - F Peters
-- Mm Sala
+- Maria Montserrat Sala
 - M Alcaraz
 date: "2002-01-01"
 year: "2002"

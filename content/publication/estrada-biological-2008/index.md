@@ -3,7 +3,7 @@ title: 'Biological interactions in enclosed plankton communities including Alexa
   catenella and copepods: Role of phosphorus'
 authors:
 - M Estrada
-- M.M Sala
+- Maria Montserrat Sala
 - K Van Lenning
 - M Alcaraz
 - J Felipe
