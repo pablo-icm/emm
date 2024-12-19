@@ -5,7 +5,7 @@ authors:
 - Hans Güde
 - Petra Teiber
 - Susanne Rolinski
-- Montserrat Sala
+- Maria Montserrat Sala
 date: '2004-05-01'
 publishDate: '2024-08-05T15:04:48.521062Z'
 publication_types:
