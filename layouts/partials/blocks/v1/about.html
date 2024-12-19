@@ -51,6 +51,9 @@
         </h2>
 
         {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+        
+        {{ with $person.pronouns }} <h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+        
         {{/* {{ with $person.supervisor }} Sup. {{ . | markdownify | emojify }} {{ end }} */}}
         <h3>{{ if $person.supervisor }}
           {{ with $person.supervisor }}

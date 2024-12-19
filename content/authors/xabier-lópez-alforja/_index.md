@@ -11,6 +11,8 @@ weight: 80
 authors:
 - xabier-lópez-alforja
 
+# Pronouns (optional)
+pronouns: "*(he/him)*"
 # Is this the primary user of the site?
 superuser: false
 
