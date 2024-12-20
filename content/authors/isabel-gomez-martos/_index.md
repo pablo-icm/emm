@@ -1,15 +1,18 @@
 ---
 # Display name
-title: Isabel González-Martos
+title: Iss G. Martos
 
 # Full Name (for SEO)
-first_name: Isabel
-last_name: González-Martos
+first_name: Iss
+last_name: G. Martos
 weight: 60
 
 # Username (this should match the folder name)
 authors:
 - isabel-gonzalez-martos
+
+# Pronouns (optional)
+pronouns: "*(he/him/they/them/she/her)*"
 
 # Is this the primary user of the site?
 superuser: false
