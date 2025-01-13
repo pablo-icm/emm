@@ -11,6 +11,9 @@ weight: 90
 authors:
 - carla-pereira-garcía
 
+# Pronouns (optional)
+pronouns: "(she/her)"
+
 # Is this the primary user of the site?
 superuser: false
 
