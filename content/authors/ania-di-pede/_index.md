@@ -1,15 +1,18 @@
 ---
 # Display name
-title: Stefania Di Pede Mattatelli
+title: Ania Di Pede Mattatelli
 
 # Full Name (for SEO)
-first_name: Stefania
+first_name: Ania
 last_name: Di Pede Mattatelli
 weight: 30
 
 # Username (this should match the folder name)
 authors:
 - ania-di-pede
+
+# Pronouns (optional)
+pronouns: "(she/her)"
 
 # Is this the primary user of the site?
 superuser: false
