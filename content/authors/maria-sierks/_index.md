@@ -11,6 +11,9 @@ weight: 160
 authors:
 - maria-sierks
 
+# Pronouns (optional)
+pronouns: "(she/her)"
+
 # Is this the primary user of the site?
 superuser: false
 
