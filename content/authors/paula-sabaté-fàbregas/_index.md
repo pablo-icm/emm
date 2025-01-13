@@ -11,6 +11,9 @@ weight: 150
 authors:
 - paula-sabaté-fàbregas
 
+# Pronouns (optional)
+pronouns: "(she/her)"
+
 # Is this the primary user of the site?
 superuser: false
 
