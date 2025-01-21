@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Mattia Grecco
+title: Mattia Greco
 
 # Full Name (for SEO)
 first_name: Mattia
-last_name: Grecco
+last_name: Greco
 weight: 60
 
 # Username (this should match the folder name)
