@@ -57,9 +57,9 @@ social:
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.com/your_scholar_profile
- - icon: orcid
-   icon_pack: ai
-   link: "https://orcid.org/0000-0001-5652-7264"
+- icon: orcid
+  icon_pack: ai
+  link: "https://orcid.org/0000-0001-5652-7264"
 # - icon: researchgate
 #   icon_pack: ai
 #   link: https://www.researchgate.net/profile/Your_researchgate_profile
