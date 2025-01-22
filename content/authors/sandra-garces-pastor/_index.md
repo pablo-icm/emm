@@ -30,11 +30,11 @@ organizations:
 # - Add your interest
 # - Add as many interests as you need
 
- education:
-   courses:
-   - course: PhD in Paleolimnology and Paleoecology
-     institution: Universitat de Barcelona
-     year: 2017
+# education:
+ #  courses:
+  # - course: PhD in Paleolimnology and Paleoecology
+  #   institution: Universitat de Barcelona
+  #   year: 2017
   # - course: Add bachelor title
   #   institution: Add Uni Here
   #   year: Add year of uni
