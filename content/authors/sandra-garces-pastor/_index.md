@@ -30,11 +30,11 @@ organizations:
 # - Add your interest
 # - Add as many interests as you need
 
-# education:
-#   courses:
-  # - course: Add your PhD program if any
-  #   institution: Add your Uni here
-  #   year: Year of PhD
+ education:
+   courses:
+   - course: PhD in Paleolimnology and Paleoecology
+     institution: Universitat de Barcelona
+     year: 2017
   # - course: Add bachelor title
   #   institution: Add Uni Here
   #   year: Add year of uni
@@ -57,9 +57,9 @@ social:
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.com/your_scholar_profile
-# - icon: orcid
-#   icon_pack: ai
-#   link: https://orcid.org/your_orcid_id
+ - icon: orcid
+   icon_pack: ai
+   link: "https://orcid.org/0000-0001-5652-7264"
 # - icon: researchgate
 #   icon_pack: ai
 #   link: https://www.researchgate.net/profile/Your_researchgate_profile
@@ -88,5 +88,11 @@ email: ""
 user_groups:
 - 'Postdoctoral scientists'
 ---
-Description of your research. 
+My research uses a range of molecular and microscopic techniques to study the impacts of climate change and human activities on biodiversity. It focuses on four main areas: (i) enhancing paleoecological reconstructions, (ii) investigating mountain ecosystems and their responses to climate change, (iii) developing ecological and human molecular indicators, and (iv) assessing aquatic ecosystems and molecular water quality.
+
+I did my PhD in Paleolimnology and Paleoecology at the University of Barcelona (UB), where I studied the response of high mountain ecosystems to human pressure and past climate changes, utilizing various biological indicators such as pollen, diatoms and DNA (defended in September 2017).
+
+As a postdoc, I collaborated at the University of Manchester to study the effects of the Industrial Revolution on peat bogs and later joined UiT The Arctic University of Norway for the Ecogen Project (2018-2022). There, I applied sedimentary DNA (sedaDNA) to investigate Holocene vegetation and mammal communities in the Alps, contributing novel ecological metricsWhile sedaDNA is well-established for plants and mammals, its application for diatoms remains limited due to incomplete reference databases.
+
+In 2022, I returned to Spain as an adjunct professor at the University of Barcelona, and in 2023 started the Beatriu de Pinós fellowship at the [log\[lab\] group](https://log-lab.barcelona/) at ICM-CSIC. In 2024, I got the "La Caixa" Junior Leader Incoming Fellowship for the DIAMMMANTE project, which aims to address the diatom database limitations by developing a cost-effective, reproducible biomonitoring approach for environmental and sedimentary diatoms using DNA metabarcoding. 
 
