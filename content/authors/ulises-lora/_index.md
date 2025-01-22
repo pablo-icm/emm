@@ -11,6 +11,9 @@ weight: 90
 authors:
 - ulises-lora
 
+# Pronouns (optional)
+pronouns: "*(he/him)*"
+
 # Is this the primary user of the site?
 superuser: false
 
