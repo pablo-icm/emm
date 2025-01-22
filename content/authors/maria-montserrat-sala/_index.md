@@ -11,6 +11,9 @@ weight: 110
 authors:
 - maria-montserrat-sala
 
+# Pronouns (optional)
+pronouns: "*(she/her)*"
+
 # Is this the primary user of the site?
 superuser: false
 
