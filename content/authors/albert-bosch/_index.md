@@ -5,7 +5,7 @@ title: Albert Bosch
 # Full Name (for SEO)
 first_name: Albert
 last_name: Bosch
-weight: 20
+weight: 10
 
 # Username (this should match the folder name)
 authors:
@@ -15,7 +15,10 @@ authors:
 superuser: false
 
 # Role/position
-role: Technician
+role: Predoctoral scientist
+supervisor: 
+  - Silvia G. Acinas
+  - Pablo Sánchez
 
 # Organizations/Affiliations
 organizations:
@@ -86,7 +89,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Technicians'
+- 'Predoctoral scientists'
 ---
 Description of your research. 
 
