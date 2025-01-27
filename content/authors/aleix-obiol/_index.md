@@ -11,81 +11,64 @@ weight: 80
 authors:
 - aleix-obiol
 
-# Is this the primary user of the site?
-superuser: false
+# Is this the primary user of the site? 
+# Don't touch
+superuser: "false"
 
 # Role/position
 role: Postdoctoral scientist
 
-# Organizations/Affiliations
+# Organizations/Affiliations (Add another one besides ICM if you have more than one)
 organizations:
-- name: Institut de Ciències del Mar (ICM-CSIC)
-  url: "https://www.icm.csic.es/"
+  - name: "Institut de Ciències del Mar (ICM-CSIC)"
+    url: "https://www.icm.csic.es/"
 
-# Short bio (displayed in user profile at end of posts)
-# bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
+# Short bio (displayed in user profile after expanding journal articles, thesis, etc...)
+# bio: "I am an EMM member"
 
-# interests:
-# - Add your interest
-# - Add your interest
-# - Add as many interests as you need
+interests:
+  - Protists ecology and evolution
+  - Omics
+  - Diversity and distribution
+  - Being in the mountains
 
-# education:
-#   courses:
-#   - course: Add your PhD program
-#     institution: Add your Uni here
-#     year: Year of PhD
-#   - course: Add bachelor title
-#     institution: Add Uni Here
-#     year: Add year of uni
-#   - course: add as many courses as you want
-#     institution: Add uni
-#     year: Add year
+education:
+  courses:
+    - course: "PhD in Marine Sciences" 
+      institution: "Universitat Politècnica de Catalunya (UPC)"
+      year: "2023"
+    - course: "MsC in Advanced Biotechnology"
+      institution: "Universitat Autònoma de Barcelona (UAB)"
+      year: "2015"
+    - course: "BsC in Biotechnology"
+      institution: "Universitat Autònoma de Barcelona (UAB)"
+      year: "2014"
+
+# Free section to highlight some contributions (not only papers). Edit at will but keep within the scope.
+# selected_papers: |
+#   ### Selected papers
+#   - Wallace, Alfred Russel. 1855. On the law which has regulated the Introduction of New Species. Annals and Magazine of Natural History, including Zoology, Botany, and Geology 16: (September): 184-196.
+#   - Watson, J., Crick, F. Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid. Nature 171, 737–738 (1953). https://doi.org/10.1038/171737a0
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# COMMENT ALL THE SOCIALS YOU DON?T WANT TO SHOW IN YOUR PAGE
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:example@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/your_twitter_handle
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/your_scholar_profile
-# - icon: orcid
-#   icon_pack: ai
-#   link: https://orcid.org/your_orcid_id
-# - icon: researchgate
-#   icon_pack: ai
-#   link: https://www.researchgate.net/profile/Your_researchgate_profile
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/your_github
-# - icon: instagram
-#   icon_pack: fab
-#   link: https://www.instagram.com/your_insta
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/your_linkedin/
-
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:obiol@icm.csic.es"  
+  - icon: google-scholar
+    icon_pack: ai
+    link: "https://scholar.google.com/citations?user=4S_Jx2sAAAAJ&hl=ca&oi=ao"
+  - icon: orcid
+    icon_pack: ai
+    link: "https://orcid.org/0000-0002-5475-9827"
+  - icon: github
+    icon_pack: fab
+    link: "https://github.com/aleixop"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - 'Postdoctoral scientists'
 ---
-I studied Biotechnology at Universitat Autònoma de Barcelona (UAB) and performed my Master’s thesis there. It was focused on assessing the tolerance of microbial mats communities to heavy metal contamination, using mainly microscopy. Then, I jumped to the world of bioinformatics and I am currently doing my PhD on the ecology of marine heterotrophic flagellates, the unpigmented smallest eukaryotes in planktonic systems. Particularly, I use omics datasets from global and local surveys coupled with microscopy approaches to better understand the role of these organisms in their ecosystems.
+
+I am a microbial ecologist specializing in marine microbial eukaryotes (protists), with a focus on understanding their diversity and functional roles in the ocean. My research centers on heterotrophic flagellates, a key yet understudied group of protists. To address this knowledge gap, I integrate omics datasets at global and local scales with traditional methods such as microscopy. Currently, my work focuses on deciphering gene expression dynamics during phagocytosis–the process by which heterotrophic flagellates engulf bacteria–providing critical insights into their role in global biogeochemical cycles.
