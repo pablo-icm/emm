@@ -28,22 +28,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
 
-# interests:
-# - Add your interest
-# - Add your interest
-# - Add as many interests as you need
+interests:
+- Microbial diversity and ecology
+- Genomics
+- Polar biomes
+- Extremophiles
+- Music
 
-# education:
-#   courses:
-  # - course: Add your PhD program if any
-  #   institution: Add your Uni here
-  #   year: Year of PhD
-  # - course: Add bachelor title
-  #   institution: Add Uni Here
-  #   year: Add year of uni
-  # - course: add as many courses as you want
-  #   institution: Add uni
-  #   year: Add year
+
+education:
+  courses:
+  - course: MsC in Advanced Microbiology
+    institution: Universitat de Barcelona
+    year: 2023
+  - course: BsC in Biology
+    institution: Universitat de Girona
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -91,5 +91,7 @@ email: ""
 user_groups:
 - 'Predoctoral scientists'
 ---
-Description of your research. 
+I am a PhD student at the Institut de Ciències del Mar (ICM-CSIC) under the supervision of Silvia G. Acinas and Pablo Sanchez. I hold a Bachelor’s degree in Biology from the Universitat de Girona and a Master’s degree in Advanced Microbiology from the Universitat de Barcelona, specializing in Microbial Biotechnology and Environmental Microbiology. During my Master’s thesis, also conducted at ICM, I used a combination of culture-dependent and -independent methods to confirm that heterotrophic bacteria isolated from the deep ocean are among the most abundant taxa in this environment. This challenges the common notion that culturing primarily captures members of the rare biosphere. Additionally, I explored the biogeography of these culturable bacteria and performed growth curves to assess their adaptation across different depths of the water column.
+
+As part of the POLAROMICS project, my PhD thesis will focus on the biogeography and adaptation mechanisms of prokaryotes in various polar biomes. I aim to understand their connectivity between the Arctic and Antarctic Oceans and the evolutionary processes shaping their diversification.
 
