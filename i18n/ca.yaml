@@ -4,22 +4,22 @@
   translation: Barra de navegació
 
 - id: table_of_contents
-  translation: Index
+  translation: Índex
 
 - id: on_this_page
-  translation: On this page
+  translation: En aquesta pàgina
 
 - id: back_to_top
-  translation: Back to top
+  translation: Torna al principi
 
 - id: home
-  translation: Home
+  translation: Inici
 
 - id: close
-  translation: Close
+  translation: Tanca
 
 - id: languages
-  translation: Languages
+  translation: Llengües
 
 # General
 
@@ -39,21 +39,21 @@
   translation: 'Figura %d:'
 
 - id: edit_page
-  translation: Edit this page
+  translation: Edita aquesta pàgina
 
 # Themes
 
 - id: theme_selector
-  translation: Display preferences
+  translation: Mostra les preferències
 
 - id: theme_light
-  translation: Light
+  translation: Clar
 
 - id: theme_dark
-  translation: Dark
+  translation: Fosc
 
 - id: theme_auto
-  translation: Automatic
+  translation: Automàtic
 
 # Buttons
 
@@ -73,7 +73,7 @@
   translation: Vídeo
 
 - id: btn_code
-  translation: Códi
+  translation: Codi
 
 - id: btn_dataset
   translation: Dades
@@ -82,16 +82,16 @@
   translation: Projecte
 
 - id: btn_poster
-  translation: Poster
+  translation: Pòster
 
 - id: btn_source
   translation: Font
 
 - id: btn_copy
-  translation: Copia
+  translation: Còpia
 
 - id: btn_copied
-  translation: Copied
+  translation: Copiat
 
 - id: btn_download
   translation: Baixa
@@ -105,22 +105,22 @@
   translation: Educació
 
 - id: user_profile_latest
-  translation: Latest
+  translation: Recents
 
 # Accomplishments widget
 
 - id: see_certificate
-  translation: See certificate
+  translation: Veure el certificat
 
 # Experience widget
 
 - id: present
-  translation: Present
+  translation: Ara
 
 # Pages widget
 
 - id: more_pages
-  translation: See all
+  translation: Veure tot
 
 - id: more_posts
   translation: Més entrades
@@ -149,7 +149,7 @@
   translation: Enviar
 
 - id: book_appointment
-  translation: Book an appointment
+  translation: Sol·licitar una cita
 
 # Publication/Event details
 
@@ -175,25 +175,25 @@
   translation: Ubicació
 
 - id: pub_paper_conference
-  translation: Conference paper
+  translation: Article de conferència
 
 - id: pub_article_journal
-  translation: Journal article
+  translation: Article de revista
 
 - id: pub_article
-  translation: Preprint
+  translation: Prepublicació
 
 - id: pub_report
-  translation: Report
+  translation: Informe
 
 - id: pub_book
-  translation: Book
+  translation: Llibre
 
 - id: pub_chapter
-  translation: Book section
+  translation: Capítol del llibre
 
 - id: pub_thesis
-  translation: Thesis
+  translation: Tesi
 
 - id: pub_patent
   translation: Patent
@@ -209,36 +209,36 @@
   translation: Entrada
 
 - id: publications
-  translation: Publicació
+  translation: Publicacions
 
 - id: talks
-  translation: Conferència
+  translation: Conferències
 
 - id: projects
   translation: Projectes
 
 - id: slides
-  translation: Slides
+  translation: Diapositives
 
 - id: authors
-  translation: Authors
+  translation: Autors
 
 # Search
 
 - id: search
-  translation: Search
+  translation: Cerca
 
 - id: search_placeholder
-  translation: Search...
+  translation: Cerca...
 
 - id: search_results
-  translation: results found
+  translation: resultats trobats
 
 - id: search_no_results
-  translation: No results found
+  translation: Sense resultats
 
 - id: search_common_queries
-  translation: Common searches
+  translation: Cerques comuns
 
 # Error 404
 
@@ -251,7 +251,7 @@
 # Cookie consent
 
 - id: cookie_message
-  translation: Aquet lloc web fa servir cookies per garantitzar una millor experiència.
+  translation: Aquest lloc web fa servir cookies per garantitzar una millor experiència.
 
 - id: cookie_dismiss
   translation: D'acord
