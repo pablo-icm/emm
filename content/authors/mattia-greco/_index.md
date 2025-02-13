@@ -30,17 +30,17 @@ organizations:
 # - Add your interest
 # - Add as many interests as you need
 
-# education:
-#   courses:
-#   - course: Add your PhD program
-#     institution: Add your Uni here
-#     year: Year of PhD
-#   - course: Add bachelor title
-#     institution: Add Uni Here
-#     year: Add year of uni
-#   - course: add as many courses as you want
-#     institution: Add uni
-#     year: Add year
+education:
+  courses:
+  - course: PhD
+    institution: University of Bremen, Germany
+    year: 2020
+  - course: MsC in Biodiversity and Evolution
+    institution: University of Bologna, Italy
+    year: 2015
+  - course: BSc in Environmental Sciences
+    institution: University of Urbino, Italy
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
