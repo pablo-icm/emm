@@ -88,11 +88,6 @@ email: ""
 user_groups:
 - 'Technicians'
 ---
+I am a bioinformatician at the [log\[lab\] group](https://log-lab.barcelona/) (Institute of Marine Sciences, ICM-CSIC). My research focuses on applying multiomics approaches: single-cell genomics, metagenomics, and metatranscriptomics to study microbial communities in marine environments.
 
-
-Bachleor’s degree in Biotechnology by the Autonomus University of Barcelona (UAB) with special mention in molecular and cellular biology (2009-2013).
-
-Master degree in Bioinformatics for Health Sciences by both the Pompeu Fabra University (UPF) and University of Barcelona (UB) (2014-2016) – Master thesis at the Institute of Marine Science in “Comparative genomics of the MAST-4 group”.
-
-PhD in Marine Science by the Polytechnic University of Catalonia (UPC) (2017 – present).
-
+I hold a Bachelor's in Biotechnology from the Autonomous University of Barcelona (UAB), specializing in molecular and cellular biology. I later pursued a Master’s degree in Bioinformatics for Health Sciences (UPF & UB), where my thesis focused on the comparative genomics of marine protists at ICM-CSIC. I obtained my PhD in Marine Science from the Polytechnic University of Catalonia (UPC), further exploring the complex interplay of microbial communities in marine ecosystems.
