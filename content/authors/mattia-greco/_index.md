@@ -56,23 +56,22 @@ social:
 #   link: https://twitter.com/your_twitter_handle
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=bVYukHQAAAAJ&hl=it
+  link: "https://scholar.google.com/citations?user=bVYukHQAAAAJ&hl=it"
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-2416-6235
-# - icon: researchgate
-#   icon_pack: ai
-#   link: https://www.researchgate.net/profile/Your_researchgate_profile
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Mattia-Greco-2?ev=hdr_xprf
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/your_github
 # - icon: instagram
 #   icon_pack: fab
 #   link: https://www.instagram.com/your_insta
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/your_linkedin/
-
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/mattia-greco-ph-d-b493bb114
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -88,5 +87,6 @@ email: ""
 user_groups:
 - 'Postdoctoral scientists'
 ---
-I am a Juan de la Cierva Research Fellow at the Institut de Ciències del Mar (ICM) in Barcelona. My primary research interest is to explore how molecular evolution and environmental factors influence microbial diversity, with a particular focus on foraminifera. Specifically, I investigate their use as bioindicators, as well as their interactions, ecology, and evolution, using bioinformatic and quantitative methods.
-Currently, my research at the ICM centers on investigating the structure of microbial eukaryote communities in the ocean. I employ a metagenomic approach to study these communities, aiming to understand their composition, diversity, and ecological roles.
+I'm a Beatriu de Pinós Research Fellow at the Institut de Ciències del Mar (ICM) in Barcelona. My research examines how molecular evolution and environmental changes shape microbial diversity in the ocean, including the use of microbes as bioindicators of ecosystem health.
+
+Here at ICM, my project investigates the structure of microbial eukaryote communities in the ocean. I employ a metagenomic approach to study these communities, aiming to understand their composition, diversity, and ecological roles.
