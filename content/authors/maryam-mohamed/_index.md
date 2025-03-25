@@ -28,10 +28,19 @@ organizations:
 # bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
 
 interests:
-  - Nitrogen metabolism
+  - Nitrogen Metabolism
   - Plastid evolution
-  -	Biogeochemical cycles
-  -	Climate change
+  - Biogeochemical cycles
+  - Climate change
+
+education:
+  courses:
+    - course: MSc. Advanced Microbiology
+      institution: Universitat de Barcelona
+      year: 2024
+    - course: BSc. Biochemistry
+      institution: Universidad de Córdoba
+      year: 2023
 
 # education:
 #   courses:
