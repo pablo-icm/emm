@@ -1,16 +1,15 @@
 ---
-
 # Display name
-title: Maryam Mohamed
+title: Cinthya Vieyra
 
 # Full Name (for SEO)
-first_name: Maryam
-last_name: Mohamed
-weight: 115
+first_name: Cinthya
+last_name: Vieyra
+weight: 180
 
 # Username (this should match the folder name)
 authors:
-- maryam-mohamed
+- cinthya-vieyra
 
 # Is this the primary user of the site?
 superuser: false
@@ -26,22 +25,21 @@ organizations:
   url: "https://www.icm.csic.es/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My PhD thesis explores the interactions between the microalga B. bigelowii and its endosymbiont UCYN-A, which supplies fixed nitrogen in exchange for fixed carbon.
+# bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
 
-interests:
- - Nitrogen metabolism
- - Plastid evolution
- - Biogeochemical cycles
- - Climate change
+# interests:
+# - Add your interest
+# - Add your interest
+# - Add as many interests as you need
 
-education:
-   courses:
-   - course: BSc. Biochemistry
-     institution: Universidad de Córdoba
-     year: 2023
-   - course: MSc. Advanced Microbiology
-     institution: Universitat de Barcelona
-     year: 2024
+# education:
+#   courses:
+  # - course: Add your PhD program if any
+  #   institution: Add your Uni here
+  #   year: Year of PhD
+  # - course: Add bachelor title
+  #   institution: Add Uni Here
+  #   year: Add year of uni
   # - course: add as many courses as you want
   #   institution: Add uni
   #   year: Add year
@@ -52,18 +50,18 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # COMMENT ALL THE SOCIALS YOU DON?T WANT TO SHOW IN YOUR PAGE
 social:
- - icon: envelope
+- icon: envelope
   icon_pack: fas
-  link: "mailto:maryammohamed@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:cvieyra@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/your_twitter_handle
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.com/your_scholar_profile
- - icon: orcid
-   icon_pack: ai
-   link: https://orcid.org/0009-0007-7619-0807
+# - icon: orcid
+#   icon_pack: ai
+#   link: https://orcid.org/your_orcid_id
 # - icon: researchgate
 #   icon_pack: ai
 #   link: https://www.researchgate.net/profile/Your_researchgate_profile
@@ -92,6 +90,4 @@ email: ""
 user_groups:
 - 'Predoctoral scientists'
 ---
-Study of the metabolic dependency of the marine microalga species Braarudosphaera bigelowii on UCYN-A, a nitrogen-fixing symbiotic cyanobacteria![image](https://github.com/user-attachments/assets/8c1f7585-047a-4c19-9bd6-d2a5198af223)
-
-![image](https://github.com/user-attachments/assets/e396e2df-9bde-43b6-96a1-894f85d814d4)
+Description of your research. 
