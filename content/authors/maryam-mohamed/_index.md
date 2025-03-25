@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Cinthya Vieyra
+title: Maryam Mohamed
 
 # Full Name (for SEO)
-first_name: Cinthya
-last_name: Vieyra
-weight: 180
+first_name: Maryam
+last_name: Mohamed
+weight: 115
 
 # Username (this should match the folder name)
 authors:
-- cinthya-vieyra
+- maryam-mohamed
 
 # Is this the primary user of the site?
 superuser: false
@@ -52,7 +52,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:cvieyra@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:maryammohamed@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/your_twitter_handle
