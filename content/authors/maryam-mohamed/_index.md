@@ -25,7 +25,7 @@ organizations:
   url: "https://www.icm.csic.es/"
 
 # Short bio (displayed in user profile at end of posts)
- bio: My PhD thesis explores the interactions between the microalga B. bigelowii and its endosymbiont UCYN-A, which supplies fixed nitrogen in exchange for fixed carbon. This endosymbiotic relationship is so close that UCYN-A is considered to function as a nitrogen-fixing organelle or nitroplast within B. bigelowii. This unique interaction provides a model system to study the evolutionary transition from symbiosis to organellogenesis.![image](https://github.com/user-attachments/assets/48a140cc-aba1-47fa-955e-fcb0861837c0)
+# bio: My PhD thesis explores the interactions between the microalga B. bigelowii and its endosymbiont UCYN-A, which supplies fixed nitrogen in exchange for fixed carbon. This endosymbiotic relationship is so close that UCYN-A is considered to function as a nitrogen-fixing organelle or nitroplast within B. bigelowii. This unique interaction provides a model system to study the evolutionary transition from symbiosis to organellogenesis.!
 
 
  interests:
