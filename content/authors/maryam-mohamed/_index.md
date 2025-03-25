@@ -91,4 +91,6 @@ email: ""
 user_groups:
 - 'Predoctoral scientists'
 ---
-Description of your research. 
+I am currently pursuing my PhD at the Institut de Ciències del Mar (ICM-CSIC) under the supervision of Fran Cornejo-Castillo. I graduated from the Universidad de Córdoba (UCO) with a Biochemistry degree. For my undergraduate project, I investigated the relationship between the production of the greenhouse gas nitric oxide and the regulatory role of arginine in ammonium and nitrate assimilation in the microalga Chlamydomonas reinhardtii. During this research, I developed a strong interest in the fascinating world of microalgae. This interest led me to pursue a master’s degree in Advanced Microbiology at the Universitat de Barcelona (UB) and to carry out my Master's thesis at the ICM, where we studied the metabolic dependency of the marine microalga species Braarudosphaera bigelowii on UCYN-A, a nitrogen-fixing symbiotic cyanobacteria. 
+My PhD thesis continues exploring the interactions between the microalga B. bigelowii and its endosymbiont UCYN-A, which supplies fixed nitrogen in exchange for fixed carbon. This endosymbiotic relationship is so close that UCYN-A is considered to function as a nitrogen-fixing organelle or nitroplast within B. bigelowii. This unique interaction provides a model system to study the evolutionary transition from symbiosis to organellogenesis.
+
