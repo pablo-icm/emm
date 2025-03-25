@@ -52,7 +52,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # COMMENT ALL THE SOCIALS YOU DON?T WANT TO SHOW IN YOUR PAGE
 social:
-- icon: envelope
+ - icon: envelope
   icon_pack: fas
   link: "mailto:maryammohamed@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
