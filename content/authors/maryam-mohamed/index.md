@@ -5,7 +5,7 @@ title: Maryam Mohamed
 # Full Name (for SEO)
 first_name: Maryam
 last_name: Mohamed
-weight: 180
+weight: 115
 
 # Username (this should match the folder name)
 authors:
