@@ -27,10 +27,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
 
-# interests:
-# - Add your interest
-# - Add your interest
-# - Add as many interests as you need
+ interests:
+ - Nitrogen metabolism
+ - Plastid evolution
+ -	Biogeochemical cycles
+ -	Climate change
 
 # education:
 #   courses:
