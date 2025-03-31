@@ -88,7 +88,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Predoctoral scientists'
+- 'Former members'
 ---
 I have recently started a PhD in marine microbial ecology, supervised by Olga Sánchez and Josep M. Gasol. I studied Biochemistry and Molecular Biology in Universitat Rovira i Virgili (Tarragona) and got a Master’s Degree in Applied Microbiology in Universitat Autònoma de Barcelona (UAB), having done stays in Poland and Finland. I have worked as a mosquito breeder and SARS-CoV2 detector. My thesis will involve testing the diversity of marine bacteria through traditional culturing methods, high-throughput sequencing and bioinformatic analyses, with a focus on understanding “bloomer” species.
 
