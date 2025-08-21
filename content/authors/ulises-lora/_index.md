@@ -36,10 +36,10 @@ interests:
 
 education:
   courses:
-    - course: MsC in Oceanography and Marine Environment Management
+    - course: MSc in Oceanography and Marine Environment Management
       institution: Universitat de Barcelona
       year: 2020
-    - course: BsC in Biomedical Sciences
+    - course: BSc in Biomedical Sciences
       institution: Universitat de Barcelona
       year: 2019
 
