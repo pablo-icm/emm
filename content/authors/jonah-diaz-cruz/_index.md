@@ -57,7 +57,7 @@ social:
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.com/citations?user=
-#  - icon: orcid
+   - icon: orcid
      icon_pack: ai
      link: https://orcid.org/0009-0000-8680-0479
 #  - icon: github
