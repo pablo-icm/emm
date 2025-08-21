@@ -32,8 +32,7 @@ organizations:
 # - Add your interest
 # - Add as many interests as you need
 
-
-#education:
+education:
  courses:
    - course: MSc Marine biology
      institution: Universidad de La Laguna
