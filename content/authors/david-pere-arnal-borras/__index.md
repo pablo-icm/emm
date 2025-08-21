@@ -5,7 +5,7 @@ title: David Pere Arnal Borràs
 # Full Name (for SEO)
 first_name: David Pere
 last_name: Arnal Borràs
-weight: 80
+weight: 5
 
 # Username (this should match the folder name)
 authors:
@@ -51,18 +51,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:dparnal@icm.csic.es'
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/
-#  - icon: google-scholar
-#    icon_pack: ai
-#    link: https://scholar.google.com/citations?user=
-#  - icon: orcid
-#    icon_pack: ai
-#    link: https://orcid.org/
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=
+# - icon: orcid
+#   icon_pack: ai
+#   link: https://orcid.org/
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/
     
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -81,7 +81,6 @@ highlight_name: false
 user_groups:
   - 'Predoctoral scientists'
 ---
-
 I am currently pursuing my PhD in Marine Sciences at the Institut de Ciències del Mar (ICM) under the supervision of Maria Montserrat Sala and Ramiro Logares since January 2025, focusing on bacterial diversity and its influence by emerging contaminants. For this, I use advanced metagenomic techniques, such as metabarcoding and next generation sequencing (NGS), which allow me to explore the complexity of microbial communities in marine environments.
 
 I have a degree in Biotechnology from the Universitat de Lleida (UdL) and a Master in Advanced Microbiology from the Universitat de Barcelona (UB). Before starting my PhD, I carried out my Master's Thesis under the supervision of Dr. Maria Montserrat Sala, from September 2023 to July 2024. During this period, I focused on distinguishing the effect of phytoplankton growth phases on particle degradation in the ocean.
