@@ -34,13 +34,13 @@ organizations:
 
 
 #education:
-# courses:
-#   - course: MSc Marine biology
-#     institution: Universidad de La Laguna
-#     year: 2023
-#   - course: BsC Biology
-#     institution: Universidad de Málaga
-#     year: 2020
+ courses:
+   - course: MSc Marine biology
+     institution: Universidad de La Laguna
+     year: 2023
+   - course: BsC Biology
+     institution: Universidad de Málaga
+     year: 2020
 
 
 # Social/Academic Networking
