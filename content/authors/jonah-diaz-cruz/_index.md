@@ -51,15 +51,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:jonahd@icm.csic.es'
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0009-0000-8680-0479
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.com/citations?user=
-   - icon: orcid
-     icon_pack: ai
-     link: https://orcid.org/0009-0000-8680-0479
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/
