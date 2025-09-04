@@ -26,22 +26,18 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.  
 
-# interests:  
-# - Add your interest  
-# - Add your interest  
-# - Add as many interests as you need  
-
-# education:  
-#   courses:  
-#   - course: Add your PhD program if any  
-#     institution: Add your Uni here  
-#     year: Year of PhD  
-#   - course: Add bachelor title  
-#     institution: Add Uni Here  
-#     year: Add year of uni  
-#   - course: add as many courses as you want  
-#     institution: Add uni  
-#     year: Add year  
+interests:
+ - Microbial diversity and ecology
+ - Aquatic ecosystems
+ 
+education:
+  courses:
+    - course: Bsc in Marine Sciences
+      institution: Universitat de Barcelona
+      year: 2023
+    - course: Msc in Environmental Microbiology
+      institution: Universitat de Barcelona
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
