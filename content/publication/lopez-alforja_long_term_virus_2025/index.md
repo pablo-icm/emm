@@ -1,14 +1,14 @@
 ---
 title: "Long-term decline of marine viruses associated with warming and oligotrophication at a NW Mediterranean coastal site"
 authors:
-- Xabier Lopez-Alforja
--  Elisabet L Sà
+- Xabier López-Alforja
+- Elisabet L Sà
 - Maria V Quiroga
-- Massimo C Pernice
+- Massimo Pernice
 - Clara Cardelús
 - Vanessa Balagué
 - Josep M Gasol
-- Felipe H Coutinho
+- Felipe Coutinho
 - Ramon Massana
 - Dolors Vaqué
 date: "2025-10-13"
