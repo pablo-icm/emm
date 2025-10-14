@@ -8,7 +8,7 @@ authors:
 - Miguel Cabrera-Brufau
 - Marta Masdeu-Navarro
 - Arianna Rochi
-- Xabier Lopez-Alforja
+- Xabier López-Alforja
 - Magda Vila
 - Célia Marrasé
 - Rafel Simó
