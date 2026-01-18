@@ -5,3 +5,7 @@
 /resources/
 public/
 assets/jsconfig.json
+
+*.docx
+_vendor/
+.hugo_build.lock

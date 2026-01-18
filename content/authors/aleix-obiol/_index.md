@@ -13,7 +13,7 @@ authors:
 
 # Is this the primary user of the site? 
 # Don't touch
-superuser: "false"
+superuser: false
 
 # Role/position
 role: Postdoctoral scientist

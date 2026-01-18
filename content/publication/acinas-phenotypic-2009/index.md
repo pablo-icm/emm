@@ -1,5 +1,5 @@
 ---
-title: "Phenotypic and genetic diversification of \textitPseudanabaena spp. (cyanobacteria)"
+title: "Phenotypic and genetic diversification of *Pseudanabaena* spp. (cyanobacteria)"
 authors:
 - Silvia G. Acinas
 - Thomas H A Haverkamp
