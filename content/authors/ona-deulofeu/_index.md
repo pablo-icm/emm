@@ -89,7 +89,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Predoctoral scientists'
+- 'Former members'
 ---
 I am a PhD student at the ICM. My thesis aims to study microbial community assembly and turn over along short temporal scales in the marine environment, with focus on the role of blooming species. I will study prokaryotic microbial communities structure’s through next generation sequencing (NGS). Therefore, wide exploration of sequencing data will be fundamental during my thesis.
 I hold a Bachelor’s degree in Biology from the Universitat de Barcelona, and a Master’s degree in Environmental Microbiology from the Universidad Autónoma de Madrid. During my Master’s thesis I studied microbial communities in constructed wetlands, which increased both my interest in the use of bioinformatic tools, and for analyzing microbial communities’ ecology.

@@ -89,6 +89,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Postdoctoral scientists'
+- 'Former members'
 ---
 Since February 2020 I am a PhD student at the Institut de Ciències del Mar, where I also did my undergrad and master thesis. I am co-supervised by Dr. Acinas (ICM-CSIC) and Dr. Sanchez (UAB). I graduated in Biotechnology from the University of Salamanca in 2018 and studied a Master degree in Applied Microbiology in the Universitat Autònoma de Barcelona during 2018/19. I have work mostly with molecular techniques and bacterial cultures experiments but there were some bioinformatics on my master thesis as well, which I enjoyed. My thesis is going to take the same path; having both, lab work and bioinformatics, involve. My thesis is part of the project MER-CLUB, in which using environmental genomics, cell sorting and Hg Stable Isotope tracing, bacteria strains and consortia with the potential for Hg bioremediation will be identify in marine sediments and later used to make a clean-up system based on this bacteria. 
