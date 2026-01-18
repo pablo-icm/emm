@@ -91,7 +91,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Predoctoral scientists'
+- 'Former members'
 ---
 
 I graduated from the University of Bologna (Italy) in Medicinal Chemistry, a joint master’s degree that combines chemistry and pharmacy. I did my Master’s Thesis at the University Complutense of Madrid, where I worked on the chemical synthesis of new molecules acting against Alzheimer’s Disease. During an internship at the IQAC-CSIC, I worked in a chemical biology laboratory to develop new fluorescent probes to study cellular metabolism of sphingolipids. I then specialized in Computational Chemistry, during a stay at the University of Barcelona. I was working on the characterization of protein-ligands interactions in neurodegeneration.  

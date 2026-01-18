@@ -79,7 +79,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:  
-- 'Close collaborators'
+- 'Former members'
 ---
 I hold a PhD in Bacteriology from the University of Wisconsin-Madison (USA) and am a Research Professor at the National Center for Biotechnology of the CSIC. I have worked for 25 years at the Marine Sciences Institute in Barcelona, CSIC, and am a member of the American Academy of Microbiology. I have worked in both polar areas, hypersaline environments and hot springs in Patagonia, Atacama and Costa Rica. I have been a member of the SCAR-Spain committee, the European Polar Board and the International Census of Marine Microbes. My scientific interest is to understand the ecology and diversity of microorganisms using genomics and massive sequencing. I have published over 200 scientific papers and three outreach books: “Desert d’aigua” (in Catalan), “La vida al limite” (in Spanish) and “Bajo la piel del océano” (in Spanish). I am also interested in birdwatching, fiction writing, the biology of spirituality and the relationship between art and science.
 

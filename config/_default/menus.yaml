@@ -41,14 +41,18 @@ main:
     identifier: researchLines
     url: page/research
     weight: 1
-  - name: Projects
+  - name: Current Projects
     parent: research
-    url: page/projects
+    url: project/
     weight: 2
+  - name: Project Archive
+    parent: research
+    url: project-archive/
+    weight: 3
   - name: PhD Thesis
     parent: research
     url: page/thesis
-    weight: 3
+    weight: 4
 #  - name: Events
 #    url: event
 #    weight: 40

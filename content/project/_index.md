@@ -1,9 +1,9 @@
 ---
-title: Project Archive
-subtitle: Completed research projects
+title: Current Projects
+subtitle: Ongoing research projects at EMM
 
 # Listing view
-view: project-archive # list, compact, card, citation
+view: card
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
