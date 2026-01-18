@@ -16,7 +16,7 @@ interval: 5000
 
 # Slide height (optional). E.g. 400px
 design:
-  slide_height: '400px'
+  slide_height: '500px'
   is_fullscreen: false
   # Automatically transition through slides?
   loop: true
@@ -33,34 +33,6 @@ content:
         brightness: 0.5
       link:
         url: project/acinas-polaromics-2024/
-        text: Learn more
-        icon: arrow-right
-        icon_pack: fas
-
-    - title: Malaspina Expedition
-      content: 'Circumnavigation exploring the diversity of life in the ocean, with emphasis in the dark ocean'
-      align: center
-      background:
-        media: project-malaspina.png
-        fit: cover
-        position: center
-        brightness: 0.5
-      link:
-        url: project/malaspina/
-        text: Learn more
-        icon: arrow-right
-        icon_pack: fas
-
-    - title: MER-CLUB
-      content: 'Mercury Clean-Up system based on Bioremediation by marine bacteria'
-      align: center
-      background:
-        media: project-merclub.jpg
-        fit: cover
-        position: center
-        brightness: 0.5
-      link:
-        url: project/merclub/
         text: Learn more
         icon: arrow-right
         icon_pack: fas
