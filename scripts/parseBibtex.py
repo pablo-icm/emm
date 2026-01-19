@@ -137,7 +137,7 @@ with args.infile as infile:
     	printOut("authors:")
     	parse_authors("author", author, key)
     	parse_bibtex("date", date, key)
-    	printOut("publication-types:")
+    	printOut("publication_types:")
     	printOut("- article-journal")
     	parse_journal("journal", journal, key)
     	if volume:

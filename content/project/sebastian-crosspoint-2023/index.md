@@ -1,11 +1,8 @@
 ---
 title: "CROSS-POINT - The ecological role of the growth arrest response in marine bacteria. PID2022-143213NB-I00"
 authors:
-- Marta Sebastián
-date: '2023-01-01'
-publishDate: '2023-01-01'
-publication_types:
-- project
+- "Marta Sebastián"
+date: 2023-01-01
 funding: 'AEI'
 start: '2023'
 end: '2026'
@@ -22,8 +19,8 @@ tags:
 external_link: ""
 
 image:
-  caption: Image by Sergi Martorell
-  focal_point: Center
+  caption: "Image by Sergi Martorell"
+  focal_point: "Center"
 --- 
 
 Marine prokaryotic communities play central roles in the oceans ecosystems functioning and in the oceans resilience to global change. These communities are extremely diverse in terms of taxonomy, metabolic capabilities, and activities, and show a remarkable ability to persist from months to years when facing unfavorable conditions by becoming dormant (a reversible state of low metabolic activity).
