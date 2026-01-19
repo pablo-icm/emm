@@ -4,7 +4,7 @@ authors:
 - "Luca Schenone"
 - "Leonardo Capitani"
 - "Ulises Lora"
-- "Outi Setälä
+- "Outi Setälä"
 - "Hermanni Kaartokallio"
 - "Jukka Seppälä"
 - "Maiju Lehtiniemi"
