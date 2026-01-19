@@ -68,7 +68,7 @@ content:
       content: 'Microbial colonization of ocean particles, from mechanistic understanding to global patterns'
       align: center
       background:
-        media: project-cross-point.jpeg
+        media: project-micolor.jpeg
         fit: cover
         position: center
         brightness: 0.5
