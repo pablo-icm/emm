@@ -15,7 +15,7 @@ design:
 ---
 
 <div style="text-align: center; margin-top: 2rem;">
-  <a href="/emm/former-members/" class="btn btn-outline-primary btn-lg">
+  <a href="{{< relref "/former-members" >}}" class="btn btn-outline-primary btn-lg">
     <i class="fas fa-users"></i>&nbsp; View Former Members
   </a>
 </div>
