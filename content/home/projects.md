@@ -55,7 +55,7 @@ content:
       content: 'The ecological role of the growth arrest response in marine bacteria'
       align: center
       background:
-        media: project-cross-point.jpeg
+        media: project-cross-point.png
         fit: cover
         position: center
         brightness: 0.5
