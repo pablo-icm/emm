@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jonah Díaz Cruz
+title: Jonah Díaz-Cruz
 
 # Full Name (for SEO)
 first_name: Jonah
