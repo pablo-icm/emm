@@ -7,7 +7,7 @@ authors:
 - Felipe H. Coutinho
 - Bas E. Dutilh
 date: "2019-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Genome Biology*"
 volume: "20"

@@ -9,7 +9,7 @@ authors:
 - Maria Vila-Costa
 date: "2020-01-01"
 year: "2020"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Water Research*"
 volume: "171"

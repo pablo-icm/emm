@@ -7,7 +7,7 @@ authors:
 - Lucas J Stal
 date: "2009-01-01"
 year: "2009"
-publication-types:
+publication_types:
 - article-journal
 journal: "*The ISME Journal*"
 volume: "3"

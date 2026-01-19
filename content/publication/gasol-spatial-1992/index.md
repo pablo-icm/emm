@@ -6,7 +6,7 @@ authors:
 - Carlos Pedrós-Alió
 date: "1992-01-01"
 year: "1992"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Journal of Plankton Research*"
 volume: "14"

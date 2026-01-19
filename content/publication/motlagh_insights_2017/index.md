@@ -8,7 +8,7 @@ authors:
 - Sherwood R. Casjens
 - Ramesh K. Goel
 date: "2017-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Frontiers in Microbiology*"
 volume: "8"

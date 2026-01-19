@@ -9,7 +9,7 @@ authors:
 - Lucas De Queiroz Salles
 - Pedro Milet Meirelles
 date: "2023-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Science of The Total Environment*"
 volume: "862"

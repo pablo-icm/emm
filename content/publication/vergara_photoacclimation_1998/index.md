@@ -6,7 +6,7 @@ authors:
 - José Lucas Pérez-Lloréns
 - Ignacio Hernández
 date: "1998-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Marine Ecology Progress Series*"
 volume: "165"

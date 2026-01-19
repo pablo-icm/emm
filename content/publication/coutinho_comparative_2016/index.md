@@ -6,7 +6,7 @@ authors:
 - Fabiano Thompson
 - Cristiane Thompson
 date: "2016-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*PeerJ*"
 volume: "4"

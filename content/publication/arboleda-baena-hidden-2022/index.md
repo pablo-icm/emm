@@ -9,7 +9,7 @@ authors:
 - Sergio Andrés Navarrete
 date: "2022-01-01"
 year: "2022"
-publication-types:
+publication_types:
 - article-journal
 journal: "*PeerJ*"
 volume: "10"

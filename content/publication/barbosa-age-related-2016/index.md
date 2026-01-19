@@ -12,7 +12,7 @@ authors:
 - Carlos Pedrós-Alió
 date: "2016-01-01"
 year: "2016"
-publication-types:
+publication_types:
 - article-journal
 journal: "*PLOS ONE*"
 volume: "11"

@@ -10,7 +10,7 @@ authors:
 - Charles A Nock
 - Beatrix E Beisner
 date: "2018-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*FEMS Microbiology Ecology*"
 volume: "94"

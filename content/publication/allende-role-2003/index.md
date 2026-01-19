@@ -5,7 +5,7 @@ authors:
 - Irina Izaguirre
 date: "2003-01-01"
 year: "2003"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Hydrobiologia*"
 volume: "502"

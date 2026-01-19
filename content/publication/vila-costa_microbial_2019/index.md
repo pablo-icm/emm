@@ -9,7 +9,7 @@ authors:
 - Josep M. Gasol
 - Jordi Dachs
 date: "2019-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Scientific Reports*"
 volume: "9"

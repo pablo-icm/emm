@@ -7,7 +7,7 @@ authors:
 - Pedro Pablo Ambrosio
 - Rosa Flos
 date: "2012-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Scientia Marina*"
 volume: "76"

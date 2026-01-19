@@ -8,7 +8,7 @@ authors:
 - Ramon Massana
 date: "2016-01-01"
 year: "2016"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Environmental Microbiology*"
 volume: "18"

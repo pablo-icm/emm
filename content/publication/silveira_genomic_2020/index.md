@@ -14,7 +14,7 @@ authors:
 - Forest L. Rohwer
 - Fabiano Thompson
 date: "2020-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*BMC Genomics*"
 volume: "21"

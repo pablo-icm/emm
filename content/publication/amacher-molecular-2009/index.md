@@ -7,7 +7,7 @@ authors:
 - Ramon Massana
 date: "2009-01-01"
 year: "2009"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Deep Sea Research Part I: Oceanographic Research Papers*"
 volume: "56"

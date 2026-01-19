@@ -9,7 +9,7 @@ authors:
 - João C. Setubal
 - Laurent Philippot
 date: "2021-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Environmental Microbiology Reports*"
 volume: "13"

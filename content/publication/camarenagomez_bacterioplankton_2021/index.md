@@ -9,7 +9,7 @@ authors:
 - Ramiro Logares
 - Kristian Spilling
 date: "2021-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Limnology and Oceanography*"
 volume: "66"

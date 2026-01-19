@@ -10,7 +10,7 @@ authors:
 - M Estrada
 date: "2003-01-01"
 year: "2003"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Marine Ecology Progress Series*"
 volume: "259"

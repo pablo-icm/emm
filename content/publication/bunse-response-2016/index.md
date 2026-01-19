@@ -18,7 +18,7 @@ authors:
 - Jarone Pinhassi
 date: "2016-01-01"
 year: "2016"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Nature Climate Change*"
 volume: "6"

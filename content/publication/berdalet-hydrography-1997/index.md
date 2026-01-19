@@ -9,7 +9,7 @@ authors:
 - José A. Fernández
 date: "1997-01-01"
 year: "1997"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Polar Biology*"
 volume: "17"

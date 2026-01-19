@@ -12,7 +12,7 @@ authors:
 - Thomas Bibby
 - Julie Robidart
 date: "2021-11-24"
-publication-types:
+publication_types:
 - article-journal
 publication: "The ISME Journal"
 volume: "16"

@@ -8,7 +8,7 @@ authors:
 - Bas E. Dutilh
 - Fabiano L. Thompson
 date: "2015-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*PeerJ*"
 volume: "3"

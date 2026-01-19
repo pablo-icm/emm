@@ -7,7 +7,7 @@ authors:
 - David A. Walsh
 date: "2020-01-01"
 year: "2020"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Limnology and Oceanography*"
 volume: "65"

@@ -9,7 +9,7 @@ authors:
 - Olga Sánchez
 - Silvia G. Acinas
 date: "2024-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Environmental Pollution*"
 volume: "347"

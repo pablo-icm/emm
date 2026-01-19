@@ -17,7 +17,7 @@ authors:
 - I. Reche
 date: "2016-01-01"
 year: "2016"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Limnology and Oceanography*"
 volume: "61"

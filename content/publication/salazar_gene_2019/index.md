@@ -73,7 +73,7 @@ authors:
 - Shinichi Sunagawa
 - Patrick Wincker
 date: "2019-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Cell*"
 volume: "179"

@@ -6,7 +6,7 @@ authors:
 - Sridhar Viamajala
   
 date: "2018-05-26"
-publication-types:
+publication_types:
 - article-journal
 publication: "Renewable Energy"
 volume: "127"

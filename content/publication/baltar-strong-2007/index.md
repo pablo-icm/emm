@@ -8,7 +8,7 @@ authors:
 - Gj Herndl
 date: "2007-01-01"
 year: "2007"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Aquatic Microbial Ecology*"
 volume: "50"

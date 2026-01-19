@@ -9,7 +9,7 @@ authors:
 - Maria Montserrat Sala
 date: "2018-01-01"
 year: "2018"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Proceedings of the National Academy of Sciences*"
 volume: "115"

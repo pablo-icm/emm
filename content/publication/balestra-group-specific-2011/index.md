@@ -7,7 +7,7 @@ authors:
 - R Casotti
 date: "2011-01-01"
 year: "2011"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Aquatic Microbial Ecology*"
 volume: "63"

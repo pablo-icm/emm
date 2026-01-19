@@ -13,7 +13,7 @@ authors:
 - Dolors Vaqué
 date: "2025-10-13"
 year: "2025"
-publication-types:
+publication_types:
 - article-journal
 journal: "*ISME Communications*"
 volume: "5"

@@ -4,7 +4,7 @@ authors:
 - Marta Sebastián
 - Josep M. Gasol
 date: "2019-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Philosophical Transactions of the Royal Society B: Biological Sciences*"
 volume: "374"

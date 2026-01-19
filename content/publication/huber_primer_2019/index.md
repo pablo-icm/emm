@@ -12,7 +12,7 @@ authors:
 - Josep M. Gasol
 - Fernando Unrein
 date: "2019-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Applied and Environmental Microbiology*"
 volume: "85"

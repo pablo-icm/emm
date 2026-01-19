@@ -9,7 +9,7 @@ authors:
 - Josep M. Gasol
 date: "2015-01-01"
 year: "2015"
-publication-types:
+publication_types:
 - article-journal
 journal: "*PLOS ONE*"
 volume: "10"

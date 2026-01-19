@@ -5,7 +5,7 @@ authors:
 - Pedro Pablo Ambrosio
 - Rosa Flos
 date: "2013-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Aquaculture Research*"
 volume: "44"

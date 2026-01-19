@@ -13,7 +13,7 @@ authors:
 - Carlos Pedrós-Alió
 date: "2002-01-01"
 year: "2002"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Environmental Microbiology*"
 volume: "4"

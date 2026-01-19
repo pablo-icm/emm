@@ -10,7 +10,7 @@ authors:
 - François Rigal
 - Béatrice Lauga
 date: "2024-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Soil Biology and Biochemistry*"
 volume: "191"

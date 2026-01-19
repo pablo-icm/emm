@@ -31,7 +31,7 @@ authors:
 - Carlos M Duarte
 - Josep M Gasol
 date: "2021-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Communications Biology*"
 volume: "4"

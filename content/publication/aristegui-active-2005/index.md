@@ -7,7 +7,7 @@ authors:
 - Laura Alonso-Sáez
 date: "2005-01-01"
 year: "2005"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Geophysical Research Letters*"
 volume: "32"

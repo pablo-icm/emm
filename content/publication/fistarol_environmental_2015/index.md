@@ -22,7 +22,7 @@ authors:
 - Paulo S. Salomon
 - Fabiano L. Thompson
 date: "2015-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Frontiers in Microbiology*"
 volume: "6"

@@ -4,7 +4,7 @@ authors:
 - Josep M. Gasol
 date: "1993-01-01"
 year: "1993"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Microbial Ecology*"
 volume: "25"

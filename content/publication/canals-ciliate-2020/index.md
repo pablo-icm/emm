@@ -8,7 +8,7 @@ authors:
 - Ramon Massana
 date: "2020-01-01"
 year: "2020"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Molecular Ecology*"
 volume: "29"

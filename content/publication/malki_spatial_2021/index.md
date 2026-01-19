@@ -9,7 +9,7 @@ authors:
 - Anna J. Székely
 - Mya Breitbart
 date: "2021-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Applied and Environmental Microbiology*"
 volume: "87"

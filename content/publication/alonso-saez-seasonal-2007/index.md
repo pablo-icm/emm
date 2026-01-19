@@ -5,7 +5,7 @@ authors:
 - Josep M. Gasol
 date: "2007-01-01"
 year: "2007"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Applied and Environmental Microbiology*"
 volume: "73"

@@ -11,7 +11,7 @@ authors:
 - Carlos M. Duarte
 date: "2015-08-05"
 year: "2015"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Nature Communications*"
 volume: "6"

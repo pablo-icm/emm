@@ -7,7 +7,7 @@ authors:
 - Gerhard J. Herndl
 date: "2012-01-01"
 year: "2012"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Applied and Environmental Microbiology*"
 volume: "78"

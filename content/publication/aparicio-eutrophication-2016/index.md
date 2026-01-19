@@ -12,7 +12,7 @@ authors:
 - Cèlia Marrasé
 date: "2016-01-01"
 year: "2016"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Science of The Total Environment*"
 volume: "563-564"

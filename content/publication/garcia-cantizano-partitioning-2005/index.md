@@ -8,7 +8,7 @@ authors:
 - Carlos Pedrós-Alió
 date: "2005-01-01"
 year: "2005"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Microbial Ecology*"
 volume: "50"

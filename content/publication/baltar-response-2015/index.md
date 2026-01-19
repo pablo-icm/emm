@@ -12,7 +12,7 @@ authors:
 - Jarone Pinhassi
 date: "2015-01-01"
 year: "2015"
-publication-types:
+publication_types:
 - article-journal
 journal: "*FEMS Microbiology Ecology*"
 volume: "91"

@@ -8,7 +8,7 @@ authors:
 - Humbert Salvadó
 date: "2018-01-01"
 year: "2018"
-publication-types:
+publication_types:
 - article-journal
 journal: "*New Biotechnology*"
 volume: "43"

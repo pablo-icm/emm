@@ -10,7 +10,7 @@ authors:
 - Ulf Riebesell
 - Javier Arístegui
 date: "2022-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Frontiers in Marine Science*"
 volume: "9"

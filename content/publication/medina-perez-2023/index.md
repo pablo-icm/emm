@@ -9,7 +9,7 @@ authors:
 - Encarnación Moyano
 - Elisa Berdalet
 date: "2023-03-02"
-publication-types:
+publication_types:
 - article-journal
 publication: "Toxins"
 volume: "188"

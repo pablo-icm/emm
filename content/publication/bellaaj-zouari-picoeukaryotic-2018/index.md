@@ -11,7 +11,7 @@ authors:
 - R Massana
 date: "2018-01-01"
 year: "2018"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Aquatic Microbial Ecology*"
 volume: "81"

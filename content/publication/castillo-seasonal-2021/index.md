@@ -11,7 +11,7 @@ authors:
 - Marta Sebastián
 date: "2021-01-01"
 year: "2021"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Environmental Microbiology*"
 volume: "23"

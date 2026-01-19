@@ -7,7 +7,7 @@ authors:
 - Cristiane Carneiro Thompson
 - Fabiano L. Thompson
 date: "2018-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Trends in Microbiology*"
 volume: "26"

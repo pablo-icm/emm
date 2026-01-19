@@ -7,7 +7,7 @@ authors:
 - Marta Sebastián
 - Francisco Plaza
 date: "2002-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Geophysical Research Letters*"
 volume: "29"

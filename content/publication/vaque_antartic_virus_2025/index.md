@@ -17,7 +17,7 @@ authors:
 
 date: "2025-07-03"
 year: "2025"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Antartic Science*"
 volume: "37"

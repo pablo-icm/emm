@@ -15,7 +15,7 @@ authors:
 - Adolfo Marco
 - Luis Cardona
 date: "2014-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Amphibia-Reptilia*"
 volume: "35"

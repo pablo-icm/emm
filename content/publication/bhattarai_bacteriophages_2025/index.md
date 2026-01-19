@@ -8,7 +8,7 @@ authors:
 - Sreeni Chadalavada
 - Ramesh Goel
 date: "2025-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Chemosphere*"
 volume: "370"

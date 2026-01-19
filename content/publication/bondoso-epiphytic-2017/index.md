@@ -9,7 +9,7 @@ authors:
 - Olga Maria Lage
 date: "2017-01-01"
 year: "2017"
-publication-types:
+publication_types:
 - article-journal
 journal: "*FEMS Microbiology Ecology*"
 pages: "fiw255"

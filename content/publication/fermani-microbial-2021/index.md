@@ -11,7 +11,7 @@ authors:
 - Hugo Sarmento
 date: "2021-01-01"
 year: "2021"
-publication-types:
+publication_types:
 - article-journal
 journal: "*FEMS Microbiology Ecology*"
 volume: "97"

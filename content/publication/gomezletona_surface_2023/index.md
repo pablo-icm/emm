@@ -9,7 +9,7 @@ authors:
 - Eva Teira
 - Marta Sebastián
 date: "2023-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Limnology and Oceanography*"
 volume: "68"

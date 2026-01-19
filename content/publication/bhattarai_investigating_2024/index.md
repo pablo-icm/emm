@@ -6,7 +6,7 @@ authors:
 - Felipe H. Coutinho
 - Ramesh Goel
 date: "2024-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Chemosphere*"
 volume: "349"

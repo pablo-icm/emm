@@ -13,7 +13,7 @@ authors:
 - Julie Robidart
 - Nicolas Cassar
 date: "2020-06-24"
-publication-types:
+publication_types:
 - article-journal
 publication: "*The ISME journal*"
 volume: "14"

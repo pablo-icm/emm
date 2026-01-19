@@ -8,7 +8,7 @@ authors:
 - Salvador Almagro-Moreno
 - Mario López-Pérez
 date: "2020-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*FEMS Microbiology Ecology*"
 volume: "96"

@@ -9,7 +9,7 @@ authors:
 - Beatriz Novoa
 date: "2009-01-01"
 year: "2009"
-publication-types:
+publication_types:
 - article-journal
 journal: "*FEMS Microbiology Ecology*"
 volume: "70"

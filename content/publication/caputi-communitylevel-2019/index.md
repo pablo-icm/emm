@@ -92,7 +92,7 @@ authors:
 - Daniele Iudicone
 date: "2019-01-01"
 year: "2019"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Global Biogeochemical Cycles*"
 volume: "33"

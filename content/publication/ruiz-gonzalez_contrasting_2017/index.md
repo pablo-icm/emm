@@ -6,7 +6,7 @@ authors:
 - Martin Berggren
 - Paul A. Del Giorgio
 date: "2017-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Advances in Oceanography and Limnology*"
 volume: "8"

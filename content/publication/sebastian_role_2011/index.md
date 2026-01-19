@@ -4,7 +4,7 @@ authors:
 - M. Sebastian
 - J. W. Ammerman
 date: "2011-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Environmental Microbiology Reports*"
 volume: "3"

@@ -9,7 +9,7 @@ authors:
 - Vadim V. Blinov
 - Francisco Rodriguez-Valera
 date: "2018-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Applied and Environmental Microbiology*"
 volume: "84"

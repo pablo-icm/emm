@@ -8,7 +8,7 @@ authors:
 - Alberto M. R. Dávila
 - Rafael R. C. Cuadrat
 date: "2021-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*BMC Microbiology*"
 volume: "21"

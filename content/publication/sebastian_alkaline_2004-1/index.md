@@ -4,7 +4,7 @@ authors:
 - Marta Sebastián
 - Francisco X. Niell
 date: "2004-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Marine Ecology Progress Series*"
 volume: "277"

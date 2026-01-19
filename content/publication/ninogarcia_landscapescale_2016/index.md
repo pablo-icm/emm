@@ -5,7 +5,7 @@ authors:
 - Clara Ruiz‐González
 - Paul A. Del Giorgio
 date: "2016-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Ecology Letters*"
 volume: "19"

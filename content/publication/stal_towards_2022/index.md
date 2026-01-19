@@ -5,7 +5,7 @@ authors:
 - Marta Sebastián
 - Isabel Ferrera
 date: "2022-01-01"
-publication-types:
+publication_types:
 - article-journal
 volume: "3"
 pages: "357--394"

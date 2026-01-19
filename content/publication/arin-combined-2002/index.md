@@ -9,7 +9,7 @@ authors:
 - M Alcaraz
 date: "2002-01-01"
 year: "2002"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Aquatic Microbial Ecology*"
 volume: "29"

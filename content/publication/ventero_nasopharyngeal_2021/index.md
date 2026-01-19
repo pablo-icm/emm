@@ -15,7 +15,7 @@ authors:
 - Mario López-Pérez
 - Juan Carlos Rodríguez
 date: "2021-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Frontiers in Microbiology*"
 volume: "12"

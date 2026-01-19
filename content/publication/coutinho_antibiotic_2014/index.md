@@ -10,7 +10,7 @@ authors:
 - Ricardo P. Vieira
 - Maysa M. Clementino
 date: "2014-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Microbial Ecology*"
 volume: "68"

@@ -8,7 +8,7 @@ authors:
 - Ruben Sommaruga
 date: "2006-01-01"
 year: "2006"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Applied and Environmental Microbiology*"
 volume: "72"

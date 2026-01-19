@@ -8,7 +8,7 @@ authors:
 - Dolors Vaqué
 date: "2009-01-01"
 year: "2009"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Environmental Microbiology*"
 volume: "11"

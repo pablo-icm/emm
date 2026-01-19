@@ -6,7 +6,7 @@ authors:
 - C. C. Thompson
 - F. L. Thompson
 date: "2016-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Archives of Microbiology*"
 volume: "198"

@@ -8,7 +8,7 @@ authors:
 - Esperanza Liger
 - Begoña Bautista
 date: "2008-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Marine Ecology Progress Series*"
 volume: "359"

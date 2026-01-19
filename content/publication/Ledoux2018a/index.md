@@ -11,7 +11,7 @@ authors:
 - Raphael Leblois
 - Joaquim Garrabou
 date: "2018-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Journal of Biogeography*"
 volume: "45"

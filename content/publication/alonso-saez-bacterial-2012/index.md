@@ -6,7 +6,7 @@ authors:
 - Josep M. Gasol
 date: "2012-01-01"
 year: "2012"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Limnology and Oceanography*"
 volume: "57"

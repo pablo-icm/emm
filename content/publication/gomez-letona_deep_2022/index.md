@@ -12,7 +12,7 @@ authors:
 - Santiago Hernández-León
 - Marta Sebastián
 date: "2022-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Progress in Oceanography*"
 volume: "205"

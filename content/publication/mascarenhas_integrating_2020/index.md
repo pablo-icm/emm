@@ -22,7 +22,7 @@ authors:
 - Bruno Vilela
 - Pedro Milet Meirelles
 date: "2020-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Frontiers in Genetics*"
 volume: "10"

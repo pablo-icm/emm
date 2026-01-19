@@ -45,7 +45,7 @@ authors:
 - F. Thompson
 - F. Rohwer
 date: "2016-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Nature*"
 volume: "531"

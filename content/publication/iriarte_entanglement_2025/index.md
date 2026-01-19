@@ -9,7 +9,7 @@ authors:
 - Jordi Dachs
 - Maria Vila-Costa
 date: "2025-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Environmental Pollution*"
 volume: "379"

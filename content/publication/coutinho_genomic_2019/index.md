@@ -7,7 +7,7 @@ authors:
 - Cristiane Carneiro Thompson
 - Fabiano Lopes Thompson
 date: "2019-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Memórias do Instituto Oswaldo Cruz*"
 volume: "114"

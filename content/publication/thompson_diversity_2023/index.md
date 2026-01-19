@@ -14,7 +14,7 @@ authors:
 - Nils E. Asp
 - Fabiano L. Thompson
 date: "2023-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Microbial Ecology*"
 volume: "86"

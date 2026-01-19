@@ -11,7 +11,7 @@ authors:
 - José Aguilera
 - Begoña Bautista
 date: "2006-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Journal of Plankton Research*"
 volume: "28"

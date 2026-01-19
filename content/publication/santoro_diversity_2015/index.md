@@ -9,7 +9,7 @@ authors:
 - R.M. Albano
 - M.M. Clementino
 date: "2015-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Journal of Applied Microbiology*"
 volume: "119"

@@ -8,7 +8,7 @@ authors:
 - Carlos Pedrós-Alio
 date: "2008-01-01"
 year: "2008"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Environmental Microbiology*"
 volume: "10"

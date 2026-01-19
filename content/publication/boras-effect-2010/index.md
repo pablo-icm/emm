@@ -11,7 +11,7 @@ authors:
 - Dolors Vaqué
 date: "2010-01-01"
 year: "2010"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Polar Biology*"
 volume: "33"

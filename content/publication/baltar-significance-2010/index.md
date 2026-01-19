@@ -9,7 +9,7 @@ authors:
 - Gerhard J. Herndl
 date: "2010-01-01"
 year: "2010"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Geophysical Research Letters*"
 volume: "37"

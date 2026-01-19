@@ -109,7 +109,7 @@ authors:
 - Patrick Wincker
 date: "2017-01-01"
 year: "2017"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Scientific Data*"
 volume: "4"

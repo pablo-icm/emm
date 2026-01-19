@@ -12,7 +12,7 @@ authors:
 - Orlando B. Martins
 - Maysa M. Clementino
 date: "2012-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*PLoS ONE*"
 volume: "7"

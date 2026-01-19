@@ -8,7 +8,7 @@ authors:
 - Marta Sebastián
 - Esperanza Liger
 date: "2005-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Estuarine, Coastal and Shelf Science*"
 volume: "65"

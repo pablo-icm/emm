@@ -10,7 +10,7 @@ authors:
 - C Pedrós-Alió
 date: "1998-01-01"
 year: "1998"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Marine Ecology Progress Series*"
 volume: "164"

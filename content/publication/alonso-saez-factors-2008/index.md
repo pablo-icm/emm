@@ -15,7 +15,7 @@ authors:
 - Josep M. Gasol
 date: "2008-01-01"
 year: "2008"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Ecosystems*"
 volume: "11"

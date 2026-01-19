@@ -9,7 +9,7 @@ authors:
 - Rafel Simó
 - Josep M. Gasol
 date: "2012-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*FEMS Microbiology Ecology*"
 volume: "79"

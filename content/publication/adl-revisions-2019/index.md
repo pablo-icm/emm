@@ -50,7 +50,7 @@ authors:
 - Qianqian Zhang
 date: "2019-01-01"
 year: "2019"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Journal of Eukaryotic Microbiology*"
 volume: "66"

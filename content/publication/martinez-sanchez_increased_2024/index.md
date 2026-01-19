@@ -19,7 +19,7 @@ authors:
 - Maribel Diaz-Ricart
 - Juan Carlos Souto
 date: "2024-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*TH Open*"
 volume: "08"

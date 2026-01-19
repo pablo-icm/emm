@@ -10,7 +10,7 @@ authors:
 - Robert Edwards
 - Francisco Rodriguez-Valera
 date: "2021-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Patterns*"
 volume: "2"

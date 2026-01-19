@@ -9,7 +9,7 @@ authors:
 - Montserrat Vidal
 date: "2001-01-01"
 year: "2001"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Deep Sea Research Part II: Topical Studies in Oceanography*"
 volume: "48"

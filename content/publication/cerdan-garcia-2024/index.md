@@ -8,7 +8,7 @@ authors:
 - Mar Benavides
   
 date: "2024-08-02"
-publication-types:
+publication_types:
 - article-journal
 publication: "Communications Biology"
 volume: "7"

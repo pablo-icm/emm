@@ -24,7 +24,7 @@ authors:
 - Aitziber Zufiaurre
 - Ada Pastor
 date: "2021-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*PLOS ONE*"
 volume: "16"

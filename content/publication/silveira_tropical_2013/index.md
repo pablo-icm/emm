@@ -11,7 +11,7 @@ authors:
 - Orlando B. Martins
 - Ricardo P. Vieira
 date: "2013-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*PLoS ONE*"
 volume: "8"

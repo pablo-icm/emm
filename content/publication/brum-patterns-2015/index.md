@@ -35,7 +35,7 @@ authors:
 - Matthew B. Sullivan
 date: "2015-01-01"
 year: "2015"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Science*"
 volume: "348"

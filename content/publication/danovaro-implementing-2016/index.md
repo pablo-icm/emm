@@ -39,7 +39,7 @@ authors:
 - Angel Borja
 date: "2016-01-01"
 year: "2016"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Frontiers in Marine Science*"
 volume: "3"

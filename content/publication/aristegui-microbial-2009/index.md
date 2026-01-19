@@ -7,7 +7,7 @@ authors:
 - Gerhard J. Herndld
 date: "2009-01-01"
 year: "2009"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Limnology and Oceanography*"
 volume: "54"

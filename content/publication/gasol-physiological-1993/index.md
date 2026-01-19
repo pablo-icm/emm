@@ -8,7 +8,7 @@ authors:
 - Carlos Pedrós-Alió
 date: "1993-01-01"
 year: "1993"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Journal of Plankton Research*"
 volume: "15"

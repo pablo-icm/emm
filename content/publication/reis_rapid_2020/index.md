@@ -7,7 +7,7 @@ authors:
 - Cynthia Soued
 - Yves T. Prairie
 date: "2020-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Science of The Total Environment*"
 volume: "748"

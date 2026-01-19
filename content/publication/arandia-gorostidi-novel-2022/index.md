@@ -11,7 +11,7 @@ authors:
 - Laura Alonso-Sáez
 date: "2022-01-01"
 year: "2022"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Frontiers in Marine Science*"
 volume: "9"

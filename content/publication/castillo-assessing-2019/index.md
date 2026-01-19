@@ -13,7 +13,7 @@ authors:
 - Dolors Vaqué
 date: "2019-01-01"
 year: "2019"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Molecular Ecology*"
 volume: "28"

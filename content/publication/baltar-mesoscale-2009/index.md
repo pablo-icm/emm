@@ -9,7 +9,7 @@ authors:
 - Gerhard J. Herndl
 date: "2009-01-01"
 year: "2009"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Progress in Oceanography*"
 volume: "83"

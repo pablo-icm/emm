@@ -7,7 +7,7 @@ authors:
 - Carlos Pedrós-Alió
 - Silvia G Acinas
 date: "2020-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Systematic and Applied Microbiology*"
 volume: "43"

@@ -8,7 +8,7 @@ authors:
 - C. Ruiz-González
 - S. Sabater
 date: "2012-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Science of The Total Environment*"
 volume: "426"

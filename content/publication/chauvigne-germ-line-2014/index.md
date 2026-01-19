@@ -7,7 +7,7 @@ authors:
 - Joan Cerdà
 date: "2014-01-01"
 year: "2014"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Proceedings of the National Academy of Sciences*"
 volume: "111"

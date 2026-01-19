@@ -8,7 +8,7 @@ authors:
 - Gerhard J. Herndl
 date: "2013-01-01"
 year: "2013"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Microbial Ecology*"
 volume: "65"

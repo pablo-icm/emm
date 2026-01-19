@@ -12,7 +12,7 @@ authors:
 - Cèlia Marrasé
 date: "2015-01-01"
 year: "2015"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Frontiers in Marine Science*"
 volume: "2"

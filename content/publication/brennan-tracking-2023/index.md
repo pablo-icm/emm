@@ -5,7 +5,7 @@ authors:
 - Ramiro Logares
 date: "2023-01-01"
 year: "2023"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Trends in Microbiology*"
 volume: "31"

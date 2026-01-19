@@ -10,7 +10,7 @@ authors:
 - Susana Agustí
 date: "2007-01-01"
 year: "2007"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Limnology and Oceanography*"
 volume: "52"

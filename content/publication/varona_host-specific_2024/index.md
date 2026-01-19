@@ -14,7 +14,7 @@ authors:
 - Antoni Luque
 - Cynthia Silveira
 date: "2024-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*The ISME Journal*"
 pages: "wrae240"

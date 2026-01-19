@@ -10,7 +10,7 @@ authors:
 - Bas E. Dutilh
 - Fabiano L. Thompson
 date: "2017-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Nature Communications*"
 volume: "8"

@@ -6,7 +6,7 @@ authors:
 - Pablo Sánchez
 - Rosa Flos
 date: "2008-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Aquacult Int*"
 volume: "16"

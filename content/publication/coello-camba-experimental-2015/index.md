@@ -10,7 +10,7 @@ authors:
 - Carlos M. Duarte
 date: "2015-01-01"
 year: "2015"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Estuaries and Coasts*"
 volume: "38"

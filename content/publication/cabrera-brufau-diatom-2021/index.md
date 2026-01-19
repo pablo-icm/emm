@@ -8,7 +8,7 @@ authors:
 - Cèlia Marrasé
 date: "2021-01-01"
 year: "2021"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Frontiers in Marine Science*"
 volume: "8"

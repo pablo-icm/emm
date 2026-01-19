@@ -9,7 +9,7 @@ authors:
 - Maria Montserrat Sala
 date: "2016-01-01"
 year: "2016"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Scientia Marina*"
 volume: "80"

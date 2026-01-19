@@ -14,7 +14,7 @@ authors:
 - Mark P. Waldrop
 - Matthew D. Wallenstein
 date: "2015-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*FEMS Microbiology Ecology*"
 volume: "91"

@@ -7,7 +7,7 @@ authors:
 - Juan Pablo Niño‐García
 - Paul A. Del Giorgio
 date: "2020-01-01"
-publication-types:
+publication_types:
 - article-journal
 publication: "*Molecular Ecology*"
 volume: "29"

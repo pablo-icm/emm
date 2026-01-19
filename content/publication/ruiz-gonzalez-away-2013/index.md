@@ -7,7 +7,7 @@ authors:
 - Josep M. Gasol
 date: "2013-01-01"
 year: "2013"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Frontiers in Microbiology*"
 volume: "4"

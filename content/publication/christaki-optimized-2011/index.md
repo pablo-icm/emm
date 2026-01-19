@@ -10,7 +10,7 @@ authors:
 - Mikhail V. Zubkov
 date: "2011-01-01"
 year: "2011"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Limnology and Oceanography: Methods*"
 volume: "9"

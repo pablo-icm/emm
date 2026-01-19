@@ -8,7 +8,7 @@ authors:
 - Juan Iriberri
 date: "2014-01-01"
 year: "2014"
-publication-types:
+publication_types:
 - article-journal
 journal: "*Environmental Microbiology*"
 volume: "16"
