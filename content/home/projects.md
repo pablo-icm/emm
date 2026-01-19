@@ -11,8 +11,9 @@ active: true
 # Order that this section appears on the page.
 weight: 65
 
+
 # Slide interval (in ms). Set to 0 to disable autoplay.
-interval: 5000
+interval: 8000
 
 # Slide height (optional). E.g. 400px
 design:
@@ -38,7 +39,7 @@ content:
         icon_pack: fas
 
     - title: EPIC
-      content: 'Ecological characterization of Picozoa, an abundant and enigmatic protistan group (2023-2026)'
+      content: 'Ecological characterization of Picozoa, an abundant and enigmatic protistan group'
       align: center
       background:
         media: project-epic.jpg
@@ -47,6 +48,32 @@ content:
         brightness: 0.5
       link:
         url: project/massana-epic-2023/
+        text: Learn more
+        icon: arrow-right
+        icon_pack: fas
+    - title: CROSS-POINT
+      content: 'The ecological role of the growth arrest response in marine bacteria'
+      align: center
+      background:
+        media: project-cross-point.jpeg
+        fit: cover
+        position: center
+        brightness: 0.5
+      link:
+        url: project/sebastian-crosspoint-2023/
+        text: Learn more
+        icon: arrow-right
+        icon_pack: fas
+    - title: MICOLOR
+      content: 'Microbial colonization of ocean particles, from mechanistic understanding to global patterns'
+      align: center
+      background:
+        media: project-cross-point.jpeg
+        fit: cover
+        position: center
+        brightness: 0.5
+      link:
+        url: project/gasol-micolor-2022/
         text: Learn more
         icon: arrow-right
         icon_pack: fas

@@ -1,26 +1,21 @@
 ---
 # Display name
-title: Carlos Pedrós-Alió
+title: 'Carlos Pedrós-Alió'
 
 # Full Name (for SEO)
-first_name: Carlos
-last_name: Pedrós-Alió
-weight: 30
+first_name: 'Carlos'
+last_name: 'Pedrós-Alió'
+
 
 # Username (this should match the folder name)
 authors:
-- name: Carlos Pedrós-Alió
-
-weight: 1
-#- first_name: Carlos
-#- last_name: Pedrós-Alió
-#- carlos-pedrós-alió
+- 'Carlos Pedrós-Alió'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 
+role: Staff scientist
 
 # Organizations/Affiliations
 organizations:
