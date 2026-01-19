@@ -1,10 +1,10 @@
 ---
 title: "Deep ocean metagenomes provide insight into the metabolic architecture of bathypelagic microbial communities"
 authors:
-- Silvia G. Acinas
+- Silvia G Acinas
 - Pablo Sánchez
 - Guillem Salazar
-- Francisco M. Cornejo-Castillo
+- Francisco M Cornejo-Castillo
 - Marta Sebastián
 - Ramiro Logares
 - Marta Royo-Llonch
@@ -14,7 +14,7 @@ authors:
 - Hiroyuki Ogata
 - Gipsi Lima-Mendez
 - Simon Roux
-- José M. González
+- José M González
 - Jesús M. Arrieta
 - Intikhab S. Alam
 - Allan Kamau
@@ -28,13 +28,12 @@ authors:
 - Matthew B. Sullivan
 - Carlos Pedrós-Alió
 - Ramon Massana
-- Carlos M. Duarte
-- Josep M. Gasol
+- Carlos M Duarte
+- Josep M Gasol
 date: "2021-01-01"
-year: "2021"
 publication-types:
 - article-journal
-journal: "*Communications Biology*"
+publication: "*Communications Biology*"
 volume: "4"
 number: "1"
 pages: "604"

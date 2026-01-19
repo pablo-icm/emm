@@ -81,19 +81,6 @@ abstract: "BACKGROUND: COVID-19 presents a spectrum of signs and symptoms in pre
   of circulating biomarkers related to endothelial damage, coagulopathy, and angiogenic
   imbalance that could aid in the differential diagnosis of these entities."
 tags:
-- angiogenic factors
-- angiopoietin
-- C5b9
-- COVID-19
-- endothelial dysfunction
-- heparan sulfate
-- hypertensive disorders of pregnancy
-- neutrophil extracellular traps
-- placental growth factor
-- preeclampsia
-- SARS-CoV-2
-- soluble fms-like tyrosine kinase-1
-- soluble tumor necrosis factor-α receptor I
-- von Willebrand factor
+
 pages: 'S0002-9378(22)00227-7'
 ---

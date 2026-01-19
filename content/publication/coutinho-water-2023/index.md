@@ -39,6 +39,13 @@ abstract: Abstract  Background Viruses play important roles in the ocean’s bio
   These results shed light on the mechanisms by which environmental gradients of deep
   ocean ecosystems structure the composition and functioning of free-living and particle-attached
   viral communities.
+tags:
+- "Metagenomics"
+- "Viruses"
+- "Auxiliary metabolic genes"
+- "Deep ocean"
+- "Free-living"
+- "Particle-attached"
 links:
 - name: URL
   url: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01547-5

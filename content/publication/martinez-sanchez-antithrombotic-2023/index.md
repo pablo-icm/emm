@@ -39,9 +39,7 @@ abstract: We evaluated modifications in the hemostatic balance of different conc
   dual antiplatelet regimens but was more conservative for hemostasis than the 160&nbsp;ng/mL
   concentration.
 tags:
-- Cardiology
-- Thrombosis
-- Translational research
+
 links:
 - name: URL
   url: https://www.nature.com/articles/s41598-023-50347-2
