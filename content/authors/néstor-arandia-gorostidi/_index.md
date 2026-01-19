@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Néstor Arandia-Gorostidi
+title: "Néstor Arandia-Gorostidi"
 
 # Full Name (for SEO)
-first_name: Néstor
-last_name: Arandia-Gorostidi
+first_name: "Néstor"
+last_name: "Arandia-Gorostidi"
 weight: 40
 
 # Username (this should match the folder name)
 authors:
-- nestor-arandia-gorostidi
+- "nestor-arandia-gorostidi"
 
 # Is this the primary user of the site?
 superuser: false
