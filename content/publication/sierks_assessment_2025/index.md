@@ -1,0 +1,20 @@
+---
+title: "Assessment of Short-Term Sediment Deposition Patterns Along the Palamós Submarine Canyon (NW Mediterranean) Using 234Th"
+authors:
+- Maria Sierks
+- Sarah Paradis
+- Montserrat Roca-Martí
+- Viena Puigcorbé
+- Pere Puig
+date: "2025-01-01"
+publication_types:
+- article-journal
+publication: "*Journal of Marine Science and Engineering*"
+volume: "13"
+number: "12"
+doi: "10.3390/jmse13122383"
+abstract: "Sedimentary dynamics in the Palamós Canyon are influenced by river inputs and storm resuspension, as well as by bottom trawling on the canyon flanks. In this study, we estimate recent sediment deposition patterns along the canyon axis using the excess activity concentration of the short-lived radiotracer 234Th (half-life of 24.1 days). Sediment cores were obtained at various locations along the canyon axis from a depth of approximately 800 m to 2100 m in June 2023 and August 2024. Excess 234Th (234Thxs) was detected in all sampled sites with variable penetration depths (0.5–3.5 cm). 234Thxs-derived estimations of mixing rates decreased downcanyon from up to 15.6 cm2 y−1 at the canyon head ( 800 m) to negligible mixing at the canyon mouth ( 2100 m). 234Thxs inventories, a proxy of recent sediment deposition, were high (1800–3490 Bq m−2) at the canyon head and at the upper canyon ( 1400 m) close to fishing grounds and decreased downcanyon (82–694 Bq m−2) at the lower canyon ( 1800 m) and canyon mouth. Inventories varied 2-fold across years presumably attributed to enhanced riverine and bottom trawling sediment fluxes. Similar 234Th-derived sediment deposition patterns can be found in submarine canyons worldwide, highlighting the value of this radiotracer for sedimentary dynamics studies in such complex environments."
+links:
+- name: URL
+  url: "https://www.mdpi.com/2077-1312/13/12/2383"
+---
