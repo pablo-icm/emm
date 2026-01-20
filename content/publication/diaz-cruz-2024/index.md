@@ -1,11 +1,11 @@
 ---
 title: "Applying geometric morphometrics in megalopa larval stages: relevance for species distribution and biological invasion studies"
 authors:
-- "Jonah Díaz-Cruz"
-- "Effrosyni Fatira"
-- "Víctor M. Tuset"
-- "Adriana Rodríguez"
-- "José M. Landeira"
+- Jonah Díaz-Cruz
+- Effrosyni Fatira
+- Víctor M. Tuset
+- Adriana Rodríguez
+- José M. Landeira
 date: "2024-05-23"
 publication_types:
 - "article-journal"
