@@ -64,6 +64,19 @@ content:
         text: Learn more
         icon: arrow-right
         icon_pack: fas
+    - title: COMMUNAS
+      content: 'COordination Mechanisms in the Marine Unicellular Nitrogen-fixing cyanobacterium UCYN-A and its Algal Symbiotic partner'
+      align: center
+      background:
+        media: project-communas.png
+        fit: cover
+        position: center
+        brightness: 0.5
+      link:
+        url: project/cornejo-COMMUNAS-2024/
+        text: Learn more
+        icon: arrow-right
+        icon_pack: fas
     - title: MICOLOR
       content: 'Microbial colonization of ocean particles, from mechanistic understanding to global patterns'
       align: center
