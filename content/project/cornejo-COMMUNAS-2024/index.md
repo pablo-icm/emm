@@ -23,6 +23,5 @@ external_link: ""
 image:
   caption: "Image by Fran Cornejo-Castillo"
   focal_point: "Center"
-
-abstract: ' The COMMUNAS project is designed to address fundamental questions in the evolution of the UCYN-A/B. bigelowii nitrogen-fixing symbiosis, offering a new view of the collaborative metabolism between obligate symbiotic partners and potential external players (holobiont). '
 ---
+The COMMUNAS project is designed to address fundamental questions in the evolution of the UCYN-A/B. bigelowii nitrogen-fixing symbiosis, offering a new view of the collaborative metabolism between obligate symbiotic partners and potential external players (holobiont).
