@@ -27,7 +27,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: I am a marine biologist passionate about ecological research, with a special focus on microbial-level studies
 
-# interests:
+interests:
 # - Add your interest
 # - Add your interest
 # - Add as many interests as you need
