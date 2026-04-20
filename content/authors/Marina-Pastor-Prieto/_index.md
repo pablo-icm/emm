@@ -91,6 +91,6 @@ user_groups:
   - "Technicians"
 ---
 
-My main scientific interest lies in plankton ecology, especially the spatial distribution of organisms, community dynamics and interaction between species. These interests led me to carry out a PhD on the distribution of gelatinous zooplankton, mainly jellyfish, siphonophores and pelagic tunicates. Afterwards, I have worked as a technician, delving deeper into different plankton groups, such as, zooplankton, phytoplankton and picoplankton. 
+"My main scientific interest lies in plankton ecology, especially the spatial distribution of organisms, community dynamics and interaction between species. These interests led me to carry out a PhD on the distribution of gelatinous zooplankton, mainly jellyfish, siphonophores and pelagic tunicates. Afterwards, I have worked as a technician, delving deeper into different plankton groups, such as, zooplankton, phytoplankton and picoplankton. 
 
-These opportunities have allowed me to participate in several surveys and oceanographic campaigns, apply molecular and microscope techniques, carry out in vivo experiments, maintain different types of cultures and manage projects.
+These opportunities have allowed me to participate in several surveys and oceanographic campaigns, apply molecular and microscope techniques, carry out in vivo experiments, maintain different types of cultures and manage projects."
