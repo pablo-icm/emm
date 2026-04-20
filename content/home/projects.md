@@ -100,7 +100,7 @@ content:
     #    position: center
     #    brightness: 0.5
     #  link:
-    #    url: project/massana-bygenex/
+    #    url: project/massana-bygenex-2025/
     #    text: Learn more
     #    icon: arrow-right
     #    icon_pack: fas
