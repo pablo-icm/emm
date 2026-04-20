@@ -27,7 +27,7 @@ organizations:
     url: "https://www.icm.csic.es/"
 
 # Short bio (displayed in user profile after expanding journal articles, thesis, etc...)
-# bio: 
+ bio: 
 
 interests:
   - "Plankton ecology"
