@@ -47,6 +47,9 @@ education:
     - course: "BsC Marine Sciences"
       institution: "Universidad de Las Palmas de Gran Canaria"
       year: "2016"
+    - course: "Erasmus"
+      institution: "Carl Von Ossietzsky University"
+      year: "2015"
 
 # Free section to highlight some contributions (not only papers). Edit at will but keep within the scope.
 selected_papers: |
