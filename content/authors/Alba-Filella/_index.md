@@ -19,7 +19,7 @@ authors:
 superuser: "false"
 
 # Role/position (See below for possible options)
-role: "Postdoctoral scientists"
+role: "Postdoctoral scientist"
 
 # Organizations/Affiliations (Add another one besides ICM if you have more than one)
 organizations:
