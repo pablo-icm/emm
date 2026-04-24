@@ -42,7 +42,7 @@ education:
       institution: "Aix-Marseille University"
       year: "2023"
     - course: "MSc Biological Oceanography"
-      institution: "Kiel University"
+      institution: "GEOMAR, Kiel University"
       year: "2020"
     - course: "BsC Marine Sciences"
       institution: "Universidad de Las Palmas de Gran Canaria"
