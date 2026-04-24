@@ -12,7 +12,7 @@ authors:
 - "Alex-Gàlvez-Morante"
 
 # Pronouns (optional). This will appear under your role/position section. Use `*` to show italics.
-pronouns: "*(they/them)*"
+# pronouns: "*(they/them)*"
 
 # Is this the primary user of the site? 
 # Don't touch
