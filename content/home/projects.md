@@ -91,17 +91,17 @@ content:
         icon: arrow-right
         icon_pack: fas
         
-    #- title: BYGENEX
-    #  content: 'BYGENEX'
-    #  align: center
-    #  background:
-    #    media: project-bygenex.png
-    #    fit: cover
-    #    position: center
-    #    brightness: 0.5
-    #  link:
-    #    url: project/massana-bygenex-2025/
-    #    text: Learn more
-    #    icon: arrow-right
-    #    icon_pack: fas
+    - title: BYGENEX
+      content: 'BYGENEX'
+      align: center
+      background:
+        media: project-bygenex.png
+        fit: cover
+        position: center
+        brightness: 0.5
+      link:
+        url: project/massana-bygenex-2025/
+        text: Learn more
+        icon: arrow-right
+        icon_pack: fas
 ---
