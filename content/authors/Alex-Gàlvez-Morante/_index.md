@@ -19,7 +19,7 @@ authors:
 superuser: "false"
 
 # Role/position (See below for possible options)
-role: "Technician"
+role: "Postdoctoral scientist"
 
 # Organizations/Affiliations (Add another one besides ICM if you have more than one)
 organizations:
@@ -87,7 +87,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Possible values: "Staff scientists", "Technicians", "Postdoctoral scientists", "Predoctoral scientists"
 user_groups:
-  - "Technicians"
+  - "Postdoctoral scientists"
 ---
 My name is Àlex Gàlvez, and I am originally from Barcelona (Catalunya). I completed my PhD at the Institut de Biologia Evolutiva, where I focused on understanding protist biodiversity through a combination of experimental and computational approaches.
 
