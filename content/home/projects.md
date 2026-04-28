@@ -92,7 +92,7 @@ content:
         icon_pack: fas
         
     - title: BYGENEX
-      content: 'BYGENEX'
+      content: 'Unveiling oceanic bacterivory through gene expression'
       align: center
       background:
         media: project-bygenex.png
