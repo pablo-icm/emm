@@ -47,11 +47,11 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # COMMENT ALL THE SOCIALS YOU DON?T WANT TO SHOW IN YOUR PAGE
-social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:sgarces@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
+#social:
+#- icon: envelope
+#  icon_pack: fas
+#  link: "mailto:sgarces@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
+## - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/your_twitter_handle
 # - icon: google-scholar
@@ -86,7 +86,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Postdoctoral scientists'
+- 'Former members'
 ---
 My research uses a range of molecular and microscopic techniques to study the impacts of climate change and human activities on biodiversity. It focuses on four main areas: (i) enhancing paleoecological reconstructions, (ii) investigating mountain ecosystems and their responses to climate change, (iii) developing ecological and human molecular indicators, and (iv) assessing aquatic ecosystems and molecular water quality.
 

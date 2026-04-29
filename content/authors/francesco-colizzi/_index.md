@@ -87,7 +87,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Staff scientists'
+- 'Former members'
 ---
 
 The leitmotiv of my research is the disentanglement, by means of (mostly) biomolecular simulations, of the relationships linking structure, dynamics, and function of different molecular systems ranging from small organic molecules, pharmaceutical ligand-target complexes, to protein-protein assemblies and large nucleic-acid processing machineries. My scientific trajectory has led me over the years to move across different geographical and thematic areas; from Italy to Switzerland, United States, Canada, and ultimately to Spain; from molecular modeling to drug discovery, computational chemistry, computational biophysics, and ultimately enzyme engineering. Such mobility has hopefully enhanced my capability to integrate knowledge from different fields for the development of transdisciplinary projects. Currently, I aim at tackling challenging questions in different areas of marine sciences from a molecular perspective. In 2021, I joined ICM where I am building a bimolecular simulations framework that I enjoy calling “Molecular Ocean Lab”. 
