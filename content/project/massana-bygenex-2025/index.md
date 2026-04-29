@@ -29,7 +29,6 @@ external_link: ""
 image:
   caption: Photo by Ramon Massana
   focal_point: Center
-  preview_only: true
 
 links:
 #- icon: twitter
