@@ -65,9 +65,9 @@ social:
     icon_pack: ai
     link: "https://orcid.org/0000-0002-9786-1493"
 
- - icon: globe
-   icon_pack: fas
-   link: "https://www.i2sysbio.es/investigator/2014/"
+  - icon: globe
+    icon_pack: fas
+    link: "https://www.i2sysbio.es/investigator/2014/"
 
 # Organizational groups that you belong to (for People widget)
 #   Possible values: "Staff scientists", "Technicians", "Postdoctoral scientists", "Predoctoral scientists"
