@@ -64,18 +64,7 @@ social:
   - icon: orcid
     icon_pack: ai
     link: "https://orcid.org/0000-0002-9786-1493"
-  # - icon: researchgate
-    # icon_pack: ai
-    # link: "" 
-#  - icon: github
-#    icon_pack: fab
-#    link: "https://github.com/your-github"
-#  - icon: instagram
-#    icon_pack: fab
-#    link: "https://www.instagram.com/your-insta"
-#  - icon: linkedin
-#    icon_pack: fab
-#    link: "https://www.linkedin.com/in/yourLinkedIn/"
+
  - icon: globe
    icon_pack: fas
    link: "https://www.i2sysbio.es/investigator/2014/"
