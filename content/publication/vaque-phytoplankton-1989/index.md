@@ -2,9 +2,9 @@
 title: 'Phytoplankton colonization by bacteria: encounter probability as a limiting
   factor'
 authors:
-- D Vagué
-- Cm Duarte
-- C Marrase
+- Dolors Vaqué
+- Carlos M. Duarte
+- Cèlia Marrase
 date: '1989-01-01'
 publishDate: '2024-08-05T15:04:49.081921Z'
 publication_types:
