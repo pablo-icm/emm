@@ -23,7 +23,66 @@ design:
   loop: true
 
 content:
+  # Slides por current projects. Projects are sorted from NEWER to OLDER, and alphabetically by acronym within a year.
+  
   slides:
+    
+    - title: BYGENEX
+      content: 'Unveiling oceanic bacterivory through gene expression'
+      align: center
+      background:
+        media: project-bygenex.png
+        fit: cover
+        position: center
+        brightness: 0.5
+      link:
+        url: project/massana-bygenex-2025/
+        text: Learn more
+        icon: arrow-right
+        icon_pack: fas
+
+    - title: MED-BIO
+      content: 'Assessing the impact of organic contaminants of emerging concern on key marine organisms'
+      align: center
+      background:
+        media: sala-med-bio.png
+        fit: cover
+        position: center
+        brightness: 0.5
+      link:
+        url: project/sala-med-bio-2025/
+        text: Learn more
+        icon: arrow-right
+        icon_pack: fas
+
+    - title: COMMUNAS
+      content: 'COordination Mechanisms in the Marine Unicellular Nitrogen-fixing cyanobacterium UCYN-A and its Algal Symbiotic partner'
+      align: center
+      background:
+        media: project-communas.png
+        fit: cover
+        position: center
+        brightness: 0.5
+      link:
+        url: project/cornejo-COMMUNAS-2024/
+        text: Learn more
+        icon: arrow-right
+        icon_pack: fas    
+
+    - title: ONE-BLUE
+      content: 'Integrated approach to assess the levels and impact of cONtaminants of Emerging concern on BLUE health and biodiversity modulated by climate change driver'
+      align: center
+      background:
+        media: project-one-blue.jpeg
+        fit: cover
+        position: center
+        brightness: 0.5
+      link:
+        url: project/sala-one-blue-2024/
+        text: Learn more
+        icon: arrow-right
+        icon_pack: fas
+
     - title: POLAROMICS
       content: 'Biogeography and Adaptation Mechanisms in Prokaryotes Across Polar Biomes (2024-2028)'
       align: center
@@ -34,6 +93,20 @@ content:
         brightness: 0.5
       link:
         url: project/acinas-polaromics-2024/
+        text: Learn more
+        icon: arrow-right
+        icon_pack: fas
+
+    - title: CROSS-POINT
+      content: 'The ecological role of the growth arrest response in marine bacteria'
+      align: center
+      background:
+        media: project-cross-point.png
+        fit: cover
+        position: center
+        brightness: 0.5
+      link:
+        url: project/sebastian-crosspoint-2023/
         text: Learn more
         icon: arrow-right
         icon_pack: fas
@@ -51,32 +124,7 @@ content:
         text: Learn more
         icon: arrow-right
         icon_pack: fas
-    - title: CROSS-POINT
-      content: 'The ecological role of the growth arrest response in marine bacteria'
-      align: center
-      background:
-        media: project-cross-point.png
-        fit: cover
-        position: center
-        brightness: 0.5
-      link:
-        url: project/sebastian-crosspoint-2023/
-        text: Learn more
-        icon: arrow-right
-        icon_pack: fas
-    - title: COMMUNAS
-      content: 'COordination Mechanisms in the Marine Unicellular Nitrogen-fixing cyanobacterium UCYN-A and its Algal Symbiotic partner'
-      align: center
-      background:
-        media: project-communas.png
-        fit: cover
-        position: center
-        brightness: 0.5
-      link:
-        url: project/cornejo-COMMUNAS-2024/
-        text: Learn more
-        icon: arrow-right
-        icon_pack: fas
+  
     - title: MICOLOR
       content: 'Microbial colonization of ocean particles, from mechanistic understanding to global patterns'
       align: center
@@ -90,18 +138,6 @@ content:
         text: Learn more
         icon: arrow-right
         icon_pack: fas
-        
-    - title: BYGENEX
-      content: 'Unveiling oceanic bacterivory through gene expression'
-      align: center
-      background:
-        media: project-bygenex.png
-        fit: cover
-        position: center
-        brightness: 0.5
-      link:
-        url: project/massana-bygenex-2025/
-        text: Learn more
-        icon: arrow-right
-        icon_pack: fas
+
+    
 ---
