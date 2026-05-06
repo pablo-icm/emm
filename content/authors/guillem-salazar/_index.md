@@ -1,13 +1,13 @@
 ---
-title: "Julia A. Boras"
+title: "Guillem Salazar"
 
 # Full Name (for SEO)
-first_name: "Julia A."
-last_name: "Boras"
+first_name: "Guillem"
+last_name: "Salazar"
 
 # Username (this should match the folder name)
 authors:
-- "julia-a-boras"
+- "guillem-salazar"
 
 # Pronouns (optional). This will appear under your role/position section. Use `*` to show italics.
 # pronouns: "*(they/them)*"
@@ -28,9 +28,9 @@ organizations:
 #bio: 
 
 # interests:
-#   - "Plankton ecology"
-#   - "Species interaction"
-#   - "Spatial ecology"
+#   - ""
+#   - ""
+#   - ""
 
 
 # education:
@@ -52,9 +52,9 @@ organizations:
 
 # Social/Academic Networking
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: "mailto:"
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:guillem.salazar@csic.es"
 #  - icon: twitter
 #    icon_pack: fab
 #    link: "https://twitter.com/yourTwitterHandle"
@@ -63,7 +63,7 @@ social:
 #    link: "https://scholar.google.com/your-scholar-URL"
   - icon: orcid
     icon_pack: ai
-    link: "https://orcid.org/0000-0002-4195-8405"
+    link: "https://orcid.org/0000-0002-9786-1493"
   # - icon: researchgate
     # icon_pack: ai
     # link: "" 
@@ -76,9 +76,9 @@ social:
 #  - icon: linkedin
 #    icon_pack: fab
 #    link: "https://www.linkedin.com/in/yourLinkedIn/"
-#  - icon: globe
-#    icon_pack: fas
-#    link: "https://www.your-personal-website"
+ - icon: globe
+   icon_pack: fas
+   link: "https://www.i2sysbio.es/investigator/2014/"
 
 # Organizational groups that you belong to (for People widget)
 #   Possible values: "Staff scientists", "Technicians", "Postdoctoral scientists", "Predoctoral scientists"

@@ -1,13 +1,13 @@
 ---
-title: "Julia A. Boras"
+title: "Ana María Cabello"
 
 # Full Name (for SEO)
-first_name: "Julia A."
-last_name: "Boras"
+first_name: "Ana M."
+last_name: "Cabello"
 
 # Username (this should match the folder name)
 authors:
-- "julia-a-boras"
+- "ana-maria-cabello"
 
 # Pronouns (optional). This will appear under your role/position section. Use `*` to show italics.
 # pronouns: "*(they/them)*"
@@ -52,9 +52,9 @@ organizations:
 
 # Social/Academic Networking
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: "mailto:"
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:anamaria.cabello@ieo.csic.es"
 #  - icon: twitter
 #    icon_pack: fab
 #    link: "https://twitter.com/yourTwitterHandle"
@@ -63,7 +63,7 @@ social:
 #    link: "https://scholar.google.com/your-scholar-URL"
   - icon: orcid
     icon_pack: ai
-    link: "https://orcid.org/0000-0002-4195-8405"
+    link: "https://orcid.org/0000-0002-7165-5632"
   # - icon: researchgate
     # icon_pack: ai
     # link: "" 

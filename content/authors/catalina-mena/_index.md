@@ -1,13 +1,13 @@
 ---
-title: "Julia A. Boras"
+title: "Catalina Mena"
 
 # Full Name (for SEO)
-first_name: "Julia A."
-last_name: "Boras"
+first_name: "Catalina"
+last_name: "Mena"
 
 # Username (this should match the folder name)
 authors:
-- "julia-a-boras"
+- "catalina-mena"
 
 # Pronouns (optional). This will appear under your role/position section. Use `*` to show italics.
 # pronouns: "*(they/them)*"
@@ -17,7 +17,7 @@ authors:
 superuser: "false"
 
 # Role/position (See below for possible options)
-role: "Predoctoral scientist"
+role: "Postdoctoral scientist"
 
 # Organizations/Affiliations (Add another one besides ICM if you have more than one)
 organizations:
@@ -63,7 +63,7 @@ social:
 #    link: "https://scholar.google.com/your-scholar-URL"
   - icon: orcid
     icon_pack: ai
-    link: "https://orcid.org/0000-0002-4195-8405"
+    link: "https://orcid.org/0000-0002-9001-5163"
   # - icon: researchgate
     # icon_pack: ai
     # link: "" 

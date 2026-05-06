@@ -1,13 +1,13 @@
 ---
-title: "Julia A. Boras"
+title: "Montserrat Coll-Lladó"
 
 # Full Name (for SEO)
-first_name: "Julia A."
-last_name: "Boras"
+first_name: "Montserrat"
+last_name: "Coll-Lladó"
 
 # Username (this should match the folder name)
 authors:
-- "julia-a-boras"
+- "montserrat-coll-llado"
 
 # Pronouns (optional). This will appear under your role/position section. Use `*` to show italics.
 # pronouns: "*(they/them)*"
@@ -63,7 +63,7 @@ social:
 #    link: "https://scholar.google.com/your-scholar-URL"
   - icon: orcid
     icon_pack: ai
-    link: "https://orcid.org/0000-0002-4195-8405"
+    link: "https://orcid.org/0000-0003-0169-4107"
   # - icon: researchgate
     # icon_pack: ai
     # link: "" 
