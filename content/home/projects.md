@@ -124,6 +124,20 @@ content:
         text: Learn more
         icon: arrow-right
         icon_pack: fas
+
+    - title: MINIOM
+      content: 'Prokaryotic MINIaturization and the hidden micrObial diversity: ecology and dispersal of ultra-small cells along the terrestrial-Marine continuum'
+      align: center
+      background:
+        media: project-miniom.jpg
+        fit: cover
+        position: center
+        brightness: 0.5
+      link:
+        url: project/ruiz-MINIOM-2023/
+        text: Learn more
+        icon: arrow-right
+        icon_pack: fas
   
     - title: MICOLOR
       content: 'Microbial colonization of ocean particles, from mechanistic understanding to global patterns'
