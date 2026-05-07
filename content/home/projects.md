@@ -84,7 +84,7 @@ content:
         icon_pack: fas
 
     - title: POLAROMICS
-      content: 'Biogeography and Adaptation Mechanisms in Prokaryotes Across Polar Biomes (2024-2028)'
+      content: 'Biogeography and Adaptation Mechanisms in Prokaryotes Across Polar Biomes'
       align: center
       background:
         media: project-polaromics.jpg
