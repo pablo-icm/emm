@@ -9,7 +9,7 @@ weight: 70
 
 # Username (this should match the folder name)
 authors:
-- celine-lavergne
+- céline-lavergne
 
 # Is this the primary user of the site?
 superuser: false
