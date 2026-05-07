@@ -7,7 +7,7 @@ last_name: "Auladell"
 
 # Username (this should match the folder name)
 authors:
-- "adria-auladell"
+- "adrià-auladell"
 
 # Pronouns (optional). This will appear under your role/position section. Use `*` to show italics.
 # pronouns: "*(they/them)*"
