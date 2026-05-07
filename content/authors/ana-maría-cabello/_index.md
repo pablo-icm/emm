@@ -2,12 +2,12 @@
 title: "Ana María Cabello"
 
 # Full Name (for SEO)
-first_name: "Ana M."
+first_name: "Ana María"
 last_name: "Cabello"
 
 # Username (this should match the folder name)
 authors:
-- "ana-maria-cabello"
+- "ana-maría-cabello"
 
 # Pronouns (optional). This will appear under your role/position section. Use `*` to show italics.
 # pronouns: "*(they/them)*"
