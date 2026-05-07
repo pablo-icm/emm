@@ -129,7 +129,7 @@ content:
       content: 'Prokaryotic MINIaturization and the hidden micrObial diversity: ecology and dispersal of ultra-small cells along the terrestrial-Marine continuum'
       align: center
       background:
-        media: project-miniom.jpg
+        media: project-miniom.png
         fit: cover
         position: center
         brightness: 0.5
