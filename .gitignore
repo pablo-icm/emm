@@ -1,5 +1,6 @@
 # IDEs
 .idea/
+.claude/
 
 # Hugo
 /resources/
@@ -9,3 +10,5 @@ assets/jsconfig.json
 *.docx
 _vendor/
 .hugo_build.lock
+*_OFF
+*.bib
