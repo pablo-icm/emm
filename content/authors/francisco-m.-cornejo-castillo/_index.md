@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Fran Cornejo-Castillo
+title: Franciasco M. Cornejo-Castillo
 
 # Full Name (for SEO)
 first_name: Francisco M.
@@ -41,6 +41,26 @@ organizations:
 #   - course: add as many courses as you want
 #     institution: Add uni
 #     year: Add year
+
+selected_papers: |
+   ### Selected papers
+   - Cornejo-Castillo, F.M., Inomura, K., Zehr, J.P., Follows, M.J. (2024) Metabolic tradeoffs constrain the cell size ratio in a nitrogen-fixing symbiosis. Cell, DOI: 10.1016/j.cell.2024.02.016.
+
+   - Salas, K., Cabello, A.M., Turk-Kubo, K.A., Zehr, J.P., Cornejo-Castillo, F.M. (2023) Primer design for the amplification of the ammonium transporter genes from the uncultured haptophyte algal species symbiotic with the marine nitrogen-fixing cyanobacterium UCYN-A1. Frontiers in Microbiology. DOI: 10.3389/fmicb.2023.1130695. 
+
+   - Bonnet, S., Benavides, M, Le Moigne, F.A.C., (…), Cornejo-Castillo, F.M. (2023). Diazotrophs are overlooked contributors to carbon and nitrogen export to the deep ocean. The ISME Journal, DOI: 10.1038/s41396-022-01319-3.
+
+   - Turk-Kubo, K.A., Gradoville, M.R., Cheung, S., Cornejo-Castillo, F.M., Harding, K., Morando, M., Mills, M., Zehr, J.P. (2022) Non-cyanobacterial diazotrophs: Global diversity, distribution, ecophysiology, and activity in marine waters. FEMS Microbiology Reviews, DOI: 10.1093/femsre/fuac046.
+
+   - Cornejo-Castillo, F. M. & Zehr, J.P. (2021) Intriguing size distribution of the uncultured and globally widespread marine non-cyanobacterial diazotroph Gamma-A. The ISME Journal, DOI: 10.1038/s41396-020-00765-1.
+
+   - Cornejo-Castillo, F. M. & Zehr, J.P. (2019) Hopanoid lipids may facilitate aerobic nitrogen fixation in the ocean. PNAS, DOI:10.1073/pnas.1908165116.
+
+   - Cornejo-Castillo, F.M., Muñoz-Marin, MdC, Turk-Kubo, K.A., Royo-Llonch, M., Farnelid, H., Acinas, S.G., Zehr, J.P. (2019) UCYN-A3, a newly characterized open ocean sublineage of the symbiotic N2-fixing cyanobacterium Candidatus Atelocyanobacterium thalassa. Environmental Microbiology, DOI: 10.1111/1462-2920.14429
+
+   - Cornejo-Castillo, F.M., Cabello, A.M., Salazar, G., (…), Acinas, S.G. (2016). Cyanobacterial symbionts diverged in the late Cretaceous towards lineage-specific nitrogen fixation factories in single-celled phytoplankton.Nature Communications, DOI:10.1038/ncomms11071.
+
+   - Cabello, A.M., Cornejo-Castillo, F.M., Raho, N., (…), Massana, R. (2016). Global distribution and vertical patterns of a prymnesiophyte–cyanobacteria obligate symbiosis. The ISME Journal, DOI:10.1038/ismej.2015.147.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -88,9 +108,5 @@ email: ""
 user_groups:
 - 'Staff scientists'
 ---
-
-
-My research aims at exploring the ecology and evolution of marine symbiotic microbes, with the ultimate goal of understanding the mechanisms underpinning the early evolution of organelles (e.g., chloroplasts) in eukaryotes. In order to do so, I apply different methods, such as single-cell techniques (genomics and microscopy), high-throughput DNA/RNA sequencing and bioinformatics. Also, during my career I have designed new molecular tools and approaches (CARD-FISH probes, qPCR primers, antibodies and bioinformatic pipelines) that have been repeatedly used by the scientific community.
-
-I got my PhD at the ICM-CSIC (Spain) in December 2017. My main objective was to get a better picture of the diversity, ecology and evolution of marine nitrogen-fixing bacteria. During that time I participated in two important global oceanographic expeditions, Malaspina2021 and TARA Oceans. In 2017, even before defending my PhD, I obtained a Marie Skłodowska-Curie Fellowship that was scored among the best ones (98.4/100), and the best among all Spanish candidates in the 2016 call. This fellowship brought me in January 2018 to my first postdoctoral position at the University of California Santa Cruz (UCSC) in USA, where I spent three years (2018-2020) studying the evolutionary aspects of nitrogen-fixing symbioses in the lab of Jonathan P. Zehr. In November 2020 I moved back to Europe, to the Station Biologique of Roscoff (France), where I spent a year as a postdoctoral researcher in the team of Laurence Garczarek, where I had the opportunity to join the TONGA project. Since November 2021 I came back to the ICM-CSIC as a P.I. of my own 3-year project (UCYNELLE) funded by ‘La Caixa’ Junior Leader programme. My project aims at using symbioses between unicellular marine microbes as model systems to understand the evolution of the eukaryotic cell. Also, I have recently joined an international working group created to understand nitrogen fixation across aquatic biomes.
+My research focuses on the biodiversity, ecology, and evolution of marine microbes, with particular emphasis on nitrogen fixation, a key process for primary production and carbon sequestration in the ocean. Throughout my career, I have been working in different research institutions (ICM-CSIC (Spain), University of California Santa Cruz (USA), CNRS/Sorbonne Université (France)), where I have explored the diversity of lifestyles and cellular organization of marine nitrogen-fixing bacteria through combining lab and field work (e.g., Tara Oceans, Malaspina expeditions), and using single-cell techniques, genomics, high-throughput sequencing, microscopy, and bioinformatics. My main goal is to ascertain how marine microbes interact each other by investigating symbioses between nitrogen-fixing bacteria and algae and,  within this topic, I am particularly intrigued by nitrogen-fixing symbionts that are on the verge of becoming organelles, as they are useful emerging models to explore the early evolution of the eukaryotic cell.
 
