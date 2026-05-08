@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Franciasco M. Cornejo-Castillo
+title: Francisco M. Cornejo-Castillo
 
 # Full Name (for SEO)
 first_name: Francisco M.
