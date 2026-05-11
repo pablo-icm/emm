@@ -1,19 +1,19 @@
 ---
 title: "Impact of Submarine Groundwater Discharge on Microbial Communities in a Highly Anthropized Coastal Lagoon (Mar Menor, SE Spain)"
 authors:
-- Daniel Romano-Gude
-- Júlia Dordal-Soriano
-- Júlia Rodriguez-Puig
-- Andrea G. Bravo
-- Irene Alorda-Montiel
-- Aaron Alorda-Kleinglass
-- Marc Diego-Feliu
-- Cristina Romera-Castillo
-- Rebeca Mallenco-Fornies
-- Javier Gilabert
-- Jordi Garcia-Orellana
-- Valentí Rodellas
-- Clara Ruiz-González
+- "Daniel Romano-Gude"
+- "Júlia Dordal-Soriano"
+- "Júlia Rodriguez-Puig"
+- "Andrea G. Bravo"
+- "Irene Alorda-Montiel"
+- "Aaron Alorda-Kleinglass"
+- "Marc Diego-Feliu"
+- "Cristina Romera-Castillo"
+- "Rebeca Mallenco-Fornies"
+- "Javier Gilabert"
+- "Jordi Garcia-Orellana"
+- "Valentí Rodellas"
+- "Clara Ruiz-González"
 date: "2025-01-01"
 publication_types:
 - article-journal
