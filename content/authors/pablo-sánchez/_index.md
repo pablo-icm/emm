@@ -68,17 +68,17 @@ social:
 - icon: github
   icon_pack: fab
   link: https://gitlab.com/users/pablo.sanchez/projects
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/el_pableras
+#- icon: instagram
+#  icon_pack: fab
+#  link: https://www.instagram.com/el_pableras
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/in/pablosanchezfernandez/
 - icon: globe
   icon_pack: fas
   link: "https://www.somorrostrobeach.com/"
-- icon: "bluesky"
-  link: "https://bsky.app/profile/el-pableras.bsky.social"
+#- icon: "bluesky"
+#  link: "https://bsky.app/profile/el-pableras.bsky.social"
 
 
 
@@ -97,5 +97,5 @@ user_groups:
 - 'Staff scientists'  
 
 ---
-My research focuses in understanding the relationship between the diversity and the metabolic potential of marine microbial communities, as well as the potential of their gene content for blue technology applications. To address these issues, I analyze high-throughput environmental DNA sequencing (DNA and RNA) using and developing bioinformatics methods in high performance computing (HPC) environments, which has allowed me to expand our knowledge on the ocean microbiome by reconstructing uncultured microbes' genomes (MAGs) of underexplored environments such as the global bathypelagic or the Arctic Oceans. Some of these findings have been published in high-impact journals, also in collaboration with international groups and consortia. I have developed bioinformatics pipelines to analyze environmental genomes as well as tools to interactively explore the biogeography and genomic content of MAGs that are used by several researchers at the ICM and I manage the HPC cluster at the Department of Marine Biology and Oceanography ([MARBITS](https://marbits.icm.csic.es/)) that has more than 80 active users and I am the coordinator of the scientific computing users committee at ICM. I also teach Bioinformatics in the master’s program "Molecular Biology and Biomedicine" at the University of Girona since 2018. Lately I have also been involved with art and science projects.  
+My research focuses in understanding the relationship between the diversity and the metabolic potential of marine microbial communities, as well as the potential of their gene content for blue technology applications. To address these issues, I analyze high-throughput environmental DNA sequencing (DNA and RNA) using and developing bioinformatics methods in high performance computing (HPC) environments, which has allowed me to expand our knowledge on the ocean microbiome by reconstructing uncultured microbes' genomes (MAGs) of underexplored environments such as the global bathypelagic or the Arctic Oceans. Some of these findings have been published in high-impact journals, also in collaboration with international groups and consortia. I have developed bioinformatics pipelines to analyze environmental genomes, as well as tools to interactively explore the biogeography and genomic content of MAGs that are used by several researchers at the ICM. I am part of the team that manages the HPC cluster at the Department of Marine Biology and Oceanography ([MARBITS](https://marbits.icm.csic.es/)). Lately I have been involved with art and science projects.  
 
