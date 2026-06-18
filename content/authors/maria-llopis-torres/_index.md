@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Maria Llopis
+title: Maria Llopis Torres
 
 # Full Name (for SEO)
 first_name: Maria
-last_name: Llopis
+last_name: Llopis-Torres
 weight: 85
 
 # Username (this should match the folder name)
 authors:
-- maria-llopis
+- maria-llopis-torres
 
 # Is this the primary user of the site?
 superuser: false
@@ -30,17 +30,17 @@ organizations:
 # - Add your interest
 # - Add as many interests as you need
 
-# education:
-#   courses:
-  # - course: Add your PhD program if any
-  #   institution: Add your Uni here
-  #   year: Year of PhD
-  # - course: Add bachelor title
-  #   institution: Add Uni Here
-  #   year: Add year of uni
-  # - course: add as many courses as you want
-  #   institution: Add uni
-  #   year: Add year
+education:
+  courses:
+  - course: Msc in Oceanography and environmental management
+    institution: Universitat de Barcelona
+    year: 2024
+  - course: Bsc in Biology
+    institution: Universitat de Girona
+    year: 2023
+  - course: Bsc in Environmental Sciences
+    iinstitution: Universitat de Girona
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -50,7 +50,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:test@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:mllopis@icm.csic.es"  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/your_twitter_handle
@@ -88,5 +88,6 @@ email: ""
 user_groups:
 - 'Technicians'
 ---
-Description of your research. 
-
+I am a biologist and environmental scientist specialised in Oceanography and environmental management. My professional career has focused on how human activities impact the environment, particularly marine ecosystems. Within this field, I have mainly studied coastal areas, but I have also had the opportunity to study other, more extreme environments, such as the Arctic region.
+I started out as part of the EMM group on a JAE Intro ICU scholarship, but since 2024 I have been working as a laboratory and field technician in Felipe H. Coutinho’s group.
+My work involves the study of the Effects of Anthropogenic Impacts on Marine Microbes (EAIMM project) by characterizing bacterial and viral communities in coastal areas; this involves assessing ecosystems subject to climate hazards and varying human pressures, alongside specific threats like antibiotic resistance and pathogenicity.
