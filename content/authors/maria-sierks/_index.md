@@ -59,18 +59,18 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/your_twitter_handle
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/your_scholar_profile
-# - icon: orcid
-#   icon_pack: ai
-#   link: https://orcid.org/your_orcid_id
+ - icon: google-scholar
+   icon_pack: ai
+   link: https://scholar.google.com/citations?user=NX4CuwsAAAAJ&hl=en
+ - icon: orcid
+   icon_pack: ai
+   link: https://orcid.org/0009-0006-8180-9259
 # - icon: researchgate
 #   icon_pack: ai
 #   link: https://www.researchgate.net/profile/Your_researchgate_profile
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/your_github
+ - icon: github
+   icon_pack: fab
+   link: https://github.com/m-sierks
 # - icon: instagram
 #   icon_pack: fab
 #   link: https://www.instagram.com/your_insta
