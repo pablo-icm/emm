@@ -27,6 +27,20 @@ content:
   
   slides:
     
+    - title: MIMOSA
+      content: 'Unlocking Marine Microbial Seedbank Dynamics'
+      align: center
+      background:
+        media: project-mimosa.png
+        fit: cover
+        position: center
+        brightness: 0.5
+      link:
+        url: project/sebastian-mimosa-2026/
+        text: Learn more
+        icon: arrow-right
+        icon_pack: fas
+
     - title: BYGENEX
       content: 'Unveiling oceanic bacterivory through gene expression'
       align: center
@@ -125,19 +139,5 @@ content:
         icon: arrow-right
         icon_pack: fas
   
-    - title: MICOLOR
-      content: 'Microbial colonization of ocean particles, from mechanistic understanding to global patterns'
-      align: center
-      background:
-        media: project-micolor.jpeg
-        fit: cover
-        position: center
-        brightness: 0.5
-      link:
-        url: project/gasol-micolor-2022/
-        text: Learn more
-        icon: arrow-right
-        icon_pack: fas
-
     
 ---
