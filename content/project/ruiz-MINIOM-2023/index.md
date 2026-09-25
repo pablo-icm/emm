@@ -1,4 +1,3 @@
-
 ---
 title: "Prokaryotic MINIaturization and the hidden micrObial diversity: ecology and dispersal of ultra-small cells along the terrestrial-Marine continuum (MINIOM)"
 authors:
