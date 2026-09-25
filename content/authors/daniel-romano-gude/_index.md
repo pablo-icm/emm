@@ -89,7 +89,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Predoctoral scientists'
+- 'Postdoctoral scientists'
 ---
 I am a PhD student at the Institut de Ciències del Mar (ICM). My career has focused on the field of marine microbiology. I graduated in Biology from the Universidade de Santiago de Compostela (USC) and later I moved to Barcelona to do the master’s degree in Advanced Microbiology at the Universitat de Barcelona (UB). I chose the ICM to do my final project, where we studied the bacterial communities associated with the Tagoro volcano in a degassing stage. In addition, I participated in another project using samples from the MALASPINA expedition to analyze genes related to nitrogen fixation. I also worked in the marine renewable resources department from ICM studying different biomarkers and their response to different polluting compounds.
 
