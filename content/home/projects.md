@@ -111,20 +111,6 @@ content:
         icon: arrow-right
         icon_pack: fas
 
-    - title: CROSS-POINT
-      content: 'The ecological role of the growth arrest response in marine bacteria'
-      align: center
-      background:
-        media: project-cross-point.png
-        fit: cover
-        position: center
-        brightness: 0.5
-      link:
-        url: project/sebastian-crosspoint-2023/
-        text: Learn more
-        icon: arrow-right
-        icon_pack: fas
-
     - title: MINIOM
       content: 'Prokaryotic MINIaturization and the hidden micrObial diversity: ecology and dispersal of ultra-small cells along the terrestrial-Marine continuum'
       align: center
