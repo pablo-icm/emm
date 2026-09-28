@@ -2,7 +2,7 @@
 title: "MIMOSA: Unlocking Marine Microbial Seedbank Dynamics. PID2025-176369NB-I00"
 authors:
 - "Marta Sebastián"
-date: '2026-11-01'
+date: '2026-09-01'
 publication_types:
 - project
 funding: 'AEI'
