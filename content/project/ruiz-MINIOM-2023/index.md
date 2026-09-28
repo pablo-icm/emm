@@ -2,7 +2,7 @@
 title: "Prokaryotic MINIaturization and the hidden micrObial diversity: ecology and dispersal of ultra-small cells along the terrestrial-Marine continuum (MINIOM)"
 authors:
 - "Clara Ruiz González"
-date: 2023-09-01
+date: '2023-09-01'
 funding: 'AEI'
 start: '2023'
 end: '2026'
