@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Predoctoral scientist
+role: Postdoctoral scientist
 supervisor: 
   - Clara Ruiz-González
   - Valentí Rodellas
@@ -91,8 +91,13 @@ email: ""
 user_groups:
 - 'Postdoctoral scientists'
 ---
-I am a PhD student at the Institut de Ciències del Mar (ICM). My career has focused on the field of marine microbiology. I graduated in Biology from the Universidade de Santiago de Compostela (USC) and later I moved to Barcelona to do the master’s degree in Advanced Microbiology at the Universitat de Barcelona (UB). I chose the ICM to do my final project, where we studied the bacterial communities associated with the Tagoro volcano in a degassing stage. In addition, I participated in another project using samples from the MALASPINA expedition to analyze genes related to nitrogen fixation. I also worked in the marine renewable resources department from ICM studying different biomarkers and their response to different polluting compounds.
+I am a marine microbial ecologist interested in understanding the diversity, function, and connectivity of microbial communities across the land-ocean interface. I obtained my PhD at the Institut de Ciències del Mar (ICM-CSIC), where my research focused on microbial communities inhabiting coastal aquifers and subterranean estuaries, and on how submarine groundwater discharge (SGD) influences their diversity, biogeography, and role in biogeochemical cycles.
 
-My thesis returns to focus on microorganisms and how submarine groundwater discharge (SGD) affects their diversity, function and connectivity at the land-sea interface. We currently know very little about the microbial communities that develop in these microbial marine estuaries and the biogeochemical cycles they control. Through sampling in different campaigns, in collaboration with the UAB Marine and Environmental Biogeosciences research group and through several molecular techniques and bioinformatic analysis, we try to shed light on how groundwater flows affect marine microbial communities.
 
-Besides all this, during my spare time I enjoy reading, hiking, surfing and snorkeling.
+My research combines microbial ecology, molecular techniques, bioinformatics, and environmental and biogeochemical data to understand how hydrogeochemical gradients shape microbial communities and their functional potential. During my PhD, I worked across contrasting coastal systems, from pristine subterranean estuaries to anthropogenically impacted environments, with particular interest in microbial connectivity between groundwater and the ocean and in microorganisms involved in nitrogen cycling.
+
+
+My broader research interests include marine and groundwater microbial ecology, microbial biogeography, biogeochemical cycling, and the application of sequencing and bioinformatic approaches to investigate microbial communities. Before my PhD, I studied Biology at the Universidade de Santiago de Compostela (USC) and completed a Master’s degree in Advanced Microbiology at the Universitat de Barcelona (UB). My previous research at the ICM included the study of bacterial communities associated with the Tagoro submarine volcano, nitrogen fixation genes in samples from the MALASPINA expedition, and microbial responses to marine pollutants.
+
+
+Outside research, I enjoy reading, hiking, surfing, and snorkeling.

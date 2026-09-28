@@ -27,7 +27,7 @@ content:
   
   slides:
     
-    - title: MIMOSA
+    - title: "MIMOSA"
       content: 'Unlocking Marine Microbial Seedbank Dynamics'
       align: center
       background:
