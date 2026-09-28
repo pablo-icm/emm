@@ -20,6 +20,8 @@ superuser: "false"
 
 # Role/position (See below for possible options)
 role: "Predoctoral scientists"
+supervisor: 
+  - Ramon Massana
 
 # Organizations/Affiliations (Add another one besides ICM if you have more than one)
 organizations:
