@@ -78,7 +78,7 @@ content:
         position: center
         brightness: 0.5
       link:
-        url: project/cornejo-COMMUNAS-2024/
+        url: project/cornejo-communas-2024/
         text: Learn more
         icon: arrow-right
         icon_pack: fas    
@@ -120,7 +120,7 @@ content:
         position: center
         brightness: 0.5
       link:
-        url: project/ruiz-MINIOM-2023/
+        url: project/ruiz-miniom-2023/
         text: Learn more
         icon: arrow-right
         icon_pack: fas
