@@ -1,7 +1,7 @@
 ---
 title: "COordination Mechanisms in the Marine Unicellular Nitrogen-fixing cyanobacterium UCYN-A and its Algal Symbiotic partner (COMMUNAS)"
 authors:
-- "Fran Cornejo-Castillo"
+- "Francisco M. Cornejo-Castillo"
 date: '2024-01-01'
 publication_types:
 - project
