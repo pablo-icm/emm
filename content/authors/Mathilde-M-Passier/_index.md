@@ -22,6 +22,7 @@ superuser: "false"
 role: "Predoctoral scientists"
 supervisor: 
   - Ramon Massana
+  - Aleix Obiol
 
 # Organizations/Affiliations (Add another one besides ICM if you have more than one)
 organizations:
