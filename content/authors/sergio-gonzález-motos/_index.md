@@ -88,7 +88,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Predoctoral scientists'
+- 'Former members'
 ---
 I am an environmental scientist specialized in marine biology: biodiversity and conservation. I focused my master’s thesis on the study of the relation between marine heterotrophic prokaryotes and fluorescent dissolved organic matter as a way of atmospheric carbon sequestration in order to find a general pattern in the deep ocean. In recent years we have been working on the analysis of viruses and phytoplankton as well. All these tasks have been developed in the context of the FICARAM campaign.
 

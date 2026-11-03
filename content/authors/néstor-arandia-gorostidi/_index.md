@@ -85,7 +85,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Postdoctoral scientists'
+- 'Former members'
 ---
 I am a postdoctoral researcher associated with the MINIOM project led by Clara Ruiz-González. I completed my PhD in 2017 and subsequently held postdoctoral positions at the University of Gothenburg (February–April 2018) and Stanford University (2018–2021). In 2022, I moved to the Institute of Marine Sciences (ICM-CSIC) in Barcelona, first with a Beatriu de Pinós fellowship, and then as a hired postdoctoral researcher.
 My research focuses on marine microbiology and biogeochemistry, with a particular interest in understanding how marine microbes influence ocean biogeochemical cycles and how microbial interactions shape the transformation and fluxes of key elements such as carbon and nitrogen. To address these questions, I combine bioinformatic analyses (including metagenomics and metatranscriptomics) with stable-isotope approaches and mass spectrometry techniques.

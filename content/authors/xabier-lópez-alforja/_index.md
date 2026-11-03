@@ -93,7 +93,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Predoctoral scientists'
+- 'Former members'
 ---
 
 Researcher in Marine Sciences, specialized in Bioinformatics, Biostatistics and Marine Microbial Ecology, currently developing my PhD at the Institute of Marine Sciences (ICM-CSIC). 

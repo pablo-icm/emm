@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Technician
+role: Predoctoral scientist
 supervisor: 
   - Maria Montserrat Sala
 
@@ -78,7 +78,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Technicians'
+- 'Predoctoral scientists'
 ---
 In 2023, I began my master's degree in Marine Biology at the University of La Laguna (Tenerife, Spain), after which I started working as a laboratory technician at the Institute of Oceanography and Climate Change (IOCAG-ULPGC), conducting zooplankton ecology studies. My master's thesis (TFM) focused on the morphological characterization of invasive crab larvae (Cronius ruber) and their motility in the water column, using microscopy and digital analysis tools (tpsDig). Our findings were eventually published in the scientific journal Contributions to Zoology. Over the past few years, I have collaborated in various fields, including marine research in tropical ecosystems (Interreg-MAC CLIMA project), fisheries management (IPD S.A.), and volunteer programs (Erasmus+ conservation).
 I am now joining the ICM and Dr. Montse Sala's team with great enthusiasm to expand my understanding of microbial ecology. We will be involved in the European project ONE BLUE, which provides an integrated evaluation of the effects of Contaminants of Emerging Concern (CECs) and other global stressors, such as temperature and ocean acidification, on marine microbiota.
