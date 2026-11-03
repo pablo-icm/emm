@@ -1,9 +1,9 @@
 ---
 title: "Grazing rates on bacteria: the significance of methodology and ecological factors"
 authors:
-- D Vaqué
-- Jm Gasol
-- C Marrasé
+- Dolors Vaqué
+- Josep M. Gasol
+- Cèlia Marrasé
 date: "1994-01-01"
 publication_types:
 - article-journal

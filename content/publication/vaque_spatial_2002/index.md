@@ -1,10 +1,10 @@
 ---
 title: "Spatial distribution of microbial biomass and activity (bacterivory and bacterial production) in the northern Weddell Sea during the austral summer (January 1994)"
 authors:
-- D Vaqué
+- Dolors Vaqué
 - Ji Calderón-Paz
 - N Guixa-Boixereu
-- C Pedrós-Alió
+- Carlos Pedrós-Alió
 date: "2002-01-01"
 publication_types:
 - article-journal

@@ -2,10 +2,10 @@
 title: "Microplankton respiration and net community metabolism on the NW Mediterranean coast"
 authors:
 - Mp Satta
-- S Agustí
+- Susana Agustí
 - Mp Mura
-- D Vaqué
-- Cm Duarte
+- Dolors Vaqué
+- Carlos M. Duarte
 date: "1996-01-01"
 publication_types:
 - article-journal

@@ -2,7 +2,7 @@
 title: "Effect of viruses and protists on bacteria in eddies of the Canary Current region (subtropical northeast Atlantic)"
 authors:
 - Julia A. Boras
-- M. Montserrat Sala
+- Maria Montserrat Sala
 - Federico Baltar
 - Javier Arístegui
 - Carlos M. Duarte

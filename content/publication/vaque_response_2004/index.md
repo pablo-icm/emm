@@ -1,9 +1,9 @@
 ---
 title: "Response of bacterial grazing rates to experimental manipulation of an Antarctic coastal nanoflagellate community"
 authors:
-- D Vaqué
-- S Agustí
-- Cm Duarte
+- Dolors Vaqué
+- Susana Agustí
+- Carlos M. Duarte
 date: "2004-01-01"
 publication_types:
 - article-journal

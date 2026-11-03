@@ -4,7 +4,7 @@ authors:
 - Manuel Dall’osto
 - Matteo Rinaldi
 - Marta Estrada
-- Maria Dolors Vaqué Vidal
+- Dolors Vaqué
 - Elisa Berdalet
 - Ana Sotomayor
 - Miguel Cabrera-Brufau

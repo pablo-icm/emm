@@ -1,7 +1,7 @@
 ---
 title: "The Mediterranean climate as a template for Mediterranean marine ecosystems: the example of the northeast Spanish littoral"
 authors:
-- Carlos M Duarte
+- Carlos M. Duarte
 - Susana Agustı́
 - Hilary Kennedy
 - Dolors Vaqué

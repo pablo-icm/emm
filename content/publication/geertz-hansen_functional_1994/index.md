@@ -3,9 +3,9 @@ title: "Functional implications of the form of Codium bursa, a balloon-like Medi
 authors:
 - O Geertz-Hansen
 - S Enriquez
-- Cm Duarte
-- S Agusti
-- D Vaque
+- Cmarlos M. Duarte
+- Susana Agustí
+- Dolors Vaqué
 - B Vidondo
 date: "1994-01-01"
 publication_types:

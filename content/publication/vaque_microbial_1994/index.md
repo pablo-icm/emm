@@ -1,9 +1,9 @@
 ---
 title: "Microbial heterotrophs within Codium bursa: a naturally isolated microbial food web"
 authors:
-- D Vaqué
-- S Agusti
-- Cm Duarte
+- Dolors Vaqué
+- Susana Agusti
+- Carlos M. Duarte
 - S Enriquez
 - O Geertz-Hansen
 date: "1994-01-01"

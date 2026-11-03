@@ -1,12 +1,12 @@
 ---
 title: "Effect of heavy metals and surfactants on glucose metabolism, thymidine incorporation and exoproteolytic activity in sea water"
 authors:
-- J. Vives-Rego
-- D. Vaqué
-- J. Martínez
+- "J. Vives-Rego"
+- "Dolors Vaqué"
+- "J. Martínez"
 date: "1986-01-01"
 publication_types:
-- article-journal
+- 'article-journal'
 publication: "*Water Research*"
 volume: "20"
 number: "11"

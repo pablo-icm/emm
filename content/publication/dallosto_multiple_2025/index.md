@@ -9,7 +9,7 @@ authors:
 - Tom Lachlan-Cope
 - Ana Sotomayor
 - Elisa Berdalet
-- Dolors Vaque
+- Dolors Vaqué
 - Roy M. Harrison
 - Karam Mansour
 - Matteo Rinaldi

@@ -2,9 +2,9 @@
 title: "Effect of N:P ratios on response of Mediterranean picophytoplankton to experimental nutrient inputs"
 authors:
 - Nsr Agawin
-- Cm Duarte
-- S Agustí
-- D Vaqué
+- Carlos M. Duarte
+- Susana Agustí
+- Dolors Vaqué
 date: "2004-01-01"
 publication_types:
 - article-journal

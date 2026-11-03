@@ -1,9 +1,9 @@
 ---
 title: "Dynamics of ciliate abundance, biomass and community composition in an oligotrophic coastal environment (NW Mediterranean)"
 authors:
-- D Vaqué
+- Dolors Vaqué
 - Ha Blough
-- Cm Duarte
+- Carlos M. Duarte
 date: "1997-01-01"
 publication_types:
 - article-journal
