@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Predctoral scientist
+role: Predoctoral scientist
 supervisor:
   - Andrea G. Bravo
 
