@@ -16,7 +16,8 @@ superuser: false
 
 # Role/position
 role: Predctoral scientist
-supervisor: Andrea G. Bravo
+supervisor:
+  - Andrea G. Bravo
 
 # Organizations/Affiliations
 organizations:

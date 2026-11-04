@@ -16,7 +16,8 @@ superuser: false
 
 # Role/position
 role: Predctoral scientist
-supervisor: Felipe H. Coutinho
+supervisor: 
+  - Felipe H. Coutinho
 
 # Organizations/Affiliations
 organizations:
